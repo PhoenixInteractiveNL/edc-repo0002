@@ -1,0 +1,42 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2001-05-18 19:38:38 ....A        89136       119048  turok.jpg
+2001-05-22 20:43:46 ....A        36448               readme.txt
+2001-05-23 00:13:50 ....A         4096               saves\Banjo-Kazooie-00.eep
+2001-05-23 00:09:52 ....A         2048               saves\BOMBERMAN HERO-00.eep
+2001-05-22 23:44:08 ....A         2048               saves\MARIOKART64-00.eep
+2001-05-19 09:32:10 ....A         2048               saves\SUPER MARIO 64-00.eep
+2001-05-22 23:50:12 ....A         2048               saves\V-RALLY-00.eep
+2001-05-23 00:18:56 ....A         2048               saves\WAVE RACE 64-00.eep
+2001-05-03 15:15:24 ....A        32768               saves\1964052-00.m0
+2001-05-23 00:13:08 ....A        32768               saves\64 OHZUMOU-00.m0
+2001-05-23 00:13:50 ....A        32768               saves\Banjo-Kazooie-00.m0
+2001-05-23 03:03:12 ....A        32768               saves\BOMBERMAN HERO-00.m0
+2001-05-22 23:44:30 ....A        32768               saves\DUKE NUKEM-00.m0
+2001-05-23 00:14:30 ....A        32768               saves\GOLDEN NUGGET 64-00.m0
+2001-05-23 00:15:38 ....A        32768               saves\Killer Instinct Gold-00.m0
+2001-05-22 23:44:08 ....A        32768               saves\MARIOKART64-00.m0
+2001-05-22 23:49:46 ....A        32768               saves\Quest 64-00.m0
+2001-05-22 23:35:54 ....A        32768               saves\RAMPAGE-00.m0
+2001-05-22 23:35:22 ....A        32768               saves\S.F. RUSH-00.m0
+2001-05-18 22:48:22 ....A        32768               saves\SUPER MARIO 64-00.m0
+2001-05-23 00:21:00 ....A        32768               saves\SUPERMAN-00.m0
+2001-05-22 23:36:26 ....A        32768               saves\TARZAN-00.m0
+2001-05-23 00:22:26 ....A        32768               saves\THE LEGEND OF ZELDA-00.m0
+2001-05-22 23:52:08 ....A        32768               saves\TUROK_DINOSAUR_HUNTE-00.m0
+2001-05-22 23:50:12 ....A        32768               saves\V-RALLY-00.m0
+2001-05-23 02:55:56 ....A        32768               saves\W.G. 3DHOCKEY-00.m0
+2001-05-23 03:25:38 ....A       213107       172222  1964.exe
+2001-05-22 19:15:48 ....A        94208               plugin\1964ogl.dll
+2000-10-29 04:29:14 ....A        40960               plugin\Basic Audio Plugin.dll
+2000-12-02 11:32:12 ....A        36864               plugin\Basic Keyboard Plugin.dll
+2000-11-04 04:12:18 ....A        36864               plugin\No Sound.dll
+2000-11-22 19:47:02 ....A        77824               plugin\tr64_audio.dll
+2000-12-10 15:49:44 ....A        81920               plugin\tr64_audio_u1.dll
+2001-01-15 13:55:28 ....A        98304               plugin\tr64_inp.dll
+2000-11-21 15:07:26 ....A        98304               plugin\tr64_inpdx8.dll
+1998-07-11 21:13:00 ....A        53760               zlib.dll
+2012-07-13 15:10:11 D....            0            0  saves
+2012-07-13 15:10:11 D....            0            0  plugin
+------------------- ----- ------------ ------------  ------------------------
+2012-07-13 15:10:11            1561859       291270  36 files, 2 folders

@@ -1,0 +1,38 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2002-09-21 02:03:42 ....A         8375       124888  doc\Cheat Codes\Changes.txt
+2002-09-21 02:11:14 ....A        10622               doc\Cheat Codes\cheatsfaq.txt
+1999-05-12 12:29:38 ....A        11201               dist.txt
+2002-08-20 02:48:36 ....A        12387               doc\IniReadme.txt
+2001-10-04 18:51:00 ....A         7028               plugin\NooTe_Di.txt
+2002-09-21 02:07:06 ....A         2586               doc\Cheat Codes\Readme.txt
+2002-09-21 15:16:14 ....A         2445               readme.txt
+2003-01-05 03:48:20 ....A          127               uninstall\readme_uninstall.txt
+2002-08-20 02:50:16 ....A         5296               doc\Tweaking.txt
+2002-09-20 22:53:54 ....A         5138               plugin\UnofficialDaedalusD3D8-Rel3_Readme.txt
+2002-08-05 17:09:28 ....A          305               uninstall\Click to Uninstall 1964 for Windows98 WinMe 95.reg
+2002-08-05 17:09:40 ....A          676               uninstall\Click to Uninstall 1964 for XP 2000 NT.reg
+2002-12-18 02:44:36 ....A       161475               1964.ini
+2002-09-21 02:13:14 ....A       384914               1964.cht
+2002-09-21 13:27:56 ....A       316511               Project64.rdb
+2002-06-23 13:21:04 ....A          304               doc\Cheat Codes\1964 Cheats Message Board.url
+2002-05-16 12:31:10 ....A          151               doc\Cheat Codes\1964 Cheats.url
+2002-09-23 00:22:32 ....A       150528       679426  1964.exe
+2002-08-27 16:32:52 ....A        94208               plugin\1964ogl.dll
+2001-10-05 18:59:54 ....A        22016               plugin\AudioHLE.dll
+2002-08-16 02:47:00 ....A        33280               plugin\Basic Audio 1964.dll
+2000-12-02 11:32:12 ....A        27136               plugin\Basic Keyboard Plugin.dll
+2002-09-21 14:29:52 ....A       188416               plugin\DaedalusD3D8.dll
+2002-02-13 14:52:38 ....A        32256               KailleraClient.dll
+2001-06-07 04:14:12 ....A       193024               msvcr70.dll
+2002-08-16 15:48:20 ....A        32256               plugin\No Audio 1964.dll
+2001-10-05 15:50:36 ....A       108544               plugin\NooTe_DI.dll
+2002-03-13 16:46:46 ....A        35328               zlib.dll
+2002-09-21 01:25:42 ....A            0            0  save\dummy.txt
+2016-10-23 17:57:23 D....            0            0  uninstall
+2016-10-23 17:57:23 D....            0            0  save
+2016-10-23 17:57:23 D....            0            0  plugin
+2016-10-23 17:57:23 D....            0            0  doc\Cheat Codes
+2016-10-23 17:57:23 D....            0            0  doc
+------------------- ----- ------------ ------------  ------------------------
+2016-10-23 17:57:23            1846533       804314  29 files, 5 folders

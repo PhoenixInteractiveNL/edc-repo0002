@@ -1,0 +1,30 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-08-27 17:41:06 ....A        18365        19300  doc\COPYRIGHT.txt
+2000-07-11 07:32:20 ....A         4377               plugin\NooTe_D3D.txt
+2001-01-25 03:34:00 ....A         2531               plugin\NooTe_Di.txt
+2000-06-13 02:24:14 ....A        33896               doc\readme.txt
+2001-03-11 01:00:34 ....A        34027               readme.txt
+2000-10-14 00:43:42 ....A          694               plugin\README_NOW.txt
+2000-10-23 02:42:00 ....A           22               plugin\TR64_inp.ini
+2001-04-01 22:32:02 ....A           23               FILE_ID.DIZ
+2001-03-11 00:50:20 ....A       143360       206891  1964.exe
+2000-10-23 22:15:36 ....A        45056               plugin\1964ogl.dll
+2000-10-29 03:29:14 ....A        40960               plugin\Basic Audio Plugin.dll
+2000-12-02 06:32:12 ....A        36864               plugin\Basic Keyboard Plugin.dll
+2000-10-21 02:49:10 ....A        36864               plugin\CFB.dll
+2000-10-20 15:48:40 ....A        77824               plugin\NooTe_D3d.dll
+2001-01-25 05:27:16 ....A       167936               plugin\NooTe_DI.dll
+2000-10-13 15:20:24 ....A        45056               plugin\Null_Snd.dll
+2000-06-12 16:41:48 ....A        40960               plugin\steb_aud.dll
+2000-11-22 18:47:02 ....A        77824               plugin\tr64_audio.dll
+2000-11-21 19:41:04 ....A        49152               plugin\tr64_audio_dummy.dll
+2000-11-22 18:47:02 ....A        77824               plugin\tr64_audio_u0.dll
+2000-12-10 14:49:44 ....A        81920               plugin\tr64_audio_u1.dll
+2000-11-21 14:07:26 ....A        98304               plugin\tr64_inp.dll
+1998-07-11 20:13:00 ....A        53760               zlib.dll
+2012-07-13 15:03:31 D...A            0            0  Save
+2012-07-13 15:03:31 D...A            0            0  plugin
+2012-07-13 15:03:31 D...A            0            0  doc
+------------------- ----- ------------ ------------  ------------------------
+2012-07-13 15:03:31            1167599       226191  23 files, 3 folders

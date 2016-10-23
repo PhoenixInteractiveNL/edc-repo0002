@@ -1,0 +1,55 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2003-12-27 15:59:18 ....A         7294       513442  plugin\nrplugin2_182.zip
+2003-12-31 22:24:12 ....A       345232               Help\1964.chm
+2003-12-27 10:01:34 ....A         1740               Language\readme.txt
+2003-12-29 00:11:00 ....A          216               uninstall\readme_uninstall.txt
+2003-12-31 15:24:18 ....A         2471               plugin\RiceDaedalus5.2.0Readme.txt
+2003-12-27 14:23:08 ....A          391               uninstall\Click to Uninstall 1964 for Windows98 WinMe 95.reg
+2003-12-27 14:23:28 ....A          844               uninstall\Click to Uninstall 1964 for XP 2000 NT.reg
+2003-12-29 00:07:48 ....A          349               uninstall\Remove All RICEDAEDALUS.dll settings & reset to Default.reg
+2003-12-29 00:07:40 ....A          330               uninstall\Remove All RICEDAEDALUS.dll settings & reset to DefaultNT.reg
+2003-09-25 17:57:42 ....A        16282               plugin\RiceDaedalus5.1.0.ini
+2003-12-29 23:14:44 ....A        18121               plugin\RiceDaedalus5.2.0.ini
+2003-12-31 16:57:48 ....A       499993               ROM_Properties.ini
+2003-12-27 16:04:06 ....A       414814               1964.cht
+2003-01-31 15:05:00 ....A        89083               LemD3DCombine.dat
+2003-11-20 23:54:10 ....A         7475               Language\+-+-+=Ýs.lng
+2003-12-31 12:38:30 ....A         9414               Language\Brazilian.lng
+2003-12-27 20:31:58 ....A         8904               Language\Danish.lng
+2003-12-29 01:30:26 ....A         9222               Language\Deutsch.lng
+2003-12-28 12:06:06 ....A         8521               Language\English.lng
+2003-12-28 20:28:18 ....A        10190               Language\French.lng
+2003-12-29 11:37:32 ....A        10003               Language\Greek.lng
+2003-12-29 23:48:30 ....A         9473               Language\Italian.lng
+2003-12-25 17:24:26 ....A         8865               Language\Japanese (Alt).lng
+2003-12-25 15:47:28 ....A         9065               Language\Japanese.lng
+2003-12-29 14:26:14 ....A         9554               Language\Lietuviu.lng
+2003-12-29 00:19:54 ....A         9531               Language\Nederlands.lng
+2003-12-23 19:35:44 ....A         8397               Language\Nihongo.lng
+2003-12-21 02:32:40 ....A         8926               Language\Norwegian.lng
+2003-12-25 16:24:06 ....A         9172               Language\polski.lng
+2003-12-22 17:41:42 ....A         9751               Language\port-br.lng
+2003-12-17 22:40:10 ....A         9493               Language\Portuguese.lng
+2003-12-28 20:32:14 ....A         9308               Language\Russian.lng
+2003-12-18 18:16:48 ....A        10620               Language\Spanish (Alt).lng
+2003-12-26 03:29:58 ....A        10808               Language\Spanish.lng
+2001-12-11 03:16:32 ....A         9071               Language\Swedish.lng
+2003-12-28 20:33:48 ....A         9278               Language\Ukrainian.lng
+2003-09-17 03:47:34 ....A       317408               Project64.rdb
+2003-12-31 20:50:42 ....A       178688       800696  1964.exe
+2002-02-13 15:52:38 ....A        32256               KailleraClient.dll
+2003-03-18 21:14:52 ....A       499712               msvcp71.dll
+2001-06-07 04:14:12 ....A       193024               msvcr70.dll
+2003-02-21 06:42:22 ....A       348160               msvcr71.dll
+2003-09-20 06:06:38 ....A       106496               plugin\NRage_DInput8_V2.dll
+2003-12-30 20:06:46 ....A       483328               plugin\RiceDaedalus5.2.0.dll
+2003-10-06 04:37:22 ....A        77824               plugin\schiboAud.dll
+2002-03-13 17:46:46 ....A        35328               zlib.dll
+2016-10-23 17:47:02 D....            0            0  uninstall
+2016-10-23 17:47:02 D....            0            0  save
+2016-10-23 17:47:02 D....            0            0  plugin
+2016-10-23 17:47:01 D....            0            0  Language
+2016-10-23 17:47:01 D....            0            0  Help
+------------------- ----- ------------ ------------  ------------------------
+2016-10-23 17:47:02            3874425      1314138  46 files, 5 folders

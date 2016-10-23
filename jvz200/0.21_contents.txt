@@ -1,0 +1,140 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2004-09-12 22:55:16 ....A          768       371842  rom\rom_chargen\match_chr.bin
+2004-09-12 23:00:14 ....A          768               rom\rom_chargen\mess_ntscround_chr.bin
+2004-09-12 23:03:28 ....A          768               rom\rom_chargen\mess_ntscsquare_chr.bin
+2002-02-15 10:39:06 ....A        16384               rom\rom_OS\Vzrom12.bin
+1999-06-16 23:07:46 ....A        16384               rom\rom_OS\VZROM_V20.bin
+2000-02-10 11:40:38 ....A        16384               rom\rom_OS\Vzrom_v21.bin
+2005-03-20 13:39:00 ....A           25               tools\tasm31\goasm.bat
+1998-02-28 12:48:34 .R..A        85550               tools\tasm31\TASMMAN.HTM
+2005-03-18 00:34:56 ....A         2260               docs\box\box.txt
+2005-03-19 11:41:46 ....A           87               quicktyp\joy2.txt
+2005-03-20 00:02:00 ....A         1267               quicktyp\joytest.txt
+2005-03-20 14:16:46 ....A          826               quicktyp\memwina.txt
+1998-02-28 12:48:32 .R..A         2158               tools\tasm31\ORDERFRM.TXT
+2005-04-14 02:33:02 ....A           80               quicktyp\pokescreen.txt
+2005-04-19 04:44:34 ....A         1838               readme.txt
+2005-05-11 04:58:42 ....A        14431               docs\readme.txt
+2005-03-17 04:50:06 ....A          831               cassette\readme_cas.txt
+2005-04-10 01:23:48 ....A          333               rom\rom_chargen\readme_r.txt
+2005-04-20 12:07:16 ....A          483               rom\rom_OS\readme_r.txt
+2005-04-20 05:55:44 ....A          846               tools\readme_t.txt
+2005-03-20 13:37:22 ....A         1070               tools\tasm31\readme_tasm.txt
+2005-04-20 06:14:02 ....A         1054               vz_files\readme_vz.txt
+2005-03-20 14:10:12 ....A          145               tools\tasm31\testasm.txt
+2002-03-23 04:13:54 ....A          153               quicktyp\testm1.txt
+2005-04-11 06:39:56 ....A          249               quicktyp\testqtlong.txt
+2005-04-11 06:39:40 ....A           87               quicktyp\testqtshort.txt
+2003-04-16 00:52:36 ....A          758               quicktyp\testsplit.txt
+2005-05-11 04:33:02 ....A         8835               default.ini
+1999-06-19 22:03:34 ....A           68               JVZ200.ini
+2005-04-20 05:51:32 ....A        65536               tools\CVZ2WAV.exe
+2005-05-11 04:20:28 ....A       266240               jvz200.exe
+2004-07-03 20:12:36 ....A       192575               tools\monowav.exe
+1998-02-28 12:50:32 ....A       215072               tools\tasm31\TASM.EXE
+2002-03-24 16:45:12 ....A         3283               cassette\introbas\a.cvz
+2002-03-18 00:38:38 ....A          355               cassette\Demo\A_DEMO_TAPE_BAS.cvz
+2002-03-24 16:47:46 ....A         1458               cassette\introbas\b.cvz
+2002-03-18 00:39:36 ....A          668               cassette\Demo\B_WELCOME_BAS.cvz
+2002-03-24 16:50:26 ....A         6803               cassette\introbas\c.cvz
+2002-03-18 04:44:46 ....A          583               cassette\Demo\C_CHAR_SET_BAS.cvz
+2002-03-24 16:53:58 ....A         7838               cassette\introbas\d.cvz
+2002-03-18 04:46:22 ....A          480               cassette\Demo\D_BAR_CHART_1_BAS.cvz
+2002-03-24 16:59:28 ....A         5027               cassette\introbas\e.cvz
+2002-03-18 04:47:10 ....A          879               cassette\Demo\E_BAR_CHART_2_BAS.cvz
+2002-03-24 17:05:16 ....A         5460               cassette\introbas\f.cvz
+2002-03-18 04:48:36 ....A          782               cassette\Demo\F_GRAPHICS_1_BAS.cvz
+2002-03-24 17:12:02 ....A         6072               cassette\introbas\g.cvz
+2002-03-18 04:50:00 ....A          686               cassette\Demo\G_COLOR_DEMO_BAS.cvz
+2002-03-18 04:51:56 ....A          623               cassette\Demo\H_GRAPHICS_2_BAS.cvz
+2002-03-18 04:52:50 ....A          987               cassette\Demo\I_PICTURE_BAS.cvz
+2002-03-18 04:53:54 ....A          857               cassette\Demo\J_KALEIDOSCOPE_BAS.cvz
+2002-03-18 04:56:00 ....A          720               cassette\Demo\K_SONG_1_BAS.cvz
+2002-03-18 04:57:10 ....A          985               cassette\Demo\L_SONG_2_BAS.cvz
+2002-03-18 05:00:16 ....A          922               cassette\Demo\M_ST_LINES_1_BAS.cvz
+2002-03-18 05:02:26 ....A          853               cassette\Demo\N_ST_LINES_2_BAS.cvz
+2002-03-18 05:04:20 ....A          682               cassette\Demo\O_DRAWING_1_BAS.cvz
+2002-03-18 05:05:34 ....A         1377               cassette\Demo\P_DRAWING_2_BAS.cvz
+2002-03-18 05:07:36 ....A          877               cassette\Demo\Q_MARBLES_BAS.cvz
+2002-03-18 05:09:02 ....A          409               cassette\Demo\R_END_BAS.cvz
+1998-02-28 12:48:00 ....A        15389               tools\tasm31\TASM80.TAB
+1999-08-10 04:15:42 ....A         2384               vz_files\games_run\airstrip.vz
+1999-08-10 04:03:12 ....A         1030               vz_files\games_run\andy.vz
+2001-06-22 21:11:00 ....A        15875               vz_files\games_autostart\arkaball.vz
+1999-08-10 03:50:48 ....A         3071               vz_files\games_run\btleship.vz
+1999-08-10 03:45:42 ....A        10593               vz_files\games_run\chasm.vz
+1999-11-04 20:11:44 ....A         8984               vz_files\games_autostart\Chess.vz
+1999-10-04 23:24:22 ....A         5143               vz_files\games_autostart\CRASH.VZ
+2002-07-19 14:42:58 ....A         5760               vz_files\games_autostart\d1b.vz
+1999-07-29 11:45:04 ....A        11576               vz_files\games_autostart\dawn.vz
+1999-08-10 03:54:54 ....A         2518               vz_files\games_run\dbase.vz
+1999-08-10 03:53:56 ....A         3410               vz_files\games_run\decoy.vz
+2000-03-13 20:41:36 ....A        17895               vz_files\games_autostart\defense.vz
+1999-08-12 15:58:40 ....A         5935               vz_files\games_run\defpen.vz
+1999-10-04 19:25:44 ....A        16409               vz_files\games_autostart\DIGOUT.VZ
+1999-10-04 21:09:12 ....A        15820               vz_files\games_run\DRACULA.VZ
+1999-10-04 21:50:48 ....A         3352               vz_files\games_autostart\DUEL1.VZ
+1999-10-04 21:54:18 ....A         3559               vz_files\games_autostart\DUEL2.VZ
+1999-12-14 16:52:54 ....A         7163               vz_files\games_run\F1.VZ
+2002-07-06 22:35:36 ....A         7648               vz_files\games_autostart\GAL-RAID.VZ
+1999-10-04 21:45:22 ....A         4953               vz_files\games_autostart\GALAXON.VZ
+1999-08-09 03:05:40 ....A         5297               vz_files\games_run\ghost.vz
+1999-10-04 19:15:08 ....A        16409               vz_files\games_autostart\HAMSAM.VZ
+2002-11-28 03:10:32 ....A         4214               vz_files\games_run\Hangman.vz
+1999-08-02 03:01:00 ....A        10040               vz_files\games_autostart\HOPPY.VZ
+1999-08-10 04:46:56 ....A         5320               vz_files\games_run\invad.vz
+1999-08-09 01:13:22 ....A         5267               vz_files\games_run\invaders.vz
+1999-08-03 02:47:02 ....A         7144               vz_files\games_autostart\KAMIKAZE.VZ
+1999-10-04 19:41:08 ....A        16409               vz_files\games_autostart\LLANDER.VZ
+1999-08-10 04:14:54 ....A         7023               vz_files\games_run\madhouse.vz
+2002-11-28 03:10:42 ....A         2759               vz_files\games_run\Mastermind.vz
+1999-08-09 03:07:06 ....A        10031               vz_files\games_run\meteor.vz
+1999-08-10 03:58:24 ....A         2733               vz_files\games_run\missile.vz
+1999-10-04 20:09:42 ....A        16409               vz_files\games_autostart\MISSILE.VZ
+1999-08-10 04:43:54 ....A         3189               vz_files\games_run\moonland.vz
+1999-08-10 03:56:06 ....A          760               vz_files\games_run\painter.vz
+1999-08-10 04:49:00 ....A         5223               vz_files\games_run\panik.vz
+1999-08-10 04:47:52 ....A         2971               vz_files\games_run\panik_in.vz
+1999-08-10 02:43:52 ....A         5935               vz_files\games_run\penetrat.vz
+1999-10-04 20:19:00 ....A        16409               vz_files\games_autostart\PENGUIN.VZ
+1999-08-10 04:42:58 ....A         1129               vz_files\games_run\poker.vz
+1999-12-17 13:11:16 ....A         6528               vz_files\games_autostart\Pp.vz
+1999-08-10 04:04:20 ....A          841               vz_files\games_run\pyramid.vz
+1999-08-10 03:47:26 ....A         6118               vz_files\games_run\quest.vz
+1999-08-10 03:57:46 ....A         1204               vz_files\games_run\racer.vz
+2002-11-28 12:21:02 ....A         2661               vz_files\games_run\roulette.vz
+2002-11-28 03:41:34 ....A         3100               vz_files\games_run\shootout.vz
+1999-08-09 03:08:36 ....A         6319               vz_files\games_run\snake.vz
+1999-10-04 22:00:48 ....A         6040               vz_files\games_autostart\SPACERAM.VZ
+1999-08-09 03:07:48 ....A        10543               vz_files\games_run\starblas.vz
+2002-11-28 03:09:26 ....A         4979               vz_files\games_run\Story.vz
+2002-11-28 03:10:38 ....A         3164               vz_files\games_run\Targets.vz
+1999-12-17 13:11:22 ....A         6505               vz_files\games_run\Tennis.vz
+1999-08-10 04:02:18 ....A         1520               vz_files\games_run\trade.vz
+1999-08-10 03:19:46 ....A         6298               vz_files\games_run\trek.vz
+2002-11-28 03:10:50 ....A         2113               vz_files\games_run\twistroad.vz
+2002-07-21 21:50:16 ....A        12884               vz_files\games_autostart\VZCAVE.VZ
+2002-11-28 03:10:46 ....A         4240               vz_files\games_run\vzcup.vz
+2002-06-25 07:26:34 ....A        19537               vz_files\games_autostart\vzetris.vz
+1999-08-09 03:09:52 ....A         5223               vz_files\games_run\VZPANIK.VZ
+2009-02-15 01:46:44 D....            0            0  vz_files\games_run
+2009-02-15 01:46:44 D....            0            0  vz_files\games_autostart
+2009-02-15 01:46:44 D....            0            0  vz_files
+2009-02-15 01:46:44 D....            0            0  tools\tasm31
+2009-02-15 01:46:44 D....            0            0  tools
+2009-02-15 01:46:44 D....            0            0  screenshots
+2009-02-15 01:46:44 D....            0            0  rom\rom_OS
+2009-02-15 01:46:44 D....            0            0  rom\rom_chargen
+2009-02-15 01:46:44 D....            0            0  rom\rom_cart
+2009-02-15 01:46:44 D....            0            0  rom
+2009-02-15 01:46:44 D....            0            0  quicktyp
+2009-02-15 01:46:44 D....            0            0  lprint
+2009-02-15 01:46:44 D....            0            0  docs\box
+2009-02-15 01:46:44 D....            0            0  docs
+2009-02-15 01:46:44 D....            0            0  cassette\other
+2009-02-15 01:46:44 D....            0            0  cassette\introbas
+2009-02-15 01:46:44 D....            0            0  cassette\Demo
+2009-02-15 01:46:44 D....            0            0  cassette
+------------------- ----- ------------ ------------  ------------------------
+2009-02-15 01:46:44            1386934       371842  118 files, 18 folders

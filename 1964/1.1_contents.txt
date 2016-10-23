@@ -1,0 +1,67 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2003-12-31 21:24:12 ....A       345232       496680  Help\1964.chm
+2003-12-27 09:01:34 ....A         1740               Language\readme.txt
+2003-12-28 23:11:00 ....A          216               uninstall\readme_uninstall.txt
+2003-12-27 13:23:08 ....A          391               uninstall\Click to Uninstall 1964 for Windows98 WinMe 95.reg
+2003-12-27 13:23:28 ....A          844               uninstall\Click to Uninstall 1964 for XP 2000 NT.reg
+2003-12-28 23:07:48 ....A          349               uninstall\Remove All RICEDAEDALUS.dll settings & reset to Default.reg
+2003-12-28 23:07:40 ....A          330               uninstall\Remove All RICEDAEDALUS.dll settings & reset to DefaultNT.reg
+2006-12-10 19:06:26 ....A        25764               plugin\1964Video1.0.0.ini
+2007-02-17 02:16:20 ....A       499228               ROM_Properties.ini
+2008-04-20 22:39:48 ....A         6288               plugin\1964Video.lib
+2004-11-14 20:10:34 ....A       414827               1964.cht
+2004-12-02 12:31:04 ....A          368               adaptoid.cpf
+2004-12-08 23:21:50 ....A          330               KEYBOARD.cpf
+2005-04-11 17:56:18 ....A          384               logitech_rumblepad.cpf
+2005-04-11 17:57:22 ....A          364               P880.cpf
+2005-04-11 18:16:12 ....A          384               Wingman.cpf
+2006-03-24 18:13:16 ....A        28728               RomCache.dat
+2008-01-17 00:47:04 ....A         2048               save\SUPER MARIO 64-635A2BFF8B022326.eep
+2008-04-20 22:39:48 ....A         3341               plugin\1964Video.exp
+2003-11-20 22:54:10 ....A         7475               Language\+-+-+=Ýs.lng
+2003-12-31 11:38:30 ....A         9414               Language\Brazilian.lng
+2003-12-27 19:31:58 ....A         8904               Language\Danish.lng
+2003-12-29 00:30:26 ....A         9222               Language\Deutsch.lng
+2003-12-28 11:06:06 ....A         8521               Language\English.lng
+2003-12-28 19:28:18 ....A        10190               Language\French.lng
+2003-12-29 10:37:32 ....A        10003               Language\Greek.lng
+2003-12-29 22:48:30 ....A         9473               Language\Italian.lng
+2003-12-25 16:24:26 ....A         8865               Language\Japanese (Alt).lng
+2003-12-25 14:47:28 ....A         9065               Language\Japanese.lng
+2003-12-29 13:26:14 ....A         9554               Language\Lietuviu.lng
+2003-12-28 23:19:54 ....A         9531               Language\Nederlands.lng
+2003-12-23 18:35:44 ....A         8397               Language\Nihongo.lng
+2003-12-21 01:32:40 ....A         8926               Language\Norwegian.lng
+2003-12-25 15:24:06 ....A         9172               Language\polski.lng
+2003-12-22 16:41:42 ....A         9751               Language\port-br.lng
+2003-12-17 21:40:10 ....A         9493               Language\Portuguese.lng
+2003-12-28 19:32:14 ....A         9308               Language\Russian.lng
+2003-12-18 17:16:48 ....A        10620               Language\Spanish (Alt).lng
+2003-12-26 02:29:58 ....A        10808               Language\Spanish.lng
+2001-12-11 02:16:32 ....A         9071               Language\Swedish.lng
+2003-12-28 19:33:48 ....A         9278               Language\Ukrainian.lng
+2007-02-17 02:52:38 ....A        32768               save\SCARS-769147F32033C10E.m0
+2007-02-17 02:52:38 ....A        65536               save\SCARS-769147F32033C10E.m1
+2007-02-17 02:52:38 ....A        98304               save\SCARS-769147F32033C10E.m2
+2007-02-17 02:52:38 ....A       131072               save\SCARS-769147F32033C10E.m3
+2009-06-08 10:50:24 ....A      1099776      1520567  1964.exe
+2008-04-20 22:41:42 ....A      4495360               plugin\1964Aud.dll
+2008-04-20 22:37:36 ....A        35840               plugin\1964Input.dll
+2008-04-20 22:39:50 ....A      1004032               plugin\1964Video.dll
+2004-11-02 18:09:32 ....A        61440               plugin\1964VideoLLE.dll
+2002-02-13 14:52:38 ....A        32256               KailleraClient.dll
+2003-03-18 20:14:52 ....A       499712               msvcp71.dll
+2001-06-07 04:14:12 ....A       193024               msvcr70.dll
+2003-02-21 05:42:22 ....A       348160               msvcr71.dll
+2002-01-23 21:56:14 ....A        53760               plugin\NRage_DInput8_V2.dll
+2002-03-13 16:46:46 ....A        35328               zlib.dll
+2006-12-10 17:04:16 ....A            0            0  save\keepme.txt
+2012-07-12 16:34:31 D....            0            0  uninstall
+2012-07-12 16:34:31 D....            0            0  save
+2012-07-12 16:34:31 D....            0            0  plugin
+2012-07-12 16:34:31 D....            0            0  Language
+2012-07-12 16:34:31 D....            0            0  Help
+2012-07-12 16:34:31 D....            0            0  boxart
+------------------- ----- ------------ ------------  ------------------------
+2012-07-12 16:34:31            9722565      2017247  57 files, 6 folders
