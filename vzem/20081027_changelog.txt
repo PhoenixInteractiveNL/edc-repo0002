@@ -1,0 +1,18 @@
+Changes - 27th October 2008
+---------------------------
+- Added toolbar. Functions from left to right are:
+	Load snapshot
+	Save VZ
+	Paste text from clipboard
+	Map printer
+	Map drive 1
+	Map drive 2
+	Cassette play
+	Cassette record
+	Cassette stop
+	Debugger
+- Fixed printing, a listing from edasm now works
+- Clicking close window in the debugger dialog exits the debugger
+- Added right control and right shift keys
+- Added equals key, maps the same as minus key
+- Ability to load custom font (File - Load Font)

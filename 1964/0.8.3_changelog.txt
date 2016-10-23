@@ -1,0 +1,4 @@
+- Full GoodN64 names are now shown in the rom browser (tested ones).
+- All game specific "Save Types" (primary, secondary) are set by default.
+- Many newly supported games.
+- Numerous fixes: sound problem in Zelda OOT/crashing, freeze when hitting another car in Ridge Racer 64, etc., speed issues, sound fixes, resolutions corrected (many).

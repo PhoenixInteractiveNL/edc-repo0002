@@ -1,0 +1,20 @@
+March 2005: 0.21
+	Bundling more software grabbed from other websites (the website http://vzalive.bangrocks.com is THE BIG site for .vz files and VZ-related material).
+	Splitscreen!  Matches my NTSC computer.  PAL is guesswork -- that AVI that's floating around the internet just doesn't convey enough info for accuracy.
+	Paste.  Quicktypes ASCII text from the clipboard.  See the UTIL menu.
+	Quicktype now delays after hitting an ENTER, to allow tokenization.  This may need further adjustment.
+	Fixed joystick bug in which "arm" button was pressed all the time!
+	Joystick now supports first POV hat, used by modern USB joypads (for you programmer types, that means it'll preferentially use js.lX and js.lY, but if those aren't being used, it'll check js.rgdwPOV[0] if there is a POV hat).
+	More removal of fossil code (can't get to the non-existent AY-3-8910 chip any more, LOL)
+	Added Util Save RAM as .VZ.
+	Added Util Save BASIC program as .VZ.
+	Added some code to match advances in VMC10 0.69c.  These include:
+	Full screen (press F12 to toggle)
+	Screenshot (press F11)
+	Redid the sound.  Less likely to hit the unsynchronized static.  The waveform is faked, not that you'd notice, because the VZ200's speaker isn't hi-fi anyway.
+	Hooked up F9 hotkey to soft reset.
+	Hooked up Shift F9 as hard reset.
+	Change in timing to support the changed sound
+	Smarter about remembering recent files loaded
+	Added Util Load Binary.  Very useful for new software development.  Ha ha.
+	Re-enabled ability to load other 768-byte (64 characters * 12 bytes/character) chargen ROMs, and bundled a few examples.  The .FNT/.CHR chargen files used by other emulators are mirror-images, so JVZ200 won't do anything useful with them (try it anyway, go ahead, I dare ya).

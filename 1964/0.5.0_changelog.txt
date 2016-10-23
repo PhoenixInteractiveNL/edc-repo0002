@@ -1,0 +1,23 @@
+ ___________________________
+|                           |
+| v0.5.0 (July 04, 2000)    |
+|___________________________|
+  -- Plugins are now fully configurable from the GUI.
+     The system's user interface is very similar to PsemuPro's plugin
+     system. It was inspired by PsemuPro, but the dll specs are different.
+     As other N64 emulators become compatible to this system, you can simply
+     drop the new plugin dlls into your "Plugin" subfolder. In the future, you can 
+     expect to see a lot of plugins to choose from :). 
+
+     Currently, only the 1964 video plugins are to zilmar's plugin specifications.
+     Input and audio still use 1964 specs but will be converted to the new specs soon.
+
+  -- Users can switch to NooTe_D3D from GUI. The Direct3D is still early in dev,
+     so expect gfx issues. However, NooTe_D3D has several options including:
+        -- Full Screen
+        -- Resolution Switching
+        -- The return of cfb. If you wish to enable VI, disable HLE, and vice-versa.
+        -- More; see NooTe_D3D.txt for more info
+
+  -- A bonus game! CoinSweeperGL by Emul8or included. See coinsweep.txt in bonus subfolder 
+     for more info.

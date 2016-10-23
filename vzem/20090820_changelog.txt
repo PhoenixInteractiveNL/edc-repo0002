@@ -1,0 +1,9 @@
+Changes - 20th August 2009
+--------------------------
+- Added a dialog to display snapshot info: filetype, filename and start/end address
+This will be displayed on the File -> SaveVZ action. The user now has the option of saving a basic or binary 
+snapshot, and entering the filetype and filename (eg the filename that would be displayed in a CLOAD).
+During a File -> LoadVZ action, the user has the option of displaying the snapshot details. This is configurable from 
+Options -> Snapshots. The Fast Load option will just load the snapshot. 
+
+- Improved split screen handling. Its not 100% yet but will run the standard demo. Needs tuning to adjust for HSYNC

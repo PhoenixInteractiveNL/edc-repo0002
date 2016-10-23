@@ -1,0 +1,10 @@
+ ___________________________
+|                           |
+| v0.6.1 (May 22, 2001)     |
+|___________________________|
+ -- Mempack, Eeprom support for save games. Default is 2K eeprom (Rice)
+ -- Basic self-mod code detection - improves compatibility in the dynarec (Rice)
+ -- 1964 OpenGL Full-screen support. Change the resolution from your Windows Display Properties 
+    control panel for higher full-screen resolutions in 1964. Full-screen resolution will be 
+    the same as your Windows resolution.
+ -- Improved support for Azimer's audio plugin.

@@ -1,0 +1,11 @@
+ ___________________________
+|                           |
+| v0.6.3 (July 22, 2001)    |
+|___________________________|
+ -- Support for over 130 games. (Rice) 
+    See http://1964.emulation64.com/Compatibility.htm
+    or review the .ini file. Lost a bit of speed with 
+    the better compatibility but future versions will be faster ;)
+ -- Built-in Kaillera Netplay (NooTe)
+ -- More configurable options, and nicer GUI. Right-click a game in the gui to 
+    individually configure a game's settings or use default options (Rice)

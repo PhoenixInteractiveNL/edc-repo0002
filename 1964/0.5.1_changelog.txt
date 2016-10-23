@@ -1,0 +1,7 @@
+ ___________________________
+|                           |
+| v0.5.1 (October 15, 2000) |
+|___________________________|
+ -- Started register caching for more speed. Still much more to do.
+ -- Some more axes settings repairs for jostick controllers.
+ -- Repairs to various user interface problems. 

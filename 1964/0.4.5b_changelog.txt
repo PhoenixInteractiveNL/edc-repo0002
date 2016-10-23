@@ -1,0 +1,33 @@
+___________________________
+|                           |
+| v0.4.5 (May 15, 2000)     |
+|___________________________|
+  -- Major graphics improvements; Fixed up TLB support; Improved interrupts.
+
+  -- Included in this build is version 0.0.1 of our own hle graphics plugin. The filename is 1964ogl.dll.
+     For additional version information about our dll, right click on the dll file and select "Properties".
+     In the near future, Corn, TR64 and TRWin will have their own graphics plugins as well and we will 
+     eventually all be compatible.
+
+  -- The dll plugin system also allows us to release new 1964 graphics dll versions to you even before new
+     1964.exe releases are available.
+
+     Playable Titles:
+     Super Mario64 
+     =============
+         - issues: Pressing the start button to pause the game will freeze;
+                   Game will also freeze after completing level 1 and returning
+                   to the castle. I hope to have these problems fixed by the next release.
+     Mario Kart
+     ==========
+          - Playable, but with serious graphics issues.
+
+     Rampage
+     =======
+          - Playable as it was in v0.4.0..but known to freeze after a while.
+
+     I don't own many games, so I don't know that much else works.
+
+  -- As in the last release, v0.4.5 uses a "safe" dynarec method. I will
+      gradually move back to the faster method which means speed will continue to improve.
+

@@ -1,0 +1,94 @@
+What's New in 1964 0.9.9.? 
+
+With over one year in private development since the release 1964 0.8.5. and with over 3 months in beta testing, 1964 0.9.9 features hundreds of fixes and enhancements.
+
+Major new 1964 features include:
+
+A new friendlier user interface makes finding options easy 
+Fixes and support for many new games including Turok3, Donkey Kong 64, and Top Gear Overdrive 
+New ini configuration settings 
+ROM Browser caching for fast loading of 1964 
+Tweak 1964's speed at the touch of a key 
+Frameskip and AutoCF features for slower machines 
+A new Help Manual 
+Multiple Language support 
+An improved CPU core with many bug fixes and is much faster 
+An Improved 32bit CPU core, linker and faster overall code generation 
+Reworked core/audio synchronization and major improvements in audio quality and speed 
+Completely reworked Kaillera netplay 
+Packaged with N-Rage's input plugin 
+CPU Frame buffer read/write notification for video plug-ins 
+
+
+
+Minor GUI features:
+ 
+
+- Download plugin online 
+- ROM specific plugin selection 
+- More Toolbar buttons 
+- Remembers and restores the current selected ROM and its position in the ROM Browser 
+- Remembers and restores the selected ROM and its position at 1964 exit and start 
+- Added "Number of players" as a new column in the ROM Browser. "Number of players" can be set in the INI file, but not through option dialog box. 
+- Check if plug-ins are loaded correctly. If not, then pop up the plugin configuration dialog box to select plug-ins 
+- When 1964.099 runs the first time:
+  - Automatically pop up the ROM folder dialog box to select a folder
+  - Select only the most important columns to display in the ROM list
+  - Verify plug-ins are loaded correctly 
+- Disable plugin selection during netplay 
+- Disable many menus if they are not supposed to be used when a game is not running or a game is running 
+- Automatically enable/disable the RSP config menu according to whether or not the RSP plugin is loaded 
+- Call RSP CloseDLL() at a better place for it to save its configuration 
+- New ROM Browser icons 
+- RSP plug-in selection 
+
+
+
+Minor core features:
+ 
+
+- Variable speed emulation 
+- SSE detection and support in CPU core 
+- FPU register caching if SSE is detected 
+- NetPlay 
+- New save state file format 
+- Ability to load old versions of save states 
+- Ability to save save states to an old version 
+- Double check and create necessary folders for game saves 
+- Screen shots taken at a better time 
+- Reworked CP1 Unusable exceptions, many games are working better 
+- Improved CPU timing 
+- TLB error handling for 2-pass compiler 
+
+
+
+Netplay features:
+ 
+
+- Based on Kaillera network 
+- Supports audio for netplay 
+- Realtime gameplay with feasible network connection required 
+- Automatic retransmission request and lost packet recovery 
+- Automatic game setting synchronization among players 
+- Automatic game save synchronization among players 
+- Support for N64 native game saves 
+- Support for cheat codes in netplay 
+- Automatic cheat code synchronization among players 
+- Notification if a player drops out, and allows for other players to continue the game 
+- CPU and network usage displayed on status bar 
+- Enable / disable various settings to avoid changes that may cause netplay games to desync 
+- Always disable AutoCF for netplay 
+- CF menus disabled during netplay. CF won't be allowed to be change for any player 
+- Disabled lag menu during netplay 
+- Disabled cheat menu during netplay. Cheat codes are not allowed to be modified during game play 
+ 
+
+
+Important bugs fixed:
+ 
+
+- Activated cheat codes may cause game to not boot or reset 
+- Fixed dynamic compiler buffer overrun-related errors 
+- Fixed problems loading PJ64 save states 
+- Cleaned duplicated INI entries 
+- Support for Japanese characters in INI file 
