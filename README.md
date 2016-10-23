@@ -1,6 +1,6 @@
 ﻿![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuControlCenter/images/img_misc_cabinet.png)
 
-## REPO 0001 / EDC Emulator storage
+## REPO 0002 / EDC Emulator storage
 ***
 emuDownloadCenter (EDC) is a program to download ROM emulators from internet.
 Mostly in depots where found emulators on the internet are stored.
