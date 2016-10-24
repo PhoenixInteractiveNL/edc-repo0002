@@ -1,0 +1,11 @@
+Changes - 28th August 2009
+--------------------------
+
+This release contains the following bug fixes and changes:
+
+  * Fixed keypad button 1 not working at all
+  * Fixed Player 2 always using defaults stick configuration
+  * Fixed issue with Input Config where initially selected control was not saved
+  * Changed Player 2 default configuration (use 's' for down)
+  * Changed Default Sensitivity setting to 96 (Galaxian with digital input)
+  * Changed Windows version to use User's AppData directory to store files

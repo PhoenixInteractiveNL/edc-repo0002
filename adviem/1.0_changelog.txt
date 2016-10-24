@@ -1,0 +1,6 @@
+Changes - 16th March 2013
+--------------------------
+
+New in 1.0:
+] Added ability to drag & drop roms into the window
+] Non-WIP release
