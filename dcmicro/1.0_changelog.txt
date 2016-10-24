@@ -1,0 +1,5 @@
+Changes - version 1.0
+---------------------
+
+First version of the emulator.
+
