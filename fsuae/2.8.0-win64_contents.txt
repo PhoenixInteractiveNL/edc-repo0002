@@ -1,0 +1,92 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-09-14 17:31:58 ....A      1255204      6416577  fs-uae.dat
+2016-09-14 17:32:02 ....A       329216               GLEW32.dll
+2016-09-14 17:32:02 ....A        71168               libbz2-1.dll
+2016-09-14 17:32:02 ....A       619008               libfreetype-6.dll
+2016-09-14 17:32:02 ....A        80896               libgcc_s_seh-1.dll
+2016-09-14 17:32:02 ....A      1260544               libglib-2.0-0.dll
+2016-09-14 17:32:02 ....A        17408               libgthread-2.0-0.dll
+2016-09-14 17:32:02 ....A       379392               libharfbuzz-0.dll
+2016-09-14 17:32:02 ....A      1048064               libiconv-2.dll
+2016-09-14 17:32:02 ....A       127488               libintl-8.dll
+2016-09-14 17:32:02 ....A       110592               libmpeg2-0.dll
+2016-09-14 17:32:02 ....A        36352               libmpeg2convert-0.dll
+2016-09-14 17:32:02 ....A       696832               libpixman-1-0.dll
+2016-09-14 17:32:02 ....A       224768               libpng16-16.dll
+2016-09-14 17:32:02 ....A      1421312               libstdc++-6.dll
+2016-09-14 17:32:02 ....A        54784               libwinpthread-1.dll
+2016-09-14 17:32:02 ....A       413184               OpenAL32.dll
+2016-09-14 17:32:02 ....A      1041408               SDL2.dll
+2016-09-14 17:32:02 ....A        88064               zlib1.dll
+2016-09-14 17:32:02 ....A       254976               fs-uae-device-helper.exe
+2016-09-14 17:32:04 ....A     11326120               fs-uae.exe
+2016-09-14 17:31:56 ....A         4035               share\locale\sr\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         2664               share\locale\pt_BR\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         3700               share\locale\pt\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         4818               share\locale\pl\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         3660               share\locale\sv\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         4723               share\locale\nb\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         4926               share\locale\it\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A          539               share\locale\hu\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:58 ....A         4787               share\locale\tr\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         4809               share\locale\fr\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         4812               share\locale\nl\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         5038               share\locale\fi\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         4789               share\locale\es\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         4284               share\locale\eo\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         4870               share\locale\de\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         4814               share\locale\da\LC_MESSAGES\fs-uae.mo
+2016-09-14 17:31:56 ....A         4757               share\locale\cs\LC_MESSAGES\fs-uae.mo
+2014-12-12 08:47:50 ....A        18092               COPYING.txt
+2014-12-12 08:47:50 ....A        18092               licenses\fs-uae.txt
+2014-12-12 08:47:50 ....A        25292               licenses\glib.txt
+2014-12-12 08:47:50 ....A         3452               licenses\ipflib.txt
+2014-12-12 08:47:50 ....A         3323               licenses\libgcc.txt
+2014-12-12 08:47:50 ....A        25291               licenses\libintl.txt
+2014-12-12 08:47:50 ....A         4200               licenses\libpng.txt
+2014-12-12 08:47:50 ....A         3323               licenses\libstdc++.txt
+2014-12-12 08:47:50 ....A         1068               licenses\lua.txt
+2015-09-21 14:29:42 ....A        10899               README.txt
+2014-12-12 08:47:50 ....A         5185               licenses\zlib.txt
+2016-10-24 15:42:04 ....A            0            0  share\fs-uae\share-dir
+2016-10-24 15:42:04 D....            0            0  share\locale\nb
+2016-10-24 15:42:04 D....            0            0  share\locale\cs\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\locale\pl
+2016-10-24 15:42:04 D....            0            0  share\locale\fi
+2016-10-24 15:42:04 D....            0            0  share\locale\pl\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share
+2016-10-24 15:42:04 D....            0            0  share\locale\de\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\locale\fr\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\locale\pt
+2016-10-24 15:42:04 D....            0            0  share\locale\hu
+2016-10-24 15:42:04 D....            0            0  share\locale\pt\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\locale\es\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\locale\de
+2016-10-24 15:42:04 D....            0            0  share\locale\it\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\locale\pt_BR
+2016-10-24 15:42:04 D....            0            0  share\locale\eo\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\locale\pt_BR\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\locale\eo
+2016-10-24 15:42:04 D....            0            0  share\locale\cs
+2016-10-24 15:42:04 D....            0            0  share\locale\nl\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\locale\sr
+2016-10-24 15:42:04 D....            0            0  share\locale\fi\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\locale\sr\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\fs-uae
+2016-10-24 15:42:04 D....            0            0  share\locale\da\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\locale\it
+2016-10-24 15:42:04 D....            0            0  share\locale\sv
+2016-10-24 15:42:04 D....            0            0  share\locale\nb\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\locale\sv\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  share\locale
+2016-10-24 15:42:04 D....            0            0  share\locale\da
+2016-10-24 15:42:04 D....            0            0  share\locale\nl
+2016-10-24 15:42:04 D....            0            0  share\locale\fr
+2016-10-24 15:42:04 D....            0            0  share\locale\es
+2016-10-24 15:42:04 D....            0            0  share\locale\tr
+2016-10-24 15:42:04 D....            0            0  share\locale\tr\LC_MESSAGES
+2016-10-24 15:42:04 D....            0            0  licenses
+2016-10-24 15:42:04 D....            0            0  share\locale\hu\LC_MESSAGES
+------------------- ----- ------------ ------------  ------------------------
+2016-10-24 15:42:04           21047022      6416577  50 files, 38 folders
