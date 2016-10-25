@@ -1,0 +1,21 @@
+Changes - 8th September 2016
+----------------------------
+
+24.42  400th release!
+ Summary:
+        * Debugger: added SAY command.
+        * Miscellaneous improvements and bug fixes.
+ Details:
+ aa: fixed: it wasn't compiling under MOS.
+ aa: CPU monitor: now makes use of clock.gadget if it is available.
+ aa: fixed: hiscores subwindow: fixed: gadgets were too narrow.
+ aa: os4.1fe: now uses 16*16 rather than 24*24 menu imagery.
+ aa: mos: fixed: quitting via Esc was crashing it.
+ wa: fix: tray icon tooltip wasn't being modified to reflect pausing/unpausing.
+ interton: now sets RAM to random values at startup, rather than zeroing it.
+ wa: now changes its icons (incl. in system menu and in tray) according to which guest is in use.
+ debugger: added SAY command.
+ interton: added knowledge about new version of flappy birds.
+ speech menuitem is now ticked while speech is enabled.
+ si50: controls subwindow: enlarged hitboxes for opening dip switch editor.
+ aa: fixed: shifted cursor keys could crash it.
