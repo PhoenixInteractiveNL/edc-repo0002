@@ -1,0 +1,6 @@
+Upgrade v1.21 --> v1.22:
+~~~~~~~~~~~~~~~~~~~~~~~~
+ -Error in v1.21 fixed: Memory 0000h-9FFFh RAM and C000h-FFFFh protected
+  against overwriting by loading.
+ -On some computers the monitor would go into Stand-by mode as soon as the
+  emulator was started. I hope to have that problem fixed now.

@@ -1,0 +1,7 @@
+Version 1.6a:
+Core changes:
+- fixed bug introduced in previous fix to CpuFastSet/CpuSet
+- fixed slowdown caused by attempt to speed up emulation
+
+Windows:
+- fixed bug when selecting the same render type

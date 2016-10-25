@@ -1,0 +1,336 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2008-06-06 13:18:18 ....A        21213       893503  cassette\Songs\FOREST.ASM
+2008-06-06 13:18:24 ....A        24561               cassette\Songs\INV13.ASM
+2005-11-26 23:41:50 ....A        11627               tools\AQROMSave\src\saver.asm
+2005-11-25 02:54:52 ....A           25               ML\tasm31\goasm.bat
+2005-12-05 05:13:52 ....A        16384               rom\AD&D.BIN
+2001-07-22 10:32:30 ....A        16384               rom\astrosmash.bin
+2002-02-02 05:44:52 ....A        16384               rom\biorhythms.bin
+2005-12-05 05:14:00 ....A        16384               rom\BurgerTime.bin
+2002-03-18 09:30:44 ....A        16384               rom\chess.bin
+2005-11-19 13:21:34 ....A        16384               rom\ExtendedBasic.bin
+2000-07-20 23:50:06 ....A        16384               rom\fileform.bin
+2000-07-22 22:48:22 ....A        16384               rom\finform.bin
+2001-12-29 07:37:24 ....A        16384               rom\logo.bin
+2005-12-05 05:14:16 ....A        16384               rom\MarqueeDemo.bin
+2005-12-05 05:14:24 ....A        16384               rom\MelodyChase.bin
+2000-07-19 21:42:00 .R..A        16384               rom\nightstalker.bin
+2005-12-05 05:14:34 ....A        16384               rom\QuickDisk.bin
+1999-11-15 15:14:02 ....A         8192               rom\radofin.bin
+2005-12-05 05:14:44 ....A        16384               rom\Shark!.bin
+2001-07-22 10:44:10 ....A        16384               rom\snafu.bin
+2005-12-05 05:14:52 ....A        16384               rom\SpaceSpeller.bin
+2000-07-13 10:31:44 .R..A        16384               rom\tron.bin
+2000-07-20 22:37:54 .R..A        16384               rom\utopia.bin
+2008-02-04 15:08:04 ....A         6848               tools\AQ_tapeldprep\Yie_Ar_Kung_Fu.bin
+2005-12-21 19:54:50 ....A         8192               rom\ZEROIN.BIN
+2002-12-03 13:59:36 ....A        16384               rom\ZEROINm.bin
+2000-04-18 20:16:24 .R..A        63064               cassette\C\adv_a.c
+2000-07-03 13:54:34 .R..A         1119               cassette\C\ansitest.c
+2001-12-27 08:42:56 .R..A        12285               cassette\C\adv_A.caq
+2001-12-27 08:42:56 .R..A          147               cassette\C\adv_BAS.caq
+2000-07-16 13:54:44 ....A          145               cassette\Demo\alien.CAQ
+2000-07-16 13:54:50 ....A         1506               cassette\Demo\alien_A.CAQ
+2004-02-05 14:59:46 ....A         1354               cassette\GamesPack4\ALIEN_A.CAQ
+2004-02-05 14:54:24 ....A          145               cassette\GamesPack4\ALIEN_BAS.CAQ
+2005-12-26 10:23:08 ....A         2006               cassette\Aliens\ALIENS_A.CAQ
+2005-12-26 06:21:44 ....A          145               cassette\Aliens\ALIENS_BAS.CAQ
+2002-03-09 05:02:08 ....A         8130               cassette\BattleZone\BATTLE_A.CAQ
+2002-03-09 05:02:20 ....A          146               cassette\BattleZone\BATTLE_BAS.CAQ
+2008-05-13 20:45:00 ....A        14005               cassette\Blocks\BLOCKS.CAQ
+2004-02-05 17:08:52 ....A         1242               cassette\GamesPack2\BOMBER_A.CAQ
+2004-02-05 17:03:52 ....A          145               cassette\GamesPack2\BOMBER_BAS.CAQ
+2002-08-10 15:55:48 ....A         2786               cassette\Bounder\BOUND_A.CAQ
+2004-02-09 16:03:40 ....A         1242               cassette\GamesPack2\BOUND_A.CAQ
+2004-02-05 17:02:54 ....A          145               cassette\GamesPack2\BOUND_BAS.CAQ
+2002-03-03 14:12:38 ....A          145               cassette\Bounder\BOUND_BAS.CAQ
+2002-12-11 13:56:26 ....A         5054               cassette\BreakOut\BREAK_A.CAQ
+2004-02-09 16:06:24 ....A         1426               cassette\GamesPack2\BREAK_A.CAQ
+2004-02-05 17:03:28 ....A          145               cassette\GamesPack2\BREAK_BAS.CAQ
+2002-11-25 15:38:30 ....A          146               cassette\BreakOut\BREAK_BAS.CAQ
+2005-12-28 20:44:40 ....A         1423               tools\AQROMHexPrint\cartpr_BAS.CAQ
+2008-05-17 19:06:00 ....A         7284               cassette\Chess\Chess_A.CAQ
+2008-05-17 19:05:00 ....A          921               cassette\Chess\Chess_BAS.CAQ
+2002-03-19 16:11:32 ....A         5878               cassette\ChuckMan\CHUCK_A.CAQ
+2002-03-19 15:58:00 ....A          146               cassette\ChuckMan\CHUCK_BAS.CAQ
+2000-07-16 13:54:38 ....A          145               cassette\Demo\cubes.CAQ
+2000-07-17 11:18:02 ....A         1378               cassette\Demo\cubes_A.CAQ
+2008-05-15 19:43:00 ....A         9530               cassette\D-Fendr2\D-Fendr_A.CAQ
+2008-05-15 19:42:00 ....A          146               cassette\D-Fendr2\D-Fendr_BAS.CAQ
+2002-12-18 14:27:52 ....A         9754               cassette\D-Fender\DEFEND_A.CAQ
+2002-12-06 13:16:48 ....A          146               cassette\D-Fender\DEFEND_BAS.CAQ
+2005-12-28 20:45:20 ....A          171               tools\AQROMSave\disabl_BAS.CAQ
+2005-12-28 20:45:20 ....A          171               tools\AQROMHexPrint\disabl_BAS.CAQ
+2004-08-08 15:13:50 ....A         8054               cassette\Disco\DISCO_A.caq
+2004-08-08 15:02:12 ....A          146               cassette\Disco\DISCO_BAS.CAQ
+2004-02-09 16:25:46 ....A         1462               cassette\GamesPack2\DRIVER_A.CAQ
+2004-02-09 15:57:08 ....A          145               cassette\GamesPack2\DRIVER_BAS.CAQ
+2002-07-21 14:36:44 ....A         5674               cassette\Ed-On\ed-on_A.CAQ
+2002-07-21 14:31:40 ....A          146               cassette\Ed-On\ED-ON_BAS.CAQ
+2004-08-11 16:47:30 ....A         5351               cassette\Songs\forest.caq
+2005-12-12 10:59:22 ....A         5025               cassette\Froggy\FROGGY_BAS.CAQ
+2006-08-12 10:41:46 ....A         1548               cassette\Processor\gamble_BAS.CAQ
+2004-02-05 15:22:04 ....A         1298               cassette\GamesPack4\GRAND_A.CAQ
+2004-02-05 15:17:42 ....A          145               cassette\GamesPack4\GRAND_BAS.CAQ
+2002-11-25 15:01:04 ....A         3078               cassette\GridBug\GRID_A.CAQ
+2002-11-25 14:50:20 ....A          145               cassette\GridBug\GRID_BAS.CAQ
+2006-08-12 10:35:02 ....A         1614               cassette\Processor\gunfig_BAS.CAQ
+2008-05-23 14:13:00 ....A         1612               cassette\Invaders\Invaders_BAS1.CAQ
+2008-05-28 19:05:00 ....A          913               cassette\Invaders\Invaders_PART2.CAQ
+2008-05-23 14:14:00 ....A         1833               cassette\Invaders\Invaders_PART3.CAQ
+2004-08-04 23:11:52 ....A         6293               cassette\Songs\inventio13.caq
+2000-07-24 07:03:54 ....A          145               cassette\Demo\macho.CAQ
+2005-12-20 14:34:14 ....A          145               cassette\GamesPack1\macho.CAQ
+2005-12-20 14:39:38 ....A         1518               cassette\GamesPack1\macho_A.CAQ
+2000-07-24 06:22:04 ....A         1518               cassette\Demo\macho_A.CAQ
+2006-03-18 15:34:34 ....A         5955               cassette\Songs\marche.caq
+2008-05-28 19:51:00 ....A         6805               cassette\MathsArmada\MathsArmada_A.CAQ
+2008-05-28 19:51:00 ....A          921               cassette\MathsArmada\MathsArmada_BAS.CAQ
+2002-02-27 13:23:14 ....A        11982               cassette\Mazantics\MAZAN_A.CAQ
+2002-02-26 12:21:44 ....A          146               cassette\Mazantics\MAZAN_BAS.CAQ
+2002-02-27 21:16:36 ....A         4394               cassette\Millypede\MILLY_A.caq
+2002-02-27 16:04:48 ....A          146               cassette\Millypede\MILLY_BAS.CAQ
+2005-12-29 16:07:08 ....A         1583               cassette\Modem\MODEM_A.CAQ
+2005-12-29 16:14:00 ....A          449               cassette\Modem\MODEM_BAS.CAQ
+2004-08-05 16:35:54 ....A         2953               cassette\Songs\monpat1.caq
+2000-07-24 06:59:28 ....A          145               cassette\Demo\mould.caq
+2000-07-16 13:54:56 ....A         1502               cassette\Demo\mould_A.CAQ
+2004-08-08 20:30:02 ....A         8829               cassette\Songs\muiscboxdancer.caq
+2008-06-06 13:18:38 ....A         8829               cassette\Songs\musicboxdancer1.CAQ
+2005-12-20 19:37:10 ....A          145               cassette\GamesPack1\mutant.CAQ
+2005-12-20 19:40:12 ....A         1462               cassette\GamesPack1\mutant_A.CAQ
+2002-12-09 12:58:06 ....A         5254               cassette\N-Vaders\N-VADE_A.CAQ
+2002-12-09 12:46:10 ....A          146               cassette\N-Vaders\N-VADE_BAS.CAQ
+2005-12-12 10:57:30 ....A         9938               cassette\PacMrOhShucks\ohshit_A.CAQ
+2005-12-12 10:57:40 ....A          146               cassette\PacMrOhShucks\ohshit_BAS.CAQ
+2005-12-20 14:54:50 ....A          145               cassette\GamesPack1\othell.CAQ
+2005-12-20 19:34:40 ....A         1534               cassette\GamesPack1\othell_A.CAQ
+2006-08-12 11:08:00 ....A         1322               cassette\Outlin\outlin_A.CAQ
+2006-08-12 10:59:06 ....A          145               cassette\Outlin\outlin_BAS.CAQ
+2002-04-14 12:54:54 ....A         6202               cassette\PacMr\PACMR_A.CAQ
+2005-12-20 00:41:26 ....A          146               cassette\PacMr\PACMR_BAS.CAQ
+2004-02-05 14:33:30 ....A         1510               cassette\GamesPack4\PAINT_A.CAQ
+2004-02-05 14:34:14 ....A          145               cassette\GamesPack4\paint_BAS.CAQ
+2005-05-21 18:24:06 ....A         1489               cassette\Songs\peer1d.caq
+2004-08-05 16:25:28 ....A         1489               cassette\Songs\peernote.caq
+2004-02-10 13:57:44 ....A         1522               cassette\GamesPack4\PONTOO_A.CAQ
+2004-02-05 14:44:26 ....A          145               cassette\GamesPack4\PONTOO_BAS.CAQ
+2002-04-03 07:36:06 ....A        10846               cassette\Postman\POSTIE_A.CAQ
+2002-04-03 07:35:34 ....A          146               cassette\Postman\POSTIE_BAS.CAQ
+2005-12-15 05:38:40 ....A         1733               cassette\Spier\Pries_BAS.CAQ
+2006-03-18 15:28:28 ....A         5009               cassette\Songs\rag.caq
+2008-05-17 19:11:00 ....A         4848               cassette\Read-It\Read-It_A.CAQ
+2008-05-28 19:06:00 ....A         3771               cassette\Read-It\Read-It_BAS.CAQ
+2005-11-26 23:41:56 ....A         1217               tools\AQROMSave\saver.caq
+2002-02-03 22:46:24 ....A         1231               cassette\Songs\SOLDIER.CAQ
+2008-05-23 14:15:00 ....A         1668               cassette\SpaceRam\SpaceRam_BAS1.CAQ
+2008-05-26 19:43:00 ....A          913               cassette\SpaceRam\SpaceRam_PART2.CAQ
+2008-05-16 19:41:00 ....A         1181               cassette\SpaceRam\SpaceRam_PART3.CAQ
+2008-05-23 14:19:00 ....A         1810               cassette\SpaceRam\SpaceRam_PART4.CAQ
+2008-05-21 18:54:00 ....A         5585               cassette\Spell-It\Spell-It_A.CAQ
+2008-05-17 19:00:00 ....A         3567               cassette\Spell-It\Spell-It_BAS.CAQ
+2005-12-20 14:29:20 ....A          145               cassette\GamesPack1\stalac.CAQ
+2000-07-16 13:54:14 ....A          145               cassette\Demo\stalac.CAQ
+2000-07-17 11:05:02 ....A         1474               cassette\Demo\stalac_A.CAQ
+2005-12-20 14:31:40 ....A         1474               cassette\GamesPack1\stalac_A.CAQ
+2008-06-06 12:47:42 ....A        14047               cassette\toh\toh_verified.CAQ
+2000-07-16 13:54:32 ....A          145               cassette\Demo\torment.CAQ
+2000-07-16 13:54:34 ....A         1382               cassette\Demo\torment_A.CAQ
+2006-03-18 15:44:14 ....A         3167               cassette\Songs\trek.caq
+2005-12-12 11:00:30 ....A        10735               cassette\Spier\URRON_BAS.CAQ
+2001-12-27 08:48:38 .R..A         3871               cassette\C\vtdemo_A.caq
+2001-12-27 08:48:38 .R..A          147               cassette\C\vtdemo_BAS.caq
+2000-07-16 13:03:58 ....A         1381               cassette\James\window.CAQ
+2008-07-25 13:37:58 ....A         6903               cassette\Spier\YAKF_A.caq
+2008-07-27 17:24:48 ....A         2323               cassette\Spier\YAKF_BAS.CAQ
+2008-08-04 20:37:38 ....A         6900               tools\AQ_tapeldprep\Yie_Ar_Kung_Fu_A.CAQ
+2008-08-04 19:37:52 ....A        49152               tools\AQ_tapeldprep\AQ_tapeldprep.exe
+2005-12-04 19:10:24 ....A        49152               tools\AQROMHexPrint\AQihextobin.exe
+2005-11-27 20:39:52 ....A        49152               tools\AQROMSave\AQRomExtract.exe
+2008-08-03 18:54:38 ....A       253952               aquarius.exe
+2005-12-26 13:31:08 ....A        65536               tools\CAQ2WAV.exe
+2002-02-03 13:19:54 ....A        49152               tools\ClipWav.exe
+2005-07-01 21:52:58 ....A        57344               tools\monowav.exe
+1998-02-28 04:50:32 ....A       215072               ML\tasm31\TASM.EXE
+1998-02-28 04:48:34 ....A        85550               ML\tasm31\TASMMAN.HTM
+1999-06-19 14:03:34 ....A           68               aquarius.ini
+2008-08-06 19:15:02 ....A         8156               default.ini
+2005-12-27 05:37:38 ....A        25926               cassette\BattleZone\battle_art.jpeg
+2005-12-27 05:38:08 ....A        16838               cassette\Disco\disco_art.jpeg
+2005-12-27 05:38:42 ....A        13501               cassette\GridBug\grid_art.jpeg
+2005-12-27 05:26:14 ....A        11183               cassette\Millypede\millypede_title.jpeg
+2005-12-27 05:39:22 ....A        24152               cassette\Postman\postie_art.jpeg
+2002-12-11 13:44:28 ....A        13324               cassette\BreakOut\break_art.jpg
+2002-12-18 14:34:46 ....A        14187               cassette\D-Fender\defend_art.jpg
+2002-12-09 13:11:50 ....A        13628               cassette\N-Vaders\n-vade_art.jpg
+2005-12-22 19:48:22 ....A        22874               cassette\Aliens\tn_aliens_art.jpg
+2005-12-22 19:49:54 ....A        16586               cassette\Bounder\tn_bound_art.jpg
+2005-12-22 19:51:54 ....A        30589               cassette\ChuckMan\tn_chuck_art.jpg
+2005-12-22 19:55:32 ....A        19919               cassette\Ed-On\tn_ED-ON_ART.jpg
+2005-12-22 19:59:34 ....A        23864               cassette\Mazantics\tn_mazan_art.jpg
+2005-12-22 20:02:00 ....A        25573               cassette\PacMr\tn_PacMr_art.jpg
+2005-12-05 05:16:42 ....A        16384               rom\S_Burgertime.rom
+2005-12-05 05:16:48 ....A        16384               rom\S_ExtendedBasic.rom
+2005-12-05 05:16:56 ....A        16384               rom\S_ModemTerminalSoftware.rom
+2005-12-05 05:17:02 ....A        16384               rom\S_Word_processor.rom
+1998-02-28 04:48:00 ....A        15389               ML\tasm31\TASM80.TAB
+2002-01-04 13:30:40 ....A           20               quicktyp\LOGO\1_log.txt
+2002-08-27 14:41:40 ....A          902               cassette\Aliens\ALIENS.txt
+2004-10-17 01:42:36 ....A          537               quicktyp\ForNerds\benchmark.txt
+2008-06-06 13:20:26 ....A         1686               quicktyp\Spier\BLINK.TXT
+2008-06-20 20:30:20 ....A         1457               quicktyp\DigitalOutput\bomber.txt
+2002-08-27 15:03:26 ....A         1086               cassette\Bounder\bounder.txt
+2002-12-13 13:01:30 ....A         1376               cassette\BreakOut\BREAK.txt
+2005-12-04 14:24:46 ....A         2633               tools\AQROMHexPrint\quicktyp\carthexout.txt
+2005-12-25 14:05:32 ....A         1122               quicktyp\ForNerds\cascache.txt
+2008-06-06 13:20:32 ....A         1331               quicktyp\Spier\CASLST.TXT
+2005-12-25 14:06:00 ....A          836               quicktyp\ForNerds\caspeeker.txt
+2005-12-25 14:06:42 ....A         1036               quicktyp\ForNerds\caspeekx.txt
+2008-06-10 23:25:36 ....A         2136               cassette\Chess\CassetteChessInstructions.txt
+2002-03-19 16:22:28 ....A         1366               cassette\ChuckMan\Chuckman.txt
+2001-12-31 09:08:08 ....A          183               quicktyp\GraphicFun\circle.txt
+2005-12-25 14:08:18 ....A         1017               quicktyp\ForNerds\cksummer.txt
+1999-11-21 06:38:38 ....A          624               quicktyp\GraphicFun\colors.txt
+2002-12-19 13:35:50 ....A          845               cassette\D-Fender\DEFEND.TXT
+2005-11-22 14:21:24 ....A          184               tools\AQROMHexPrint\quicktyp\DisableExbas.txt
+2005-12-12 13:24:12 ....A          779               cassette\Disco\disco.txt
+2002-07-21 14:47:50 ....A          490               cassette\Ed-On\ed-on.txt
+2005-12-25 14:10:20 ....A          841               quicktyp\ForNerds\FLICKER.TXT
+2008-05-08 12:50:14 ....A        17036               quicktyp\AUMagazine\Flight.txt
+2008-06-19 21:11:46 ....A         1910               quicktyp\DigitalOutput\gamble.txt
+2008-05-09 12:43:20 ....A         7021               quicktyp\AUMagazine\GAMBLE.TXT
+2004-02-09 16:36:04 ....A         1090               cassette\GamesPack2\GamesPack2.txt
+2005-12-12 13:27:08 ....A         1277               cassette\GamesPack4\GamesPack4.txt
+2005-12-22 23:32:24 ....A         1575               quicktyp\GraphicFun\grfun.txt
+2002-11-25 15:23:32 ....A          684               cassette\GridBug\GRID.txt
+2008-05-09 12:38:56 ....A         1813               quicktyp\AUMagazine\hexadecimal.txt
+2008-06-19 20:53:16 ....A         1838               quicktyp\DigitalOutput\hilow.txt
+2002-01-03 23:46:40 ....A          266               quicktyp\LOGO\home_log.txt
+2005-12-07 00:02:28 ....A          927               quicktyp\ForNerds\joypeeker.txt
+2000-07-30 14:51:34 ....A         1045               quicktyp\GraphicFun\kaleido.txt
+1999-11-21 07:31:10 ....A          720               quicktyp\GraphicFun\kaleidoscope.txt
+2008-06-06 13:18:32 ....A         4868               quicktyp\Sounds\KOEK.TXT
+2008-06-19 20:53:58 ....A         1890               quicktyp\DigitalOutput\masterguess.txt
+2002-02-27 13:30:22 ....A          971               cassette\Mazantics\Mazantics.txt
+2008-07-22 01:46:36 ....A         1852               cassette\Millypede\milly_load.txt
+2005-12-27 19:49:52 ....A         1865               cassette\Millypede\millypede.txt
+2008-05-09 12:30:44 ....A         8669               quicktyp\AUMagazine\MINER.TXT
+2008-06-19 21:04:46 ....A         1754               quicktyp\DigitalOutput\moon.txt
+2008-01-06 20:18:46 ....A          641               cassette\N-Vaders\n-vade.txt
+2008-06-19 20:56:08 ....A         1895               quicktyp\DigitalOutput\nim.txt
+2005-12-14 15:42:10 ....A          755               rom\notes_p.txt
+1998-02-28 04:48:32 ....A         2158               ML\tasm31\ORDERFRM.TXT
+2008-06-19 20:56:34 ....A         2009               quicktyp\DigitalOutput\outlaw.txt
+2008-05-09 12:33:00 ....A         7232               quicktyp\AUMagazine\PACMAN.TXT
+2002-08-27 15:14:52 ....A          830               cassette\PacMr\pacmr.txt
+2008-06-11 21:20:40 ....A          723               quicktyp\ForNerds\pokescrambler.txt
+2005-12-28 20:09:22 ....A          270               quicktyp\GraphicFun\polarg1.txt
+2005-12-28 20:10:42 ....A          275               quicktyp\GraphicFun\polarg2.txt
+2005-12-28 20:11:08 ....A          270               quicktyp\GraphicFun\polarg3.txt
+2005-12-28 20:11:40 ....A          282               quicktyp\GraphicFun\polarg4.txt
+2005-12-15 05:38:50 ....A          946               cassette\Spier\Pries_Readme.txt
+2008-07-22 20:20:14 ....A         2411               quicktyp\DigitalOutput\Readme.txt
+2008-06-10 23:28:50 ....A          196               cassette\MathsArmada\readme.txt
+2008-08-04 19:52:56 ....A         1056               readme.txt
+2008-06-10 23:34:32 ....A          229               cassette\Spell-It\readme.txt
+2008-06-10 23:30:12 ....A          228               cassette\Read-It\readme.txt
+2008-06-10 23:31:54 ....A          179               cassette\SpaceRam\readme.txt
+2008-06-10 23:37:24 ....A          142               cassette\toh\readme.txt
+2008-08-04 20:09:38 ....A        15807               docs\readme.txt
+2008-06-10 23:27:54 ....A          370               cassette\Invaders\readme.txt
+2008-06-10 23:26:22 ....A          257               cassette\D-Fendr2\readme.txt
+2005-12-25 13:58:56 ....A         3460               tools\AQROMHexPrint\README.TXT
+2005-12-25 13:58:58 ....A         5271               tools\AQROMSave\readme.txt
+2005-12-27 20:06:10 ....A          369               cassette\C\readme.txt
+2008-05-29 22:02:22 ....A         3565               cassette\readme_c.txt
+2005-12-29 23:05:54 ....A          421               cassette\Disco\readme_disco.txt
+2002-04-03 11:12:04 ....A          954               cassette\Postman\readme_i.txt
+2005-12-29 23:01:12 ....A          358               cassette\Modem\readme_modem.txt
+2008-07-21 17:49:58 ....A         1847               rom\readme_r.txt
+2008-08-06 19:17:52 ....A         2292               tools\AQ_tapeldprep\readme_t.txt
+2008-08-04 19:51:50 ....A         3763               tools\readme_t.txt
+2005-11-25 02:56:56 ....A         1233               ML\tasm31\readme_tasm.txt
+2008-08-06 19:03:42 ....A          239               cassette\Spier\readme_yakf.txt
+2001-07-06 01:34:42 ....A          306               quicktyp\Sounds\rndfreq.txt
+2002-02-02 05:58:56 ....A         1150               quicktyp\ForNerds\romsnd.txt
+2005-12-22 23:17:32 ....A          182               quicktyp\ForNerds\showchars.txt
+2008-06-20 20:44:14 ....A         1600               quicktyp\DigitalOutput\snake.txt
+2005-12-28 20:32:26 ....A         1148               quicktyp\OtherFun\speech.TXT
+2005-12-23 10:13:14 ....A          383               quicktyp\LOGO\spinboxes_log.txt
+1999-11-21 08:10:50 ....A         1018               quicktyp\GraphicFun\starkle.txt
+2008-06-22 20:05:26 ....A         2127               quicktyp\DigitalOutput\symon.txt
+2000-08-20 10:59:22 ....A         1256               quicktyp\ForNerds\talker.txt
+2005-05-21 18:23:56 ....A         7393               ML\tasm31\testasm.txt
+2008-01-06 12:02:00 ....A          884               quicktyp\Sounds\testayfreq.txt
+2005-12-27 16:46:10 ....A          826               quicktyp\ForNerds\testayfreq.txt
+2001-07-06 05:12:18 ....A          531               quicktyp\Sounds\testfreq.txt
+2005-12-25 14:11:26 ....A          697               quicktyp\ForNerds\testqt.txt
+2001-07-06 17:08:10 ....A         8894               quicktyp\Sounds\testsong.txt
+2008-08-04 19:53:48 ....A          235               docs\todo.txt
+2008-06-19 20:57:24 ....A         1632               quicktyp\DigitalOutput\track+.txt
+2008-06-19 20:57:12 ....A         1622               quicktyp\DigitalOutput\track.txt
+2008-08-04 20:36:14 ....A         2952               tools\AQ_tapeldprep\YAKF_Loader_BAS.txt
+2008-06-11 20:52:08 ....A      1168210               cassette\James\window_4Q.WAV
+2008-08-06 18:56:08 ....A        11708               cassette\Blocks\Blocks_Manual.wri
+2000-08-09 08:33:54 .R..A       151452               ML\dasmx\dasmx120.zip
+2000-08-09 08:33:54 D....            0            0  cassette\PacMrOhShucks
+2000-08-09 08:33:54 D....            0            0  quicktyp\ForNerds
+2000-08-09 08:33:54 D....            0            0  cassette\GamesPack2
+2000-08-09 08:33:54 D....            0            0  ML
+2000-08-09 08:33:54 D....            0            0  cassette\GamesPack1
+2000-08-09 08:33:54 D....            0            0  rom
+2000-08-09 08:33:54 D....            0            0  screenshots
+2000-08-09 08:33:54 D....            0            0  quicktyp\Spier
+2000-08-09 08:33:54 D....            0            0  tools
+2000-08-09 08:33:54 D....            0            0  cassette\Spell-It
+2000-08-09 08:33:54 D....            0            0  tools\AQROMHexPrint
+2000-08-09 08:33:54 D....            0            0  cassette\Songs
+2000-08-09 08:33:54 D....            0            0  cassette\Froggy
+2000-08-09 08:33:54 D....            0            0  cassette\Processor
+2000-08-09 08:33:54 D....            0            0  cassette\Ed-On
+2000-08-09 08:33:54 D....            0            0  cassette\Postman
+2000-08-09 08:33:54 D....            0            0  quicktyp
+2000-08-09 08:33:54 D....            0            0  cassette\PacMr
+2000-08-09 08:33:54 D....            0            0  tools\AQROMHexPrint\quicktyp
+2000-08-09 08:33:54 D....            0            0  cassette\N-Vaders
+2000-08-09 08:33:54 D....            0            0  cassette\Disco
+2000-08-09 08:33:54 D....            0            0  ML\tasm31
+2000-08-09 08:33:54 D....            0            0  cassette\Demo
+2000-08-09 08:33:54 D....            0            0  cassette\Millypede
+2000-08-09 08:33:54 D....            0            0  cassette\D-Fendr2
+2000-08-09 08:33:54 D....            0            0  cassette\MathsArmada
+2000-08-09 08:33:54 D....            0            0  tools\AQROMSave
+2000-08-09 08:33:54 D....            0            0  cassette\James
+2000-08-09 08:33:54 D....            0            0  cassette\D-Fender
+2000-08-09 08:33:54 D....            0            0  cassette\GridBug
+2000-08-09 08:33:54 D....            0            0  cassette\ChuckMan
+2000-08-09 08:33:54 D....            0            0  docs
+2000-08-09 08:33:54 D....            0            0  cassette\Chess
+2000-08-09 08:33:54 D....            0            0  cassette\Spier
+2000-08-09 08:33:54 D....            0            0  cassette\C
+2000-08-09 08:33:54 D....            0            0  cassette\Read-It
+2000-08-09 08:33:54 D....            0            0  tools\AQROMSave\src
+2000-08-09 08:33:54 D....            0            0  quicktyp\Sounds
+2000-08-09 08:33:54 D....            0            0  cassette\BreakOut
+2000-08-09 08:33:54 D....            0            0  quicktyp\OtherFun
+2000-08-09 08:33:54 D....            0            0  tools\AQ_tapeldprep
+2000-08-09 08:33:54 D....            0            0  cassette\Mazantics
+2000-08-09 08:33:54 D....            0            0  cassette\Bounder
+2000-08-09 08:33:54 D....            0            0  cassette\Invaders
+2000-08-09 08:33:54 D....            0            0  quicktyp\AUMagazine
+2000-08-09 08:33:54 D....            0            0  cassette\toh
+2000-08-09 08:33:54 D....            0            0  quicktyp\DigitalOutput
+2000-08-09 08:33:54 D....            0            0  ML\dasmx
+2000-08-09 08:33:54 D....            0            0  quicktyp\GraphicFun
+2000-08-09 08:33:54 D....            0            0  cassette\Modem
+2000-08-09 08:33:54 D....            0            0  cassette\Blocks
+2000-08-09 08:33:54 D....            0            0  cassette\Outlin
+2000-08-09 08:33:54 D....            0            0  quicktyp\LOGO
+2000-08-09 08:33:54 D....            0            0  cassette\SpaceRam
+2000-08-09 08:33:54 D....            0            0  cassette\BattleZone
+2000-08-09 08:33:54 D....            0            0  cassette\Aliens
+2000-08-09 08:33:54 D....            0            0  cassette
+2000-08-09 08:33:54 D....            0            0  cassette\GamesPack4
+------------------- ----- ------------ ------------  ------------------------
+2008-08-06 19:17:52            3524868       893503  274 files, 58 folders

@@ -1,0 +1,7 @@
+Upgrade v1.31 --> v1.32:
+~~~~~~~~~~~~~~~~~~~~~~~~
+ -Sound output through PC-speaker improved.
+ -65C02 emulation in stead of 6502.
+ -Seven extra 65802 instructions.
+ -Boot from disk-image in drive 0, by pressing [Alt] + [F12] simultaneously.
+ -Alternative Floating Point ROM with 80x87 co-processor support.

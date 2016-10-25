@@ -1,0 +1,4 @@
+Upgrade v1.2 --> v1.21:
+~~~~~~~~~~~~~~~~~~~~~~~
+ -Partial implementation of undocumented PPIA port D at B003h.
+ -Optional disassembly of illegal opcodes in desktop monitor.
