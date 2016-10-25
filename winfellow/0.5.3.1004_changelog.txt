@@ -1,0 +1,29 @@
+What’s New in WinFellow 0.5.3?
+------------------------------
+
+Thanks for your interest in WinFellow. Compared to version 0.5.2 there are a
+number of changes in this build, with the most significant ones being:
+
+• New features:
+– support for high DPI configurations, also when used together with Amiga Forever 2016
+– support for the original Amiga 1000 boot process from Kickstart disk boot; configure the A1000 bootstrap ROM like any other ROM image for the feature to be automatically enabled
+– support for keyboard-initiated reset - press Ctrl+Left Windows+Right Windows or Ctrl+Left Windows+Context Menu (as not all keyboards have a right Windows key) to initiate a reboot within an emulated session
+– support for extended ROM images; this gives the ability to use the AROS boot ROM
+– support for screenshots, clipping editor/live preview and scanlines in Amiga Forever
+
+• Changed functionality:
+– WinFellow is now compiled using Visual Studio 2013 Update 5
+– the default configuration contains 512kB chip/bogo memory now and has the real-time clock active (Amiga 500 with A-501 expansion)
+– the default configuration is now windowed and has LEDs active
+– chip memory mirroring has been implemented for OCS chipsets; the change was required for compatibility reasons, as some titles rely on it
+* because of this change, chip memory is now limited to 512kB when an OCS blitter has been configured; if you need to use more, please use the ECS Agnus blitter in your display configuration (it is an actual limitation of the OCS chipset)
+– 2x mode in Amiga Forever now scales via DirectX instead of the internal draw modules (design change was necessary to enable live preview in 2x mode)
+
+• Bug fixes:
+– implemented bogo memory mirroring for ECS chipset with 512kB chip/bogo memory (required by the demo Move any Mountain)
+– fix for CIA timer logic (fixes the game Atomix)
+– fixes for several CPU instructions:
+* ’020 bit-field instructions were re-implemented (fix for Lotus Esprit Turbo Challenge 96k)
+* ASL instruction’s overflow detection was improved
+* MULU flag check improved
+– escape key special handling in Amiga Forever improved (some titles would not detect an escape key press before)

@@ -1,0 +1,11 @@
+Changes - 17th July 2012
+------------------------
+
+v0.9.3:
+- Added support for disk images 'Buy Back' (. Do).
+- Added support for disk images' ProDOS Order (. In).
+- Added support for executable files (. Xex).
+- Added a debugging service 'default' using the Trace output.
+- Added a log of debugging service to the machine.
+- Added DisposableBase at the bookstore.
+- Replacing Machine.GetCards by Machine.Slots.OfType.

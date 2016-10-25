@@ -1,0 +1,8 @@
+Sat Mar 03 12:21:45 EST 2012 jdcorrado
+--------------------------------------
+
+ v1.0.0
+ Optimized options code and added better error handling.
+ Load option now has option to simulate keyboard input for ASCII format.
+ Added show about option.
+ Added command line parameters.

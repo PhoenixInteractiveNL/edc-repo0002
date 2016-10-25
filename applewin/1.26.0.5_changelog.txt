@@ -1,0 +1,18 @@
+1.26.0.5 (beta) - 6 Oct 2016
+----------------------------
+Changes:
+. [Bug #126,#157,#194] Beta NTSC and cycle-accurate video support
+	TV Color, TV B&W, Monitor Color, Monitor B&W
+. Full-screen native resolution (no longer 640x480 resolution)
+. [Bug #260] Save-state file v2: human readable (Yaml-based format)
+	All hardware configurations save/restored:
+	. Apple model, sub-systems, memory, cards (except Uthernet and SAM cards)
+	Old v1 .aws file format still loaded
+. [Bug #270] Added SAM/DAC sound card support
+. AppleWin built with VS2008 Express (supports Windows 2000 or later)
+. Unit tests added for 6502 and 65C02 opcodes
+. Added -load-state <savestate.yaml> command line option
+. New repo created with test save-state images: https://github.com/AppleWin/AppleWin-Test
+. Remove unsupported PC speaker sound types
+. [PR #235] New start-up title screen by Paulo Garcia
+. [PR #233] Configuration Dialog->Disk tab: Buttons replaced with drop-down menu for select/eject by Paulo Garcia

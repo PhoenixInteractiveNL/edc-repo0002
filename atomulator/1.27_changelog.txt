@@ -1,0 +1,5 @@
+Changes - 25th July 2016
+------------------------
+
+v1.27: 
+Fixed 8271 writing that was broken in v1.26
