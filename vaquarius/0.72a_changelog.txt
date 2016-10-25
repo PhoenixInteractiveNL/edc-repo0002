@@ -1,0 +1,11 @@
+Changes - 5th August 2008
+-------------------------
+
+0.72a:
+Expansion RAM is now scrambled by the cartridge security (XOR)
+Improved "power up pattern" in RAM
+Support for the 16K+16K noncontiguous homebrew RAM expander which puts 16K of RAM in the cartridge area
+Save RAM behavior changed; doesn't filter memory through the cartridge scrambler.  LOL.  No, I can't make up my mind.
+Added in some more software images.
+Added the AQ_tapeldprep tool to the ML directory, which makes an _A.CAQ from a binary file, for use with the McNamara & Dubois tape loader program.
+
