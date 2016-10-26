@@ -1,0 +1,28 @@
+Changes - 28th November 2007
+----------------------------
+
+V2.6
+----
+1)   Debugger Only: Added a menu switch for undocumented opcodes. They are now OFF by default.
+2)   Debugger now loads symbols (-p "symbol.sym" on the command line). SNASM format.
+3)   Source now builds under VS2005
+4)   Updated Debugger to allow disassembly view movement. 
+     Page up/down, line up/down now moves disassembly view
+     SHIFT+Page up/down, line up/down now moves memory dump view
+5)   Dump of most of the hardware registers
+6)   Added a scrollable BAR to the disassembly view to allow the placement of breakpoints and nicer navigation
+7)   New debugger keys:
+            Cursor Up/Down              Move user bar
+            Page   Up/Down              page disassembly up/down
+    Shift + Cursor Up/Down              Move memory dump up/down a line
+    Shift + Page   Up/Down              page memory dump up/down
+            B                           Set Break point at current user bar address
+    Shift + B                           Set Break point at address/symbol
+            Enter                       Step a single instruction. If JSR/Branch then follow if need be.
+            Space                       Place a breakpoint after current instruction and RUN.
+            Cursor Right                If user bar is on a JSR/JMP, then read address and set window address to that.
+            Cursor Left                 If CursorRight has been used, then pop last address off and reset window.
+            M                           Set Memory window address
+            G                           Set Disassembly window address
+8)   Realtime code Profiling.
+9)   Fixed TURBO MODE (F5) so it now works again.

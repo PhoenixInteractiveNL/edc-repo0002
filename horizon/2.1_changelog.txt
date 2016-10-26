@@ -1,0 +1,22 @@
+Changes - 2nd September 2012
+----------------------------
+
+Sep 2012: v2.1 
+
+	- Keyboard layout fixed for non-UK users (Horizon now sets up keyboard mapping correctly)
+	- Left/right overscan tidied up for 960x768 display on Windows XP
+	- Sound emulation improved (e.g. Chuckie Egg, Frak, Galaforce)
+	- All three tone channels capable of independent sample/speech playback (e.g. Spy Hunter)
+	- Sample/speech playback improved (e.g. Spy Hunter, Bonecrusher)
+	- CRTC R12/R13 registers latching corrected (e.g. removes flicker in Fortress and Castle Quest)
+	- Horizon draws overscan with respect to VSYNC (*TV shifts MODEs 0-6 up and down)
+	- "Hide Vertical Overscan" option now only applies to full screen or maximised window
+	- Position of VSYNC in Mode 7 fixed
+	- Mode 7 flashing rates fixed
+	- 6502 CPU fixes
+	- Option to auto boot (Shift+Break) when bootable disk image inserted into Drive 0
+	- "Write Protect" is automatically set from disk image's read-only file attribute
+	- Demo tape files provided with INF files
+	- Trace output format improved
+	- Tidied sound tracing, no longer shows poked values
+	- Documentation updated
