@@ -1,0 +1,28 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2004-07-13 01:08:40 ....A        42104       767896  docs\graphics\chucky_cheese.png
+2004-07-13 01:08:40 ....A         6397               docs\graphics\circuit.png
+2004-07-13 01:08:40 ....A        62512               docs\graphics\console.png
+2004-07-13 01:08:40 ....A         3133               docs\graphics\jr_pacman.png
+2004-07-13 01:08:40 ....A         3155               docs\graphics\pacman.png
+2004-07-13 01:08:40 ....A         2669               docs\graphics\secret_quest.png
+2004-07-13 01:08:40 ....A         3043               docs\graphics\space_invaders.png
+2005-02-19 13:56:08 ....A        74847               docs\stella.html
+2005-02-19 13:56:06 ....A         1889               docs\Announce.txt
+2005-02-19 13:56:06 ....A        18068               docs\Changes.txt
+2005-02-19 13:56:06 ....A         1884               docs\Copyright.txt
+2001-12-27 18:24:12 ....A        17997               docs\License.txt
+2005-02-13 17:47:02 ....A          438               docs\README-SDL.txt
+2005-02-19 13:56:06 ....A          396               docs\Readme.txt
+2005-02-19 13:56:06 ....A         2032               docs\Todo.txt
+2005-02-19 16:48:02 ....A       977408               stella.exe
+2004-09-14 16:56:50 ....A       212992               StellaX.exe
+2004-01-14 19:01:44 ....A       230457               libpng.dll
+2004-12-15 19:24:14 ....A       237568               SDL.dll
+2003-12-13 06:00:22 ....A        70656               zlib1.dll
+2004-08-05 23:11:48 ....A       571723               stella.pro
+2009-02-28 22:10:36 D....            0            0  roms
+2009-02-28 22:10:36 D....            0            0  docs\graphics
+2009-02-28 22:10:36 D....            0            0  docs
+------------------- ----- ------------ ------------  ------------------------
+2009-02-28 22:10:36            2541368       767896  21 files, 3 folders

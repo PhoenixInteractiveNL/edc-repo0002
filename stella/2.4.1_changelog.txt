@@ -1,0 +1,7 @@
+2.4 to 2.4.1: (August 27, 2007)
+
+  * Re-added OpenGL aspect ratio setting ('gl_aspect' commandline argument).
+
+  * Re-added non-browser mode to the ROM launcher.
+
+  * For the Linux/UNIX port; fixed OpenGL vsync issue with Nvidia video cards

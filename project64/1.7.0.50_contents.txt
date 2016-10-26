@@ -1,0 +1,103 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-09-28 13:38:14 ....A       684362      1789003  PJgameFAQ-S.chm
+2010-09-28 13:40:24 ....A       464078               PJgameFAQ.chm
+2010-09-28 13:46:52 ....A       334348               Project64.chm
+2004-05-22 16:15:06 ....A          564               Project64.exe.manifest
+2014-06-22 18:07:18 ....A         5004               READ_ME!!!!!!!!.txt
+2010-04-17 23:06:46 ....A        26621               Plugin\GFX\1964Video.ini
+2004-08-01 19:56:54 ....A         7470               DarkMan_DInput_n64.ini
+2010-10-06 13:55:52 ....A        24432               Plugin\GFX\Glide64.ini
+2014-06-22 00:28:45 ....A           60               Plugin\Input\netplay_input_plugin.ini
+2007-12-24 09:02:08 ....A        18299               Plugin\GFX\RiceDaedalus5.2.0.ini
+2008-01-13 20:07:08 ....A        42181               Plugin\GFX\RiceVideo6.1.0.ini
+2002-11-20 13:29:06 ....A        52309               Plugin\GFX\tr64_ogl.ini
+2014-06-22 00:02:39 ..HSA         3072               textures-load\Thumbs.db
+2007-06-13 17:47:10 ....A            8               Config\Project64.cache
+2014-06-22 00:28:09 ....A        10056               Config\Project64.cache3
+2013-05-05 15:57:58 ....A         1033               Plugin\GFX\1964Video.cfg
+2014-06-22 00:28:24 ....A        29358               Config\Project64.cfg
+2010-10-21 17:22:04 ....A      1318635               Config\Project64.cht
+2002-08-28 19:21:04 ....A        21542               pif2.dat
+2007-04-08 13:43:44 ....A        13728               lang\Brazilian Portuguese.pj.Lang
+2007-04-08 13:43:44 ....A        13498               lang\Bulgarian.pj.Lang
+2007-04-08 13:43:44 ....A        10676               lang\Chinese (Simplified).pj.Lang
+2007-04-08 13:43:44 ....A        11207               lang\Chinese (Taiwan).pj.Lang
+2007-04-08 13:43:44 ....A        11360               lang\Chinese (Traditional).pj.Lang
+2007-04-08 13:43:44 ....A        10343               lang\ChineseB5.pj.lang
+2007-04-08 13:43:44 ....A        10266               lang\ChineseGB.pj.lang
+2007-04-08 13:43:44 ....A        13343               lang\Czech.pj.Lang
+2007-04-08 13:43:44 ....A        13300               lang\Danish.pj.Lang
+2007-04-08 13:43:44 ....A        13256               lang\Dutch.pj.Lang
+2007-04-08 13:43:44 ....A        12669               lang\English.pj.Lang
+2007-04-08 13:43:44 ....A        13101               lang\English_alternative.pj.Lang
+2007-04-08 13:43:44 ....A        14004               lang\Finnish.pj.Lang
+2007-04-08 13:43:44 ....A        14539               lang\French.pj.Lang
+2007-04-08 13:43:44 ....A        14132               lang\German.pj.Lang
+2007-04-08 13:43:44 ....A        14243               lang\German_int.pj.Lang
+2007-04-08 13:43:44 ....A        14014               lang\German_localised.pj.Lang
+2007-04-08 13:43:44 ....A        13778               lang\Greek.pj.Lang
+2007-04-08 13:43:44 ....A        13586               lang\Hungarian.pj.Lang
+2007-04-08 13:43:44 ....A        13969               lang\Italian.pj.Lang
+2007-04-08 13:43:44 ....A        14917               lang\Italian_alternative.pj.Lang
+2007-04-08 13:43:44 ....A        13324               lang\Japanese.pj.Lang
+2007-04-08 13:43:44 ....A        14236               lang\Lithuanian.pj.Lang
+2007-04-08 13:43:44 ....A        13528               lang\Norwegian.pj.Lang
+2007-04-08 13:43:44 ....A        13272               lang\Polish.pj.Lang
+2007-04-08 13:43:44 ....A        13294               lang\Russian.pj.Lang
+2008-12-28 19:43:06 ....A        15632               lang\Spanish (South America).pj.Lang
+2008-09-13 15:31:38 ....A        15497               lang\Spanish (Spain).pj.Lang
+2007-04-08 13:43:44 ....A        13502               lang\Swedish.pj.Lang
+2007-04-08 13:43:44 ....A        11205               lang\T-Chinese.pj.Lang
+2007-04-08 13:43:44 ....A        13056               lang\Ukrainian.pj.Lang
+2014-06-22 00:27:42 ....A       294055               Config\Project64.rdb
+2010-10-22 17:30:54 ....A       144103               Config\Project64.rdx
+2008-01-04 18:03:44 ....A          626               Config\Project64.sc2
+2014-06-22 00:08:10 ....A          814               Config\Project64.sc3
+2010-10-21 06:33:18 ....A       368128      3583630  Project64.exe
+2010-09-09 21:57:14 ....A      1406976               Plugin\GFX\1964Video.dll
+2004-08-18 09:22:00 ....A         4096               Plugin\Input\Adaptoid_v1_0.dll
+2003-04-25 17:00:16 ....A        22016               Plugin\Audio\AudioHLE.dll
+2005-05-08 19:28:26 ....A        17920               Plugin\Audio\AziAudio.dll
+2004-08-01 20:52:54 ....A       163840               Plugin\Input\DarkMan_DInput.dll
+2010-06-16 15:11:28 ....A       262144               glide3x.dll
+2010-10-18 18:05:46 ....A      2187264               Plugin\GFX\Glide64.dll
+2009-08-26 19:53:58 ....A       618496               Plugin\GFX\GlideHQ.dll
+2003-08-18 20:00:04 ....A       204800               Plugin\GFX\glN64_v0.4.1.dll
+2007-04-22 19:02:46 ....A        67072               Plugin\Input\Jabo_DInput.dll
+2005-03-26 10:39:54 ....A        68608               Plugin\Input\Jabo_DInput_1.6.dll
+2006-12-21 00:32:48 ....A       129024               Plugin\GFX\Jabo_Direct3D6.dll
+2010-10-21 06:58:50 ....A       358400               Plugin\GFX\Jabo_Direct3D8.dll
+2013-05-01 12:38:26 ....A        54784               Plugin\Audio\Jabo_Dsound.dll
+2004-01-23 08:18:00 ....A        37376               Plugin\GFX\Jabo_OpenGL.dll
+2003-03-18 17:44:52 ....A       499712               msvcp71.dll
+2000-11-29 00:37:30 ....A       307200               msvcr70.dll
+2003-02-21 03:12:22 ....A       348160               msvcr71.dll
+2005-08-26 22:10:00 ....A        92078               Plugin\RSP\mupen64_rsp_hle.dll
+2011-08-12 23:45:26 ....A       967680               Plugin\Input\netplay_input_plugin.dll
+2004-08-18 09:22:14 ....A        36864               Plugin\Audio\No Sound.dll
+2004-12-20 12:43:28 ....A       151552               Plugin\Input\NRage DInput8 V2.2.dll
+2004-02-12 20:40:54 ....A       577536               Plugin\GFX\RiceDaedalus5.4.2.dll
+2007-12-30 18:37:56 ....A      1040384               Plugin\GFX\RiceVideo.dll
+2010-10-17 14:06:28 ....A        73728               Plugin\RSP\RSP 1.7.dll
+2005-03-20 19:09:02 ....A       109568               Plugin\RSP\RSP.dll
+2004-01-10 15:12:26 ....A       372736               Plugin\GFX\tr64_ogl.dll
+2004-08-18 09:22:16 ....A        57344               Plugin\Audio\Zilmar_Audio.dll
+2005-05-08 13:56:44 ....A        55808               zlib1.dll
+2010-04-03 13:13:12 ....A        45056               Plugin\Audio\__Jabo_Dsound.dll
+2013-05-05 15:56:04 ....A            0            0  Config\Project64.rdn
+2013-05-05 15:56:04 ....A            0            0  Config\Project64.zcache
+2014-06-22 00:42:48 ....A            0            0  Logs\Project64.log
+2016-10-26 16:26:25 D....            0            0  textures-load
+2016-10-26 16:26:25 D....            0            0  Screenshots
+2016-10-26 16:26:25 D....            0            0  Save
+2016-10-26 16:26:23 D....            0            0  Plugin\RSP
+2016-10-26 16:26:23 D....            0            0  Plugin\Input
+2016-10-26 16:26:23 D....            0            0  Plugin\GFX
+2016-10-26 16:26:22 D....            0            0  Plugin\Audio
+2016-10-26 16:26:23 D....            0            0  Plugin
+2016-10-26 16:26:22 D....            0            0  Logs
+2016-10-26 16:26:22 D....            0            0  lang
+2016-10-26 16:26:22 D....            0            0  Config
+------------------- ----- ------------ ------------  ------------------------
+2016-10-26 16:26:25           14599855      5372633  88 files, 11 folders

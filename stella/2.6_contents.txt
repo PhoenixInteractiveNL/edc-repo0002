@@ -1,0 +1,45 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2008-05-16 17:00:10 ....A         9953      1218525  docs\graphics\cheat.png
+2008-05-16 17:00:10 ....A        42104               docs\graphics\chucky_cheese.png
+2008-05-16 17:00:10 ....A         6397               docs\graphics\circuit.png
+2008-05-16 17:00:10 ....A        62512               docs\graphics\console.png
+2008-05-16 17:00:10 ....A         5479               docs\graphics\eventmapping.png
+2008-05-16 17:00:10 ....A         5212               docs\graphics\eventmapping_remap.png
+2008-05-16 17:00:10 ....A         7364               docs\graphics\eventmapping_virtualdevs.png
+2008-05-16 17:00:10 ....A         3133               docs\graphics\jr_pacman.png
+2008-05-16 17:00:10 ....A        12784               docs\graphics\launcher.png
+2008-05-16 17:00:10 ....A        13357               docs\graphics\launcher_options_files.png
+2008-05-16 17:00:10 ....A        13258               docs\graphics\options.png
+2008-05-16 17:00:10 ....A        13678               docs\graphics\options_about.png
+2008-05-16 17:00:10 ....A        13181               docs\graphics\options_audio.png
+2008-05-16 17:00:10 ....A        13853               docs\graphics\options_gameinfo.png
+2008-05-16 17:00:10 ....A        13709               docs\graphics\options_help.png
+2008-05-16 17:00:10 ....A        14338               docs\graphics\options_input.png
+2008-05-16 17:00:10 ....A        13281               docs\graphics\options_romaudit.png
+2008-05-16 17:00:10 ....A        13512               docs\graphics\options_ui.png
+2008-05-16 17:00:10 ....A        14473               docs\graphics\options_video.png
+2008-05-16 17:00:10 ....A         3155               docs\graphics\pacman.png
+2008-05-16 17:00:10 ....A         2857               docs\graphics\romaudit.png
+2008-05-16 17:00:10 ....A        20906               docs\graphics\rominfo_1x_large.png
+2008-05-16 17:00:10 ....A        20240               docs\graphics\rominfo_1x_small.png
+2008-05-16 17:00:10 ....A        28316               docs\graphics\rominfo_2x_small.png
+2008-05-16 17:00:10 ....A        13274               docs\graphics\rom_browser.png
+2008-05-16 17:00:10 ....A         2669               docs\graphics\secret_quest.png
+2008-05-16 17:00:10 ....A         3043               docs\graphics\space_invaders.png
+2008-05-16 17:00:10 ....A        50798               docs\debugger.html
+2008-05-16 17:00:10 ....A       103493               docs\index.html
+2008-05-16 17:00:10 ....A         2044               docs\Announce.txt
+2008-05-16 17:00:10 ....A        48304               docs\Changes.txt
+2008-05-16 17:00:10 ....A         1941               docs\Copyright.txt
+2008-05-16 17:00:10 ....A        18336               docs\License.txt
+2008-05-16 17:00:10 ....A          434               docs\README-SDL.txt
+2008-05-16 17:00:10 ....A          400               docs\Readme.txt
+2008-05-16 17:00:10 ....A         1550               docs\Todo.txt
+2008-05-16 17:00:10 ....A      2873344               Stella.exe
+2008-05-16 17:00:10 ....A       321536               SDL.dll
+2008-05-16 17:00:10 ....A        74240               zlib1.dll
+2009-02-28 21:45:25 D....            0            0  docs\graphics
+2009-02-28 21:45:25 D....            0            0  docs
+------------------- ----- ------------ ------------  ------------------------
+2009-02-28 21:45:25            3882458      1218525  39 files, 2 folders

@@ -1,0 +1,40 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2006-01-28 13:32:30 ....A         4636      1232731  docs\graphics\cheat.png
+2006-01-28 13:32:30 ....A        42104               docs\graphics\chucky_cheese.png
+2006-01-28 13:32:30 ....A         6397               docs\graphics\circuit.png
+2006-01-28 13:32:30 ....A        62512               docs\graphics\console.png
+2006-01-28 13:32:30 ....A         6237               docs\graphics\eventmapping.png
+2006-01-28 13:32:30 ....A         6452               docs\graphics\eventmapping_remap.png
+2006-01-28 13:32:30 ....A         3133               docs\graphics\jr_pacman.png
+2006-01-28 13:32:30 ....A         8506               docs\graphics\launcher.png
+2006-01-28 13:32:30 ....A         6835               docs\graphics\launcher_options_rom.png
+2006-01-28 13:32:30 ....A         7340               docs\graphics\launcher_options_snap.png
+2006-01-28 13:32:30 ....A         5706               docs\graphics\options_about.png
+2006-01-28 13:32:30 ....A         5599               docs\graphics\options_audio.png
+2006-01-28 13:32:30 ....A         6644               docs\graphics\options_gameinfo.png
+2006-01-28 13:32:30 ....A         6424               docs\graphics\options_help.png
+2006-01-28 13:32:30 ....A        21006               docs\graphics\options_video.png
+2006-01-28 13:32:30 ....A         3155               docs\graphics\pacman.png
+2006-01-28 13:32:30 ....A         6102               docs\graphics\rom_browser.png
+2006-01-28 13:32:30 ....A         2669               docs\graphics\secret_quest.png
+2006-01-28 13:32:30 ....A         3043               docs\graphics\space_invaders.png
+2006-01-28 13:32:30 ....A        49747               docs\debugger.html
+2006-01-28 13:32:30 ....A        83957               docs\stella.html
+2006-01-28 13:32:30 ....A         1923               docs\Announce.txt
+2006-01-28 13:32:30 ....A        26972               docs\Changes.txt
+2006-01-28 13:32:30 ....A         1884               docs\Copyright.txt
+2006-01-28 13:32:30 ....A        17997               docs\License.txt
+2006-01-28 13:32:30 ....A         1292               docs\README-PSP.txt
+2006-01-28 13:32:30 ....A          423               docs\README-SDL.txt
+2006-01-28 13:32:30 ....A          393               docs\Readme.txt
+2006-01-28 13:32:30 ....A         1583               docs\Todo.txt
+2006-01-28 13:30:08 ....A      3654819               stella.exe
+2006-01-28 13:32:30 ....A       140288               libpng12.dll
+2006-01-28 13:32:30 ....A       237568               SDL.dll
+2006-01-28 13:32:30 ....A        74240               zlib1.dll
+2006-01-28 13:32:30 ....A       580718               stella.pro
+2009-02-28 22:01:25 D....            0            0  docs\graphics
+2009-02-28 22:01:25 D....            0            0  docs
+------------------- ----- ------------ ------------  ------------------------
+2009-02-28 22:01:25            5088304      1232731  34 files, 2 folders

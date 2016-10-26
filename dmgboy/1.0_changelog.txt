@@ -1,0 +1,15 @@
+DMGBoy 1.0 (2012-10-19)
+* Added a OpenGL renderer. This decrease the use of the cpu when the size of the window is bigger than 1.
+* Added fullscreen mode (only in the OpenGL mode)
+* Improved the audio in Linux
+* Improved the stability in computers with poor performance
+* Improved the internal timer
+* Improved interruptions
+* Other minor improvements in accuracy
+* Changed the default keys to Up, Down, Left, Right, A, S, Shift, Return. This change is because most of the keyboards can't
+notify the press of 4 keys in the previous configuration. And The Legend of Zelda requires that A, B, Select,
+Start keys are pressed to save the game
+* Fixed bug in the MBCs
+* Fixed bug in the SBC instruction (The sprite of the main character in the game Battletoads is rendered properly)
+* Fixed the E8, F8 instructions
+* Visual C++ 2010 redistributable included in the windows installer (no need to download it)

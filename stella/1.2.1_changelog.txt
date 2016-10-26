@@ -1,0 +1,3 @@
+Cyberstella 1.2.1 (May 16, 2002)
+
+  * Removed the built-in games until some legal stuff is sorted out

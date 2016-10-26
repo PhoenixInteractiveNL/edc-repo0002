@@ -1,0 +1,7 @@
+2.4.1 to 2.4.2: (September 17, 2007)
+
+  * Made usage of 'GL_TEXTURE_RECTANGLE_ARB' extension configurable, and
+    have it default to off.  This should take care of the black/white
+    screen many people were experiencing with ATI video hardware.  This
+    is accessible using the 'gl_texrect' commandline argument).  Set it to
+    'true' or 'false' to enable/disable the extension.

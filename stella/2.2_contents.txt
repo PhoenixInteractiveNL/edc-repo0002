@@ -1,0 +1,38 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2006-04-05 22:49:36 ....A         4636      1398765  docs\graphics\cheat.png
+2006-04-05 22:49:36 ....A        42104               docs\graphics\chucky_cheese.png
+2006-04-05 22:49:36 ....A         6397               docs\graphics\circuit.png
+2006-04-05 22:49:36 ....A        62512               docs\graphics\console.png
+2006-04-05 22:49:36 ....A        22718               docs\graphics\eventmapping.png
+2006-04-05 22:49:36 ....A        23385               docs\graphics\eventmapping_remap.png
+2006-04-05 22:49:36 ....A         3133               docs\graphics\jr_pacman.png
+2006-04-05 22:49:36 ....A        24481               docs\graphics\launcher.png
+2006-04-05 22:49:36 ....A        23790               docs\graphics\launcher_options_rom.png
+2006-04-05 22:49:36 ....A        23535               docs\graphics\launcher_options_snap.png
+2006-04-05 22:49:36 ....A        20880               docs\graphics\options_about.png
+2006-04-05 22:49:36 ....A        19263               docs\graphics\options_audio.png
+2006-04-05 22:49:36 ....A        22189               docs\graphics\options_gameinfo.png
+2006-04-05 22:49:36 ....A        21216               docs\graphics\options_help.png
+2006-04-05 22:49:36 ....A        22319               docs\graphics\options_video.png
+2006-04-05 22:49:36 ....A         3155               docs\graphics\pacman.png
+2006-04-05 22:49:36 ....A        22327               docs\graphics\rom_browser.png
+2006-04-05 22:49:36 ....A         2669               docs\graphics\secret_quest.png
+2006-04-05 22:49:36 ....A         3043               docs\graphics\space_invaders.png
+2006-04-05 22:49:36 ....A        49747               docs\debugger.html
+2006-04-05 22:49:36 ....A        83109               docs\index.html
+2006-04-05 22:49:36 ....A         1960               docs\Announce.txt
+2006-04-05 22:49:36 ....A        29850               docs\Changes.txt
+2006-04-05 22:49:36 ....A         1884               docs\Copyright.txt
+2006-04-05 22:49:36 ....A        17997               docs\License.txt
+2006-04-05 22:49:36 ....A          423               docs\README-SDL.txt
+2006-04-05 22:49:36 ....A          393               docs\Readme.txt
+2006-04-05 22:49:36 ....A         1583               docs\Todo.txt
+2006-04-05 22:47:30 ....A      4241586               stella.exe
+2006-04-05 22:49:38 ....A       140288               libpng12.dll
+2006-04-05 22:49:38 ....A       237568               SDL.dll
+2006-04-05 22:49:38 ....A        74240               zlib1.dll
+2009-02-28 22:01:35 D....            0            0  docs\graphics
+2009-02-28 22:01:35 D....            0            0  docs
+------------------- ----- ------------ ------------  ------------------------
+2009-02-28 22:01:35            5254380      1398765  32 files, 2 folders
