@@ -1,0 +1,25 @@
+Changes - 11th May 2013
+-----------------------
+
+- Various VIA6522 emulation tweaks (but shift register emulation is still a
+  bit incorrect)
+- Fixed dead lock bug in the high-tap-count SINC resampler SSE consolve
+  inline assembler routine in the SID emulation.
+- Various another small fixes.
+- Added black frame insertion feature for >=100Hz monitors. (Untested,
+  because I myself have no such monitor)
+- Added BMP screenshot function, the BMP screenshot files will be stored
+  under ~/.micro64/screenshots/ on linux and MacOSX systems and under
+  <SystemDrive>:\Users\<User>\AppData\Roaming\micro64\screenshots\ on
+  NT-based Windows systems. And the keyboard shortcut for screenshots is
+  Alt+S
+- Added AVI video capturing function with own Open-DML AVI writer and I420
+  encoder routines, the AVI video files will be stored under
+  ~/.micro64/videos/ on linux and MacOSX systems and under
+  <SystemDrive>:\Users\<User>\AppData\Roaming\micro64\videos\ on NT-based
+  Windows systems. And for this function is no keyboard shortcut, just the
+  menu point in the main menu, for to avoid miss-started video captures.
+- Made the source code compatible with Borland Delphi XE4 just for me for
+  to work with the newer Delphi IDE on micro64, so the public release
+  binaries were, are and will be still in future compiled with FreePascal.
+  :-)

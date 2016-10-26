@@ -1,0 +1,5 @@
+Changes - 8th August 2008
+-------------------------
+
+- Memory allocation bug in DIB draw code part fixed
+- SID delta cycle counting in CPU dynarec engine improved

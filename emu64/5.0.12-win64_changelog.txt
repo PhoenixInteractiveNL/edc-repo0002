@@ -1,0 +1,14 @@
+Changes - 14th August 2016
+--------------------------
+
+Changes: 
+SID Output Volume can now be adjusted via Settings-> Sound 
+FloppyWindow completely reworked 
+Context menu in the D64 table of contents window again inserted, as well as Autostart by double-clicking 
+An empty D64 image can now be created again 
+PRG export also reinstalled 
+CRT by double-clicking 
+Disk change simulation revised 
+Blind mode for D64 table of contents 
+A changed D64 discimage is now saved correctly again 
+C64 screen title text is now also translated 

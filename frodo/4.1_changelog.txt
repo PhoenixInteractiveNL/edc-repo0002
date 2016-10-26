@@ -1,0 +1,18 @@
+Changes - 24th November 1997
+----------------------------
+
+V4.1
+Integrated Win32 and RiscOS ports 
+Snapshot support 
+Added page-crossing and "borrowed" cycles in line-based CPU emulation (Frodo PC) 
+Added precise CIA cycles for line-based emulation (Frodo PC) 
+Optional fixed-point arithmetic and precomputed filters in SID.cpp 
+Optional dynamic alignment checks in VIC.cpp 
+Changed typedefs and constants (BYTE, WORD etc.) 
+Unix: Better configure script 
+Unix: Sound support for Solaris 2.x 
+Unix: Joystick can be toggled between port 1/2 with the NumLock key 
+Unix: US keyboard layouts supported 
+BeOS: Fixed for BeOS AA:DR9 
+BeOS: Can now switch between window/screen mode while the emulation is running, speeded up full screen mode 
+BeOS: Prefs saved in /system/settings/Frodo_settings by default 

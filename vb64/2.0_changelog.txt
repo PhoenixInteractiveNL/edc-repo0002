@@ -1,0 +1,11 @@
+Changes - 8th Decmeber 2004
+---------------------------
+
+Some cpu opcodes fixed, better timing
+better emulation of Vic interupts
+better badline emulation. (still not perfect)
+sprite's coordinates now correct
+Digi sounds will now play. (not perfect)
+way better pulse width modulation, follows real sid more closely
+ADSR is better but still has flaws
+speed throttling always now, slow code here needs rewrite

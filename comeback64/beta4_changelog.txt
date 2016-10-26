@@ -1,0 +1,14 @@
+Changes - 8th November 1999
+---------------------------
+
+Comeback 64 Windows Port Beta 4
+-------------------------------
+Done: Sound _is_ emulated (YES!!!!)
+Done: some minor bugs
+
+ToDo: Hardsid support
+ToDo: Windows help file should be added
+ToDo: Cool icon should be designed
+ToDo: Joystick emulation should be enhanced
+ToDo: Screenshot function should be added
+ToDo: Additional Hardware may be emulated
