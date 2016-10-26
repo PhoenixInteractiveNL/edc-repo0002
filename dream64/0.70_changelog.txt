@@ -1,0 +1,17 @@
+Changes - 22nd September 2009
+-----------------------------
+
+v0.70 - First public release.
+
+Features:
+=========
+    * Cycle (almost) exact commodore 64 CPU's emulation (PAL)
+    * Cycle exact VIC emulation, all graphic modes, sprites etc. (PAL)
+    * SID Emulation (filters are not implemented)
+    * One 1541 Drive (CPU emulated)
+    * Joystick emulation (you can "plug" one joystick on port 1 or 2 of the C64), use the numeric Pad or a real PC GamePad.
+    * Direct3D display with bilinear filtering and fullscreen mode (ALT+Enter)
+    * Auto load function (tries to load a disk or tape image automatically )
+    * A very primitive debugger for C64 CPU and 1541 CPU
+    * PRG P00 D64 T64 file support
+

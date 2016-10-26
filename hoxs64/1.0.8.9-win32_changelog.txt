@@ -1,0 +1,8 @@
+Changes - 9th May 2016
+----------------------
+
+v1.0.8.9
+========
+
+1) Fix VIC where a write to the raster compare register was causing a raster IRQ to occur one clock too soon.
+This fixes "Vandalism News #64" http://csdb.dk/release/?id=138976 reported by iAN CooG/HokutoForce.
