@@ -1,0 +1,13 @@
+Changes - 26th July 2016
+------------------------
+
+- [NEW] show subfolders as CBM type in IEC/filesystem mode
+- [NEW] monitor watchpoint/breakpoint ranges
+- [NEW] watchpoint context now also displayed when hit
+- [NEW] improved speedometer to better cater for non-standard, longer frames
+- [FIX] occasionally stuck joystick states when emulated thru the keyboard (long outstanding bug!)
+- [FIX] uninitialized variable in a newly optimized part of SID engine
+- [FIX] minor monitor GUI improvements
+- [FIX] digitized palette in non-CRT mode
+- [FIX] rasterline counter overflow fix
+- [FIX] save PRG dialog crash
