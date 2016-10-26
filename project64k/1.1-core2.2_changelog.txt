@@ -1,0 +1,9 @@
+Run the installer first. PLEASE BEWARE OF BLOATWARE which comes with the installer; recommend saying no/skip/cancel to the two choices. This was always part of the 2.2 installer; I did not add this.
+
+Then, put kailleraclient.dll in the main directory.
+
+Normal configuration and you should be good to go.
+
+Currently seems to stay synced with all video, audio, and RSP plugins tested. Desynchs on random events with older input plugins. Strongly recommend using stock input plugin.
+
+Known issues are documented in the issues section.

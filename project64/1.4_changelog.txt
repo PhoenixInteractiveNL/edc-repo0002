@@ -1,0 +1,67 @@
+R4300i Core and Executable
+- fix bug in DSLL32
+- fix bug in initial registers
+- fix bug in mtc0
+- re did cheats totaly
+- added self mod method change memory
+- fixed mempak
+- fixed manual and auto pauses
+- made ini files able to read/write beyond 64k
+- Added disabled advanced Linking
+- added Idle time to cpu %'s
+- pauses now when minimized
+- fixed mario party 3 complaining when it was reset
+- added rom browser
+- added change memory & cache as a self mod method
+- re-wrote a lot of fpu again
+- fixed bug in sdr
+- added ll & sc
+- added rom registration
+- Added large compile buffer option
+- Disable Advance linking as a system option
+- added ability to go to full screen on rom open
+- re did how speed limitor work as an option
+- hopefully cheats with same name in different trees now work
+
+Direct3D
+
+- environment mapping more accurate
+- rewrote fog to be more accurate (buggy sometimes tho)
+- Updated to Direct3D 7.0
+- added support for Perfect Dark
+- added support for Jet Force Gemini
+- added support for Diddy Kong Racing
+- implemented better scissoring emulation
+- Rewrote the blending emulation
+- Display List culling improved
+- Improved 3D and 2D texture addressing
+- Improved 2D texture drawing
+- Improved combiner constant, and lerp handling
+- Implemented better ways of handling problems in GE and Bust-a-move-2
+- Higher quality coplanar surfaces on recent video cards
+- anisotropic filtering option
+- added an option to use anti-aliasing
+- Moved force-filtering and culling to different tabs
+- improved ucode selection handling
+- Added Apply button to the configuration
+- Expanded the vsync option for full screen
+- Removed auto frame buffer emulation, added buffer clears
+- texture quality option redone
+- TNT support improved but slower (use validate blending)
+- Full screen ALT+TAB is now more reliable (Win98 only?)
+- Fewer exception errors during execution
+- Project64 rom database has Graphics options to help
+
+RSP
+
+- Interpreter core integrated better
+- Options dialog redone, new options available
+
+Direct Sound
+
+- Removed exception handling from the thread
+- Changed the way the queue thread stops and starts
+
+Direct Input
+
+- new mempak option

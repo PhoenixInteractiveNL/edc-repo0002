@@ -1,0 +1,53 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2012-04-10 13:56:25 ....A         4095       484200  AQZ Netplay Help.txt
+2001-07-22 20:20:04 ....A         2089               Uninstall\location info.txt
+2001-12-25 01:40:12 ....A           48               Uninstall\README.TXT
+2001-12-25 01:11:16 ....A         4441               Uninstall\WhatsNew.txt
+2012-07-02 11:45:21 ....A         4946               Auto Settings.reg
+2001-12-25 03:19:18 ....A          613               Uninstall\remove all Project64 settings.reg
+2001-12-25 01:37:18 ....A          559               Uninstall\remove Project64 application settings.reg
+2001-12-25 01:33:58 ....A          164               Uninstall\remove Project64 plugins settings.reg
+2012-07-02 11:34:19 ....A        42251               Plugin\Glide64.ini
+2012-07-02 11:50:26 ....A         1912               n02.ini
+2011-06-05 03:50:27 ....A         2765               Plugin\NRage.ini
+2012-04-10 13:41:29 ....A      3656484               Config\PJ.cht
+2003-04-11 01:24:28 ....A          203               Plugin\sidewinder USB.ctp
+2012-04-17 18:17:16 ....A          448               Save\MARIOKART64.eep
+2003-04-11 01:07:10 ....A          144               Plugin\sidewinder USB.jsf
+2012-07-02 11:48:32 ....A        70911               Config\PJk.lng
+2012-06-06 12:35:09 ....A          116               Logs\Direct3D8 Error.log
+2012-06-07 19:07:27 ....A           68               Logs\DirectSound Error.log
+2012-07-02 11:49:32 ....A       290005               Config\PJ.rdb
+2012-04-10 00:37:05 ....A           97               Config\Project64.rdb
+2001-12-25 04:00:28 ....A          343               Config\PJ.rdx
+2012-07-02 11:34:21 ....A         3036               Save\Kaillera.sra
+2012-06-05 16:07:28 ....A         3036               Save\SMASH BROTHERS.sra
+2012-07-02 11:42:19 ....A       557056      2140116  Project64k.exe
+2001-09-25 15:42:02 ....A         4096               Plugin\Adaptoid_v1_0.dll
+2003-04-25 21:30:16 ....A        22016               Plugin\AudioHLE.dll
+2005-05-08 23:28:26 ....A        17920               Plugin\AziAudio.dll
+2011-12-29 09:23:56 ....A       262144               glide3x.dll
+2011-12-29 09:35:22 ....A      2215936               Plugin\Glide64.dll
+2010-04-18 04:14:50 ....A       654848               Plugin\GlideHQ.dll
+2011-09-10 11:50:16 ....A        64000               Plugin\Jabo_DInput 1.6.dll
+2001-12-01 10:54:32 ....A        26624               Plugin\Jabo_DInput.dll
+2001-12-25 20:02:42 ....A        71168               Plugin\Jabo_Direct3D6_1.40.dll
+2012-03-20 18:42:44 ....A       488960               Plugin\Jabo_Direct3D8.dll
+2005-03-20 23:10:50 ....A        54784               Plugin\Jabo_Dsound.dll
+2001-12-11 15:44:26 ....A        21504               Plugin\Jabo_Dsound_1.40.dll
+2011-08-13 22:52:27 ....A       109056               Config\Netplay.dll
+2011-08-13 14:45:26 ....A       967680               Plugin\netplay_input_plugin 0.2.dll
+2000-11-04 09:12:18 ....A        36864               Plugin\No Sound.dll
+2011-04-03 19:33:42 ....A        37888               Plugin\NRage1.6.dll
+2001-12-10 00:52:18 ....A        79360               Plugin\RSP.dll
+2012-04-10 15:01:03 ....A            0            0  DirectInput7 Error.log
+2016-10-26 16:13:34 D....            0            0  Uninstall
+2016-10-26 16:13:34 D....            0            0  Save
+2016-10-26 16:13:36 D....            0            0  Roms
+2016-10-26 16:13:36 D....            0            0  records
+2016-10-26 16:13:36 D....            0            0  Plugin
+2016-10-26 16:13:34 D....            0            0  Logs
+2016-10-26 16:13:36 D....            0            0  Config
+------------------- ----- ------------ ------------  ------------------------
+2016-10-26 16:13:36            9780678      2624316  42 files, 7 folders

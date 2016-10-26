@@ -1,0 +1,11 @@
+v1.5.1
+
+Direct3D6
+
+just a few tweaks made soon after v1.5 was released,
+that hopefully helped with the "pausing" problem:
+
+optimised texture cache
+better matrix stack handling
+optimized texture gen with SSE
+less memory uses, faster searches 

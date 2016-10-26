@@ -1,0 +1,29 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2002-01-05 00:03:38 ....A         5985       435240  Advanced_Users.txt
+1999-05-12 12:29:38 ....A        11201               dist.txt
+2002-01-05 05:03:32 ....A         1453               ini whats new.txt
+2001-10-04 18:51:00 ....A         7028               plugin\NooTe_Di.txt
+2002-01-04 17:51:22 ....A         5575               plugin\readme.txt
+2002-01-05 05:17:30 ....A         5184               readme.txt
+2003-01-05 04:48:20 ....A          127               uninstall\readme_uninstall.txt
+2002-01-05 05:14:02 ....A          219               uninstall\Click to Uninstall 1964 for Windows98 WinMe 95.reg
+2003-01-05 04:46:34 ....A          504               uninstall\Click to Uninstall 1964 for XP 2000 NT.reg
+2002-01-05 05:16:32 ....A        83501               1964.ini
+2002-01-05 04:28:20 ....A       107520               1964.exe
+2001-10-05 23:48:24 ....A        57856               plugin\1964ogl.dll
+2002-01-04 19:02:46 ....A        25600               plugin\AudioBeta.dll
+2001-10-05 18:59:54 ....A        22016               plugin\AudioHLE2.dll
+2000-10-29 04:29:14 ....A        28672               plugin\Basic Audio Plugin.dll
+2000-12-02 11:32:12 ....A        27136               plugin\Basic Keyboard Plugin.dll
+2001-06-01 17:05:20 ....A        28160               KailleraClient.dll
+2000-11-04 08:12:18 ....A        36864               plugin\No Sound.dll
+2001-10-05 15:50:36 ....A       108544               plugin\NooTe_DI.dll
+1998-07-11 21:13:00 ....A        35328               zlib.dll
+2001-11-11 02:34:28 ....A       145427               1964cheatcode.dat
+2009-07-20 00:08:35 D...A            0            0  save
+2009-07-20 00:08:35 D...A            0            0  plugin
+2003-01-05 04:45:32 ....A            0            0  save\dummy.txt
+2009-07-20 00:08:35 D...A            0            0  uninstall
+------------------- ----- ------------ ------------  ------------------------
+2009-07-20 00:08:35             743900       435240  22 files, 3 folders

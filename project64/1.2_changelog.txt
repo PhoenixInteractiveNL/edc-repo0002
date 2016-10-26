@@ -1,0 +1,50 @@
+Changes from 1.1 to 1.2:
+------------------------
+
+R4300i Core and Executable
+
+- fixed 16k eeprom
+- On timer exit block
+- fixed another bug in dsrlv & dsrav
+- Fixed timer interrupt bug
+- fixed a bug in bltz
+- Fixed a bug in MapTempReg
+- Fixed GE pal not booting
+- fixed jr & added floor.w.s to recompiler
+- re-wrote tlb probe
+- fixed up how cheats save
+- added ability to see cpu usage
+- fixed up retrieveing correct halfline
+- removed RSP plugin selection
+
+Direct3D 6.0
+
+- Tweaked validate blending a little bit (cleanup pending)
+- Added fill mode to the d3d6 mode switching routines so preserves in window changes
+- cleaned up some old texture gen code
+- Rewrote the z-buffer creation a little, probably wont help
+- Implemented about 15 or so more auto-detected ucodes, crc's values courtesy of Smiff
+- Fixed lots of Zelda OoT and Mask of Mujura, too much to name
+- Fixed lots of RivaTNT and GeForce issues, hopefully better drivers will make these fixes not needed in the future
+- fixed black bulldozer in Blast Corps
+- rewrote the blending structure a little
+- should save last window position for window changes, instead of centering..
+- tweaked lots of the tmu cache stuff, might give extra performance, and more accuracy
+- remembers more about the window position, and doesn't modify it as easily
+
+OpenGL
+
+- Implemented about 16 or so more auto-detected ucodes, crc's values courtesy of Smiff
+- tweaked lots of the tmu cache stuff, might give extra performance, and more accuracy
+- cleaned up some old texture gen code
+
+RSP Compiler
+
+- Missing functionality not present on Non-Pentium II class computers is now emulated via multiple x86 instructions, instead of not working at all
+- Corrected some potential SSE problems, which shouldn't be hit, but could of been
+- Integrated all RSP stuff into one DLL, Audio HLE is now an option via the config dialog
+
+DirectInput
+
+- Other small modifications to help like POV support
+- Fixed where you can hit multiple buttons at once when it's waiting for polling already

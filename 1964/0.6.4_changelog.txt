@@ -1,0 +1,9 @@
+What's New in Brief
+===================
+
+- Improved compatibility and bug fixes
+- Improved stability, user interface, and speed - including a new fast TLB method
+- New memory model
+- Speed sync
+- Tons of new cheats by DSF
+- New DirectInput plugin by NooTe (requires DirectX8.0a or newer)

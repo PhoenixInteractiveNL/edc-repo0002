@@ -1,0 +1,53 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2001-12-25 06:20:50 ....A       213514       775366  Project64.chm
+2000-10-29 08:22:24 ....A         7759               Spec\Audio #1.1.h
+2000-12-02 12:09:58 ....A         8254               Spec\Controller #1.0.h
+2001-11-30 16:15:48 ....A         8890               Spec\Controller #1.1.h
+2000-10-21 08:51:10 ....A         9124               Spec\Gfx #1.2.h
+2001-08-11 13:01:22 ....A        10248               Spec\Gfx #1.3.h
+2001-08-11 13:04:14 ....A         7474               Spec\Rsp #1.1.h
+2001-08-31 15:25:54 ....A         9635               Docs\N-Rage\Manual.html
+2001-08-31 22:21:32 ....A         1855               Docs\N-Rage\Readme.html
+2001-12-24 12:04:20 ....A         7612               Docs\Cheat Codes\Changes.txt
+2001-07-22 22:20:04 ....A         2089               Uninstall\location info.txt
+2001-12-23 00:06:36 ....A         3103               Docs\Cheat Codes\Notes from Eagle.txt
+2001-12-24 12:33:44 ....A         3759               Docs\Cheat Codes\Notes from The Gentleman.txt
+2001-12-01 23:58:26 ....A         1538               Spec\Plugin Spec history.txt
+2001-12-06 20:19:00 ....A         3244               Docs\Cheat Codes\Readme.txt
+2001-12-25 03:40:12 ....A           48               Docs\Translations\README.TXT
+2001-12-25 03:40:12 ....A           48               Uninstall\README.TXT
+2001-12-25 12:17:34 ....A        14701               Readme.txt
+2001-12-25 03:11:16 ....A         4441               Docs\Translations\WhatsNew.txt
+2001-12-25 03:11:16 ....A         4441               Uninstall\WhatsNew.txt
+2001-12-25 12:18:50 ....A         2231               Whatsnew.txt
+2001-12-25 05:19:18 ....A          613               Uninstall\remove all Project64 settings.reg
+2001-12-25 03:37:18 ....A          559               Uninstall\remove Project64 application settings.reg
+2001-12-25 03:33:58 ....A          164               Uninstall\remove Project64 plugins settings.reg
+2001-12-23 09:00:56 ....A       169984               Project64.exe
+2001-09-25 16:42:02 ....A         4096               Plugin\Adaptoid_v1_0.dll
+2001-12-01 12:54:32 ....A        26624               Plugin\Jabo_DInput.dll
+2001-12-25 21:02:42 ....A        71168               Plugin\Jabo_Direct3D6.dll
+2001-12-25 21:02:42 ....A        71168               Plugin\Jabo_Direct3D7.dll
+2001-12-11 17:44:26 ....A        21504               Plugin\Jabo_Dsound.dll
+2000-11-04 09:12:18 ....A        36864               Plugin\No Sound.dll
+2001-11-27 15:35:48 ....A        38400               Plugin\NRage_DInput8.dll
+2001-12-10 01:52:18 ....A        79360               Plugin\RSP.dll
+2001-05-24 12:02:22 ....A        57344               Plugin\Zilmar_Audio.dll
+2001-12-25 05:00:52 ....A       533997               Project64.cht
+2001-12-25 21:29:30 ....A        70782               Project64.lng
+2001-12-25 06:17:06 ....A       289703               Project64.rdb
+2001-12-25 05:00:28 ....A          343               Project64.rdx
+2001-07-22 13:01:24 ....A          176               Docs\FAQ.URL
+2001-07-23 06:48:04 ....A          182               Docs\Known Issues.url
+2001-08-25 00:27:40 ....A           73               Docs\N-Rage\N-Rage Plugin Website.url
+2001-12-25 07:42:06 ....A          422               Docs\Project64 Message Board.url
+2008-12-12 22:18:38 D...A            0            0  Uninstall
+2008-12-12 22:18:38 D...A            0            0  Spec
+2008-12-12 22:18:38 D...A            0            0  Plugin
+2008-12-12 22:18:38 D...A            0            0  Docs\Translations
+2008-12-12 22:18:38 D...A            0            0  Docs\N-Rage
+2008-12-12 22:18:38 D...A            0            0  Docs\Cheat Codes
+2008-12-12 22:18:38 D...A            0            0  Docs
+------------------- ----- ------------ ------------  ------------------------
+2008-12-12 22:18:38            1797534       775366  42 files, 7 folders

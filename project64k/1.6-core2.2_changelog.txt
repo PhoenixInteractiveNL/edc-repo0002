@@ -1,0 +1,3 @@
+Cheat sync is now fully supported over kaillera! Now we're getting somewhere!
+
+Please report all bugs in the issues section.

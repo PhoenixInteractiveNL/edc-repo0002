@@ -1,0 +1,28 @@
+v1.6
+
+R4300i core and executable
+
+- support for rumble enabled controller plugins
+- marked some memory allocations with execute flag
+- game fixes for DK64, Hydro Thunder, etc
+- enable perm cheats
+- fixed gui issues
+- reduced memory usage
+
+Direct3D6
+
+- Pilotwings no longer crashes
+- Fixed drivers that have incorrect depth buffer caps
+
+Direct3D8
+- Added new plugin
+
+RSP
+
+- minor compiler tweaks for speed
+
+Direct Input
+
+- support for more axes 
+- warn user when configuring button already set
+- rumble support using force feedback

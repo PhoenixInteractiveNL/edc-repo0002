@@ -1,0 +1,46 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2012-07-03 05:43:48 ....A         2112       692774  horizon.config
+2012-06-24 10:58:18 ....A          276               Docs\joy.config examples\revs\joy.config
+2012-06-24 10:58:42 ....A          395               Docs\joy.config examples\elite\joy.config
+2012-06-24 10:58:56 ....A          210               Docs\joy.config examples\meteor\joy.config
+1997-03-06 05:07:18 ....A         6068               Sound\SOUND.DAT
+2012-09-02 10:08:20 ....A       320000               Horizon 2.1.exe
+2012-06-29 02:16:16 ....A           16               Tapes\demo\3DMAZE.inf
+2012-06-13 02:46:52 ....A           18               Tapes\arcadians\ARC.INF
+2012-06-29 02:16:46 ....A           17               Tapes\demo\DISDUMP.inf
+2012-06-13 03:49:34 ....A           18               Tapes\demo\MODE8.INF
+2012-06-29 02:17:20 ....A           17               Tapes\demo\STELLAR.inf
+2012-06-29 02:17:40 ....A           18               Tapes\demo\TRIANGLE.inf
+2012-09-02 06:08:00 ....A       633152               Docs\Horizon 2.1 User Guide.pdf
+2012-06-09 02:34:40 ....A        16384               Roms\Basic2.rom
+2000-09-07 15:29:58 ....A        16384               Roms\DFS120.rom
+1996-01-01 08:59:00 ....A        16384               Roms\MOS120.rom
+2012-05-24 08:51:16 .R..A          512               Disks\_blank.ssd
+2012-06-23 08:40:04 ....A        20480               Disks\arcadians\arcadians.ssd
+2012-06-13 03:55:08 ....A        11008               Disks\demo\demo.ssd
+2012-06-23 08:42:26 ....A          118               Disks\arcadians\readme.txt
+2012-06-23 08:42:00 ....A           80               Tapes\arcadians\readme.txt
+2012-09-03 03:04:44 ....A         1133               Version history.txt
+2012-06-13 02:46:52 ....A        19456               Tapes\arcadians\ARC
+2012-06-29 02:16:16 ....A         3228               Tapes\demo\3DMAZE
+2012-06-29 02:16:46 ....A         6393               Tapes\demo\DISDUMP
+2012-06-13 03:49:34 ....A          313               Tapes\demo\MODE8
+2012-06-29 02:17:20 ....A         7699               Tapes\demo\STELLAR
+2012-06-29 02:17:40 ....A           88               Tapes\demo\TRIANGLE
+2012-06-29 02:17:40 D....            0            0  Disks
+2012-06-29 02:17:40 D....            0            0  Sound
+2012-06-29 02:17:40 D....            0            0  Docs
+2012-06-29 02:17:40 D....            0            0  Tapes\demo
+2012-06-29 02:17:40 D....            0            0  Tapes
+2012-06-29 02:17:40 D....            0            0  Docs\joy.config examples\elite
+2012-06-29 02:17:40 D....            0            0  Disks\demo
+2012-06-29 02:17:40 D....            0            0  Docs\joy.config examples\meteor
+2012-06-29 02:17:40 D....            0            0  Docs\joy.config examples\revs
+2012-06-29 02:17:40 D....            0            0  Tapes\arcadians
+2012-06-29 02:17:40 D....            0            0  Roms
+2012-06-29 02:17:40 D....            0            0  Disks\arcadians
+2012-06-29 02:17:40 D....            0            0  Trace
+2012-06-29 02:17:40 D....            0            0  Docs\joy.config examples
+------------------- ----- ------------ ------------  ------------------------
+2012-09-03 03:04:44            1081977       692774  28 files, 14 folders

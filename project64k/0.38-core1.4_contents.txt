@@ -1,0 +1,45 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2001-12-25 05:20:50 ....A       213514       716511  Config\PJ.chm
+2012-03-24 00:49:03 ....A          211               READ ME.txt
+2012-03-26 21:27:11 ....A         4936               Auto Settings.reg
+2012-03-18 15:52:35 ....A           92               Plugin\Aristotle Video.ini
+2010-07-14 20:19:21 ....A        42245               Plugin\Glide64.ini
+2012-03-26 21:35:55 ....A         1246               n02.ini
+2011-06-05 03:50:27 ....A         2765               Plugin\NRage.ini
+2012-03-24 00:56:20 ....A         4844               Config\PJ.cache
+2012-03-22 01:33:33 ....A      3656465               Config\PJ.cht
+2012-03-24 00:38:46 ....A          512               Save\MARIOKART64.eep
+2012-03-26 21:34:50 ....A        72897               Config\64k.lng
+2012-03-26 21:35:57 ....A       376070               Config\PJ.rdb
+2012-03-24 00:39:39 ....A          181               Config\Project64.rdb
+2012-03-22 02:12:30 ....A       144251               Config\PJ.rdx
+2012-03-26 21:34:29 ....A         3036               Save\Kaillera.sra
+2012-03-25 03:47:22 ....A         3036               Save\SMASH BROTHERS.sra
+2012-03-26 21:28:36 ....A       491520      2578634  Project64.exe
+2009-02-15 09:23:34 ....A       348672               Plugin\Aristotle's Mudlord and Rice Video 6.1.9.dll
+2003-04-25 21:30:16 ....A        22016               Plugin\AudioHLE.dll
+2005-05-08 23:28:26 ....A        17920               Plugin\AziAudio.dll
+2010-08-18 13:28:53 ....A       180224               Plugin\DarkMan's DInput 4.0c.dll
+2011-12-29 09:23:56 ....A       262144               glide3x.dll
+2011-12-29 09:35:22 ....A      2215936               Plugin\Glide64.dll
+2010-04-18 04:14:50 ....A       654848               Plugin\GlideHQ.dll
+2011-09-10 11:50:16 ....A        64000               Plugin\Jabo_DInput.dll
+2006-12-21 03:32:48 ....A       129024               Plugin\Jabo_Direct3D6.dll
+2012-03-20 18:42:44 ....A       488960               Plugin\Jabo_Direct3D8.dll
+2005-03-20 23:10:50 ....A        54784               Plugin\Jabo_DSound.dll
+2011-08-13 22:52:27 ....A       109056               Config\Netplay.dll
+2000-11-04 09:12:18 ....A        36864               Plugin\No Sound.dll
+2011-04-03 19:33:42 ....A        37888               Plugin\NRage1.6.dll
+2012-03-20 18:43:39 ....A       360960               Plugin\NRage_Input_V2.dll
+2001-12-10 00:52:18 ....A        79360               Plugin\RSP.dll
+2005-03-20 21:39:02 ....A       109568               Plugin\RSP2.dll
+2001-05-24 11:02:22 ....A        57344               Plugin\Zilmar_Audio.dll
+2016-10-26 16:13:46 D....            0            0  Save
+2016-10-26 16:13:48 D....            0            0  Roms
+2016-10-26 16:13:48 D....            0            0  Plugin\texture_dump
+2016-10-26 16:13:48 D....            0            0  Plugin\hires_texture
+2016-10-26 16:13:48 D....            0            0  Plugin
+2016-10-26 16:13:48 D....            0            0  Config
+------------------- ----- ------------ ------------  ------------------------
+2016-10-26 16:13:48           10247389      3295145  35 files, 6 folders

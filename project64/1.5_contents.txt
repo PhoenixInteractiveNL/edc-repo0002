@@ -1,0 +1,64 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2002-08-30 00:36:44 ....A        25426       948728  PJgameFAQ.chm
+2002-08-29 18:59:58 ....A       180758               Project64.chm
+2000-10-29 08:22:24 ....A         7759               Docs\Plugin Specs\Audio #1.1.h
+2001-11-30 16:15:48 ....A         8890               Docs\Plugin Specs\Controller #1.1.h
+2001-08-11 13:01:22 ....A        10248               Docs\Plugin Specs\Gfx #1.3.h
+2001-08-11 13:04:14 ....A         7474               Docs\Plugin Specs\Rsp #1.1.h
+2001-08-31 15:25:54 ....A         9635               Docs\N-Rage's input plugin\Manual.html
+2002-08-29 18:59:36 ....A          333               Docs\Adaptoid plugin.txt
+2002-08-29 19:33:22 ....A        11372               Docs\Cheat Codes\Changes.txt
+2002-08-29 06:48:44 ....A        10784               Docs\Cheat Codes\cheatsfaq.txt
+2002-08-27 14:07:04 ....A         4069               Uninstall\location info.txt
+2001-12-01 23:58:26 ....A         1538               Docs\Plugin Specs\Plugin Spec history.txt
+2002-01-23 02:24:14 ....A         4280               Docs\N-Rage's input plugin\Readme.txt
+2002-08-27 14:07:22 ....A           55               Uninstall\README.TXT
+2002-08-28 00:46:42 ....A         5115               Readme.txt
+2002-08-29 19:29:52 ....A         2611               Docs\Cheat Codes\Readme.txt
+2002-08-30 00:42:22 ....A         2813               Whatsnew.txt
+2001-12-25 05:19:18 ....A          613               Uninstall\remove all Project64 settings.reg
+2001-12-25 03:37:18 ....A          559               Uninstall\remove Project64 application settings.reg
+2001-12-25 03:33:58 ....A          164               Uninstall\remove Project64 plugins settings.reg
+2002-08-29 00:52:00 ....A       188416               Project64.exe
+2001-09-25 16:42:02 ....A         4096               Plugin\Adaptoid_v1_0.dll
+2002-08-01 01:22:36 ....A        30208               Plugin\Jabo_DInput.dll
+2002-08-29 23:07:58 ....A        93696               Plugin\Jabo_Direct3D6.dll
+2002-07-25 00:10:42 ....A        27648               Plugin\Jabo_Dsound.dll
+2001-06-07 05:14:12 ....A       339968               msvcr70.dll
+2000-11-04 09:12:18 ....A        36864               Plugin\No Sound.dll
+2002-01-23 23:56:14 ....A        53760               Plugin\NRage_DInput8_V2.dll
+2002-08-28 00:54:48 ....A        88576               Plugin\RSP.dll
+2001-05-24 12:02:22 ....A        57344               Plugin\Zilmar_Audio.dll
+2002-08-29 19:31:48 ....A       761055               Project64.cht
+2002-08-29 00:51:04 ....A        21542               pif2.dat
+2002-08-29 18:27:28 ....A        13703               Lang\Brazilian Portuguese .pj.Lang
+2002-08-25 02:46:48 ....A        13498               Lang\Bulgarian.pj.Lang
+2002-08-29 04:02:16 ....A        13300               Lang\Danish.pj.Lang
+2002-08-13 10:41:22 ....A        13256               Lang\Dutch.pj.Lang
+2002-08-28 19:56:24 ....A        12573               Lang\English.pj.Lang
+2002-08-28 19:54:30 ....A        13007               Lang\English_alternative.pj.Lang
+2002-08-15 14:02:00 ....A        14555               Lang\French.pj.Lang
+2002-08-20 09:43:24 ....A        13855               Lang\German.pj.Lang
+2002-08-23 01:00:34 ....A        13778               Lang\Greek.pj.Lang
+2002-08-28 00:42:44 ....A        13623               Lang\Italian.pj.Lang
+2002-08-28 04:49:54 ....A        14441               Lang\Lithuanian.pj.Lang
+2002-08-28 04:50:02 ....A        13432               Lang\Norwegian.pj.Lang
+2002-08-20 09:49:36 ....A        13048               Lang\Russian.pj.Lang
+2002-08-28 04:40:22 ....A        13621               Lang\Spanish.pj.Lang
+2002-08-20 09:49:50 ....A        12887               Lang\Ukrainian.pj.Lang
+2002-08-29 23:17:50 ....A       318316               Project64.rdb
+2001-12-25 05:00:28 ....A          343               Project64.rdx
+2002-01-06 09:21:38 ....A           73               Docs\N-Rage's input plugin\N-Rage HomePage.url
+2002-02-25 15:18:00 ....A          240               Docs\Cheat Codes\pj64cheats Message Board.url
+2002-01-31 23:08:30 ....A          152               Docs\Cheat Codes\pj64cheats.net.url
+2001-12-25 07:42:06 ....A          422               Docs\Project64 Message Board.url
+2008-12-12 22:18:11 D...A            0            0  Uninstall
+2008-12-12 22:18:11 D...A            0            0  Plugin
+2008-12-12 22:18:11 D...A            0            0  Lang
+2008-12-12 22:18:11 D...A            0            0  Docs\Plugin Specs
+2008-12-12 22:18:11 D...A            0            0  Docs\N-Rage's input plugin
+2008-12-12 22:18:11 D...A            0            0  Docs\Cheat Codes
+2008-12-12 22:18:11 D...A            0            0  Docs
+------------------- ----- ------------ ------------  ------------------------
+2008-12-12 22:18:11            2519792       948728  53 files, 7 folders
