@@ -1,0 +1,11 @@
+Changes - 16th August 2009
+--------------------------
+
+- Added support for MSX1 VDP timing checks in the debugger 
+- Added support for .der copy protected disk files 
+- Fixed multiple bugs in DRAM management that fixes many known MSXturboR issues 
+- Fixed memory write bug in debugger that made memory writes occasionally fail 
+- Fixed default directory for hard disk insert 
+- Fixed memory leaks 
+- Fixed Moonsound FM bug 
+- Speed up save states and pause/resume

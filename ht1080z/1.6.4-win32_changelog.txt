@@ -1,0 +1,8 @@
+Changes - 3rd October 2011
+--------------------------
+
+v1.6.4
+------
+
+- return correct port values when PC-joystick is not present
+- turn off dynamic sound buffering when recording video

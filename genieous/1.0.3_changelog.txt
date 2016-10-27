@@ -1,0 +1,6 @@
+Changes - 12th February 2015
+----------------------------
+
+- better CRTC vblank
+- realtime saturation setting
+- minor improvements
