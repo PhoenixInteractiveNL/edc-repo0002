@@ -1,0 +1,32 @@
+Changes - 6th April 2016
+------------------------
+
+Here is the compete log :
+- [CT-RAW/IPF] : Native support of these two format. CAPSLib dll from SPS is no longer used. This will fix some non-working dump( due to bug in the lib).
+- [IPF] : Add a SAVE IPF option. You can save your current disk in IPF format, to generate a 3" disk. You can even write dump with weak sectors.
+- [HFE] : Now it’s possible to save HFE file !
+- [edsk] : Added some tuning to handle sector of header size lower than real size.
+- [edsk] : Fixed some nasty memory overrun.
+- [edsk] : Fixed the way of handling overlapped disk : "Corsarios (UK) (1988) (CPM) [Original].dsk" disk now run correctly. In fact, all dsk should now retrieve their original size of 6k/track
+- [edsk] : Fixed support for ALLGAP dumps
+- [FDC] : New paradigm : Weak bits are now handled by bit. Multi-revolution dump are converted to single revolution with weak bits data.
+- [FDC] : Fix a bug with the SZ byte = 0 in read track command (this fixed "War In Middle Earth (UK) (1987) (CPM) [Original].dsk" dump)
+- [Tape] : Add a delay when motor is on/off. This fixed "Last Mission"
+- [Z80] : Interrupt mode 0 is partially fixed : It does nothing, but no longer corrupt the Z80 registers
+- [Z80] : Fix some wrong behaviour of undocumented opcodes
+- [Z80] : Add the undocumented 'Q' register used for Flags, and fix the SCF/CCF instructions regarding this register
+- [Z80] : All Z80 tests from Patrik Rak, adapted to the CPC by Kevin Thacker, are now correct.
+- [Display] : Fixed wrong behaviour for 100% speed with 100hz screen without black frame insertion : Speed was twice what was intendeed
+- [General] : Add Autorun disk on insertion which try to guess the best file to run.
+- [General] : Optimization : Everything is now running 60-80% faster than before
+- [General] : Add a support for auto-executing BIN file (with AMSDOS header), through drag’n'drop.
+- [General] : Fixed the Spanish configuration for 464, and added support for Danish keyboard.
+- [General] : Added -fullscreen command line to enable fullscreen by default
+- [General] : Fixed the "-command" option : In order to run a disc, just launch your command as Sugarbox -command run\ "disc\" for example
+- [General] : Added sound for disk drive
+- [General] : Fix copy/paste for english/spanish/danish
+- [GUI] : Added a feedback when loading tape/disk/SNA/SNR
+- [GUI] : Added a preliminary debugger, with Register edition, breakpoints, flags
+- [Joystick support] : Fixed diagonals not supported with some joypads (now, games should be far more playable !)
+- [Memory] : Fixed the configuration : 64k computer no longer have improper PAL
+- [Settings] : Fixed some nasty bugs preventing the keyboard settings to work

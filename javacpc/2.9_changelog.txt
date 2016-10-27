@@ -1,0 +1,8 @@
+Changes - 11th July 2015
+------------------------
+
+JavaCPC Desktop v2.9 Changelog:
+- BDD CPC file databases added: JavaCPC Games and JavaCPC Demos 
+- Z80 turbo mode integrated (Accessible in System configuration) 
+- Internal ROM font editor improved (Access: ALT + F11)
+

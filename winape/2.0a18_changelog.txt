@@ -1,0 +1,39 @@
+Changes - 27th July 2011
+------------------------
+
+Emulation
+- Changes logical volumes (and scales) used for AY output.
+- Simplified and improved AY emulation, fixed period change adjustments.
+- Fixed possible bright pixels in the top left when in PAL emulation.
+- Writing to PSG registers above 15 now ignored as per real standard AY.
+- Changed the way the Symbiface RTC switches between BCD and Binary modes.
+- Switched back to full 8 bit interrupt vector (bit 0 is NOT reset as per most documentation around).
+- Fixed Z80 overflow flag for INC (HL), DEC (HL) and IX/IY equivalents.
+
+Debugger
+- Added the ability to select a block of memory (right-click, Select Block...) in the memory editor.
+- Added the ability to fill the selection with a sequence of values (right-click, Fill...) in the memory editor.
+- Added the ability to compare two regions of memory or to compare a region of memory with a file (right-click, Compare To...) in the memory editor.
+- Defaulted memory mapping (Any) to RAM bank #C0 to stop change when switching.
+
+Assembler
+- Fixed a bug with symbol usage and relocation tables inside if, else etc.
+- Added Select All menu item and keyboard functionality.
+
+AVI Writing
+- Improved the timing of video and sound synchronisation.
+- Added the ability to record full sized (768 x 540) videos.
+
+Other
+- Added cylinder and drive LEDs for drive B:
+- Fixed saving of allow Temporary Writes, and Prompt to Save changes settings.
+- Allow zero length sectors in DSK images.
+- Fix writing of DSK images when the only change is to delete a copy of a sector or re-size one.
+- Changes to detect when the window has focus (workaround for Delphi and Windows bugs). This stops typing from appearing in WinAPE when another application has focus.
+- Changed timing to display actual speed (CPU cycles per second as a percentage of 1 million) rather than a percentage based on the number of frames per second. Previously, CRTC changes would affect speed display.
+- Changed tape WAV writing to use values of 00 and FF rather than 00 and 1F.
+- Fixed WAV output for 16 bit samples. Should now play in WMP.
+- Fixed the position of the Speed indicator label.
+- Added a warning when playing back old SNR files.
+- Allowed CD ROM and removeable drives to be used as Symbiface IDE drives (Currently there is no support for CD-ROM formats on the CPC, but maybe one day).
+- Increased tape output WAV sample rate to 22050Hz rather than 11025Hz since it was inadequate for high bit rate tapes.

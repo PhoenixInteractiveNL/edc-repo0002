@@ -1,0 +1,6 @@
+Changes - 31st March 2008
+-------------------------
+
+v1.90
+
+The past release was made in a hurry and it lacked features still in development, hence this rerelease. On one hand, LPTCPC and LPTPC can send and receive extended disc images: many copy protections work fine; on the other hand, the FDC reading commands have been improved too ("Arkanoid", "Gremlins 2", Epyx's "World Games", etc.)
