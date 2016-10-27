@@ -1,0 +1,35 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2006-01-04 19:16:22 ....A          356       468432  Roms\Jeux\Airplane.ch8
+2003-12-18 02:05:12 ....A         2356               Roms\Jeux\Blinky [Hans Christian Egeberg, 1991].ch8
+2005-06-03 02:15:46 ....A          304               Roms\Programmes\BMP Viewer - Hello (C8 example) [Hap, 2005].ch8
+2005-01-05 19:55:46 ....A          882               Roms\Jeux\Cave.ch8
+2006-02-15 04:54:50 ....A          288               Roms\Programmes\Chip8 emulator Logo [Garstyciuks].ch8
+2005-01-05 19:55:46 ....A          164               Roms\Programmes\Chip8 Picture.ch8
+2005-07-10 14:00:56 ....A          160               Roms\Programmes\Fishie [Hap, 2005].ch8
+2006-02-15 04:08:58 ....A          114               Roms\Programmes\Keypad Test [Hap, 2006].ch8
+1997-09-13 00:50:04 ....A           38               Roms\Demos\Maze (alt) [David Winter, 199x].ch8
+2003-12-18 02:00:38 ....A           34               Roms\Demos\Maze [David Winter, 199x].ch8
+2010-07-08 22:09:22 ....A           85               Roms\Programmes\Minimal game [Revival Studios, 2007].ch8
+2011-01-02 14:40:52 ....A          353               Roms\Demos\Particle Demo [zeroZshadow, 2008].ch8
+2005-01-05 19:55:46 ....A          112               Roms\Jeux\Rocket Launcher.ch8
+2008-02-09 00:09:42 ....A         3582               Roms\Jeux\Rush Hour [Hap, 2006].ch8
+2010-09-20 14:28:10 ....A          521               Roms\Demos\Sierpinski [Sergey Naydenov, 2010].ch8
+2010-09-20 14:28:10 ....A          521               Roms\Demos\Sirpinski [Sergey Naydenov, 2010].ch8
+2003-12-18 00:05:12 ....A         1283               Roms\Jeux\Space Invaders [David Winter] (alt).ch8
+2010-09-19 15:01:26 ....A          968               Roms\Demos\Stars [Sergey Naydenov, 2010].ch8
+2010-09-15 22:26:30 ....A         3203               Roms\Demos\Trip8 Demo (2008) [Revival Studios].ch8
+2003-12-18 01:52:12 ....A          224               Roms\Jeux\UFO [Lutz V, 1992].ch8
+2007-07-29 02:56:44 ....A          144               Roms\Demos\Zero Demo [zeroZshadow, 2007].ch8
+2011-11-11 16:26:34 ....A      2719744               OpenTK.dll
+2011-11-11 16:26:35 ....A        24576               OpenTK.GLControl.dll
+2011-11-19 19:44:56 ....A        19968               SharpChip8.dll
+2011-11-19 19:44:57 ....A       154624               SharpChip-8.exe
+2011-10-23 18:22:01 ....A        17774               License.txt
+2011-11-19 20:08:46 ....A         3013               Readme.txt
+2011-11-19 20:08:46 D....            0            0  Roms\Programmes
+2011-11-19 20:08:46 D....            0            0  Roms\Jeux
+2011-11-19 20:08:46 D....            0            0  Roms\Demos
+2011-11-19 20:08:46 D....            0            0  Roms
+------------------- ----- ------------ ------------  ------------------------
+2011-11-19 20:08:46            2955391       468432  27 files, 4 folders

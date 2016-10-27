@@ -1,0 +1,57 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-01-20 06:31:02 ....A       345232      2419476  Help\1964.chm
+2010-01-20 06:30:58 ....A         1740               Language\readme.txt
+2010-01-20 06:31:02 ....A          216               uninstall\readme_uninstall.txt
+2010-01-20 06:31:02 ....A          391               uninstall\Click to Uninstall 1964 for Windows98 WinMe 95.reg
+2010-01-20 06:31:02 ....A          844               uninstall\Click to Uninstall 1964 for XP 2000 NT.reg
+2010-01-20 06:31:02 ....A          349               uninstall\Remove All RICEDAEDALUS.dll settings & reset to Default.reg
+2010-01-20 06:31:02 ....A          330               uninstall\Remove All RICEDAEDALUS.dll settings & reset to DefaultNT.reg
+2010-02-06 06:46:32 ....A        26700               plugin\1964Video.ini
+2010-01-20 06:31:08 ....A       504830               ROM_Properties.ini
+2010-03-07 04:48:16 ....A      1127936               1964.exe
+2010-02-08 05:50:48 ....A      4491776               plugin\1964Aud.dll
+2010-02-08 05:50:08 ....A       146944               plugin\1964Input.dll
+2010-02-08 05:51:32 ....A      1406464               plugin\1964Video-DX9.dll
+2010-02-08 05:50:06 ....A      1470464               plugin\1964Video.dll
+2010-01-28 07:00:22 ....A        90624               kailleraclient.dll
+2010-01-20 06:31:08 ....A       499712               msvcp71.dll
+2010-01-20 06:31:08 ....A       193024               msvcr70.dll
+2010-01-20 06:31:08 ....A       348160               msvcr71.dll
+2010-01-20 06:31:08 ....A        35328               zlib.dll
+2010-01-20 06:31:08 ....A       414827               1964.cht
+2010-01-20 06:31:08 ....A          368               adaptoid.cpf
+2010-01-20 06:31:08 ....A          330               KEYBOARD.cpf
+2010-01-20 06:31:08 ....A          384               logitech_rumblepad.cpf
+2010-01-20 06:31:08 ....A          364               P880.cpf
+2010-01-20 06:31:08 ....A          384               Wingman.cpf
+2010-01-20 06:30:58 ....A         7475               Language\+-+-+=Ýs.lng
+2010-01-20 06:30:58 ....A         9414               Language\Brazilian.lng
+2010-01-20 06:30:58 ....A         8904               Language\Danish.lng
+2010-01-20 06:30:58 ....A         9222               Language\Deutsch.lng
+2010-01-20 06:30:58 ....A         8521               Language\English.lng
+2010-01-20 06:30:58 ....A        10190               Language\French.lng
+2010-01-20 06:30:58 ....A        10003               Language\Greek.lng
+2010-01-20 06:30:58 ....A         9473               Language\Italian.lng
+2010-01-20 06:30:58 ....A         8865               Language\Japanese (Alt).lng
+2010-01-20 06:30:58 ....A         9065               Language\Japanese.lng
+2010-01-20 06:30:58 ....A         9554               Language\Lietuviu.lng
+2010-01-20 06:30:58 ....A         9531               Language\Nederlands.lng
+2010-01-20 06:30:58 ....A         8397               Language\Nihongo.lng
+2010-01-20 06:30:58 ....A         8926               Language\Norwegian.lng
+2010-01-20 06:30:58 ....A         9172               Language\polski.lng
+2010-01-20 06:30:58 ....A         9751               Language\port-br.lng
+2010-01-20 06:30:58 ....A         9493               Language\Portuguese.lng
+2010-01-20 06:30:58 ....A         9308               Language\Russian.lng
+2010-01-20 06:30:58 ....A        10620               Language\Spanish (Alt).lng
+2010-01-20 06:30:58 ....A        10808               Language\Spanish.lng
+2010-01-20 06:30:58 ....A         9071               Language\Swedish.lng
+2010-01-20 06:30:58 ....A         9278               Language\Ukrainian.lng
+2010-08-09 11:34:40 D....            0            0  uninstall
+2010-08-09 11:34:40 D....            0            0  save
+2010-08-09 11:34:40 D....            0            0  plugin
+2010-08-09 11:34:40 D....            0            0  Language
+2010-08-09 11:34:40 D....            0            0  Help
+2010-08-09 11:34:40 D....            0            0  boxart
+------------------- ----- ------------ ------------  ------------------------
+2010-08-09 11:34:40           11312762      2419476  47 files, 6 folders

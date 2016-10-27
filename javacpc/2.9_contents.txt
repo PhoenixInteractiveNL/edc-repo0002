@@ -1,0 +1,127 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-07-11 16:44:48 ....A         9511     24424636  lib\linux\x86\mozembed-linux-gtk1.2
+2015-07-11 16:44:51 ....A        26632               lib\sunos\sparc\mozembed-solaris-gtk1.2
+2015-07-11 16:44:58 ....A          131               alphaville.bat
+2015-07-11 16:44:43 ....A       823296               j3dcore-d3d.dll
+2015-07-11 16:44:43 ....A        40960               j3dcore-ogl-cg.dll
+2015-07-11 16:44:43 ....A        49152               j3dcore-ogl-chk.dll
+2015-07-11 16:44:43 ....A       163840               j3dcore-ogl.dll
+2015-07-11 16:44:52 ....A       110608               lib\windows\x86\jdic.dll
+2015-07-11 16:44:43 ....A        61952               jinput-dx8.dll
+2015-07-11 16:44:43 ....A        65024               jinput-dx8_64.dll
+2015-07-11 16:44:43 ....A        59392               jinput-raw.dll
+2015-07-11 16:44:43 ....A        62464               jinput-raw_64.dll
+2015-07-11 16:44:43 ....A        56832               jinput-wintab.dll
+2015-07-11 16:44:44 ....A      1890988               libwine.dll
+2015-07-11 16:44:52 ....A        45072               lib\windows\x86\tray.dll
+2015-07-11 16:44:58 ....A       194816               alpha1.dsk
+2015-07-11 16:44:52 ....A        61441               lib\windows\x86\IeEmbed.exe
+2015-07-11 16:44:42 ....A       291840               JavaCPC.exe
+2015-07-11 16:44:42 ....A       325120               JavaCPC64.exe
+2015-07-11 16:44:52 ....A        61441               lib\windows\x86\MozEmbed.exe
+2015-07-11 16:43:04 ....A         2851               lib\AbsoluteLayout.jar
+2015-07-11 16:43:06 ....A      1001884               lib\Atari800.jar
+2015-07-11 16:43:07 ....A       338393               lib\Filters.jar
+2015-07-11 16:43:08 ....A      1889485               lib\itextpdf-5.4.0.jar
+2015-07-11 16:43:08 ....A      2959771               lib\j3dcore.jar
+2015-07-11 16:43:08 ....A      1703580               lib\j3dutils.jar
+2015-07-11 17:20:51 ....A      8924370               JavaCPC.jar
+2015-07-11 16:43:08 ....A        54091               lib\jdic.jar
+2015-07-11 16:44:47 ....A        47401               lib\linux\jdic_stub.jar
+2015-07-11 16:44:51 ....A        31649               lib\windows\jdic_stub.jar
+2015-07-11 16:44:48 ....A        47401               lib\sunos\jdic_stub.jar
+2015-07-11 16:43:08 ....A       213607               lib\jinput.jar
+2015-07-11 16:43:08 ....A      2082557               lib\jmf.jar
+2015-07-11 16:43:09 ....A      1029948               lib\kunststoff.jar
+2015-07-11 16:43:09 ....A       462098               lib\mail.jar
+2015-07-11 16:43:09 ....A       211139               lib\nimrodlf-1.1a.jar
+2015-07-11 16:43:07 ....A       157906               lib\PgsLookAndFeel.jar
+2015-07-11 16:43:09 ....A      5058346               lib\resources.jar
+2015-07-11 16:44:47 ....A         9735               lib\toplink-essentials-agent.jar
+2015-07-11 16:44:39 ....A       125192               Update.jar
+2015-07-11 16:43:09 ....A       325572               lib\vecmath.jar
+2015-07-11 16:44:44 ....A        65944               libjinput-osx.jnilib
+2015-07-11 16:44:57 ....A       262877               wallpaper\fantasy.jpg
+2015-07-11 16:44:58 ....A       295971               wallpaper\fantasy2.jpg
+2015-07-11 16:44:58 ....A       816768               wallpaper\fantasy3.jpg
+2015-07-11 16:44:57 ....A       111425               wallpaper\wallpaper.png
+2015-07-11 16:44:52 ....A        16384               system\cpc\rom\AMSDOS.ROM
+2015-07-11 16:44:52 ....A        16384               system\cpc\rom\ART0.ROM
+2015-07-11 16:44:52 ....A        16384               system\cpc\rom\ART1.ROM
+2015-07-11 16:44:52 ....A        13305               system\cpc\rom\ART2.ROM
+2015-07-11 16:44:52 ....A        16384               system\cpc\rom\BASIC-C64.ROM
+2015-07-11 16:44:53 ....A        16384               system\cpc\rom\BASIC1-0.ROM
+2015-07-11 16:44:53 ....A        16384               system\cpc\rom\BASIC1-1.ROM
+2015-07-11 16:44:53 ....A        16384               system\cpc\rom\BASIC664.ROM
+2015-07-11 16:44:53 ....A        16384               system\cpc\rom\BASICES.ROM
+2015-07-11 16:44:53 ....A        16384               system\cpc\rom\BASICFR.ROM
+2015-07-11 16:44:53 ....A        16384               system\cpc\rom\DEPROMA.ROM
+2015-07-11 16:44:53 ....A        16384               system\cpc\rom\DKSPEECH.ROM
+2015-07-11 16:44:53 ....A         3655               system\cpc\rom\JAVACPC.ROM
+2015-07-11 16:44:53 ....A        16384               system\cpc\rom\KCCBAS.ROM
+2015-07-11 16:44:53 ....A        16384               system\cpc\rom\KCCOS.ROM
+2015-07-11 16:44:53 ....A        16384               system\cpc\rom\LOCKSMIT.ROM
+2015-07-11 16:44:54 ....A        16384               system\cpc\rom\MAXAM.ROM
+2015-07-11 16:44:54 ....A         8192               system\cpc\rom\MULTFACE.ROM
+2015-07-11 16:44:54 ....A        16384               system\cpc\rom\OS-C64.ROM
+2015-07-11 16:44:54 ....A        16384               system\cpc\rom\OS464.ROM
+2015-07-11 16:44:54 ....A        16384               system\cpc\rom\OS6128.ROM
+2015-07-11 16:44:54 ....A        16384               system\cpc\rom\OS664.ROM
+2015-07-11 16:44:54 ....A        16384               system\cpc\rom\OSES.ROM
+2015-07-11 16:44:55 ....A        16384               system\cpc\rom\OSFR.ROM
+2015-07-11 16:44:55 ....A        16512               system\cpc\rom\PARADOS.ROM
+2015-07-11 16:44:55 ....A        16384               system\cpc\rom\PARADOS1.ROM
+2015-07-11 16:44:57 ....A        16384               system\cpc\rom\RDOS-EXT.ROM
+2015-07-11 16:44:55 ....A        16384               system\cpc\rom\ROMPKP1.ROM
+2015-07-11 16:44:55 ....A        16384               system\cpc\rom\ROMPKP2.ROM
+2015-07-11 16:44:55 ....A        16384               system\cpc\rom\STK1.ROM
+2015-07-11 16:44:55 ....A        16032               system\cpc\rom\Stk12-1.ROM
+2015-07-11 16:44:55 ....A         8586               system\cpc\rom\Stk12-2.ROM
+2015-07-11 16:44:55 ....A        11154               system\cpc\rom\Stk12Gen.ROM
+2015-07-11 16:44:56 ....A        16384               system\cpc\rom\STK2.ROM
+2015-07-11 16:44:56 ....A        16384               system\cpc\rom\sym-romA.ROM
+2015-07-11 16:44:56 ....A        16384               system\cpc\rom\sym-romAboot.ROM
+2015-07-11 16:44:56 ....A        16384               system\cpc\rom\sym-romB.ROM
+2015-07-11 16:44:56 ....A        16384               system\cpc\rom\sym-romC.ROM
+2015-07-11 16:44:56 ....A        10496               system\cpc\rom\sym-romD.ROM
+2015-07-11 16:44:56 ....A        16384               system\cpc\rom\T-OG-E-A.ROM
+2015-07-11 16:44:56 ....A        16384               system\cpc\rom\T-OG-E-B.ROM
+2015-07-11 16:44:56 ....A        16384               system\cpc\rom\T-OG-E-C.ROM
+2015-07-11 16:44:57 ....A        16384               system\cpc\rom\T-OG-E-D.ROM
+2015-07-11 16:44:57 ....A        16384               system\cpc\rom\VaraDOS.ROM
+2015-07-11 16:44:57 ....A         8192               system\cpc\rom\VORTEX10.ROM
+2015-07-11 16:44:57 ....A        16384               system\cpc\rom\VORTEX20.ROM
+2015-07-11 16:44:57 ....A        16384               system\cpc\rom\XDDOS210.ROM
+2015-07-11 16:44:48 ....A        37644               lib\sunos\x86\libjdic.so
+2015-07-11 16:44:47 ....A        21447               lib\linux\x86\libjdic.so
+2015-07-11 16:44:49 ....A        40616               lib\sunos\sparc\libjdic.so
+2015-07-11 16:44:43 ....A        13656               libjinput-linux.so
+2015-07-11 16:44:44 ....A        14488               libjinput-linux64.so
+2015-07-11 16:44:47 ....A       468140               lib\linux\x86\libmozembed-linux-gtk1.2.so
+2015-07-11 16:44:47 ....A       249499               lib\linux\x86\libmozembed-linux-gtk2.so
+2015-07-11 16:44:50 ....A       251000               lib\sunos\sparc\libmozembed-solaris-gtk1.2.so
+2015-07-11 16:44:51 ....A       248400               lib\sunos\sparc\libmozembed-solaris-gtk2.so
+2015-07-11 16:44:48 ....A       135364               lib\sunos\x86\libmozembed-solaris-gtk2.so
+2015-07-11 16:44:47 ....A        18501               lib\linux\x86\libtray.so
+2015-07-11 16:44:51 ....A        23484               lib\sunos\sparc\libtray.so
+2015-07-11 16:44:48 ....A        19052               lib\sunos\x86\libtray.so
+2015-07-11 16:44:44 ....A        35889               JavaCPC_Easteregg.zip
+2015-07-11 16:44:48 ....A         9547               lib\linux\x86\mozembed-linux-gtk2
+2015-07-11 16:44:51 ....A        26600               lib\sunos\sparc\mozembed-solaris-gtk2
+2015-07-11 16:44:49 ....A         6880               lib\sunos\x86\mozembed-solaris-gtk2
+2015-07-11 16:44:49 D....            0            0  lib
+2015-07-11 16:44:49 D....            0            0  lib\sunos\sparc
+2015-07-11 16:44:49 D....            0            0  lib\sunos
+2015-07-11 16:44:49 D....            0            0  system\cpc\rom
+2015-07-11 16:44:49 D....            0            0  wallpaper
+2015-07-11 16:44:49 D....            0            0  lib\windows\x86
+2015-07-11 16:44:49 D....            0            0  tiled_plugins
+2015-07-11 16:44:49 D....            0            0  system\cpc
+2015-07-11 16:44:49 D....            0            0  lib\windows
+2015-07-11 16:44:49 D....            0            0  lib\sunos\x86
+2015-07-11 16:44:49 D....            0            0  lib\linux\x86
+2015-07-11 16:44:49 D....            0            0  lib\linux
+2015-07-11 16:44:49 D....            0            0  system
+------------------- ----- ------------ ------------  ------------------------
+2015-07-11 17:20:51           34969396     24424636  110 files, 13 folders

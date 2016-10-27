@@ -1,0 +1,1112 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-09-14 12:56:20 ....A        16384     23576223  media\z88\wb.56
+2015-09-14 12:56:20 ....A        16384               media\z88\wb.57
+2015-09-14 12:56:20 ....A        16384               media\z88\wb.58
+2015-09-14 12:56:20 ....A        16384               media\z88\wb.59
+2015-09-14 12:56:20 ....A        16384               media\z88\wb.60
+2015-09-14 12:56:20 ....A        16384               media\z88\wb.61
+2015-09-14 12:56:20 ....A        16384               media\z88\bounder.62
+2015-09-14 12:56:20 ....A        16384               media\z88\eazylink.62
+2015-09-14 12:56:20 ....A        16384               media\z88\lancelot.62
+2015-09-14 12:56:20 ....A        16384               media\z88\lem.62
+2015-09-14 12:56:20 ....A        16384               media\z88\manicminer.62
+2015-09-14 12:56:20 ....A        16384               media\z88\pdrom.62
+2015-09-14 12:56:20 ....A        16384               media\z88\pyramid-std.62
+2015-09-14 12:56:20 ....A        16384               media\z88\ugrom.62
+2015-09-14 12:56:20 ....A        16384               media\z88\wb.62
+2015-09-14 12:56:22 ....A        16384               media\z88\whatnow\wn-std.62
+2015-09-14 12:56:20 ....A        16384               media\z88\bounder.63
+2015-09-14 12:56:20 ....A        16384               media\z88\eazylink.63
+2015-09-14 12:56:20 ....A        16384               media\z88\lancelot.63
+2015-09-14 12:56:20 ....A        16384               media\z88\lem.63
+2015-09-14 12:56:20 ....A        16384               media\z88\manicminer.63
+2015-09-14 12:56:20 ....A        16384               media\z88\pdrom.63
+2015-09-14 12:56:20 ....A        16384               media\z88\pyramid-std.63
+2015-09-14 12:56:20 ....A        16384               media\z88\ugrom.63
+2015-09-14 12:56:20 ....A        16384               media\z88\wb.63
+2015-09-14 12:56:22 ....A        16384               media\z88\whatnow\wn-std.63
+2015-09-14 12:56:22 ....A        15360               media\zx81\hires\wrx\BEAMRIDE.81
+2015-09-14 12:56:22 ....A        15872               media\zx81\hires\wrx\HERO.81
+2015-09-14 12:56:22 ....A         2653               media\zx81\hires\wrx\MAGIC-ZX.81
+2015-09-14 12:56:22 ....A        16251               media\zx81\hires\nolimits.81
+2015-09-14 12:56:22 ....A        10641               media\zx81\hires\sllc.81
+2015-09-14 12:56:22 ....A         5196               media\zx81\hires\wrx\STARFIGH.81
+2015-11-17 12:20:38 ....A         2160               media\jupiterace\acevaders\acevaders.ACE
+2015-11-17 12:53:28 ....A         6926               media\jupiterace\centipede\centipede.ace
+2016-02-09 12:57:00 ....A        22763               media\jupiterace\valkyr\valkyr.ace
+2015-09-14 12:56:20 ....A        16384               media\z88\basinstaller\jsw-app\jsw.ap0
+2015-09-14 12:56:20 ....A        16384               media\z88\basinstaller\jsw-app\jsw.ap1
+2015-09-14 12:56:20 ....A          128               media\z88\basinstaller\jsw-app\jsw.app
+2015-11-11 12:47:50 ....A         5104               media\spectrum\sprite_chip\sonic_sprite_40x48_agachado_1.asm
+2015-11-04 11:43:28 ....A         5273               media\spectrum\sprite_chip\sonic_sprite_40x48_andando_1.asm
+2015-11-04 11:43:28 ....A         5207               media\spectrum\sprite_chip\sonic_sprite_40x48_andando_2.asm
+2015-11-04 11:43:28 ....A         5192               media\spectrum\sprite_chip\sonic_sprite_40x48_andando_3.asm
+2015-11-04 11:43:28 ....A         5251               media\spectrum\sprite_chip\sonic_sprite_40x48_andando_4.asm
+2015-11-04 11:43:28 ....A         5218               media\spectrum\sprite_chip\sonic_sprite_40x48_andando_5.asm
+2015-11-04 11:43:28 ....A         5194               media\spectrum\sprite_chip\sonic_sprite_40x48_andando_6.asm
+2015-11-04 11:43:28 ....A         5170               media\spectrum\sprite_chip\sonic_sprite_40x48_quieto_1.asm
+2015-11-10 13:34:16 ....A         5125               media\spectrum\sprite_chip\sonic_sprite_40x48_rolling_1.asm
+2015-11-10 13:34:24 ....A         5120               media\spectrum\sprite_chip\sonic_sprite_40x48_rolling_2.asm
+2015-11-10 13:34:30 ....A         5128               media\spectrum\sprite_chip\sonic_sprite_40x48_rolling_3.asm
+2015-11-10 13:34:36 ....A         5125               media\spectrum\sprite_chip\sonic_sprite_40x48_rolling_4.asm
+2015-11-06 12:21:20 ....A        15122               media\spectrum\sprite_chip\sonicboss_80x64.asm
+2016-02-11 14:11:10 ....A        37910               media\spectrum\sprite_chip\testspritechip_asm.asm
+2015-09-14 12:56:22 ....A        79519               media\zx81\hires\tForth\tForth10.asm
+2016-06-27 14:16:52 ....A         2440               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\visor128x192.asm
+2016-07-02 13:25:14 ....A         2482               media\spectrum\ULAplus\linear_modes\radastan_mode\visor128x96.asm
+2016-06-27 14:28:04 ....A         2898               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\visor256x192.asm
+2016-06-27 14:22:16 ....A         2428               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\visor256x96.asm
+2015-09-14 12:56:20 ....A         3473               media\spectrum\myself\artiller.bas
+2015-09-14 12:56:20 ....A          933               media\z88\basinstaller\installer.bas
+2015-09-14 12:56:20 ....A          240               media\z88\sokoban\sokoban.bas
+2015-09-14 12:56:22 ....A           28               media\zx81\hires\dansrevenge\HRESGO.BAT
+2015-07-29 12:39:02 ....A           40               speech_filters\stop_win_espeak.bat
+2015-07-23 12:42:10 ....A          318               speech_filters\win_balabolka.bat
+2015-07-23 12:42:10 ....A          300               speech_filters\win_espeak.bat
+2015-07-23 12:42:10 ....A          286               speech_filters\win_jampal.bat
+2015-03-04 15:40:44 ....A          200               mantransfev3.bin
+2015-09-14 12:56:22 ....A         8400               media\zx81\hires\tForth\Progs\soko0120.bin
+2015-11-12 12:42:44 ....A        20864               media\spectrum\sprite_chip\testspritechip_asm.bin
+2015-09-14 12:56:22 ....A         1084               media\zx81\zxpand\ZXSTPLAY\ZXSTPLAY.BIN
+2016-02-20 11:44:28 ....A         6144               media\spectrum\prism\4plane_images\dog.bin_0
+2016-01-24 05:50:28 ....A         6144               media\spectrum\prism\4plane_images\sonic.bin_0
+2016-02-20 11:44:28 ....A         6144               media\spectrum\prism\4plane_images\dog.bin_1
+2016-01-24 05:50:28 ....A         6144               media\spectrum\prism\4plane_images\sonic.bin_1
+2016-02-20 11:44:28 ....A         6144               media\spectrum\prism\4plane_images\dog.bin_2
+2016-01-24 05:50:28 ....A         6144               media\spectrum\prism\4plane_images\sonic.bin_2
+2016-02-20 11:44:28 ....A         6144               media\spectrum\prism\4plane_images\dog.bin_3
+2016-01-24 05:50:28 ....A         6144               media\spectrum\prism\4plane_images\sonic.bin_3
+2016-02-20 11:44:28 ....A           64               media\spectrum\prism\4plane_images\dog.bin_palette
+2016-01-24 05:50:28 ....A           64               media\spectrum\prism\4plane_images\sonic.bin_palette
+2015-09-14 12:56:16 ....A         6976               media\spectrum\ULAplus\bmc4_art\Cheveron - Bee.bmc4
+2015-09-14 12:56:16 ....A         6976               media\spectrum\ULAplus\bmc4_art\Cheveron - Clown.bmc4
+2015-09-14 12:56:16 ....A         6976               media\spectrum\ULAplus\bmc4_art\Cheveron - GreatWaveULAplus.bmc4
+2015-09-14 12:56:16 ....A         6976               media\spectrum\ULAplus\bmc4_art\Cheveron - Man.bmc4
+2015-09-14 12:56:16 ....A         6976               media\spectrum\ULAplus\bmc4_art\Cheveron - Parrot1.bmc4
+2015-09-14 12:56:16 ....A         6976               media\spectrum\ULAplus\bmc4_art\Cheveron - Parrot2.bmc4
+2015-09-14 12:56:16 ....A         6976               media\spectrum\ULAplus\bmc4_art\Cheveron - River1.bmc4
+2015-09-14 12:56:16 ....A         6976               media\spectrum\ULAplus\bmc4_art\Cheveron - River2.bmc4
+2015-09-14 12:56:16 ....A         6976               media\spectrum\ULAplus\bmc4_art\Cheveron - Woman.bmc4
+2015-09-14 12:56:18 ....A         6262               media\spectrum\ULAplus\linear_modes\radastan_mode\bob.bmp
+2016-01-22 14:46:08 ....A        24694               media\spectrum\prism\4plane_images\dog.bmp
+2015-09-14 12:56:18 ....A        12406               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog128x192.bmp
+2016-06-27 14:45:22 ....A         6262               media\spectrum\ULAplus\linear_modes\radastan_mode\dog128x96.bmp
+2015-09-14 12:56:18 ....A        24694               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog256x192.bmp
+2015-09-14 12:56:18 ....A        12406               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog256x96.bmp
+2015-09-14 12:56:18 ....A        12406               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog_silueta_128x192.bmp
+2015-09-14 12:56:18 ....A        24694               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog_silueta_256x192.bmp
+2016-05-30 18:24:40 ....A        24694               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dragonball.bmp
+2016-05-30 18:24:40 ....A        24694               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dragonballgt.bmp
+2016-05-30 18:24:40 ....A        24694               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dragonballz.bmp
+2015-09-14 12:56:18 ....A         6262               media\spectrum\ULAplus\linear_modes\radastan_mode\familyguy.bmp
+2015-09-14 12:56:18 ....A         6262               media\spectrum\ULAplus\linear_modes\radastan_mode\gravity.bmp
+2015-09-14 12:56:18 ....A         6262               media\spectrum\ULAplus\linear_modes\radastan_mode\moco.bmp
+2016-07-28 12:42:58 ....A        33846               media\spectrum\prism\linear_modes\prism_256.bmp
+2016-07-28 12:43:04 ....A        33846               media\spectrum\prism\linear_modes\satan_256.bmp
+2015-11-03 14:57:44 ....A        83162               media\spectrum\sprite_chip\Sonic-Gen1_indexed_spectrum.bmp
+2015-09-14 12:56:18 ....A        24694               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\Sonic-Generations_256x192.bmp
+2016-07-28 12:43:14 ....A        33846               media\spectrum\prism\linear_modes\sonic_256.bmp
+2016-01-22 15:00:00 ....A        24694               media\spectrum\prism\4plane_images\sonic_resized_indexed.bmp
+2015-11-11 12:47:10 ....A         1078               media\spectrum\sprite_chip\sonic_sprite_40x48_agachado_1.bmp
+2015-11-04 11:43:28 ....A         1078               media\spectrum\sprite_chip\sonic_sprite_40x48_andando_1.bmp
+2015-11-04 11:43:28 ....A         1078               media\spectrum\sprite_chip\sonic_sprite_40x48_andando_2.bmp
+2015-11-04 11:43:28 ....A         1078               media\spectrum\sprite_chip\sonic_sprite_40x48_andando_3.bmp
+2015-11-04 11:43:28 ....A         1078               media\spectrum\sprite_chip\sonic_sprite_40x48_andando_4.bmp
+2015-11-04 11:43:28 ....A         1078               media\spectrum\sprite_chip\sonic_sprite_40x48_andando_5.bmp
+2015-11-04 11:43:28 ....A         1078               media\spectrum\sprite_chip\sonic_sprite_40x48_andando_6.bmp
+2015-11-04 11:43:28 ....A         1078               media\spectrum\sprite_chip\sonic_sprite_40x48_quieto_1.bmp
+2015-11-10 13:28:40 ....A         1078               media\spectrum\sprite_chip\sonic_sprite_40x48_rolling_1.bmp
+2015-11-10 13:30:22 ....A         1078               media\spectrum\sprite_chip\sonic_sprite_40x48_rolling_2.bmp
+2015-11-10 13:31:54 ....A         1078               media\spectrum\sprite_chip\sonic_sprite_40x48_rolling_3.bmp
+2015-11-10 13:33:16 ....A         1078               media\spectrum\sprite_chip\sonic_sprite_40x48_rolling_4.bmp
+2015-11-06 12:20:34 ....A         2678               media\spectrum\sprite_chip\sonicboss_80x64.bmp
+2015-09-14 12:56:20 ....A         2761               media\z88\basinstaller\installer.c
+2015-09-14 12:56:20 ....A        16936               media\z88\sokoban\sokoban.c
+2015-09-14 12:56:20 ....A          340               media\z88\wb.cli
+2016-02-23 13:22:22 ....A           36               media\zx81\hires\wrx\1987.P.config
+2015-09-23 13:11:16 ....A           19               media\spectrum\timex\2048demo.tap.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\24-bit.tap.config
+2016-02-23 13:26:14 ....A           55               media\zx81\hires\wrx\3DFRAC.P.config
+2016-05-21 13:26:08 ....A          273               media\config_games_joystick\3DMONSTERMAZE.P.config
+2016-02-23 13:16:44 ....A           30               media\zx81\hires\udg\AEROP-HR.P.config
+2016-05-21 13:26:08 ....A          291               media\config_games_joystick\ARKANOID.TAP.config
+2016-07-11 13:07:56 ....A            9               media\zx81\Asteroids (Quicksilva).p.config
+2016-02-23 13:23:44 ....A           37               media\zx81\hires\wrx\BEAMRIDE.81.config
+2016-02-23 14:23:26 ....A           31               media\zx81\beatles.p.config
+2016-02-23 13:27:46 ....A           62               media\zx81\hires\wrx\BIPLOT.P.config
+2016-02-23 13:22:40 ....A           36               media\zx81\hires\wrx\BLACKJAC.P.config
+2015-12-02 11:02:38 ....A          106               media\zx81\hires\wrx\BLOCKBUSTER\BLOCK1.P.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\linear_modes\radastan_mode\bob.tap.config
+2015-09-30 14:21:50 ....A          139               media\zx81\hires\softwarefarm\BOOSTER\BOOSTER.P.config
+2015-09-14 12:56:22 ....A           12               media\zx80\Breakout (Macronics 1980).o.config
+2016-05-21 13:26:08 ....A          288               media\config_games_joystick\BUBBLE BOBBLE.ZX.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\C64hi-res.tap.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\c64hires.tap.config
+2016-05-23 13:53:32 ....A           35               media\spectrum\timex\cascade.tap.config
+2016-05-21 13:26:08 ....A          288               media\config_games_joystick\CASTLEVANIA.TAP.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\CHASE HQ.ZX.config
+2016-05-21 13:26:08 ....A          265               media\config_games_joystick\CLIFF HANGER.ZX.config
+2016-02-23 13:05:54 ....A          114               media\zx81\hires\dansrevenge\CRUSH.P.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\DEATH CHASE.TAP.config
+2015-09-23 13:11:16 ....A           35               media\spectrum\timex\DemoHAM8.tap.config
+2015-09-23 13:11:16 ....A           35               media\spectrum\timex\DemoHAM8x1.tzx.config
+2016-02-22 14:00:14 ....A           25               media\spectrum\snoweffect\dizzyforever.z80.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog128x192.tap.config
+2016-06-27 14:45:22 ....A           16               media\spectrum\ULAplus\linear_modes\radastan_mode\dog128x96.tap.config
+2016-05-30 18:12:48 ....A           31               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog256x192.tap.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog256x96.tap.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog_silueta_128x192.tap.config
+2016-05-30 18:14:32 ....A           31               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog_silueta_256x192.tap.config
+2015-09-14 12:56:22 ....A           12               media\zx80\Double Breakout (Beam Software 1981).o.config
+2016-05-30 18:18:20 ....A           31               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dragonball.tap.config
+2016-05-30 18:18:26 ....A           31               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dragonballgt.tap.config
+2016-05-30 18:18:34 ....A           31               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dragonballz.tap.config
+2016-05-21 13:26:08 ....A          291               media\config_games_joystick\DYNAMITE DAN 2.TAP.config
+2016-05-21 13:26:08 ....A          309               media\config_games_joystick\EXOLON.ZX.config
+2016-05-21 13:26:08 ....A          265               media\config_games_joystick\EXPLODING FIST.ZX.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\linear_modes\radastan_mode\famguy.tap.config
+2015-09-30 14:22:10 ....A          143               media\zx81\hires\softwarefarm\FORTY\FORTY.P.config
+2016-02-23 13:28:18 ....A           55               media\zx81\hires\wrx\FOURIER.P.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\FRANKNSTEIN.ZX.config
+2016-02-23 14:02:50 ....A           55               media\zx81\hires\wrx\FSCAPES\FSCAPES.P.config
+2015-09-14 12:56:16 ....A          117               media\spectrum\Fuller Box & Orator Demonstration.tzx.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\linear_modes\radastan_mode\gravity.tap.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\GUNFRIGHT.ZX.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\HAM256.tap.config
+2016-05-21 13:26:08 ....A          310               media\config_games_joystick\HARD DRIVIN.ZX.config
+2015-09-30 14:05:20 ....A          212               media\zx81\hires\wrx\HERO.81.config
+2015-09-23 13:11:16 ....A           19               media\spectrum\timex\hicols.tzx.config
+2016-02-23 13:17:12 ....A           30               media\zx81\hires\udg\HR-GALAX.P.config
+2016-02-23 13:29:00 ....A           36               media\zx81\hires\wrx\HRDEMO3.P.config
+2015-09-30 13:19:44 ....A           95               media\zx81\hires\hrg\hrg-driver-16k.p.config
+2016-02-23 13:53:02 ....A           68               media\zx81\hires\wrx\HRINVADR.P.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\HYSTERIA.TAP.config
+2015-09-30 14:10:50 ....A          178               media\zx81\hires\wrx\interlaced\ilena.p.config
+2016-02-23 13:16:56 ....A           30               media\zx81\hires\udg\interc-u.p.config
+2016-03-22 11:09:12 ....A           18               media\spectrum\interlaced\interlace-test.tap.config
+2015-10-19 13:55:22 ....A          111               media\spectrum\timex\interlaced_512x384_slideshow.tap.config
+2016-05-21 13:26:08 ....A          288               media\config_games_joystick\INTERNATIONAL MATCH DAY 128.TAP.config
+2015-09-14 12:56:20 ....A          117               media\spectrum\tests\investest.tap.config
+2015-12-02 11:05:30 ....A           85               media\zx81\hires\wrx\jbracing.p.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\jet_set_willy_palette.tap.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\JETPAC.ZX.config
+2016-02-23 13:30:38 ....A           36               media\zx81\hires\wrx\JUL-FFP.P.config
+2016-02-23 13:31:04 ....A           36               media\zx81\hires\wrx\MACRO-16.P.config
+2016-02-23 13:31:38 ....A           18               media\zx81\hires\wrx\MAGIC-ZX.81.config
+2016-02-23 13:32:04 ....A           36               media\zx81\hires\wrx\MAND-FFP.P.config
+2015-09-14 12:56:22 ....A          363               media\zx81\hires\MANIC.P.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\manic_miner_palette.tap.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\MATCH DAY 2.TAP.config
+2016-05-21 13:26:08 ....A          406               media\config_games_joystick\MAZOGS.P.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\linear_modes\radastan_mode\moco.tap.config
+2015-09-23 13:11:16 ....A           19               media\spectrum\timex\movida_bajo_el_mar.tap.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\Multicolour.tap.config
+2016-02-22 14:02:38 ....A           25               media\spectrum\snoweffect\netwalk.z80.config
+2016-05-21 13:26:08 ....A          309               media\config_games_joystick\NIGHT SHIFT.ZX.config
+2016-02-23 13:10:50 ....A          114               media\zx81\hires\nolimits.81.config
+2016-02-23 13:32:40 ....A           18               media\zx81\hires\wrx\NU3.P.config
+2016-02-23 13:32:42 ....A           18               media\zx81\hires\wrx\NU4.P.config
+2016-02-23 13:32:44 ....A           18               media\zx81\hires\wrx\NU5.P.config
+2016-02-23 13:32:46 ....A           18               media\zx81\hires\wrx\NU9.P.config
+2016-02-23 13:35:18 ....A           27               media\zx81\hires\wrx\nucinv16.p.config
+2015-09-30 13:26:52 ....A          174               media\zx81\hires\chrs128\NUCINV81.P.config
+2016-02-23 14:21:32 ....A           31               media\zx81\ORQUESTA.P.config
+2015-09-14 12:56:22 ....A          145               media\zx81\hires\pacman.p.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\PaletteEditor.tap.config
+2015-09-30 13:31:26 ....A          124               media\zx81\hires\chrs128\panicohr.p.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\PAPERBOY.ZX.config
+2016-02-23 13:17:18 ....A           30               media\zx81\hires\udg\pokerhr.p.config
+2016-02-22 14:17:14 ....A           29               media\zx81\Chroma 81\proftime.p.config
+2015-09-14 12:56:22 ....A           21               media\zx80\QS Defenda (Quicksilva 1981) Reconstruction.o.config
+2015-09-30 13:28:32 ....A          169               media\zx81\hires\chrs128\qsinv.p.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\RAINBOW ISLANDS.Z80.config
+2016-02-23 13:04:48 ....A          114               media\zx81\hires\dansrevenge\REVENGE.P.config
+2016-02-23 13:42:26 ....A           61               media\zx81\hires\wrx\rezurrection.p.config
+2016-05-21 13:26:08 ....A          292               media\config_games_joystick\RICK DANGEROUS.ZX.config
+2016-05-21 13:26:08 ....A          288               media\config_games_joystick\ROBOCOP.TAP.config
+2016-02-22 14:05:26 ....A           40               media\spectrum\snoweffect\ROBOCOP3.TAP.config
+2015-09-30 14:22:32 ....A          142               media\zx81\hires\softwarefarm\ROCKET\ROCKET.P.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\RYGAR.ZX.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\SABRE WULF.ZX.config
+2016-05-21 13:26:08 ....A          292               media\config_games_joystick\SAINT DRAGON.TAP.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\sami_gb.tap.config
+2016-05-21 13:26:08 ....A          309               media\config_games_joystick\SGT HELMET HERO.TZX.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\Sgt.-Helmet-Zero.tzx.config
+2016-05-21 13:26:08 ....A          309               media\config_games_joystick\SIRFRED.ZX.config
+2015-09-23 13:11:16 ....A           92               media\spectrum\timex\slideshow_timex_64.tap.config
+2016-02-23 13:12:40 ....A          114               media\zx81\hires\sllc.81.config
+2015-09-14 12:56:20 ....A           16               media\spectrum\spectra\Snake.tap.config
+2015-09-14 12:56:20 ....A           25               media\spectrum\snoweffect\snow.tap.config
+2016-05-30 18:16:38 ....A           31               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\sonic256x192.tap.config
+2016-02-23 14:23:54 ....A           31               media\zx81\sound.p.config
+2015-09-14 12:56:22 ....A           12               media\zx80\Space Invaders 1K (Macronics 1981) Reconstruction.o.config
+2015-09-14 12:56:22 ....A           12               media\zx80\Space Invaders 3K (Macronics 1981).o.config
+2015-09-14 12:56:20 ....A           16               media\spectrum\spectra\SPECTRA-Blitz2014.tap.config
+2015-09-14 12:56:20 ....A           16               media\spectrum\spectra\SPECTRA_TestUtility.tzx.config
+2016-02-23 13:33:10 ....A           36               media\zx81\hires\wrx\SPIRO.P.config
+2016-02-23 13:21:16 ....A           18               media\zx81\hires\wrx\STARFIGH.81.config
+2016-02-22 14:19:22 ....A           29               media\zx81\Chroma 81\stellar.p.config
+2016-05-21 13:26:08 ....A          291               media\config_games_joystick\STOP THE EXPRESS.TAP.config
+2016-05-21 13:26:08 ....A          331               media\config_games_joystick\SUBAQUATIC RELOADED.TZX.config
+2015-09-14 12:56:22 ....A           12               media\zx80\Super Invasion 1K (Beam Software 1981).o.config
+2015-09-14 12:56:22 ....A           12               media\zx80\Super Invasion 2K (Beam Software 1981).o.config
+2016-05-21 13:26:08 ....A          288               media\config_games_joystick\TARGET RENEGADE.ZX.config
+2015-06-09 13:01:54 ....A          241               snap_tests\test_autoconfig.p.config
+2015-06-09 12:55:16 ....A          301               snap_tests\test_autoconfig.tap.config
+2016-03-16 04:45:16 ....A          255               snap_tests\test_autoconfig2.tap.config
+2015-11-13 13:19:38 ....A           98               media\spectrum\sprite_chip\testspritechip.zx.config
+2015-09-23 13:11:16 ....A           19               media\spectrum\timex\testtimexmode1.tap.config
+2015-09-23 13:11:16 ....A           19               media\spectrum\timex\testtimexmode6.tap.config
+2016-05-30 14:12:46 ....A           31               media\spectrum\ULAplus\linear_modes\testulapluslinear.tap.config
+2015-09-14 12:56:22 ....A          142               media\zx81\hires\tetrishr.p.config
+2016-02-23 14:06:04 ....A           58               media\zx81\hires\tForth\tforth10.p.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\THE GREAT ESCAPE.ZX.config
+2015-09-23 13:11:16 ....A           19               media\spectrum\timex\timmy.tap.config
+2016-05-21 13:26:08 ....A          309               media\config_games_joystick\TURBO ESPRIT.ZX.config
+2016-02-22 14:02:04 ....A           25               media\spectrum\snoweffect\VECTRON.TAP.config
+2015-09-23 13:11:16 ....A           16               media\spectrum\ULAplus\view-bmc4.tap.config
+2016-02-22 14:02:50 ....A           25               media\spectrum\snoweffect\vikingquest.z80.config
+2016-02-23 13:58:22 ....A           55               media\zx81\hires\wrx\VOYAGE\VOYAGE.P.config
+2016-02-22 14:21:20 ....A           29               media\zx81\Chroma 81\wall-expanded.p.config
+2016-02-23 13:37:30 ....A           18               media\zx81\hires\wrx\wall_wrx.p.config
+2016-05-21 13:26:08 ....A          288               media\config_games_joystick\WEC LE MANS.ZX.config
+2016-02-23 13:37:48 ....A           18               media\zx81\hires\wrx\wrx1k1.p.config
+2015-09-30 14:18:30 ....A          143               media\zx81\hires\softwarefarm\XTRICATOR\XTRICATOR.P.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\YIE AR KUNG FU.ZX.config
+2016-05-21 13:26:08 ....A          287               media\config_games_joystick\ZORRO.ZX.config
+2016-02-23 13:34:02 ....A           55               media\zx81\hires\wrx\ZX-PAINT.P.config
+2016-02-23 14:23:38 ....A           31               media\zx81\zx81mi-demo.p.config
+2016-02-23 13:34:38 ....A           18               media\zx81\hires\wrx\ZXBART.P.config
+2015-11-30 14:34:04 ....A         8201               media\spectrum\timex\CrazyBugs.dck
+2015-11-27 13:47:32 ....A       303616               SDL.dll
+2015-03-05 13:09:40 ....A       112128               docs\mb02\Hardware_EN.doc
+2015-03-05 13:09:40 ....A       210944               docs\mb02\MB-02plusEnglishManual.doc
+2015-03-05 13:09:40 ....A       380416               docs\mb02\mb02plus.doc
+2015-03-05 13:09:40 ....A        81920               docs\mb02\RAM Drive Eng.doc
+2015-12-11 11:46:10 ....A       412182               docs\prism\Prism RAM.docx
+2015-12-11 11:46:10 ....A       101052               docs\prism\Prism ROM.docx
+2016-07-28 14:15:06 ....A         6148               media\spectrum\ULAplus\linear_modes\.DS_Store
+2016-08-16 12:14:06 ....A        10244               docs\.DS_Store
+2015-12-16 07:24:16 ....A        10244               media\spectrum\sprite_chip\.DS_Store
+2016-07-28 12:39:10 ....A        10244               media\spectrum\.DS_Store
+2016-08-16 12:18:14 ....A         6148               docs\dandanator\.DS_Store
+2016-07-21 14:24:40 ....A         6148               media\spectrum\turbosound\.DS_Store
+2016-07-28 12:42:14 ....A        10244               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\.DS_Store
+2016-07-28 12:39:10 ....A         8196               media\spectrum\ULAplus\.DS_Store
+2016-07-29 13:49:28 ....A         6148               docs\prism\.DS_Store
+2016-07-28 12:39:10 ....A         8196               media\.DS_Store
+2015-09-14 12:56:20 ....A        32768               media\z88\camel.epr
+2015-09-14 12:56:20 ....A        32768               media\z88\demo.epr
+2015-09-14 12:56:20 ....A        32768               media\z88\dstar.epr
+2015-09-14 12:56:20 ....A        32768               media\z88\examples.epr
+2015-09-14 12:56:20 ....A       131072               media\z88\examples_bank1.epr
+2015-09-14 12:56:20 ....A        32768               media\z88\examples_bank2.epr
+2015-09-14 12:56:20 ....A        32768               media\z88\forever.epr
+2015-09-14 12:56:20 ....A        32768               media\z88\jsw.epr
+2015-09-14 12:56:20 ....A        32768               media\z88\lem.epr
+2015-09-14 12:56:20 ....A        32768               media\z88\manicminer.epr
+2015-09-14 12:56:20 ....A       131072               media\z88\wb.epr
+2015-09-14 12:56:22 ....A        32768               media\z88\zchess.epr
+2015-09-14 12:56:22 ....A        32768               media\z88\zetriz.epr
+2015-09-14 12:56:20 ....A       131072               media\z88\lemlevels.eprom
+2015-09-14 12:56:22 ....A       215072               media\zx81\hires\tForth\TASM.EXE
+2016-08-17 14:20:40 ....A      1196188               zesarux.exe
+2015-02-09 12:30:44 ....A       524288               snap_tests\pz88.flash
+2016-05-19 13:25:34 ....A      4194304               zxuno.flash
+2015-09-14 12:56:22 ....A        16381               media\zx81\hires\tForth\Progs\3DMAZE.FTH
+2015-09-14 12:56:22 ....A         7190               media\zx81\hires\tForth\Progs\acemines.fth
+2015-09-14 12:56:22 ....A         1831               media\zx81\hires\tForth\Progs\Benchmarks.fth
+2015-09-14 12:56:22 ....A         6731               media\zx81\hires\tForth\Progs\Breakout-std.fth
+2015-09-14 12:56:22 ....A         6992               media\zx81\hires\tForth\Progs\Breakout.fth
+2015-09-14 12:56:22 ....A         2576               media\zx81\hires\tForth\Progs\Calendar.fth
+2015-09-14 12:56:22 ....A         1127               media\zx81\hires\tForth\Progs\divn.fth
+2015-09-14 12:56:22 ....A          303               media\zx81\hires\tForth\Progs\dump.fth
+2015-09-14 12:56:22 ....A         1558               media\zx81\hires\tForth\Progs\factorial.fth
+2015-09-14 12:56:22 ....A         6253               media\zx81\hires\tForth\Progs\Hanoi.fth
+2015-09-14 12:56:22 ....A        26440               media\zx81\hires\tForth\Library.fth
+2015-09-14 12:56:22 ....A         8462               media\zx81\hires\tForth\Progs\Mancala.fth
+2015-09-14 12:56:22 ....A         7633               media\zx81\hires\tForth\Progs\Millipede.fth
+2015-09-14 12:56:22 ....A         5158               media\zx81\hires\tForth\Progs\PlotTest.fth
+2015-09-14 12:56:22 ....A         2010               media\zx81\hires\tForth\Progs\rotsom.fth
+2015-09-14 12:56:22 ....A         5796               media\zx81\hires\tForth\Progs\sokoban.fth
+2015-09-14 12:56:22 ....A         5593               media\zx81\hires\tForth\Progs\sokoed.fth
+2015-09-14 12:56:22 ....A         9371               media\zx81\hires\tForth\Progs\sudoku.fth
+2015-09-14 12:56:20 ....A        23085               media\z88\whatnow\chantie.gac
+2015-09-14 12:56:20 ....A        15104               media\z88\whatnow\ransom.gac
+2015-09-14 12:56:20 ....A       266033               media\spectrum\myself\cancione.smp.gz
+2015-09-14 12:56:20 ....A        78495               media\spectrum\myself\editor.smp.gz
+2015-09-14 12:56:22 ....A      1442800               media\zx81\orquesta_zx81.rwa.gz
+2014-12-19 13:01:32 ....A         1451               snap_tests\testspec48.rwa.gz
+2014-12-19 13:01:32 ....A        16017               snap_tests\testspec48.smp.gz
+2014-12-19 13:01:32 ....A         1486               snap_tests\testspec48.wav.gz
+2014-12-19 13:01:32 ....A         1266               snap_tests\testzx80.rwa.gz
+2014-12-19 13:01:32 ....A        19214               snap_tests\testzx80.smp.gz
+2014-12-19 13:01:32 ....A         1479               snap_tests\testzx80.wav.gz
+2014-12-19 13:01:32 ....A        25918               snap_tests\testzx81.rwa.gz
+2014-12-19 13:01:32 ....A        53910               snap_tests\testzx81.smp.gz
+2014-12-19 13:01:32 ....A        58445               snap_tests\testzx81.wav.gz
+2014-10-20 12:39:36 ....A        18069               docs\z88\hardware.htm
+2014-10-20 12:39:36 ....A        68280               docs\z88\Manipulating the Blink Registers.htm
+2014-10-26 12:22:56 ....A        13151               docs\z88\scrdrv.htm
+2014-10-26 12:22:56 ....A        10331               docs\z88\scrfiles.htm
+2014-10-20 12:39:36 ....A       399844               docs\z88\Z88dev093.htm
+2014-02-27 12:53:30 ....A       228152               docs\ZX Video Tutorial.htm
+2014-02-27 12:53:30 ....A       541252               docs\zxdocs.htm
+2015-11-17 11:52:56 ....A        11303               docs\jupiter_ace\faq_ace_snapshot_format.html
+2015-07-23 12:42:10 ....A        22123               docs\plus3e_commands.html
+2015-09-14 12:56:22 ....A        11220               media\z88\whatnow\whatnow-docs.html
+2016-05-15 14:38:20 ....A     33554432               atomlite.ide
+2016-07-11 14:05:56 ....A     33554432               divideesx085.ide
+2015-09-14 12:56:18 ....A        13824               media\spectrum\gigascreen\gigascreen_art\PheeL_stellarcontour.img
+2015-09-14 12:56:18 ....A        13824               media\spectrum\gigascreen\gigascreen_art\prof4d_C9.img
+2015-09-14 12:56:18 ....A        13824               media\spectrum\gigascreen\gigascreen_art\riskej_outstandingsingle.img
+2015-09-14 12:56:18 ....A        13824               media\spectrum\gigascreen\gigascreen_art\riskej_truecolorswings.img
+2015-09-14 12:56:18 ....A        13824               media\spectrum\gigascreen\gigascreen_art\tmk_goldfish.img
+2015-09-14 12:56:18 ....A        13824               media\spectrum\gigascreen\gigascreen_art\tmk_savetheanimals.img
+2015-09-14 12:56:18 ....A        13104               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog256x192.jpg
+2015-09-14 12:56:18 ....A        13542               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog_silueta.jpg
+2015-09-14 12:56:22 ....A        60332               media\zx81\hires\dansrevenge\GAMES.JPG
+2016-03-14 12:26:20 ....A       154509               docs\chloe\keyboard.jpg
+2015-09-14 12:56:22 ....A       163851               media\zx81\hires\tForth\tforth10.lst
+2015-11-12 12:42:44 ....A        25258               media\spectrum\sprite_chip\testspritechip_asm.map
+2015-09-14 12:56:18 ....A        14080               media\spectrum\gigascreen\gigascreen_art\bumpedman.mg8
+2015-09-14 12:56:18 ....A        14080               media\spectrum\gigascreen\gigascreen_art\do-you-like-spheres.mg8
+2015-09-14 12:56:18 ....A        14080               media\spectrum\gigascreen\gigascreen_art\msgreetspart2009.mg8
+2015-09-14 12:56:18 ....A        14080               media\spectrum\gigascreen\gigascreen_art\underwater.mg8
+2016-05-14 05:43:52 ....A     33554432               divmmcesx085.mmc
+2016-05-21 13:49:36 ....A     33554432               divmmcesx086.mmc
+2016-03-01 11:35:44 ....A     33554432               snap_tests\pruebasplus3e.mmc
+2016-07-08 12:11:52 ....A     33554432               tbblue.mmc
+2015-09-14 12:56:22 ....A          842               media\zx80\Breakout (Macronics 1980).o
+2015-09-14 12:56:22 ....A          726               media\zx80\Double Breakout (Beam Software 1981).o
+2015-09-14 12:56:22 ....A         4046               media\zx80\dstar.o
+2014-12-23 13:17:28 ....A           70               snap_tests\pzx80.o
+2015-09-14 12:56:22 ....A         1727               media\zx80\QS Defenda (Quicksilva 1981) Reconstruction.o
+2015-09-14 12:56:22 ....A          676               media\zx80\Space Invaders 1K (Macronics 1981) Reconstruction.o
+2015-09-14 12:56:22 ....A         1878               media\zx80\Space Invaders 3K (Macronics 1981).o
+2015-09-14 12:56:22 ....A          900               media\zx80\Super Invasion 1K (Beam Software 1981).o
+2015-09-14 12:56:22 ....A         1268               media\zx80\Super Invasion 2K (Beam Software 1981).o
+2015-11-12 12:42:44 ....A        37004               media\spectrum\sprite_chip\testspritechip_asm.obj
+2016-07-09 13:37:44 ....A        40229               zesarux.odt
+2015-09-14 12:56:22 ....A        14760               media\zx81\hires\wrx\1987.P
+2015-09-14 12:56:22 ....A        11857               media\zx81\3DDefender.p
+2015-09-14 12:56:22 ....A        11588               media\zx81\hires\wrx\3DFRAC.P
+2015-09-14 12:56:22 ....A         9115               media\zx81\hires\tForth\Progs\3DMAZE.P
+2015-09-14 12:56:22 ....A        10552               media\zx81\3dmonstermaze.p
+2015-09-14 12:56:22 ....A         7827               media\zx81\hires\tForth\Progs\ACEMINES.P
+2015-09-14 12:56:22 ....A         5076               media\zx81\hires\udg\AEROP-HR.P
+2015-09-14 12:56:22 ....A         1160               media\zx81\Chroma 81\ALMINCOL.P
+2015-09-14 12:56:22 ....A        14710               media\zx81\Chroma 81\ALMIND.P
+2015-09-14 12:56:22 ....A         3457               media\zx81\Asteroids (Quicksilva).p
+2015-09-14 12:56:22 ....A         7955               media\zx81\aydemo.p
+2015-09-14 12:56:22 ....A         6730               media\zx81\beatles.p
+2015-09-14 12:56:22 ....A         4513               media\zx81\hires\wrx\BIPLOT.P
+2015-09-14 12:56:22 ....A        15902               media\zx81\hires\wrx\BLACKJAC.P
+2015-09-14 12:56:22 ....A         2951               media\zx81\hires\wrx\BLOCKBUSTER\BLOCK1.P
+2015-09-14 12:56:22 ....A        10551               media\zx81\hires\wrx\BLOCKBUSTER\BLOCK2.P
+2015-09-14 12:56:22 ....A        12615               media\zx81\hires\softwarefarm\BOOSTER\BOOSTER.P
+2015-09-14 12:56:22 ....A         6095               media\zx81\hires\tForth\Progs\BREAKOUT-STD.P
+2015-09-14 12:56:22 ....A         6462               media\zx81\hires\tForth\Progs\BREAKOUT.P
+2015-09-14 12:56:22 ....A         2019               media\zx81\tests\ClckFreq.p
+2015-09-14 12:56:22 ....A         8993               media\zx81\zxpand\CMDR\CMDR.P
+2015-09-14 12:56:22 ....A          402               media\zx81\hires\dansrevenge\CRUSH.P
+2015-09-14 12:56:22 ....A         1742               media\zx81\hires\hrg\demo16.p
+2015-09-14 12:56:22 ....A        13999               media\zx81\demon.p
+2015-09-14 12:56:22 ....A         3142               media\zx81\hires\dansrevenge\DRCODE.P
+2015-09-14 12:56:22 ....A          792               media\zx81\hires\dansrevenge\DRDATA.P
+2015-09-14 12:56:22 ....A         6557               media\zx81\hires\dansrevenge\DRDFILE.P
+2015-09-14 12:56:22 ....A          671               media\zx81\hires\dansrevenge\DRSCRNS.P
+2015-09-14 12:56:22 ....A        13870               media\zx81\hires\softwarefarm\FORTY\FORTY.P
+2015-09-14 12:56:22 ....A        20872               media\zx81\hires\wrx\FOURIER.P
+2015-09-14 12:56:22 ....A        13493               media\zx81\frogger_djlsoftware.p
+2015-09-14 12:56:22 ....A        10638               media\zx81\frogger_sega.p
+2015-09-14 12:56:22 ....A         4223               media\zx81\frogs_mikrogen.p
+2015-09-14 12:56:22 ....A         6554               media\zx81\hires\wrx\FSCAPES\FS-DOC1.P
+2015-09-14 12:56:22 ....A         8569               media\zx81\hires\wrx\FSCAPES\FS-DOC2.P
+2015-09-14 12:56:22 ....A        11348               media\zx81\hires\wrx\FSCAPES\FS-DOC3.P
+2015-09-14 12:56:22 ....A        10679               media\zx81\hires\wrx\FSCAPES\FS-DOC4.P
+2015-09-14 12:56:22 ....A         4073               media\zx81\hires\wrx\FSCAPES\FS-DOC5.P
+2015-09-14 12:56:22 ....A        11201               media\zx81\hires\wrx\FSCAPES\FS-DOC6.P
+2015-09-14 12:56:22 ....A        11843               media\zx81\hires\wrx\FSCAPES\FS-DOC7.P
+2015-09-14 12:56:22 ....A         8618               media\zx81\hires\wrx\FSCAPES\FS-FIG1.P
+2015-09-14 12:56:22 ....A         8618               media\zx81\hires\wrx\FSCAPES\FS-FIG2.P
+2015-09-14 12:56:22 ....A         8618               media\zx81\hires\wrx\FSCAPES\FS-FIG3.P
+2015-09-14 12:56:22 ....A         2902               media\zx81\hires\wrx\FSCAPES\FS-READ.P
+2015-09-14 12:56:22 ....A         1852               media\zx81\hires\wrx\FSCAPES\FSCAPES.P
+2015-09-14 12:56:22 ....A        22025               media\zx81\hires\wrx\FSCAPES\FSCAPES2.P
+2015-09-14 12:56:22 ....A         1152               media\zx81\Chroma 81\GalaxCol.P
+2015-09-14 12:56:22 ....A         5796               media\zx81\hires\tForth\Progs\HANOI.P
+2015-09-14 12:56:22 ....A        10763               media\zx81\hires\HighRes.p
+2015-09-14 12:56:22 ....A         1623               media\zx81\hires\HighResolution.A.1.HiRes.p
+2015-09-14 12:56:22 ....A         2448               media\zx81\hires\HighResolution.A.2.Sine.p
+2015-09-14 12:56:22 ....A         2472               media\zx81\hires\HighResolution.A.3.Expo3D.p
+2015-09-14 12:56:22 ....A         5421               media\zx81\hires\udg\HR-GALAX.P
+2015-09-14 12:56:22 ....A         5421               media\zx81\Chroma 81\HR-GALAX.P
+2015-09-14 12:56:22 ....A        13496               media\zx81\hires\wrx\HRDEMO3.P
+2015-09-14 12:56:22 ....A         5456               media\zx81\hires\hrg\hrg-driver-16k.p
+2015-09-14 12:56:22 ....A        11000               media\zx81\hires\wrx\HRINVADR.P
+2015-09-14 12:56:22 ....A        16001               media\zx81\hires\wrx\interlaced\ilena.p
+2015-09-14 12:56:22 ....A        13018               media\zx81\hires\udg\interc-u.p
+2015-09-14 12:56:22 ....A         9580               media\zx81\hires\wrx\jbracing.p
+2015-09-14 12:56:22 ....A        14209               media\zx81\hires\wrx\JUL-FFP.P
+2015-09-14 12:56:22 ....A         3064               media\zx81\hires\hrg\landhere.p
+2015-09-14 12:56:22 ....A         7919               media\zx81\hires\wrx\MACRO-16.P
+2015-09-14 12:56:22 ....A         9242               media\zx81\hires\tForth\Progs\MANCALA.P
+2015-09-14 12:56:22 ....A        14028               media\zx81\hires\wrx\MAND-FFP.P
+2015-09-14 12:56:22 ....A        11448               media\zx81\hires\MANIC.P
+2015-09-14 12:56:22 ....A        12898               media\zx81\Chroma 81\MAZOGS.P
+2015-09-14 12:56:22 ....A        12898               media\zx81\MAZOGS.P
+2015-09-14 12:56:22 ....A         1120               media\zx81\Chroma 81\MazogsColour.P
+2015-09-14 12:56:22 ....A         7300               media\zx81\hires\tForth\Progs\MILLIPEDE.P
+2015-09-14 12:56:22 ....A         1202               media\zx81\Chroma 81\MISSICOL.P
+2015-09-14 12:56:22 ....A         9666               media\zx81\Chroma 81\MISSILEC.P
+2015-09-14 12:56:22 ....A         7247               media\zx81\hires\wrx\NU3.P
+2015-09-14 12:56:22 ....A         7247               media\zx81\hires\wrx\NU4.P
+2015-09-14 12:56:22 ....A         7247               media\zx81\hires\wrx\NU5.P
+2015-09-14 12:56:22 ....A         7247               media\zx81\hires\wrx\NU9.P
+2015-09-14 12:56:22 ....A         8827               media\zx81\hires\wrx\nucinv16.p
+2015-09-14 12:56:22 ....A         9930               media\zx81\hires\chrs128\NUCINV81.P
+2015-09-14 12:56:22 ....A         7403               media\zx81\ORQUESTA.P
+2015-09-14 12:56:22 ....A         1611               media\zx81\ORQUESTA_TEST.P
+2015-09-14 12:56:22 ....A        13492               media\zx81\hires\pacman.p
+2015-09-14 12:56:22 ....A         4876               media\zx81\hires\chrs128\panicohr.p
+2015-09-14 12:56:22 ....A        13831               media\zx81\pinkpthr.p
+2015-09-14 12:56:22 ....A         2789               media\zx81\hires\hrg\pipes.p
+2015-09-14 12:56:22 ....A         5500               media\zx81\hires\tForth\Progs\PLOT-TEST.P
+2015-09-14 12:56:22 ....A        14151               media\zx81\hires\udg\pokerhr.p
+2015-09-14 12:56:22 ....A         9508               media\zx81\Chroma 81\proftime.p
+2014-12-23 13:13:48 ....A          258               snap_tests\pzx81.p
+2015-09-14 12:56:22 ....A         6933               media\zx81\hires\chrs128\qsinv.p
+2015-09-14 12:56:22 ....A         2689               media\zx81\hires\dansrevenge\RCCODE.P
+2015-09-14 12:56:22 ....A          809               media\zx81\hires\dansrevenge\RCDATA.P
+2015-09-14 12:56:22 ....A         6557               media\zx81\hires\dansrevenge\RCDFILE.P
+2015-09-14 12:56:22 ....A         2221               media\zx81\hires\dansrevenge\RCSCRNS.P
+2015-09-14 12:56:22 ....A        13897               media\zx81\Chroma 81\rebound\Rebound.p
+2015-09-14 12:56:22 ....A          404               media\zx81\hires\dansrevenge\REVENGE.P
+2015-09-14 12:56:22 ....A         4068               media\zx81\hires\wrx\rezurrection.p
+2015-09-14 12:56:22 ....A        15355               media\zx81\hires\softwarefarm\ROCKET\ROCKET.P
+2015-09-14 12:56:22 ....A         8473               media\zx81\hires\softwarefarm\XTRICATOR\SCREEN.P
+2015-09-14 12:56:22 ....A         1371               media\zx81\hires\hrg\sinus.p
+2015-09-14 12:56:22 ....A        15079               media\zx81\hires\tForth\Progs\SOKOBAN.P
+2015-09-14 12:56:22 ....A         1510               media\zx81\sound.p
+2015-09-14 12:56:22 ....A        10090               media\zx81\hires\wrx\SPIRO.P
+2015-09-14 12:56:22 ....A         1154               media\zx81\zxpand\ZXSTPLAY\SS.P
+2015-09-14 12:56:22 ....A         9508               media\zx81\Chroma 81\stellar.p
+2015-09-14 12:56:22 ....A         8837               media\zx81\hires\tForth\Progs\SUDOKU.P
+2015-09-14 12:56:22 ....A        11815               media\zx81\hires\tetrishr.p
+2015-09-14 12:56:22 ....A         4827               media\zx81\hires\tForth\tforth10-std.p
+2015-09-14 12:56:22 ....A         4827               media\zx81\hires\tForth\tforth10.p
+2015-09-14 12:56:22 ....A         5624               media\zx81\hires\hrg\uhr.p
+2015-09-14 12:56:22 ....A         5567               media\zx81\hires\hrg\upperlowerfont.p
+2015-09-14 12:56:22 ....A        12610               media\zx81\hires\wrx\VOYAGE\VOYAGE.P
+2015-09-14 12:56:22 ....A        14903               media\zx81\hires\wrx\VOYAGE\VOYAGE2.P
+2015-09-14 12:56:22 ....A        10324               media\zx81\Chroma 81\wall-expanded.p
+2015-09-14 12:56:22 ....A         7462               media\zx81\hires\wrx\wall_wrx.p
+2015-09-14 12:56:22 ....A          838               media\zx81\hires\wrx\wrx1k1.p
+2015-09-14 12:56:22 ....A         6301               media\zx81\hires\softwarefarm\XTRICATOR\XTRICATOR.P
+2015-09-14 12:56:22 ....A        16063               media\zx81\hires\wrx\ZX-PAINT.P
+2015-09-14 12:56:22 ....A         6351               media\zx81\zx81mi-demo.p
+2015-09-14 12:56:22 ....A         7218               media\zx81\hires\wrx\ZXBART.P
+2016-04-07 13:38:04 ....A      1259754               docs\765.pdf
+2015-02-09 12:30:44 ....A       975894               docs\z88\AM29F080B.pdf
+2015-02-09 12:30:44 ....A       420920               docs\z88\AMIC29040B.pdf
+2016-08-16 12:13:32 ....A       136329               docs\dandanator\Comandos Dandanator mini para emulacion.pdf
+2016-05-13 13:16:30 ....A       549589               docs\compactflash_product_manual.pdf
+2015-09-29 14:20:04 ....A       265594               docs\ESXDOS manual.pdf
+2015-02-09 12:30:44 ....A       422158               docs\z88\I28F008S5.pdf
+2016-02-10 05:38:52 ....A      4293440               docs\jupiter_ace\JA-Manual-Second-Edition.pdf
+2015-07-23 12:42:10 ....A       612510               docs\mmcsys-version_3-1.pdf
+2016-05-13 13:42:22 ....A       231831               docs\sam-coupe_tech-man_v3-0.pdf
+2015-09-14 12:56:18 ....A        43415               media\spectrum\beeper\samitroid_English_Manual.pdf
+2015-09-14 12:56:18 ....A        43457               media\spectrum\beeper\samitroid_Spanish_Manual.pdf
+2015-08-26 12:49:36 ....A        71945               docs\spectra\SPECTRA_DisplayModes.pdf
+2015-08-26 12:49:36 ....A      1096389               docs\spectra\SPECTRA_Manual.pdf
+2015-03-05 13:11:26 ....A       933027               docs\z80dma.pdf
+2014-11-21 13:11:24 ....A      1794250               docs\z88\Z88UGV4.pdf
+2015-11-05 14:47:50 ....A         4084               media\spectrum\sprite_chip\avantgreenhill01_recoloreado.png
+2014-05-10 16:09:28 ....A       125748               docs\inves\coloruladelay_brucelee_speccy_clone.png
+2014-05-10 16:09:28 ....A         9960               docs\inves\coloruladelay_brucelee_zesarux.png
+2014-05-10 16:09:28 ....A        13975               docs\inves\coloruladelay_kingsvalley_ingame_zesarux.png
+2014-05-10 16:09:28 ....A         8426               docs\inves\coloruladelay_kingsvalley_konamitext_zesarux.png
+2014-05-10 16:09:28 ....A        23552               docs\inves\coloruladelay_kingsvalley_zesarux.png
+2014-05-10 16:09:28 ....A       338064               docs\inves\coloruladelay_speccy_clone.png
+2015-09-14 12:56:22 ....A         8429               media\zx81\hires\tForth\keyboard.png
+2014-05-10 16:09:28 ....A        44994               docs\inves\poke_rom_beep1_20_realinves.png
+2014-05-10 16:09:28 ....A        51254               docs\inves\poke_rom_beep1_20_realinves_listbasic.png
+2014-05-10 16:09:28 ....A        14242               docs\inves\poke_rom_beep1_20_zesarux.png
+2014-05-10 16:09:28 ....A         9683               docs\inves\real_brucelee_zesarux.png
+2014-05-10 16:09:28 ....A        13488               docs\inves\real_kingsvalley_ingame_zesarux.png
+2014-05-10 16:09:28 ....A         8248               docs\inves\real_kingsvalley_konamitext_zesarux.png
+2014-05-10 16:09:28 ....A        21847               docs\inves\real_kingsvalley_zesarux.png
+2015-09-14 12:56:16 ....A          642               snap_tests\BUBBLEBOBBLE.pok
+2015-09-14 12:56:16 ....A          407               snap_tests\corrupt.POK
+2015-09-14 12:56:16 ....A          233               snap_tests\DTWISH3.POK
+2015-09-14 12:56:16 ....A           74               snap_tests\JACKNIP1.POK
+2015-09-14 12:56:16 ....A         1918               snap_tests\linetoolarge.POK
+2015-09-14 12:56:16 ....A          305               snap_tests\TESTING.POK
+2015-09-14 12:56:16 ....A           98               snap_tests\testlongpoke.POK
+2015-09-14 12:56:16 ....A         2233               snap_tests\toomanylines.POK
+2015-09-14 12:56:16 ....A         1308               snap_tests\toomanypokes.POK
+2013-10-31 12:50:54 ....A        32768               128.rom
+2013-10-31 12:50:54 ....A        32768               128s.rom
+2013-10-23 13:25:06 ....A        16384               48.rom
+2015-11-23 11:00:12 ....A        16384               48es.rom
+2015-11-13 14:55:04 ....A         8192               ace.rom
+2014-12-01 12:46:34 ....A         8192               alternaterom_aszmice07.rom
+2014-09-03 11:40:06 ....A        16384               alternaterom_gw03.rom
+2014-07-18 12:47:32 ....A        16384               alternaterom_opense.rom
+2014-07-18 12:47:32 ....A        65536               alternaterom_plus2b.rom
+2014-07-18 12:47:32 ....A        32768               alternaterom_plus2c.rom
+2015-07-23 12:42:08 ....A        65536               alternaterom_plus3e_mmcen3eE.rom
+2015-07-23 12:42:08 ....A        65536               alternaterom_plus3e_mmces3eE.rom
+2015-09-28 13:56:40 ....A        16384               alternaterom_sebasic4_rom1.rom
+2016-05-13 13:33:58 ....A        32768               atomlite.rom
+2015-12-04 07:47:50 ....A        32768               cpc464.rom
+2016-05-09 12:39:28 ....A         8192               esxide085.rom
+2015-07-23 12:42:10 ....A         8192               esxmmc085.rom
+2013-10-23 13:25:06 ....A        16384               inves.rom
+2013-10-31 12:50:54 ....A        32768               p2.rom
+2013-10-31 12:50:54 ....A        65536               p2a40.rom
+2013-10-31 12:50:54 ....A        65536               p2a41.rom
+2013-10-31 12:50:54 ....A        65536               p2as.rom
+2013-10-31 12:50:54 ....A        32768               p2f.rom
+2013-10-31 12:50:54 ....A        32768               p2s.rom
+2016-07-08 12:32:28 ....A       327680               prism.rom
+2015-12-18 11:37:12 ....A        16384               prism_failsafe.rom
+2016-08-17 13:59:04 ....A       524288               pruebasdandanator.rom
+2016-03-29 13:53:10 ....A        32768               samcoupe.rom
+2015-11-30 02:43:36 ....A        32768               se.rom
+2016-05-19 13:47:50 ....A         8192               tbblue_loader.rom
+2014-01-08 12:45:24 ....A        16384               tk90x.rom
+2014-01-08 12:45:24 ....A        16384               tk90xs.rom
+2014-01-08 12:45:24 ....A        16384               tk95.rom
+2016-02-11 13:35:34 ....A        16384               tk95es.rom
+2016-02-11 13:36:48 ....A        16384               tk95es_modif.rom
+2015-11-27 14:02:32 ....A        24576               ts2068.rom
+2014-11-25 12:47:28 ....A       524288               Z88OZ431.rom
+2014-11-25 12:47:28 ....A       524288               Z88OZ441.rom
+2015-07-23 12:42:08 ....A       524288               Z88OZ45.rom
+2016-07-20 13:20:08 ....A       524288               Z88OZ46.rom
+2015-07-14 12:30:56 ....A       131072               Z88UK220.rom
+2015-07-14 12:30:56 ....A       131072               Z88UK300.rom
+2015-07-14 12:30:56 ....A       131072               Z88UK400.rom
+2013-10-23 13:25:06 ....A         4096               zx80.rom
+2013-10-23 13:25:06 ....A         8192               zx81.rom
+2015-08-12 11:38:48 ....A         8192               zxpand.rom
+2016-05-23 14:39:10 ....A          214               zxuno_bootloader.rom
+2015-11-11 12:31:40 ....A         6912               media\spectrum\sprite_chip\avantgreenhill01_recoloreado.png.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\bumpedman.mg8_frame1.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\bumpedman.mg8_frame2.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\do-you-like-spheres.mg8_frame1.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\do-you-like-spheres.mg8_frame2.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\msgreetspart2009.mg8_frame1.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\msgreetspart2009.mg8_frame2.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\PheeL_stellarcontour.img_frame1.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\PheeL_stellarcontour.img_frame2.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\prof4d_C9.img_frame1.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\prof4d_C9.img_frame2.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\riskej_outstandingsingle.img_frame1.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\riskej_outstandingsingle.img_frame2.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\riskej_truecolorswings.img_frame1.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\riskej_truecolorswings.img_frame2.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\tmk_goldfish.img_frame1.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\tmk_goldfish.img_frame2.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\tmk_savetheanimals.img_frame1.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\tmk_savetheanimals.img_frame2.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\underwater.mg8_frame1.scr
+2015-09-14 12:56:18 ....A         6912               media\spectrum\gigascreen\gigascreen_art\underwater.mg8_frame2.scr
+2016-01-21 13:23:32 ....A          176               docs\prism\binary_to_decimal.sh
+2015-09-14 12:56:18 ....A          169               media\spectrum\gigascreen\gigascreen_art\convert_img_scr.sh
+2015-09-14 12:56:18 ....A          747               media\spectrum\gigascreen\gigascreen_art\convert_mg8_scr.sh
+2015-09-01 12:40:38 ....A           81               speech_filters\espeak_linux_filter.sh
+2015-07-13 12:46:48 ....A           84               speech_filters\festival_filter.sh
+2015-07-13 12:46:48 ....A          142               speech_filters\festival_filter_alsa.sh
+2015-07-13 12:46:48 ....A          145               speech_filters\festival_filter_pulse.sh
+2015-07-13 12:46:48 ....A          103               speech_filters\festival_spanish_filter.sh
+2015-07-13 12:46:48 ....A          180               speech_filters\festival_wave_filter.sh
+2015-07-29 13:15:26 ....A           40               speech_filters\macos_say_filter.sh
+2015-09-01 12:40:38 ....A           81               speech_filters\stop_espeak_linux_filter.sh
+2015-07-29 12:39:02 ....A          180               speech_filters\stop_festival_filter.sh
+2015-07-29 13:10:12 ....A           78               speech_filters\stop_macos_say_filter.sh
+2015-09-14 12:56:20 ....A         3816               media\z88\vcs_to_diary_z88.sh
+2014-10-04 14:21:18 ....A       131103               snap_tests\p128.sna
+2014-10-04 14:21:18 ....A        49179               snap_tests\p48k.sna
+2015-09-14 12:56:20 ....A        49179               media\spectrum\tests\Timing_Tests-48k_v1.0.sna
+2014-02-19 12:38:12 ....A        49190               snap_tests\p48k.sp
+2015-09-14 12:56:22 ....A          774               media\zx81\zxpand\ZXSTPLAY\BRED.STC
+2015-09-14 12:56:22 ....A          745               media\zx81\zxpand\ZXSTPLAY\DARK3.STC
+2015-09-14 12:56:22 ....A          740               media\zx81\zxpand\ZXSTPLAY\LOVE.STC
+2015-09-14 12:56:22 ....A          786               media\zx81\zxpand\ZXSTPLAY\MARIA.STC
+2015-09-14 12:56:22 ....A         3022               media\zx81\zxpand\ZXSTPLAY\SHOCK3.STC
+2015-11-12 12:42:44 ....A         9394               media\spectrum\sprite_chip\testspritechip_asm.sym
+2015-09-14 12:56:22 ....A        23045               media\zx81\hires\tForth\TASM80.TAB
+2015-09-23 13:11:16 ....A        47267               media\spectrum\timex\2048demo.tap
+2015-09-14 12:56:16 ....A        90973               media\spectrum\ULAplus\24-bit.tap
+2015-11-17 12:20:38 ....A         1307               media\jupiterace\acevaders\acevaders.tap
+2016-02-19 14:16:20 ....A        26848               media\spectrum\prism\allvideotests.tap
+2015-09-14 12:56:18 ....A        19534               media\spectrum\gigascreen\Animeeshon.tap
+2015-09-14 12:56:20 ....A        10594               media\spectrum\myself\artiller.tap
+2016-06-23 17:19:36 ....A         6494               media\spectrum\ULAplus\linear_modes\radastan_mode\bob.tap
+2015-09-14 12:56:20 ....A         8317               media\spectrum\rainbow\BorderTrix.tap
+2015-09-14 12:56:18 ....A        23732               media\spectrum\beeper\botb2010.tap
+2015-09-14 12:56:20 ....A        39957               media\spectrum\rainbow\zxodus\Bozxle.tap
+2015-09-14 12:56:20 ....A          873               media\spectrum\tests\btime-orig.tap
+2015-09-14 12:56:20 ....A        42988               media\spectrum\rainbow\Buzzsaw+(FoxtonLocksMix).TAP
+2015-09-14 12:56:16 ....A       174733               media\spectrum\ULAplus\C64hi-res.tap
+2015-09-14 12:56:16 ....A       147336               media\spectrum\ULAplus\c64hires.tap
+2015-09-14 12:56:20 ....A        24672               media\spectrum\myself\cancione.tap
+2016-05-23 13:52:40 ....A        12702               media\spectrum\timex\cascade.tap
+2015-09-14 12:56:18 ....A        11262               media\spectrum\beeper\cc12beep.tap
+2015-09-14 12:56:18 ....A        19178               media\spectrum\beeper\celticENYA.tap
+2016-02-09 12:55:22 ....A         6361               media\jupiterace\centipede\centipede.tap
+2006-08-30 15:36:58 ....A        56547               media\spectrum\turbosound\chaos_construction_2006-ts_music.tap
+2014-05-10 16:09:28 ....A          180               docs\inves\coloruladelay.tap
+1999-08-11 09:59:30 ....A       158133               media\spectrum\pentagon\confusio.tap
+2015-09-14 12:56:20 ....A          907               media\spectrum\tests\contention.tap
+2015-09-14 12:56:20 ....A         4621               media\spectrum\myself\converso.tap
+2015-09-14 12:56:20 ....A        48977               media\spectrum\myself\cursordr.tap
+2015-09-14 12:56:18 ....A        19234               media\spectrum\gigascreen\darkappr.tap
+2015-09-23 13:11:16 ....A       313829               media\spectrum\timex\DemoHAM8.tap
+2015-09-14 12:56:18 ....A       117413               media\spectrum\beeper\Digi_Pop.tap
+2016-06-27 14:16:38 ....A        12641               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog128x192.tap
+2016-06-27 14:45:48 ....A         6495               media\spectrum\ULAplus\linear_modes\radastan_mode\dog128x96.tap
+2016-06-27 14:23:52 ....A        24946               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog256x192.tap
+2016-06-27 14:18:56 ....A        12641               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog256x96.tap
+2015-09-14 12:56:20 ....A        16553               media\spectrum\spectra\dog_4x1_DE.tap
+2015-09-14 12:56:20 ....A        16553               media\spectrum\spectra\dog_dithered_4x1_DE.tap
+2016-06-27 14:17:00 ....A        12641               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog_silueta_128x192.tap
+2016-06-27 14:26:14 ....A        24946               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dog_silueta_256x192.tap
+2015-09-14 12:56:20 ....A        16553               media\spectrum\spectra\dog_silueta_4x1_DE.tap
+2015-09-14 12:56:20 ....A        16553               media\spectrum\spectra\dog_silueta_dithered_4x1_DE.tap
+2016-06-27 14:27:24 ....A        24946               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dragonball.tap
+2015-09-14 12:56:20 ....A        16553               media\spectrum\spectra\dragonball_4x1_DE.tap
+2016-06-27 14:27:46 ....A        24946               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dragonballgt.tap
+2015-09-14 12:56:20 ....A        16553               media\spectrum\spectra\dragonballgt_4x1_DE.tap
+2016-06-27 14:28:08 ....A        24946               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\dragonballz.tap
+2015-09-14 12:56:20 ....A        16553               media\spectrum\spectra\dragonballz_4x1_DE.tap
+2015-09-14 12:56:20 ....A        44449               media\spectrum\rainbow\nirvana\ElStompo.tap
+2015-09-14 12:56:20 ....A        31843               media\spectrum\rainbow\nirvana\endlessforms0.tap
+2014-05-07 12:43:14 ....A          552               snap_tests\envelopes.tap
+2016-02-20 07:27:58 ....A        35941               media\spectrum\pentagon\eyeache.tap
+2016-02-20 07:28:06 ....A       275389               media\spectrum\pentagon\eyeache2.tap
+2016-06-23 17:19:36 ....A         6494               media\spectrum\ULAplus\linear_modes\radastan_mode\famguy.tap
+2015-09-14 12:56:20 ....A         2411               media\spectrum\tests\fusetest.tap
+2015-09-14 12:56:18 ....A         1983               media\spectrum\gigascreen\gigascreen-test.tap
+2016-06-23 17:19:36 ....A         6494               media\spectrum\ULAplus\linear_modes\radastan_mode\gravity.tap
+2015-09-23 13:11:16 ....A         7961               media\spectrum\ULAplus\HAM256.tap
+2015-11-30 12:52:52 ....A         7961               media\spectrum\chloe\ham256.tap
+2015-11-30 12:53:02 ....A        13355               media\spectrum\chloe\ham8x1.tap
+2015-09-14 12:56:20 ....A        10157               media\spectrum\rainbow\HERCULES.TAP
+2016-07-26 14:44:34 ....A        10109               media\spectrum\turbosound\heroes_wont_fade_away-ts.tap
+2016-02-09 06:39:50 ....A         7369               media\spectrum\prism\hires-snake.tap
+2014-05-18 05:32:54 ....A          148               docs\idlebus.tap
+2015-09-14 12:56:18 ....A        29330               media\spectrum\interlaced\INTERLAC.TAP
+2015-09-14 12:56:18 ....A         1692               media\spectrum\interlaced\interlace-test.tap
+2015-10-19 13:53:50 ....A       346013               media\spectrum\timex\interlaced_512x384_slideshow.tap
+2015-09-14 12:56:20 ....A          461               media\spectrum\tests\inves-corrupt-memory.tap
+2015-09-14 12:56:20 ....A          658               media\spectrum\tests\inves-out-ula-port.tap
+2015-09-14 12:56:20 ....A          771               media\spectrum\tests\inves-switch-lowram.tap
+2015-09-22 14:09:08 ....A         5204               media\spectrum\tests\investest.tap
+2015-09-14 12:56:20 ....A          904               media\spectrum\tests\iocontention.tap
+2015-09-14 12:56:20 ....A          688               media\spectrum\tests\IR_Contention.tap
+2015-09-14 12:56:16 ....A          176               media\spectrum\ULAplus\jet_set_willy_palette.tap
+2016-03-14 10:27:24 ....A          927               media\spectrum\tests\keyboardtest.tap
+2015-09-14 12:56:20 ....A        34350               media\spectrum\rainbow\bifrost\KnightsDemonsDX.tap
+2015-09-14 12:56:16 ....A          176               media\spectrum\ULAplus\manic_miner_palette.tap
+2015-09-14 12:56:20 ....A         9720               media\spectrum\myself\mantransfev3.tap
+2015-09-14 12:56:20 ....A        71238               media\spectrum\rainbow\MDA_DEMO.TAP
+2015-09-14 12:56:20 ....A          729               media\spectrum\tests\memoryrefresh.tap
+2015-09-14 12:56:18 ....A       129675               media\spectrum\gigascreen\mescaline_zx_128_plus2.tap
+2015-11-27 12:50:16 ....A       156179               media\spectrum\chloe\MMUtest.tap
+2016-06-23 17:19:36 ....A         6494               media\spectrum\ULAplus\linear_modes\radastan_mode\moco.tap
+2015-09-23 13:11:16 ....A        12455               media\spectrum\timex\movida_bajo_el_mar.tap
+2015-09-23 13:11:16 ....A          325               media\spectrum\ULAplus\Multicolour.tap
+2015-09-14 12:56:20 ....A        44632               media\spectrum\music.tap
+2015-09-14 12:56:20 ....A        12576               media\spectrum\rainbow\nirvana\nirvana.tap
+2015-09-14 12:56:20 ....A         8570               media\spectrum\rainbow\overscan.tap
+2016-02-09 13:12:30 ....A          433               media\spectrum\prism\palettechange.tap
+2015-09-14 12:56:16 ....A        18038               media\spectrum\ULAplus\PaletteEditor.tap
+2015-09-14 12:56:18 ....A        80682               media\spectrum\gigascreen\paralactika_zx128_plus2_by_demarche.tap
+2016-01-25 12:58:54 ....A        25046               media\spectrum\prism\planar_satan.tap
+2015-09-14 12:56:20 ....A         3665               media\spectrum\plus3e_windemo.tap
+2014-05-23 18:09:04 ....A          134               docs\inves\pokerom.tap
+2016-01-24 06:04:34 ....A          319               media\spectrum\prism\prism4plane.tap
+2016-01-21 14:21:26 ....A          844               media\spectrum\prism\prismcolortest.tap
+2016-02-20 11:47:16 ....A        25658               media\spectrum\prism\4plane_images\prismdog.tap
+2016-02-08 14:57:34 ....A          402               media\spectrum\prism\prismoverlaymodes.tap
+2016-02-20 11:06:46 ....A          616               media\spectrum\prism\prismramtest.tap
+2016-02-20 11:41:20 ....A        25658               media\spectrum\prism\4plane_images\prismsonic.tap
+2016-05-30 13:12:16 ....A          265               media\spectrum\prism\prismturbo.tap
+2015-12-18 13:14:16 ....A          273               media\spectrum\prism\prismvramtest.tap
+2015-09-14 12:56:20 ....A         2420               media\spectrum\tests\prtiming.tap
+2015-09-14 12:56:18 ....A        21961               media\spectrum\lightgun\magnumlightphaser\qsarmoury.tap
+2015-12-16 07:30:14 ....A        19351               media\spectrum\zxuno\rasterbar.tap
+2015-09-14 12:56:20 ....A        79004               media\spectrum\myself\realdebu.tap
+2015-09-14 12:56:20 ....A       114022               media\spectrum\snoweffect\ROBOCOP3.TAP
+2015-09-14 12:56:18 ....A        19727               media\spectrum\beeper\sami.tap
+2015-09-14 12:56:18 ....A        19949               media\spectrum\ULAplus\sami_gb.tap
+2015-11-30 02:47:18 ....A        98924               media\spectrum\chloe\SEtest.tap
+2015-09-14 12:56:20 ....A        99937               media\spectrum\rainbow\SHOCK.TAP
+2015-09-14 12:56:20 ....A        76119               media\spectrum\rainbow\SIL5.TAP
+2015-09-14 12:56:20 ....A       410511               media\spectrum\spectra\slideshow_spectra.tap
+2015-09-23 13:11:16 ....A        87568               media\spectrum\timex\slideshow_timex_64.tap
+2015-09-14 12:56:20 ....A        10641               media\spectrum\spectra\Snake.tap
+2015-09-14 12:56:20 ....A         7157               media\spectrum\snoweffect\snow.tap
+2015-09-14 12:56:20 ....A          157               media\spectrum\tests\snow_effect.tap
+2016-06-27 14:26:48 ....A        24946               media\spectrum\ULAplus\linear_modes\ZEsarUX_modes\sonic256x192.tap
+2015-09-14 12:56:20 ....A        16553               media\spectrum\spectra\sonic_4x1_DE.tap
+2015-09-14 12:56:20 ....A         6839               media\spectrum\spectra\SPECTRA-Blitz2014.tap
+2015-09-14 12:56:20 ....A        75544               media\spectrum\myself\sped52.tap
+2015-09-14 12:56:20 ....A         1602               media\spectrum\rainbow\STARTIP1.TAP
+2015-09-14 12:56:20 ....A          837               media\spectrum\tests\stime-orig.tap
+2015-09-14 12:56:20 ....A        44159               media\spectrum\rainbow\nirvana\SUNBUCKET_000.tap
+2015-12-16 07:30:24 ....A          278               media\spectrum\zxuno\test_rast.tap
+2015-06-19 12:54:40 ....A         1032               snap_tests\test_zxuno_spi.tap
+2015-09-14 12:56:20 ....A          739               media\spectrum\tests\testcolinves.tap
+2015-09-14 12:56:20 ....A          265               media\spectrum\tests\testcolinves2.tap
+2016-07-28 13:07:04 ....A          349               media\spectrum\prism\linear_modes\testlinear128x128.tap
+2016-07-27 14:12:34 ....A          472               media\spectrum\prism\linear_modes\testlinear256x128.tap
+2015-09-14 12:56:20 ....A          261               media\spectrum\tests\testmmcbeyond.tap
+2015-10-21 06:33:14 ....A          905               media\spectrum\sprite_chip\testspritechip_sprite.tap
+2015-09-23 13:11:16 ....A          522               media\spectrum\timex\testtimexmode1.tap
+2015-09-28 14:16:38 ....A          400               media\spectrum\timex\testtimexmode6.tap
+2016-06-27 14:57:16 ....A         2501               media\spectrum\ULAplus\linear_modes\testulapluslinear.tap
+2013-08-10 13:29:08 ....A       141679               media\spectrum\pentagon\the_cambrian_explosion_partyversion.tap
+2015-09-14 12:56:20 ....A        25472               media\spectrum\rainbow\thelosttapesofalbion0.tap
+2015-09-23 13:11:16 ....A        34262               media\spectrum\timex\timmy.tap
+2016-07-21 14:00:06 ....A        94188               media\spectrum\turbosound\ts-music-dihalt2006.tap
+2016-02-21 13:04:58 ....A        16338               media\spectrum\rainbow\ula128.tap
+2016-02-21 13:04:58 ....A        32588               media\spectrum\rainbow\ula48.tap
+2015-09-14 12:56:20 ....A          943               media\spectrum\tests\ulatest2.tap
+2015-09-14 12:56:20 ....A         1077               media\spectrum\tests\ulatest2a.tap
+2015-09-14 12:56:20 ....A         1077               media\spectrum\tests\ulatest3-orig.tap
+2015-09-14 12:56:20 ....A         1522               media\spectrum\tests\ulatest3.tap
+2016-02-09 12:57:00 ....A        12855               media\jupiterace\valkyr\valkyr.tap
+2015-09-14 12:56:20 ....A        49343               media\spectrum\snoweffect\VECTRON.TAP
+2015-09-14 12:56:18 ....A          737               media\spectrum\ULAplus\view-bmc4.tap
+2016-07-28 12:47:40 ....A         1326               media\spectrum\prism\linear_modes\viewer256x128.tap
+2015-09-14 12:56:18 ....A          906               media\spectrum\gigascreen\gigascreen_art\viewgiga.tap
+2015-09-14 12:56:20 ....A         4345               media\spectrum\myself\wavayplayer.tap
+2015-09-14 12:56:20 ....A        14219               media\spectrum\tests\z80ccf.tap
+2015-09-14 12:56:20 ....A        13758               media\spectrum\tests\z80doc.tap
+2015-09-14 12:56:20 ....A        13758               media\spectrum\tests\z80docflags.tap
+2015-09-14 12:56:20 ....A        13758               media\spectrum\tests\z80flags.tap
+2015-09-14 12:56:20 ....A        13758               media\spectrum\tests\z80full.tap
+2015-09-14 12:56:20 ....A        13758               media\spectrum\tests\z80memptr.tap
+2015-09-14 12:56:20 ....A         5573               media\spectrum\tests\z80tests.tap
+2015-09-14 12:56:20 ....A         9316               media\spectrum\tests\zexall2-0.1.tap
+2015-09-14 12:56:20 ....A         8656               media\spectrum\tests\zexbit.tap
+2015-09-14 12:56:20 ....A         8656               media\spectrum\tests\zexfix.tap
+2015-09-14 12:56:20 ....A         8832               media\spectrum\tests\zexkey.tap
+2015-09-14 12:56:20 ....A        26095               media\spectrum\rainbow\zxodus\zxodus.tap
+2014-01-03 16:13:18 ....A       655360               media\spectrum\pentagon\HEARTMD.TRD
+2015-08-30 12:31:20 ....A       655360               media\spectrum\pentagon\Kpacku_deluxe.trd
+2009-12-26 13:06:46 ....A       655360               media\spectrum\pentagon\mescaline_pentagon.trd
+2011-08-27 13:23:04 ....A       655360               media\spectrum\pentagon\paralactika_by_demarche.trd
+2015-09-30 13:12:34 ....A         3222               docs\accesibilidad_instrucciones.txt
+2015-09-14 12:56:22 ....A         1414               media\zx81\hires\tForth\asciichars.txt
+2014-12-01 12:46:34 ....A       135790               docs\ASZMIC01.TXT
+2015-09-14 12:56:20 ....A         6667               media\z88\basinstaller\basinstaller.txt
+2015-03-05 13:09:40 ....A        13387               docs\mb02\BSDOS306_SK.TXT
+2015-03-05 13:09:40 ....A         8432               docs\mb02\BSROM118_SK.TXT
+2016-07-08 12:31:26 ....A          236               docs\prism\build_boot_rom.txt
+2015-09-03 13:42:48 ....A         1357               docs\chip_sprites.txt
+2015-11-06 13:24:00 ....A          577               media\spectrum\sprite_chip\colourpalette_HW-ZX-Spectrum.gpl.txt
+2016-01-21 13:17:04 ....A          309               docs\prism\convert_colours_txt_binary_to_decimal.txt
+2016-01-08 14:00:16 ....A          509               docs\cpc.txt
+2016-05-19 13:38:34 ....A         8753               docs\cpc_crtc.txt
+2015-03-05 13:09:40 ....A         1311               docs\datagear_mb02plus.txt
+2015-09-14 12:56:20 ....A          396               media\z88\demo.txt
+2015-07-23 12:42:10 ....A         7211               docs\divide_pgm_model.txt
+2015-06-29 12:25:00 ....A         2732               docs\divmmc.txt
+2015-03-05 13:09:40 ....A         9436               docs\mb02\DOSER306_SK.txt
+2015-07-23 12:42:10 ....A          604               docs\esxdos_nuevo_disco.txt
+2015-04-16 13:38:32 ....A         1649               docs\z88\fileextensions.txt
+2015-09-01 12:40:38 ....A         1568               docs\flagq.txt
+2015-02-09 12:30:44 ....A         2278               docs\z88\flashcards.txt
+2015-09-14 12:56:20 ....A        11167               media\z88\forever_installer.txt
+2015-01-08 12:38:56 ....A         1843               docs\gigascreen.txt
+2015-09-14 12:56:22 ....A         7862               media\zx81\hires\tForth\glossary.txt
+2014-08-22 14:13:44 ....A         7694               docs\gunstick.txt
+2014-12-10 12:28:40 ....A          401               docs\inves\idlebus.txt
+2016-08-16 14:12:22 ....A         3732               docs\dandanator\info.txt
+2014-05-10 16:09:28 ....A          188               docs\inves\info.txt
+2016-02-09 12:54:54 ....A           62               media\jupiterace\centipede\info.txt
+2014-10-22 12:37:40 ....A         1367               docs\z88\info.txt
+2015-11-17 12:20:28 ....A         1089               media\jupiterace\acevaders\info.txt
+2015-09-14 12:56:22 ....A         1833               media\zx81\Chroma 81\rebound\Inlay.txt
+2016-05-13 13:19:00 ....A          945               docs\chloe\keyboard.txt
+2015-09-14 12:56:20 ....A         2105               media\z88\lemmings.txt
+2015-09-14 12:56:20 ....A          335               media\spectrum\myself\mantransfev3.txt
+2014-10-26 12:22:56 ....A         4998               docs\z88\memory.txt
+2015-09-14 12:56:22 ....A         5972               media\zx80\Minopoly Instructions\Minopoly Details.txt
+2015-09-14 12:56:22 ....A         2068               media\zx80\Minopoly Instructions\Minopoly Guidelines.txt
+2015-09-14 12:56:22 ....A          668               media\zx80\Minopoly Instructions\Minopoly Round by Round.txt
+2015-07-23 12:42:10 ....A         3698               docs\mmc.txt
+2015-09-14 12:56:22 ....A         1377               media\zx80\Minopoly Instructions\Monopoly Chance.txt
+2016-05-04 17:44:34 ....A         2200               docs\prism\more_about_memory.txt
+2014-12-10 12:28:42 ....A         6039               docs\inves\moreinfo.txt
+2016-01-21 13:07:00 ....A         9877               docs\prism\palette_0.txt
+2016-01-21 13:14:02 ....A         3328               docs\prism\palette_0_parsed.txt
+2016-04-26 14:00:52 ....A          168               docs\plus3disk.txt
+2015-09-14 12:56:16 ....A         3033               docs\POKformat.txt
+2016-07-08 12:31:18 ....A         4641               docs\prism\prism.txt
+2015-12-11 11:44:56 ....A        13746               docs\prism\prism_first_info.txt
+2016-07-28 13:16:02 ....A        19359               docs\prism\prismregisters.txt
+2015-03-05 13:09:40 ....A         7143               docs\mb02\RAMDISK_SK.TXT
+2015-09-14 12:56:18 ....A          488               media\spectrum\gigascreen\gigascreen_art\readme.txt
+2015-09-14 12:56:20 ....A         2479               media\z88\sokoban\readme.txt
+2015-09-14 12:56:22 ....A        21939               media\zx81\hires\dansrevenge\README.TXT
+2014-10-26 12:22:56 ....A         3755               docs\z88\screenreg.txt
+2015-11-30 02:47:18 ....A          717               media\spectrum\chloe\SEtest.txt
+2015-09-04 12:24:04 ....A         4355               docs\snow_effect.txt
+2014-05-10 16:09:28 ....A          688               docs\inves\snow_in_border.txt
+2015-07-23 12:42:10 ....A         2901               docs\sobre_cintas.txt
+2016-02-20 11:42:50 ....A          152               media\spectrum\prism\4plane_images\sonic.txt
+2015-08-31 13:56:38 ....A         1107               docs\spectra\SPECTRA 128 Test.txt
+2015-08-31 13:24:02 ....A         4031               docs\spectra\Spectrum 128 Screen Support.txt
+2015-11-13 13:02:16 ....A         4192               docs\sprite_chip.txt
+2015-09-14 12:56:22 ....A          865               media\zx80\Minopoly Instructions\Stocks and Shares.txt
+2016-05-21 04:54:54 ....A         8425               docs\tbblue.txt
+2015-03-05 13:09:40 ....A        34326               docs\mb02\TECHM306_SK.txt
+2015-03-06 17:44:28 ....A         8698               docs\ULAplus_1_1_final_spec.txt
+2016-07-08 11:57:14 ....A         2519               docs\ulaplus_additional_modes.txt
+2014-07-21 12:51:56 ....A          620               docs\unknown_ports_microdigital.txt
+2016-02-09 12:57:00 ....A          260               media\jupiterace\valkyr\ValkyrInfo.TXT
+2014-03-12 12:47:54 ....A         3558               docs\videodoc.txt
+2015-09-14 12:56:22 ....A        10048               media\z88\whatnow\whatnow.txt
+2014-11-24 14:26:08 ....A         5132               docs\z80.memptr.eng.txt
+2014-05-14 13:16:10 ....A         4523               docs\zx81_rampacks.txt
+2014-03-21 16:36:08 ....A          230               docs\zx81hires.txt
+2015-09-15 12:58:12 ....A         3174               docs\zxpand_cmdr.txt
+2015-06-17 12:34:44 ....A          196               docs\zxuno.txt
+2015-09-14 12:56:20 ....A          886               media\spectrum\myself\adivinador.tzx
+2015-09-14 12:56:20 ....A         1512               media\spectrum\myself\adivinador2.tzx
+2015-09-14 12:56:20 ....A         4264               media\spectrum\myself\animator.tzx
+2015-09-14 12:56:20 ....A         5715               media\spectrum\myself\artillerprevios.tzx
+2015-09-14 12:56:20 ....A        12158               media\spectrum\myself\artistchb1.tzx
+2015-09-14 12:56:20 ....A        18936               media\spectrum\myself\artistchb8.tzx
+2015-09-14 12:56:18 ....A        10113               media\spectrum\assembler.tzx
+2015-09-14 12:56:20 ....A        12094               media\spectrum\rainbow\bifrost\BIFROST_H.tzx
+2015-09-14 12:56:20 ....A        10516               media\spectrum\rainbow\bifrost\BIFROST_L.tzx
+2015-09-14 12:56:20 ....A         9996               media\spectrum\myself\cac10.tzx
+2015-09-14 12:56:20 ....A         1317               media\spectrum\myself\calculadora.tzx
+2015-09-14 12:56:20 ....A         1797               media\spectrum\myself\calculin.tzx
+2015-09-14 12:56:20 ....A        21969               media\spectrum\myself\canciones3.tzx
+2015-09-14 12:56:20 ....A         9036               media\spectrum\myself\caset_a-ll.tzx
+2015-09-14 12:56:20 ....A          802               media\spectrum\myself\circulos.tzx
+2015-09-14 12:56:20 ....A         1351               media\spectrum\myself\colores.tzx
+2015-09-14 12:56:20 ....A        13888               media\spectrum\rainbow\ColorPRINT48.tzx
+2015-09-14 12:56:20 ....A        21639               media\spectrum\myself\compdibujos1.tzx
+2015-09-14 12:56:20 ....A         8442               media\spectrum\myself\compre24_src.tzx
+2015-09-14 12:56:20 ....A          547               media\spectrum\myself\contador.tzx
+2015-09-14 12:56:20 ....A         4988               media\spectrum\myself\conversor0.tzx
+2015-09-14 12:56:18 ....A         4166               media\spectrum\copi128.tzx
+2015-09-14 12:56:18 ....A         1588               media\spectrum\copiador.tzx
+2015-09-14 12:56:20 ....A        21975               media\spectrum\myself\crashcars.tzx
+2015-09-14 12:56:20 ....A         1206               media\spectrum\myself\cronometro.tzx
+2015-09-23 13:11:16 ....A       313992               media\spectrum\timex\DemoHAM8x1.tzx
+2015-09-14 12:56:20 ....A          475               media\spectrum\myself\dibujos.tzx
+2015-09-14 12:56:20 ....A         1286               media\spectrum\myself\dragon.tzx
+2015-09-14 12:56:20 ....A        12493               media\spectrum\myself\drawassist6.tzx
+2015-09-14 12:56:20 ....A        27926               media\spectrum\myself\drawscreen8.tzx
+2015-09-14 12:56:20 ....A        92112               media\spectrum\rainbow\nirvana\dreamwalker128.tzx
+2015-09-14 12:56:20 ....A        47606               media\spectrum\rainbow\nirvana\DreamWalker48.tzx
+2015-09-14 12:56:20 ....A         1288               media\spectrum\myself\editor3.tzx
+2015-09-14 12:56:20 ....A        24705               media\spectrum\myself\explodingplanets.tzx
+2015-09-14 12:56:20 ....A        23632               media\spectrum\myself\fightjump.tzx
+2015-09-14 12:56:16 ....A        12252               media\spectrum\Fuller Box & Orator Demonstration.tzx
+2015-09-14 12:56:18 ....A         7629               media\spectrum\giro3d3.tzx
+2015-09-14 12:56:20 ....A         1370               media\spectrum\myself\hello_liner.tzx
+2015-09-23 13:11:16 ....A         9394               media\spectrum\timex\hicols.tzx
+2015-09-14 12:56:20 ....A         3211               media\spectrum\listbasic.tzx
+2015-09-14 12:56:20 ....A         7364               media\spectrum\myself\loadcontador.tzx
+2015-09-14 12:56:20 ....A         4551               media\spectrum\myself\man3d6.tzx
+2015-09-14 12:56:20 ....A         6463               media\spectrum\myself\mancopy.tzx
+2015-09-14 12:56:20 ....A        16621               media\spectrum\myself\mangun.tzx
+2015-09-14 12:56:20 ....A         2253               media\spectrum\myself\mantransfer2.tzx
+2015-09-14 12:56:20 ....A         5885               media\spectrum\myself\max20.tzx
+2015-09-14 12:56:20 ....A        19801               media\spectrum\myself\max20_con_pantalla.tzx
+2015-09-14 12:56:20 ....A        29141               media\spectrum\myself\memoedit.tzx
+2015-09-14 12:56:20 ....A        26908               media\spectrum\myself\memoedit4.tzx
+2015-09-14 12:56:20 ....A         1433               media\spectrum\myself\musica.tzx
+2015-09-14 12:56:20 ....A         2808               media\spectrum\myself\navidad.tzx
+2015-09-14 12:56:20 ....A          778               media\spectrum\myself\ohsusana.tzx
+2015-09-14 12:56:20 ....A         4152               media\spectrum\myself\piano.tzx
+2015-09-14 12:56:20 ....A        18071               media\spectrum\myself\piano_con_pantalla.tzx
+2015-09-14 12:56:20 ....A         1698               media\spectrum\myself\printgp100.tzx
+2015-09-14 12:56:20 ....A         1878               media\spectrum\reductor.tzx
+2015-09-14 12:56:20 ....A          712               media\spectrum\myself\reloj.tzx
+2015-09-14 12:56:20 ....A         1150               media\spectrum\myself\relojplus.tzx
+2015-09-14 12:56:20 ....A         1213               media\spectrum\rainbow\Rotatrix (TK90X).tzx
+2015-09-14 12:56:20 ....A         1146               media\spectrum\rainbow\Rotatrix.tzx
+2015-09-14 12:56:20 ....A         1818               media\spectrum\myself\seguidorpc.tzx
+2015-09-14 12:56:16 ....A        62484               media\spectrum\ULAplus\Sgt.-Helmet-Zero.tzx
+2015-09-14 12:56:18 ....A       166361               media\spectrum\lightgun\magnumlightphaser\Sinclair Action Pack - Side A.tzx
+2015-09-14 12:56:18 ....A       166673               media\spectrum\lightgun\magnumlightphaser\Sinclair Action Pack - Side B.tzx
+2015-09-14 12:56:18 ....A        48499               media\spectrum\lightgun\solo.tzx
+2015-09-14 12:56:20 ....A        20938               media\spectrum\spectra\SPECTRA_TestUtility.tzx
+2015-09-14 12:56:20 ....A         1029               media\spectrum\myself\star.tzx
+2015-09-14 12:56:18 ....A        41077               media\spectrum\lightgun\targetplus.tzx
+2015-09-14 12:56:20 ....A        47494               media\spectrum\mouse\The OCP Art Studio (Datel) - Side A.tzx
+2015-09-14 12:56:20 ....A        27812               media\spectrum\mouse\The OCP Art Studio (Datel) - Side B.tzx
+2015-09-14 12:56:20 ....A        22263               media\spectrum\myself\theliner67.tzx
+2015-09-14 12:56:20 ....A        26185               media\spectrum\myself\thepainter58.tzx
+2015-09-14 12:56:20 ....A         2061               media\spectrum\traductor.tzx
+2015-09-14 12:56:20 ....A          564               media\spectrum\myself\trianguloplus.tzx
+2015-09-14 12:56:20 ....A          560               media\spectrum\myself\triangulos.tzx
+2015-09-14 12:56:20 ....A        48525               media\spectrum\lightgun\trigger.tzx
+2015-09-14 12:56:20 ....A        13015               media\spectrum\myself\worldspace.tzx
+2015-11-17 12:20:38 ....A       606798               media\jupiterace\acevaders\acevaders.wav
+2015-11-17 13:24:26 ....A       862976               media\jupiterace\centipede\centipede.wav
+2015-03-05 13:09:40 ....A        72704               docs\mb02\MANENGL.WRI
+2015-09-14 12:56:20 ....A       113750               media\spectrum\snoweffect\dizzyforever.z80
+2015-09-14 12:56:18 ....A       131151               media\spectrum\interlaced\hires128.z80
+2015-09-14 12:56:20 ....A         7787               media\spectrum\mouse\kempston_mouse_interface_driver.z80
+2015-09-14 12:56:20 ....A        53076               media\spectrum\snoweffect\netwalk.z80
+2015-09-21 13:13:22 ....A        17113               media\spectrum\rainbow\over128.z80
+2015-09-21 13:13:22 ....A        15509               media\spectrum\rainbow\over48.z80
+2014-02-19 12:38:12 ....A         3424               snap_tests\p128.z80
+2014-02-19 12:38:12 ....A         1310               snap_tests\p16k.z80
+2014-02-19 12:38:12 ....A         1310               snap_tests\p48k.z80
+2014-02-19 12:38:12 ....A         3431               snap_tests\pplus2.z80
+2014-02-19 12:38:12 ....A         3622               snap_tests\pplus2a40.z80
+2015-09-14 12:56:20 ....A        53628               media\spectrum\snoweffect\vikingquest.z80
+2015-09-14 12:56:22 ....A         4283               media\zx80\Gone to the Dogs.z81
+2015-09-14 12:56:22 ....A         4448               media\zx80\Hangman.z81
+2015-09-14 12:56:22 ....A        37724               media\zx80\Minopoly.z81
+2014-06-30 12:42:48 ....A          944               snap_tests\pzx81.z81
+2014-02-19 12:38:12 ....A         3573               snap_tests\p128.zx
+2014-02-19 12:38:12 ....A         3144               snap_tests\p128s.zx
+2014-02-19 12:38:12 ....A         1504               snap_tests\p16k.zx
+2014-02-19 12:38:12 ....A         1500               snap_tests\p48k.zx
+2015-12-15 10:03:58 ....A        13782               snap_tests\pace.zx
+2015-12-15 13:30:38 ....A         3242               snap_tests\pchloe140.zx
+2015-12-15 13:31:06 ....A         5354               snap_tests\pchloe280.zx
+2016-03-05 05:32:50 ....A         7309               snap_tests\pcpc464.zx
+2014-02-19 12:38:12 ....A         1500               snap_tests\pinves.zx
+2014-02-19 12:38:12 ....A         3594               snap_tests\pplus2.zx
+2014-02-19 12:38:12 ....A         3804               snap_tests\pplus2a40.zx
+2014-02-19 12:38:12 ....A         3803               snap_tests\pplus2a41.zx
+2014-02-19 12:38:12 ....A         3803               snap_tests\pplus2as.zx
+2014-02-19 12:38:12 ....A         3598               snap_tests\pplus2f.zx
+2014-02-19 12:38:12 ....A         3596               snap_tests\pplus2s.zx
+2016-03-01 13:32:58 ....A        53777               snap_tests\pprism.zx
+2015-12-15 10:26:48 ....A         3298               snap_tests\ptimex.zx
+2014-02-19 12:38:12 ....A         1500               snap_tests\ptk90.zx
+2014-02-19 12:38:12 ....A         1500               snap_tests\ptk90sp.zx
+2014-02-19 12:38:12 ....A         1500               snap_tests\ptk95.zx
+2014-12-15 12:36:18 ....A       137750               snap_tests\pz88.zx
+2014-02-19 12:38:12 ....A         5218               snap_tests\pzx80.zx
+2014-02-19 12:38:12 ....A         9560               snap_tests\pzx81.zx
+2015-12-15 11:45:38 ....A        77469               snap_tests\pzxuno.zx
+2015-09-14 12:56:20 ....A         2287               media\spectrum\spectra\spectraborder.zx
+2015-03-10 13:06:54 ....A       176949               snap_tests\test3200z88.zx
+2015-07-01 13:03:36 ....A         2233               snap_tests\test_autorealvideo_border.zx
+2015-09-14 12:56:20 ....A         2001               media\spectrum\lightgun\testlightgun.zx
+2015-09-14 12:56:20 ....A         9976               media\spectrum\myself\testnotes.zx
+2015-11-12 12:34:54 ....A        27393               media\spectrum\sprite_chip\testspritechip.zx
+2015-01-23 12:35:36 ....A         1697               snap_tests\zxversion1.zx
+2015-01-22 12:58:52 ....A         1693               snap_tests\zxversion2.zx
+2015-01-22 12:58:52 ....A         1697               snap_tests\zxversion3.zx
+2015-01-22 12:58:52 ....A         1697               snap_tests\zxversion4.zx
+2015-01-22 12:58:52 ....A         1697               snap_tests\zxversion5.zx
+2016-07-16 11:13:30 ....A         1575               snap_tests\zxversion6.zx
+2016-07-04 13:24:06 ....A         4088               ACKNOWLEDGEMENTS
+2016-03-07 13:42:32 ....A         2364               ALTERNATEROMS
+2016-08-17 13:54:10 ....A        21410               Changelog
+2015-08-26 12:49:36 ....A         4640               docs\spectra\FAQ
+2016-08-17 14:15:48 ....A        22370               FAQ
+2016-08-17 13:54:04 ....A         4832               FEATURES
+2015-07-15 13:29:18 ....A         1394               HISTORY
+2015-12-09 12:49:14 ....A          909               INCLUDEDTAPES
+2016-04-02 05:41:34 ....A         2934               INSTALL
+2015-10-02 13:48:22 ....A         2956               INSTALLWINDOWS
+2013-10-23 13:25:06 ....A        32473               LICENSE
+2016-05-21 13:26:00 ....A           92               media\config_games_joystick\README
+2016-07-09 11:30:44 ....A          523               README
+2016-07-30 14:48:52 ....A        54746               TODO
+2016-10-27 10:18:02 ....A            0            0  snap_tests\test_autoconfig2.tap
+2016-10-27 10:18:02 ....A            0            0  snap_tests\test_autoconfig.p
+2016-10-27 10:18:02 ....A            0            0  snap_tests\test_autoconfig.tap
+2016-10-27 10:18:02 D....            0            0  snap_tests
+2016-10-27 10:18:02 D....            0            0  media\spectrum\lightgun
+2016-10-27 10:18:02 D....            0            0  media\spectrum\gigascreen\gigascreen_art
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\softwarefarm\BOOSTER
+2016-10-27 10:18:02 D....            0            0  speech_filters
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\softwarefarm\ROCKET
+2016-10-27 10:18:02 D....            0            0  media\z88\sokoban
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\softwarefarm\XTRICATOR
+2016-10-27 10:18:02 D....            0            0  media\spectrum\timex
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\tForth
+2016-10-27 10:18:02 D....            0            0  media\spectrum\sprite_chip
+2016-10-27 10:18:02 D....            0            0  docs\z88
+2016-10-27 10:18:02 D....            0            0  media\z88\whatnow
+2016-10-27 10:18:02 D....            0            0  media\z88
+2016-10-27 10:18:02 D....            0            0  media\spectrum\spectra
+2016-10-27 10:18:02 D....            0            0  media\zx81\zxpand\CMDR
+2016-10-27 10:18:02 D....            0            0  media\spectrum\turbosound
+2016-10-27 10:18:02 D....            0            0  media\zx81\zxpand
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\hrg
+2016-10-27 10:18:02 D....            0            0  media\zx81
+2016-10-27 10:18:02 D....            0            0  media\spectrum\ULAplus
+2016-10-27 10:18:02 D....            0            0  media\config_games_joystick
+2016-10-27 10:18:02 D....            0            0  media\spectrum\ULAplus\bmc4_art
+2016-10-27 10:18:02 D....            0            0  media\jupiterace\acevaders
+2016-10-27 10:18:02 D....            0            0  media\spectrum\ULAplus\linear_modes\ZEsarUX_modes
+2016-10-27 10:18:02 D....            0            0  media\zx81\Chroma 81
+2016-10-27 10:18:02 D....            0            0  media\zx80
+2016-10-27 10:18:02 D....            0            0  docs\mb02
+2016-10-27 10:18:02 D....            0            0  media\spectrum\snoweffect
+2016-10-27 10:18:02 D....            0            0  docs\jupiter_ace
+2016-10-27 10:18:02 D....            0            0  media\spectrum\ULAplus\linear_modes
+2016-10-27 10:18:02 D....            0            0  media\spectrum
+2016-10-27 10:18:02 D....            0            0  docs\inves
+2016-10-27 10:18:02 D....            0            0  media\z88\basinstaller\jsw-app
+2016-10-27 10:18:02 D....            0            0  media\spectrum\ULAplus\linear_modes\radastan_mode
+2016-10-27 10:18:02 D....            0            0  media\spectrum\myself
+2016-10-27 10:18:02 D....            0            0  media\spectrum\pentagon
+2016-10-27 10:18:02 D....            0            0  media\spectrum\gigascreen
+2016-10-27 10:18:02 D....            0            0  media\spectrum\rainbow\nirvana
+2016-10-27 10:18:02 D....            0            0  media\spectrum\tests
+2016-10-27 10:18:02 D....            0            0  media\spectrum\rainbow\zxodus
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\softwarefarm\FORTY
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\wrx\FSCAPES
+2016-10-27 10:18:02 D....            0            0  docs\spectra
+2016-10-27 10:18:02 D....            0            0  media\zx80\Minopoly Instructions
+2016-10-27 10:18:02 D....            0            0  media\spectrum\zxuno
+2016-10-27 10:18:02 D....            0            0  media\spectrum\rainbow\bifrost
+2016-10-27 10:18:02 D....            0            0  docs\prism
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\wrx
+2016-10-27 10:18:02 D....            0            0  media
+2016-10-27 10:18:02 D....            0            0  media\spectrum\prism
+2016-10-27 10:18:02 D....            0            0  media\z88\basinstaller
+2016-10-27 10:18:02 D....            0            0  media\spectrum\prism\4plane_images
+2016-10-27 10:18:02 D....            0            0  media\jupiterace\centipede
+2016-10-27 10:18:02 D....            0            0  docs\dandanator
+2016-10-27 10:18:02 D....            0            0  media\spectrum\beeper
+2016-10-27 10:18:02 D....            0            0  media\zx81\Chroma 81\rebound
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\udg
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\dansrevenge
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\wrx\interlaced
+2016-10-27 10:18:02 D....            0            0  media\spectrum\rainbow
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\tForth\Progs
+2016-10-27 10:18:02 D....            0            0  docs\chloe
+2016-10-27 10:18:02 D....            0            0  media\zx81\tests
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\wrx\VOYAGE
+2016-10-27 10:18:02 D....            0            0  media\spectrum\prism\linear_modes
+2016-10-27 10:18:02 D....            0            0  media\spectrum\chloe
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\chrs128
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\softwarefarm
+2016-10-27 10:18:02 D....            0            0  docs
+2016-10-27 10:18:02 D....            0            0  media\spectrum\mouse
+2016-10-27 10:18:02 D....            0            0  media\zx81\zxpand\ZXSTPLAY
+2016-10-27 10:18:02 D....            0            0  media\jupiterace\valkyr
+2016-10-27 10:18:02 D....            0            0  media\zx81\hires\wrx\BLOCKBUSTER
+2016-10-27 10:18:02 D....            0            0  media\spectrum\lightgun\magnumlightphaser
+2016-10-27 10:18:02 D....            0            0  media\spectrum\interlaced
+2016-10-27 10:18:02 D....            0            0  media\jupiterace
+------------------- ----- ------------ ------------  ------------------------
+2016-10-27 10:18:02          247537370     23576223  1030 files, 78 folders
