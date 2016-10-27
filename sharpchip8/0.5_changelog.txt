@@ -1,0 +1,13 @@
+Changes - 19th November 2011
+----------------------------
+
+0.5 alpha codename "Rocks"
+- [New] debugger with real-time visualization of all the information CPU, keyboard, screen
+- [New] viewer and memory Dumper (.bin format and .txt)
+- [New] disassembler with the recording format and .txt .chp
+- [New] Implementation Start a Virtual Pad
+- [New] a bunch of settings are now available (screen size, emulation speed, color, sound, etc ...)
+- CPU: Corrections to the interpretation of opcodes, it fixed some problems and allows some demos and some games run
+- General: A bunch of small corrections and above correction timer sound (the sound is now played normally)
+
+*** Translated from French using Google Translate ***

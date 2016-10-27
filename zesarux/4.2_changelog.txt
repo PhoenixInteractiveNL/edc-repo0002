@@ -1,0 +1,19 @@
+Changes - 17th August 2016
+--------------------------
+
+
+Added Turbosound emulation
+
+Added ZX Dandanator! Mini emulation
+
+Added print char traps for TBBlue, CPC464, Sam Coupe
+
+Added two new Prism video modes: 256x128, 128x128, both at 256 colours
+
+Added Sam Coupe GUI Style
+
+Added Sam Coupe curses, stdout, simpletext video drivers
+
+Improved debugger: Now breakpoints are fired by default when condition changes from false to true. And they are only fired again when condition changes from true to false and false to true
+
+Updated Z88 OZ V4.6.2

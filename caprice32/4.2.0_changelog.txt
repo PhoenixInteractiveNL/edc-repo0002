@@ -1,0 +1,29 @@
+Changes - 14th May 2005
+-----------------------
+
+v4.2.0
+
+ - New CRTC Type 0 emulation based on code by Richard Wilson.  The good:
+   the new emulation is much closer to what the hardware does.  The bad:
+   the new code is not yet optimized, still has some bugs, and due to the
+   higher accuracy is quite a bit slower than the old CRTC emulation...
+
+ - Stephane contributed code to render the CPC screen in a variety of
+   different modes, e.g. scanlines, doubled, half size, Super Eagle,
+   Scale2x, TV 2x and several OpenGL options.  See README.txt for the
+   complete list.
+
+ - Modified the sound playback code.  When sound is enabled, the emulator
+   timing is now based on when the next sound buffer is ready.
+
+ - Completely new keyboard code to support different international
+   layouts and the mapping of the CPC keys to them.  Eventually the key
+   assignments (CPC keys _and_ emulator functions) will be user definable
+   via the GUI.
+
+ - Return of the joystick emulation via the keyboard.  Can be enabled
+   (and disabled) via CTRL+F8; replaces Z, X and the cursor keys with the
+   joystick fire buttons and directions respectively.
+
+ - Added support for ROM slots 0 and 1 - kudos to Anthony Jordan for
+   pointing out that they should be user definable too!

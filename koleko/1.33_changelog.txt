@@ -1,0 +1,7 @@
+Changes - 25th October 2002
+---------------------------
+
+Version 1.33:
+
+* Fixed some timing issues ("Defender" works!)
+* Fixed PGUP/PGDN keys problems
