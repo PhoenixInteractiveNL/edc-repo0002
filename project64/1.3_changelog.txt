@@ -1,0 +1,66 @@
+Changes from 1.2 to 1.3:
+------------------------
+
+
+R4300i Core and Executable
+- re-wrote a lot of the recompiler's fpu code
+- changed one of the default sync rules
+- changed default known state to 64bit from 32bit
+- Fixed DADDU
+- rewrote PI DMA
+- removed some warning message boxes
+- disabled being able to open a new rom when one is being opened
+- re-wrote CPU%
+- Auto Zip save states
+- Better error control when opening save states
+- screen saver should not start when running (I believe works fine)
+- load/save as save states
+
+Direct3D and OpenGL
+
+- TMU has smaller data structures, which results in better access time
+- TMU uses less timer functions, results in better access time
+- Tweaked environment mapping a little
+- Fixed tab orders in config dialog
+- Fixed a texture loading problem that goes past memory (zelda64)
+- Texture caching stability improved for invalid tiles (Tetrisphere)
+- Rewrote handling of shade alpha, more microcode accurate
+- the SSE vector dp3 and normalize calculations in lighting were optimized
+
+OpenGL
+
+- Benchmarked the plugin, made small optimizations
+- Decal based on surface normals, thanks to a good book (Mario64)
+- Fixed viewport flushes (WaveRace)
+
+Direct3D
+
+- Fixed modes: zelda2 - water in temple, paper mario - characters, turok - ground, castlevania - text, zelda64 - magic and sword, SF Rush - trees
+- Fixed lots of strange problems from the Sister witch bosses, and ice cave in zelda64
+- Support for Conker's Bad Fur Day
+- Removed shading mode from reset, so its not modified
+- Limited the iterations of Validate Blending to 4, shouldn't hang now
+- Fixed alpha combiner, also most invalid 3-stage situations
+- Rewrote filter handlers so the defines are correct
+- The SSE vp and clipping calculation in the internal geometry functions were optimized
+- Put display list culling in, it's fast and effective finally
+- Allowed modulate to replace unsupported operations, might help Radeon cards a little bit
+- Put in an exception handler, prevents crashing
+
+Direct Input
+
+- Implemented 4 players
+- Fixed tab orders in config dialog
+- Library code updated to DirectX 7.0
+- Can have multiple devices of the same name, it will select the proper one now in config
+
+RSP Compiler
+
+- Fixed alignment issues on a few GPR and Vector opcodes
+- Implemented SRV, mp3 audio ucode will not hang now
+- Fixed an issue with 0h element with MMX
+- Took out some precautions on LDV and SDV
+
+Direct Sound (J)
+
+- Frequency changes happen dynamically, rather than recreating buffers, seems to be more stable in windows 2000

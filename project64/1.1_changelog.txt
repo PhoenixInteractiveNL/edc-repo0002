@@ -1,0 +1,39 @@
+Changes from 1.0 to 1.1:
+------------------------
+
+R4300i Core and Executable
+
+- the title text
+- fixed flash ram
+- fixed DSRLV, smash brothers, and banjoo
+- fixed random freezes
+- fixed errors in delay slots
+- fixed hiding mouse from the emulation thread
+- Added ldl, ldr to recompiler
+- Flip rom support added (not tested)
+- zip should be closed now once loaded
+- failing to open a zip file, rom open should reappear
+- multi-language support added
+
+Direct3D6
+
+- Improved fog toggle in config dialog
+- Fixed Direct3D resets for fog, really weird problem
+- Fixed software mode drivers, defaults to 16bpp Z-Buffer now
+- Direct3D init failures handled better, and automatically restore defaults
+- Fixed ground blending in International Soccer 64
+- Removed most D3DERR_TOOMANYOPERATIONS error logs
+- rewrote auto detection handling for ucodes, it errors more nicely now, and provides means to correct it
+- Validate blending works a great deal better now on RGB Emulation, and older cards like ATI Rage Pro
+- The color frame buffer is now not visible until it's supposed to be, no bootup noise on roms
+- added cfb option, advanced users only, see the documentation for details
+- tweaked the texture creation a little, might be result in faster performance
+- full screen modes now defaults to using a triple buffered page flips for vsync, should also allow FSAA on some new voodoo cards
+
+OpenGL
+
+- rewrote auto detection handling for ucodes, it errors more nicely now, and provides means to correct it
+
+RSP 
+
+- Increased compiler branch prediction tables

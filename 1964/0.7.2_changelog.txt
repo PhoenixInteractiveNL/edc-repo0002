@@ -1,0 +1,9 @@
+[ What's new in 0.7.2 ]
+
+- 1964 support for mempak/rumblepak in N-Rage and SJR input plugins
+- A few emulation bug fixes.
+- Experimental 32bit core compiler option. Read Advanced_Users.txt for more information.
+- Plenty more speed.
+- Optional cpu usage profile stats are viewable in the status bar to see r4300i %,
+video %, audio %, and idle %
+- Enhancements and bug fixes to the GUI.

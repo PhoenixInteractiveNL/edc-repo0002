@@ -1,0 +1,22 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2003-02-17 22:08:56 ....A        58955       427841  docs\graphics\chucky_cheese.png
+2003-02-17 22:08:56 ....A         7365               docs\graphics\circuit.png
+2003-02-17 22:08:56 ....A        63009               docs\graphics\console.png
+2003-02-17 22:08:56 ....A         3451               docs\graphics\jr_pacman.png
+2003-02-17 22:08:56 ....A         3492               docs\graphics\pacman.png
+2003-02-17 22:08:56 ....A         2923               docs\graphics\secret_quest.png
+2003-02-17 22:08:56 ....A         3368               docs\graphics\space_invaders.png
+2003-02-17 22:08:56 ....A        73984               docs\stella.html
+2003-02-17 22:07:44 ....A         5252               Announce.txt
+2003-02-17 22:07:44 ....A        12072               Changes.txt
+2003-02-17 22:07:44 ....A         1921               Copyright.txt
+2003-02-17 22:07:44 ....A        18336               License.txt
+2003-02-17 22:07:44 ....A          403               Readme.txt
+2003-02-17 22:07:44 ....A         1462               Todo.txt
+2003-02-17 22:07:10 ....A       741376               stella.exe
+2003-02-17 22:07:34 ....A       459474               stella.pro
+2009-02-28 22:11:11 D....            0            0  docs\graphics
+2009-02-28 22:11:11 D....            0            0  docs
+------------------- ----- ------------ ------------  ------------------------
+2009-02-28 22:11:11            1456843       427841  16 files, 2 folders

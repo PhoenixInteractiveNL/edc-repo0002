@@ -1,0 +1,42 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2004-07-13 01:08:40 ....A        42104       947288  docs\graphics\chucky_cheese.png
+2004-07-13 01:08:40 ....A         6397               docs\graphics\circuit.png
+2004-07-13 01:08:40 ....A        62512               docs\graphics\console.png
+2005-05-28 23:27:10 ....A         5542               docs\graphics\eventmapping.png
+2005-05-28 23:27:10 ....A         5814               docs\graphics\eventmapping_remap.png
+2004-07-13 01:08:40 ....A         3133               docs\graphics\jr_pacman.png
+2005-05-28 23:27:10 ....A         8506               docs\graphics\launcher.png
+2005-05-28 23:27:10 ....A         6835               docs\graphics\launcher_options_rom.png
+2005-05-28 23:27:10 ....A         7340               docs\graphics\launcher_options_snap.png
+2005-05-28 23:27:10 ....A         5706               docs\graphics\options_about.png
+2005-10-09 22:11:50 ....A         5599               docs\graphics\options_audio.png
+2005-10-09 22:11:50 ....A         6644               docs\graphics\options_gameinfo.png
+2005-10-11 19:13:08 ....A         6424               docs\graphics\options_help.png
+2005-05-28 23:27:10 ....A         5581               docs\graphics\options_video.png
+2004-07-13 01:08:40 ....A         3155               docs\graphics\pacman.png
+2005-05-28 23:27:10 ....A         6102               docs\graphics\rom_browser.png
+2004-07-13 01:08:40 ....A         2669               docs\graphics\secret_quest.png
+2004-07-13 01:08:40 ....A         3043               docs\graphics\space_invaders.png
+2005-10-16 19:54:44 ....A         2011               docs\cheat.html
+2005-10-16 21:11:06 ....A        49747               docs\debugger.html
+2005-10-16 21:11:06 ....A        79722               docs\stella.html
+2005-10-15 14:53:52 ....A         1869               docs\Announce.txt
+2005-10-15 14:53:52 ....A        22399               docs\Changes.txt
+2005-02-19 13:56:06 ....A         1884               docs\Copyright.txt
+2001-12-27 18:24:12 ....A        17997               docs\License.txt
+2005-09-05 00:47:04 ....A         1292               docs\README-PSP.txt
+2005-05-18 22:06:32 ....A          423               docs\README-SDL.txt
+2005-10-16 21:11:04 ....A          393               docs\Readme.txt
+2005-10-15 14:53:52 ....A         1628               docs\Todo.txt
+2005-10-16 21:15:04 ....A      1858560               stella.exe
+2005-10-15 16:08:02 ....A       139776               libpng12.dll
+2005-08-28 07:15:18 ....A       237568               SDL.dll
+2005-10-15 16:06:52 ....A        74240               zlib1.dll
+2005-10-16 21:11:06 ....A       573403               stella.pro
+2009-02-28 22:02:04 D....            0            0  state
+2009-02-28 22:02:04 D....            0            0  roms
+2009-02-28 22:02:04 D....            0            0  docs\graphics
+2009-02-28 22:02:04 D....            0            0  docs
+------------------- ----- ------------ ------------  ------------------------
+2009-02-28 22:02:04            3256018       947288  34 files, 4 folders

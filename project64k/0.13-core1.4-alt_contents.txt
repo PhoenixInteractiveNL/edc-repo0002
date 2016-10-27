@@ -1,0 +1,37 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-08-29 23:35:26 ....A       213514       713013  Project64.chm
+2014-08-29 23:35:34 ....A         2089               Uninstall\location info.txt
+2014-08-29 23:35:34 ....A           48               Uninstall\README.TXT
+2014-08-29 23:35:34 ....A         4441               Uninstall\WhatsNew.txt
+2014-08-29 23:35:34 ....A          613               Uninstall\remove all Project64 settings.reg
+2014-08-29 23:35:34 ....A          559               Uninstall\remove Project64 application settings.reg
+2014-08-29 23:35:34 ....A          164               Uninstall\remove Project64 plugins settings.reg
+2014-09-17 13:22:39 ....A         1192               n02.ini
+2014-08-29 23:35:32 ....A           50               Plugin\netplay_input_plugin.ini
+2014-08-29 23:35:32 ....A         2702               Plugin\NRage.ini
+2014-08-29 23:35:28 ....A      3679303               Config\pj.cht
+2014-09-17 03:24:53 ....A        70934               Config\PJk.lng
+2014-09-17 13:22:45 ....A       376819               Config\pj.rdb
+2014-08-29 23:35:28 ....A           82               Config\Project64.rdb
+2014-08-29 23:35:28 ....A       144251               Config\Project64.rdx
+2014-08-29 23:35:27 ....A       700416      1276915  Project64k.exe
+2014-08-29 23:35:28 ....A         4096               Plugin\Adaptoid_v1_0.dll
+2014-08-29 23:35:28 ....A        22016               Plugin\AudioHLE.dll
+2014-08-29 23:35:29 ....A        17920               Plugin\AziAudio.dll
+2014-08-29 23:35:29 ....A        64000               Plugin\Jabo_DInput 1.6.dll
+2014-08-29 23:35:29 ....A        26624               Plugin\Jabo_DInput.dll
+2014-08-29 23:35:31 ....A       488960               Plugin\Jabo_Direct3D8.dll
+2014-08-29 23:35:31 ....A        54784               Plugin\Jabo_Dsound.dll
+2014-08-29 23:35:27 ....A       108544               Config\Netplay.dll
+2014-08-29 23:35:32 ....A       967680               Plugin\netplay_input_plugin 0.2.dll
+2014-08-29 23:35:32 ....A        36864               Plugin\No Sound.dll
+2014-08-29 23:35:33 ....A        37888               Plugin\NRage1.6.dll
+2014-08-29 23:35:33 ....A        79360               Plugin\rsp.dll
+2014-08-29 23:35:34 ....A        57344               Plugin\Zilmar_Audio.dll
+2016-10-26 16:16:44 D....            0            0  Uninstall
+2016-10-26 16:16:44 D....            0            0  Save
+2016-10-26 16:16:42 D....            0            0  Plugin
+2016-10-26 16:16:42 D....            0            0  Config
+------------------- ----- ------------ ------------  ------------------------
+2016-10-26 16:16:44            7163257      1989928  29 files, 4 folders

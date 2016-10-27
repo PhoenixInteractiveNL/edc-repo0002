@@ -1,0 +1,81 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2013-04-28 07:53:52 ....A       471845      1077153  PJgameFAQ.chm
+2013-04-28 07:53:52 ....A       350352               Project64.chm
+2013-04-28 07:53:52 ....A         7759               Docs\Plugin Specs\Audio #1.1.h
+2013-05-10 16:41:44 ....A         8892               Docs\Plugin Specs\Controller #1.1.h
+2013-04-28 07:53:52 ....A        10248               Docs\Plugin Specs\Gfx #1.3.h
+2013-04-28 07:53:52 ....A         7474               Docs\Plugin Specs\Rsp #1.1.h
+2013-04-28 07:53:52 ....A          333               Docs\3rd Party Plugins\Adaptoid.txt
+2013-04-28 07:53:52 ....A         1236               Docs\Cheat - Changes.txt
+2013-04-28 07:53:52 ....A         2446               Docs\Cheat - Readme.txt
+2013-04-28 07:53:52 ....A          234               Docs\GameFAQ - WhatsNew.txt
+2013-04-28 07:53:52 ....A         4595               Docs\3rd Party Plugins\N-Rage - Readme.txt
+2013-04-28 07:53:52 ....A         1538               Docs\Plugin Specs\Plugin Spec history.txt
+2013-04-28 07:53:52 ....A        20773               Docs\RDB - WhatsNew.txt
+2013-04-28 07:53:52 ....A         8981               Docs\RDX - ReadMe (Unofficial).txt
+2013-04-28 07:53:52 ....A         5115               Docs\Readme.txt
+2013-04-28 07:53:52 ....A         3751               Docs\Whatsnew.txt
+2013-04-28 07:53:52 ....A      1115024               Config\Project64.cht
+2013-01-02 19:35:24 ....A        13728               Lang\Brazilian Portuguese.pj.Lang
+2013-04-28 07:53:52 ....A        13498               Lang\Bulgarian.pj.Lang
+2013-04-28 07:53:52 ....A        10676               Lang\Chinese (Simplified).pj.Lang
+2013-04-28 07:53:52 ....A        11207               Lang\Chinese (Taiwan).pj.Lang
+2013-04-28 07:53:52 ....A        11360               Lang\Chinese (Traditional).pj.Lang
+2013-04-28 07:53:52 ....A        10343               Lang\ChineseB5.pj.lang
+2013-04-28 07:53:52 ....A        10266               Lang\ChineseGB.pj.lang
+2013-04-28 07:53:52 ....A        13343               Lang\Czech.pj.Lang
+2013-04-28 07:53:52 ....A        13300               Lang\Danish.pj.Lang
+2013-04-28 07:53:52 ....A        13256               Lang\Dutch.pj.Lang
+2013-04-28 07:53:52 ....A        12669               Lang\English.pj.Lang
+2013-04-28 07:53:52 ....A        13101               Lang\English_alternative.pj.Lang
+2013-04-28 07:53:52 ....A        14004               Lang\Finnish.pj.Lang
+2013-04-28 07:53:52 ....A        14539               Lang\French.pj.Lang
+2013-04-28 07:53:52 ....A        14132               Lang\German.pj.Lang
+2013-04-28 07:53:52 ....A        14243               Lang\German_int.pj.Lang
+2013-04-28 07:53:52 ....A        14014               Lang\German_localised.pj.Lang
+2013-04-28 07:53:52 ....A        13778               Lang\Greek.pj.Lang
+2013-04-28 07:53:52 ....A        13586               Lang\Hungarian.pj.Lang
+2013-04-28 07:53:52 ....A        13969               Lang\Italian.pj.Lang
+2013-04-28 07:53:52 ....A        14917               Lang\Italian_alternative.pj.Lang
+2013-04-28 07:53:52 ....A        13324               Lang\Japanese.pj.Lang
+2013-04-28 07:53:52 ....A        14236               Lang\Lithuanian.pj.Lang
+2013-04-28 07:53:52 ....A        13528               Lang\Norwegian.pj.Lang
+2013-04-28 07:53:52 ....A        13272               Lang\Polish.pj.Lang
+2013-04-28 07:53:52 ....A        13294               Lang\Russian.pj.Lang
+2013-04-28 07:53:52 ....A        13833               Lang\Spanish (South America).pj.Lang
+2013-04-28 07:53:52 ....A        13788               Lang\Spanish (Spain).pj.Lang
+2013-04-28 07:53:52 ....A        13658               Lang\Spanish.pj.Lang
+2013-04-28 07:53:52 ....A        13502               Lang\Swedish.pj.Lang
+2013-04-28 07:53:52 ....A        11205               Lang\T-Chinese.pj.Lang
+2013-04-28 07:53:52 ....A        13056               Lang\Ukrainian.pj.Lang
+2013-03-27 15:49:28 ....A       191988               Config\Project64.rdb
+2013-04-28 07:53:50 ....A           67               Project64.rdb
+2013-04-28 07:53:52 ....A       148788               Config\Project64.rdx
+2013-04-01 18:17:22 ....A      1247744      1482588  Project64.exe
+2013-04-28 07:53:52 ....A         4096               Plugin\1.6 Plugins\Adaptoid_v1_0.dll
+2013-03-09 19:11:00 ....A        67072               Plugin\Input\Jabo_DInput.dll
+2013-04-28 07:53:52 ....A        68608               Plugin\1.6 Plugins\Jabo_DInput.dll
+2013-04-28 07:53:52 ....A       129024               Plugin\1.6 Plugins\Jabo_Direct3D6.dll
+2013-04-28 07:53:52 ....A       238080               Plugin\1.6 Plugins\Jabo_Direct3D8.dll
+2013-04-28 07:53:54 ....A       390144               Plugin\GFX\Jabo_Direct3D8.dll
+2013-04-28 07:53:52 ....A        54784               Plugin\1.6 Plugins\Jabo_Dsound.dll
+2013-04-28 07:53:54 ....A        45056               Plugin\Audio\Jabo_Dsound.dll
+2013-04-28 07:53:52 ....A        36864               Plugin\1.6 Plugins\No Sound.dll
+2013-04-28 07:53:52 ....A        53760               Plugin\1.6 Plugins\NRage_DInput8_V2.dll
+2013-03-22 18:53:26 ....A       315904               Plugin\RSP\RSP 1.7.dll
+2013-04-28 07:53:52 ....A       109568               Plugin\1.6 Plugins\RSP.dll
+2013-04-28 07:53:52 ....A        57344               Plugin\1.6 Plugins\Zilmar_Audio.dll
+2016-10-26 12:49:39 D....            0            0  Plugin\RSP
+2016-10-26 12:49:39 D....            0            0  Plugin\Input
+2016-10-26 12:49:39 D....            0            0  Plugin\GFX
+2016-10-26 12:49:39 D....            0            0  Plugin\Audio
+2016-10-26 12:49:38 D....            0            0  Plugin\1.6 Plugins
+2016-10-26 12:49:39 D....            0            0  Plugin
+2016-10-26 12:49:38 D....            0            0  Lang
+2016-10-26 12:49:38 D....            0            0  Docs\Plugin Specs
+2016-10-26 12:49:38 D....            0            0  Docs\3rd Party Plugins
+2016-10-26 12:49:38 D....            0            0  Docs
+2016-10-26 12:49:38 D....            0            0  Config
+------------------- ----- ------------ ------------  ------------------------
+2016-10-26 12:49:39            5600112      2559741  66 files, 11 folders

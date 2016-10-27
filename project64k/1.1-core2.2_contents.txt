@@ -1,0 +1,51 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-03-10 00:36:58 ....A      1239977       271612  Config\Project64.cht
+2015-03-10 00:36:58 ....A        17967               Lang\Brazilian Portuguese.pj.Lang
+2015-03-10 00:36:58 ....A        18719               Lang\Bulgarian.pj.Lang
+2015-03-10 00:36:58 ....A        12501               Lang\Chinese (Simplified).pj.Lang
+2015-03-10 00:36:58 ....A        13027               Lang\Chinese (Taiwan).pj.Lang
+2015-03-10 00:36:58 ....A        13498               Lang\Chinese (Traditional).pj.Lang
+2015-03-10 00:36:58 ....A        12004               Lang\ChineseB5.pj.lang
+2015-03-10 00:36:58 ....A        11931               Lang\ChineseGB.pj.lang
+2015-03-10 00:36:58 ....A        13948               Lang\Czech.pj.Lang
+2015-03-10 00:36:58 ....A        13367               Lang\Danish.pj.Lang
+2015-03-10 00:36:58 ....A        13203               Lang\Dutch.pj.Lang
+2015-03-10 00:36:58 ....A        15887               Lang\English.pj.Lang
+2015-03-10 00:36:58 ....A        13056               Lang\English_alternative.pj.Lang
+2015-03-10 00:36:58 ....A        14215               Lang\Finnish.pj.Lang
+2015-03-10 00:36:58 ....A        14673               Lang\French.pj.Lang
+2015-03-10 00:36:58 ....A        14206               Lang\German.pj.Lang
+2015-03-10 00:36:58 ....A        14191               Lang\German_int.pj.Lang
+2015-03-10 00:36:58 ....A        14091               Lang\German_localised.pj.Lang
+2015-03-10 00:36:58 ....A        19324               Lang\Greek.pj.Lang
+2015-03-10 00:36:58 ....A        14415               Lang\Hungarian.pj.Lang
+2015-03-10 00:36:58 ....A        13937               Lang\Italian.pj.Lang
+2015-03-10 00:36:58 ....A        14857               Lang\Italian_alternative.pj.Lang
+2015-03-10 00:36:58 ....A        20883               Lang\Japanese.pj.Lang
+2015-03-10 00:36:58 ....A        14630               Lang\Lithuanian.pj.Lang
+2015-03-10 00:36:58 ....A        13597               Lang\Norwegian.pj.Lang
+2015-03-10 00:36:58 ....A        13212               Lang\Polish.pj.Lang
+2015-03-10 00:36:58 ....A        19044               Lang\Russian.pj.Lang
+2015-03-10 00:36:58 ....A        18022               Lang\Spanish.pj.Lang
+2015-03-10 00:36:58 ....A        13651               Lang\Swedish.pj.Lang
+2015-03-10 00:36:58 ....A        13143               Lang\T-Chinese.pj.Lang
+2015-03-10 00:36:58 ....A        18613               Lang\Ukrainian.pj.Lang
+2015-03-10 00:36:58 ....A        77723               Config\Glide64.rdb
+2015-03-10 00:36:58 ....A       213557               Config\Project64.rdb
+2015-03-10 00:36:58 ....A       148782               Config\Project64.rdx
+2015-08-26 20:33:04 ....A      1290752      1997145  Project64.exe
+2015-03-10 00:36:58 ....A       390144               Plugin\GFX\Jabo_Direct3D8.dll
+2015-03-10 00:36:58 ....A        45056               Plugin\Audio\Jabo_Dsound.dll
+2015-08-25 20:24:32 ....A      3441664               Plugin\GFX\PJ64Glide64.dll
+2015-08-25 20:22:26 ....A       253440               Plugin\Input\PJ64_NRage.dll
+2015-08-25 20:22:28 ....A       327168               Plugin\RSP\RSP 1.7.dll
+2016-10-26 16:53:28 D....            0            0  Plugin\RSP
+2016-10-26 16:53:28 D....            0            0  Plugin\Input
+2016-10-26 16:53:28 D....            0            0  Plugin\GFX
+2016-10-26 16:53:27 D....            0            0  Plugin\Audio
+2016-10-26 16:53:28 D....            0            0  Plugin
+2016-10-26 16:53:27 D....            0            0  Lang
+2016-10-26 16:53:27 D....            0            0  Config
+------------------- ----- ------------ ------------  ------------------------
+2016-10-26 16:53:28            7876075      2268757  40 files, 7 folders

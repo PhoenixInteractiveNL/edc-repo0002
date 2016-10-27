@@ -1,0 +1,11 @@
+DMGBoy 2.0 (2014-05-11)
+
+* Added GameBoy Color compatibility
+* Added a 3D model of the original GameBoy inside the window
+* Added a GUI debugger with disassembler, memory viewer and breakpoints
+* Translated the GUI to other languages: Spanish, French and Greek at the moment
+* The window now is resizable in real time, also mantains the proportions and the borders are magnetic
+* Updated wxWidgets to version 3
+* Fixed instruction DAA
+* Improved the LCDC states
+* Improved the timing of the instructions

@@ -1,0 +1,11 @@
+[ What's new in 0.7.1 ]
+
+- Fixed full-screen bug
+- Fixed zipped roms bug
+- Repaired Paper Mario FlashRAM save bug
+- Various emulation bug fixes
+- New ini by by DSF, NooTe, 3x3cUt0r, schibo, and Rice
+- More speed- "Advanced Analysis" is a new Game Setting.
+  All games should work with it on, with the exception of Conker.
+  Conker requires it off. Read Advanced_Users.txt for additional info
+  on this new compiler option.

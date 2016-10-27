@@ -1,0 +1,6 @@
+3.7.1 to 3.7.2: (June 10, 2012)
+
+  * Fixed bug in handling filenames with the '~' character, as is used
+    extensively by RomHunter rom-sets.
+
+-Have fun!

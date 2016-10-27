@@ -1,0 +1,38 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2006-12-22 21:05:14 ....A         5210      1005170  docs\graphics\cheat.png
+2006-12-22 21:05:14 ....A        42104               docs\graphics\chucky_cheese.png
+2006-12-22 21:05:14 ....A         6397               docs\graphics\circuit.png
+2006-12-22 21:05:14 ....A        62512               docs\graphics\console.png
+2006-12-22 21:05:14 ....A         6872               docs\graphics\eventmapping.png
+2006-12-22 21:05:14 ....A         6436               docs\graphics\eventmapping_remap.png
+2006-12-22 21:05:14 ....A         6071               docs\graphics\eventmapping_virtualdevs.png
+2006-12-22 21:05:14 ....A         3133               docs\graphics\jr_pacman.png
+2006-12-22 21:05:14 ....A         8908               docs\graphics\launcher.png
+2006-12-22 21:05:14 ....A         7666               docs\graphics\launcher_options_rom.png
+2006-12-22 21:05:14 ....A         7426               docs\graphics\launcher_options_snap.png
+2006-12-22 21:05:14 ....A         6108               docs\graphics\options_about.png
+2006-12-22 21:05:14 ....A         5269               docs\graphics\options_audio.png
+2006-12-22 21:05:14 ....A         6202               docs\graphics\options_gameinfo.png
+2006-12-22 21:05:14 ....A         6130               docs\graphics\options_help.png
+2006-12-22 21:05:14 ....A         6469               docs\graphics\options_video.png
+2006-12-22 21:05:14 ....A         3155               docs\graphics\pacman.png
+2006-12-22 21:05:14 ....A         7673               docs\graphics\rom_browser.png
+2006-12-22 21:05:14 ....A         2669               docs\graphics\secret_quest.png
+2006-12-22 21:05:14 ....A         3043               docs\graphics\space_invaders.png
+2006-12-22 21:05:14 ....A        49747               docs\debugger.html
+2006-12-22 21:05:14 ....A        89916               docs\index.html
+2006-12-22 21:05:14 ....A         1911               docs\Announce.txt
+2006-12-22 21:05:14 ....A        34152               docs\Changes.txt
+2006-12-22 21:05:14 ....A         1904               docs\Copyright.txt
+2006-12-22 21:05:14 ....A        17997               docs\License.txt
+2006-12-22 21:05:14 ....A          423               docs\README-SDL.txt
+2006-12-22 21:05:14 ....A          394               docs\Readme.txt
+2006-12-22 21:05:14 ....A         1583               docs\Todo.txt
+2006-12-22 21:05:14 ....A      2716160               stella.exe
+2006-12-22 21:05:14 ....A       258048               SDL.dll
+2006-12-22 21:05:14 ....A        74240               zlib1.dll
+2008-12-13 01:13:48 D....            0            0  docs\graphics
+2008-12-13 01:13:48 D....            0            0  docs
+------------------- ----- ------------ ------------  ------------------------
+2008-12-13 01:13:48            3455928      1005170  32 files, 2 folders

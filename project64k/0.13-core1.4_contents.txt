@@ -1,0 +1,59 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-12-29 09:57:27 ....A           43       905348  ~Force Close PJ64k~.bat
+2015-12-29 09:57:29 ....A         2089               Uninstall\location info.txt
+2015-12-29 09:57:27 ....A         3143               READ ME.txt
+2015-12-29 09:57:30 ....A           48               Uninstall\README.TXT
+2015-12-29 09:57:30 ....A         4441               Uninstall\WhatsNew.txt
+2015-12-29 09:57:25 ....A         7242               Pre-Config (enable cheats, set rom diretories to Roms folder).reg
+2015-12-29 09:57:30 ....A          613               Uninstall\remove all Project64 settings.reg
+2015-12-29 09:57:30 ....A          559               Uninstall\remove Project64 application settings.reg
+2015-12-29 09:57:30 ....A          164               Uninstall\remove Project64 plugins settings.reg
+2015-12-29 09:57:29 ....A        25474               Plugin\Glide64.ini
+2015-12-16 13:51:13 ....A        10113               Plugin\GLideN64.custom.ini
+2016-01-02 11:40:00 ....A         1003               Plugin\GLideN64.ini
+2016-09-08 14:43:19 ....A         1639               n02.ini
+2015-12-29 09:57:29 ....A         2702               Plugin\NRage.ini
+2015-12-29 09:57:28 ....A      3681350               Config\PJ.cht
+2016-08-28 06:19:09 ....A          512               Save\SMSR Multiplayer.eep
+2016-01-02 10:05:24 ....A        77995               Plugin\cache\SMASH BROTHERS_HIRESTEXTURES.htc
+2016-01-02 11:21:24 ....A       279351               Plugin\cache\SMASH BROTHERS_MEMORYCACHE.htc
+2016-09-08 14:40:44 ....A        72649               Config\PJk.lng
+2015-12-29 09:57:28 ....A          115               Config\PJ.rdb
+2016-09-08 14:43:20 ....A       378527               Project64.rdb
+2016-08-28 06:25:14 ....A           67               Project64.rdn
+2015-12-29 09:57:28 ....A       144814               Config\PJ.rdx
+2016-01-15 03:48:22 ....A       480077               Plugin\shaders\GLideN64.cfd718a7.shaders
+2016-01-15 04:34:55 ....A      1281761               Plugin\shaders\GLideN64.ffa67712.shaders
+2016-08-15 20:24:51 ....A         3036               Save\0.11 Dev.sra
+2016-01-15 04:34:54 ....A         3036               Save\Kaillera.sra
+2016-08-17 23:28:33 ....A         3036               Save\SMASH BROTHERS.sra
+2015-12-29 09:57:27 ....A       589824      5417172  Project64k.EXE
+2015-12-29 09:57:28 ....A         4096               Plugin\Adaptoid_v1_0.dll
+2015-12-29 09:57:28 ....A        22016               Plugin\AudioHLE.dll
+2015-12-29 09:57:28 ....A        17920               Plugin\AziAudio.dll
+2015-12-29 09:57:24 ....A        32256               BackupKailleraclient.dll
+2015-12-29 09:57:24 ....A       262144               glide3x.dll
+2015-12-29 09:57:28 ....A      2215936               Plugin\Glide64.dll
+2015-12-29 09:57:29 ....A       654848               Plugin\GlideHQ.dll
+2015-12-17 16:16:09 ....A     10194944               Plugin\GLideN64.dll
+2015-12-29 09:57:29 ....A        64000               Plugin\Jabo_DInput 1.6.1.dll
+2015-12-29 09:57:29 ....A        26624               Plugin\Jabo_DInput.dll
+2015-12-29 09:57:29 ....A       129024               Plugin\Jabo_Direct3D6.dll
+2015-12-29 09:57:29 ....A       242688               Plugin\Jabo_Direct3D7.dll
+2015-12-29 09:57:29 ....A        55296               Plugin\Jabo_Dsound.dll
+2015-12-29 09:57:24 ....A       108544               Kailleraclient.dll
+2015-12-29 09:57:27 ....A       108544               Config\Netplay.dll
+2015-12-29 09:57:29 ....A        36864               Plugin\No Sound.dll
+2015-12-29 09:57:29 ....A        37888               Plugin\NRage1.6.dll
+2012-09-09 08:23:56 ....A       151552               Plugin\NRage_Input_V2.dll
+2015-12-29 09:57:29 ....A        79360               Plugin\rsp.dll
+2015-12-29 09:57:29 ....A        57344               Plugin\Zilmar_Audio.dll
+2016-10-26 16:16:41 D....            0            0  Uninstall
+2016-10-26 16:16:41 D....            0            0  Save
+2016-10-26 16:16:40 D....            0            0  Plugin\shaders
+2016-10-26 16:16:40 D....            0            0  Plugin\cache
+2016-10-26 16:16:40 D....            0            0  Plugin
+2016-10-26 16:16:39 D....            0            0  Config
+------------------- ----- ------------ ------------  ------------------------
+2016-10-26 16:16:41           21557311      6322520  49 files, 6 folders

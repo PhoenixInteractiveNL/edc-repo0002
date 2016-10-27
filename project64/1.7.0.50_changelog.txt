@@ -1,0 +1,8 @@
+(Project 64 1.7 + AQZ)
+
+-Intro
+
+Project64 1,7 wasn't publically released as it was always 'in beta stage', it was only given out to those who indirectly bought the emulator from the creators. 
+Therefor two or three bootleg copies of the emulator got spread, one of which is registered by "TheMejorDe64", version 1.7.0.50. 
+The reason why Project64 1.7 is used and not Project64 2.1 is because AQZ was specifically created for Project64 1.7 beta
+and because of problems with timers, and fps with certain games such as Majoras Mask, where real time timers will not be 'real time' they will be faster/slower.

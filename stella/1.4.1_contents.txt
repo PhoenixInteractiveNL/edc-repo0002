@@ -1,0 +1,29 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2004-07-13 01:08:40 ....A        42104       760945  docs\graphics\chucky_cheese.png
+2004-07-13 01:08:40 ....A         6397               docs\graphics\circuit.png
+2004-07-13 01:08:40 ....A        62512               docs\graphics\console.png
+2004-07-13 01:08:40 ....A         3133               docs\graphics\jr_pacman.png
+2004-07-13 01:08:40 ....A         3155               docs\graphics\pacman.png
+2004-07-13 01:08:40 ....A         2669               docs\graphics\secret_quest.png
+2004-07-13 01:08:40 ....A         3043               docs\graphics\space_invaders.png
+2004-08-12 23:12:22 ....A        73964               docs\stella.html
+2004-08-12 23:12:22 ....A         1883               docs\Announce.txt
+2004-08-12 23:12:22 ....A        16632               docs\Changes.txt
+2004-08-12 23:12:22 ....A         1884               docs\Copyright.txt
+2001-12-27 18:24:12 ....A        17997               docs\License.txt
+2004-08-06 00:11:50 ....A         1824               docs\README-SDL.txt
+2004-08-12 23:12:22 ....A          394               docs\Readme.txt
+2004-08-12 23:12:22 ....A         2421               docs\Todo.txt
+2004-08-13 12:48:00 ....A       967168               stella.exe
+2004-08-12 23:34:00 ....A       212992               StellaX.exe
+2004-01-14 20:01:44 ....A       230457               libpng.dll
+2004-08-12 23:56:36 ....A       233472               SDL.dll
+2003-12-13 07:00:22 ....A        70656               zlib1.dll
+2004-08-06 00:11:48 ....A       571723               stella.pro
+2009-02-28 22:10:28 D....            0            0  state
+2009-02-28 22:10:28 D....            0            0  roms
+2009-02-28 22:10:28 D....            0            0  docs\graphics
+2009-02-28 22:10:28 D....            0            0  docs
+------------------- ----- ------------ ------------  ------------------------
+2009-02-28 22:10:28            2526480       760945  21 files, 4 folders

@@ -1,0 +1,4 @@
+Not compatible using netplay with older versions.
+
+No longer loads save files over kaillera to prevent desync. Hopefully sending save files will be supported eventually.
+Re-worked some of the net code to get ready to support syncing cheats.

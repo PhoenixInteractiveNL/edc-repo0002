@@ -1,0 +1,3 @@
+One simple installer.
+Bloatware disabled.
+kailleraclient.dll automatically placed correctly.

@@ -1,0 +1,65 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2001-08-11 13:01:22 ....A        10248       450893  Docs\Plugin Specs\Gfx #1.3.h
+2001-08-31 15:25:54 ....A         9635               Docs\NRage's Input Plugin\Manual.html
+2001-08-31 22:21:32 ....A         1855               Docs\NRage's Input Plugin\Readme.html
+2001-08-11 12:54:24 ....A         1351               Docs\Plugin Specs\Plugin Spec history.txt
+2001-09-01 22:52:30 ....A         3807               Uninstall\ReadMe.txt
+2001-09-01 23:05:22 ....A         5384               Docs\Translations\ReadMe.txt
+2001-09-01 23:24:08 ....A        11995               Docs\README.TXT
+2001-09-02 00:01:00 ....A         4876               Docs\Bug Reporting\ReadMe.txt
+2001-09-02 00:10:06 ....A         5457               Docs\Cheat Codes\ReadMe.txt
+2001-09-02 00:11:34 ....A        22815               Docs\Game Compatibility\ReadMe.txt
+2001-08-31 21:51:46 ....A         3233               Uninstall\Registry Location Info.txt
+2001-08-31 05:07:28 ....A         6294               Docs\WHATSNEW.TXT
+2001-09-01 00:03:40 ....A         2264               Docs\Cheat Codes\WhatsNew.txt
+2001-09-01 21:40:22 ....A        10641               Docs\Game Compatibility\WhatsNew.txt
+2001-09-01 23:06:24 ....A         2553               Docs\Translations\WhatsNew.txt
+2001-07-19 14:14:12 ....A          128               Uninstall\REMOVE ALL (EXE only).reg
+2001-08-28 05:30:32 ....A          224               Uninstall\REMOVE ALL (PLUGINS only).reg
+2001-08-28 05:35:12 ....A          205               Uninstall\REMOVE ALL PJ64 SETTINGS COMPLETELY.reg
+2001-07-19 00:49:22 ....A          317               Uninstall\REMOVE PJ64 v1.0.reg
+2001-07-19 00:50:26 ....A          421               Uninstall\REMOVE PJ64 v1.1.reg
+2001-07-22 22:20:46 ....A          550               Uninstall\REMOVE PJ64 v1.2.reg
+2001-07-19 00:50:22 ....A          556               Uninstall\REMOVE PJ64 v1.2BETA.reg
+2001-08-31 21:52:14 ....A          604               Uninstall\REMOVE PJ64 v1.3.reg
+2001-08-28 05:29:32 ....A          687               Uninstall\REMOVE PJ64 v1.3BETA1&2.reg
+2001-09-01 16:41:50 ....A       162816               Project64.exe
+2001-08-21 11:01:22 ....A        24576               Plugin\Jabo_DInput.dll
+2001-08-24 11:29:46 ....A        66560               Plugin\Jabo_Direct3D.dll
+2001-08-23 19:45:08 ....A        18944               Plugin\Jabo_Dsound.dll
+2001-08-16 17:45:14 ....A        37376               Plugin\Jabo_OpenGL.dll
+2000-11-04 09:12:18 ....A        36864               Plugin\No Sound.dll
+2001-09-01 00:16:58 ....A        38912               Plugin\NRage_DInput8.dll
+2001-08-12 19:14:46 ....A        79360               Plugin\RSP.dll
+2001-05-24 12:02:22 ....A        57344               Plugin\Zilmar_Audio.dll
+2001-09-01 00:05:02 ....A        78580               Project64.cht
+2001-09-01 23:05:28 ....A        64250               Project64.lng
+2001-09-01 23:27:12 ....A        65397               Project64.rdb
+2001-09-01 23:34:34 ....A          156               Docs\Game Compatibility\download GoodN64 from here if you need it.url
+2001-08-31 21:25:32 ....A          177               Docs\Useful Web Links\General emulation news - RetroGames.url
+2001-08-31 21:21:28 ....A          124               Docs\Useful Web Links\Jabo's Homepage - Jabosoft.url
+2001-08-25 00:27:40 ....A           73               Docs\Useful Web Links\N-Rage's Plugin Website.url
+2001-08-31 21:23:34 ....A          192               Docs\Useful Web Links\N64 emulation news - Emulation64.url
+2001-08-31 21:23:04 ....A          148               Docs\Useful Web Links\N64 Game Guides - GameFAQs.com.url
+2001-07-22 13:01:24 ....A          176               Docs\Useful Web Links\Project64 FAQ.url
+2001-08-31 05:02:52 ....A          194               Docs\Useful Web Links\Project64 Game Compatibility List.url
+2001-07-23 06:48:04 ....A          182               Docs\Bug Reporting\Project64 Known Issues page.url
+2001-07-23 06:48:04 ....A          182               Docs\Useful Web Links\Project64 Known Issues page.url
+2001-09-01 01:41:00 ....A          198               Docs\Bug Reporting\Project64 Official Forum.url
+2001-09-01 01:41:00 ....A          198               Docs\Useful Web Links\Project64 Official Forum.url
+2001-08-31 21:18:58 ....A          142               Docs\Useful Web Links\Project64 Official Website.url
+2001-09-01 06:54:42 ....A          293               Docs\Useful Web Links\Smiff's Homepage - N64 emulation Support Centre.url
+2001-08-31 21:21:54 ....A          132               Docs\Useful Web Links\Zilmar's Homepage - EMUBook.url
+2008-12-12 22:18:45 D...A            0            0  Uninstall
+2008-12-12 22:18:45 D...A            0            0  Plugin
+2008-12-12 22:18:45 D...A            0            0  Docs\Useful Web Links
+2008-12-12 22:18:45 D...A            0            0  Docs\Translations
+2008-12-12 22:18:45 D...A            0            0  Docs\Plugin Specs
+2008-12-12 22:18:45 D...A            0            0  Docs\NRage's Input Plugin
+2008-12-12 22:18:45 D...A            0            0  Docs\Game Compatibility
+2008-12-12 22:18:45 D...A            0            0  Docs\Cheat Codes
+2008-12-12 22:18:45 D...A            0            0  Docs\Bug Reporting
+2008-12-12 22:18:45 D...A            0            0  Docs
+------------------- ----- ------------ ------------  ------------------------
+2008-12-12 22:18:45             839646       450893  51 files, 10 folders

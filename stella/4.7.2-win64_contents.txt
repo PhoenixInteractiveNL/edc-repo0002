@@ -1,0 +1,72 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-04-06 14:50:28 ....A         3711       576605  docs\graphics\cheat.png
+2014-04-06 14:50:28 ....A        42117               docs\graphics\chucky_cheese.png
+2014-04-06 14:50:28 ....A         6410               docs\graphics\circuit.png
+2014-04-06 14:50:28 ....A         3974               docs\graphics\commandmenu.png
+2014-04-06 14:50:28 ....A        62525               docs\graphics\console.png
+2014-04-06 14:50:28 ....A        10907               docs\graphics\debugger_bankcomplex.png
+2014-04-06 14:50:28 ....A         3627               docs\graphics\debugger_banksimple.png
+2014-04-06 14:50:28 ....A          430               docs\graphics\debugger_bpstatus.png
+2014-04-06 14:50:28 ....A         2415               docs\graphics\debugger_cpuregs.png
+2014-04-06 14:50:28 ....A          784               docs\graphics\debugger_dataops.png
+2014-04-06 14:50:28 ....A         1082               docs\graphics\debugger_globalbuttons.png
+2014-10-25 12:40:58 ....A        10648               docs\graphics\debugger_iotab.png
+2014-06-30 19:05:38 ....A        44364               docs\graphics\debugger_main.png
+2014-06-30 19:05:38 ....A        14727               docs\graphics\debugger_ram-dpc.png
+2014-06-30 19:05:38 ....A         7823               docs\graphics\debugger_ram-f8sc.png
+2014-04-06 14:50:28 ....A         6392               docs\graphics\debugger_ram.png
+2014-04-06 14:50:28 ....A         6059               docs\graphics\debugger_ramsearch.png
+2014-04-06 14:50:28 ....A        12835               docs\graphics\debugger_rom.png
+2014-04-06 14:50:28 ....A        13817               docs\graphics\debugger_romcmenu.png
+2014-04-06 14:50:28 ....A         1904               docs\graphics\debugger_tiainfo.png
+2014-06-30 19:05:38 ....A         2953               docs\graphics\debugger_tiaoutcmenu.png
+2014-04-06 14:50:28 ....A        11321               docs\graphics\debugger_tiatab.png
+2014-04-06 14:50:28 ....A         1315               docs\graphics\debugger_tiazoomcmenu.png
+2014-04-06 14:50:28 ....A         3609               docs\graphics\developer_stats.png
+2014-04-06 14:50:28 ....A         7349               docs\graphics\eventmapping.png
+2014-04-06 14:50:28 ....A         3342               docs\graphics\eventmapping_combo.png
+2015-07-10 16:13:58 ....A         8273               docs\graphics\eventmapping_devsports.png
+2014-04-06 14:50:28 ....A         7026               docs\graphics\eventmapping_remap.png
+2014-04-06 14:50:28 ....A         3146               docs\graphics\jr_pacman.png
+2014-04-06 14:50:28 ....A        22300               docs\graphics\launcher.png
+2014-04-06 14:50:28 ....A         2077               docs\graphics\launcher_filter.png
+2014-04-06 14:50:28 ....A         5270               docs\graphics\launcher_options_files.png
+2014-04-06 14:50:28 ....A         5814               docs\graphics\launcher_options_snapshots.png
+2014-04-06 14:50:28 ....A         8230               docs\graphics\launcher_override.png
+2014-06-21 15:58:28 ....A         8240               docs\graphics\logs.png
+2014-04-06 14:50:28 ....A         4267               docs\graphics\options.png
+2014-04-06 14:50:28 ....A         3170               docs\graphics\options_audio.png
+2014-04-06 14:50:28 ....A         4885               docs\graphics\options_debugger.png
+2014-04-06 14:50:28 ....A         6594               docs\graphics\options_gameinfo.png
+2014-04-06 14:50:28 ....A         7308               docs\graphics\options_input.png
+2014-12-24 15:22:18 ....A         4043               docs\graphics\options_misc.png
+2014-04-06 14:50:28 ....A         4797               docs\graphics\options_ui.png
+2014-06-21 15:58:28 ....A         7550               docs\graphics\options_video.png
+2016-02-13 14:20:36 ....A         8588               docs\graphics\options_video_tv.png
+2014-04-06 14:50:28 ....A         3168               docs\graphics\pacman.png
+2014-04-06 14:50:28 ....A         3192               docs\graphics\romaudit.png
+2014-04-06 14:50:28 ....A        30850               docs\graphics\rominfo_1x_large.png
+2014-04-06 14:50:28 ....A        21342               docs\graphics\rominfo_1x_small.png
+2014-04-06 14:50:28 ....A        39072               docs\graphics\rominfo_2x_small.png
+2014-04-06 14:50:28 ....A         4953               docs\graphics\rom_browser.png
+2014-04-06 14:50:28 ....A         2682               docs\graphics\secret_quest.png
+2014-04-06 14:50:28 ....A         3891               docs\graphics\select_romdir.png
+2014-04-06 14:50:28 ....A         3056               docs\graphics\space_invaders.png
+2014-11-21 20:16:06 ....A        66593               docs\debugger.html
+2016-03-25 18:29:48 ....A       142624               docs\index.html
+2016-03-25 18:36:32 ....A         2248               docs\Announce.txt
+2016-03-25 18:36:32 ....A       137400               docs\Changes.txt
+2016-03-25 18:36:32 ....A         3871               docs\Copyright.txt
+2016-03-25 18:36:32 ....A        18675               docs\License.txt
+2016-03-25 18:36:32 ....A          445               docs\README-SDL.txt
+2016-03-25 18:36:32 ....A          366               docs\Readme.txt
+2016-03-25 18:36:32 ....A          867               docs\Todo.txt
+2016-03-25 18:32:18 ....A      3595776      1659184  Stella.exe
+2013-10-04 23:58:24 ....A       660128               msvcp120.dll
+2013-10-04 23:58:24 ....A       963232               msvcr120.dll
+2016-01-25 17:25:56 ....A      1230336               SDL2.dll
+2016-10-26 19:01:39 D...A            0            0  docs\graphics
+2016-10-26 19:01:39 D....            0            0  docs
+------------------- ----- ------------ ------------  ------------------------
+2016-10-26 19:01:39            7342785      2235789  66 files, 2 folders
