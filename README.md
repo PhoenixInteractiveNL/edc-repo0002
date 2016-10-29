@@ -6,7 +6,7 @@ emuDownloadCenter (EDC) is a module of [**emuControlCenter**](https://github.com
 
 Author: Sebastiaan Ebeltjes, Deventer (Netherlands)
 
-### [**EDC WIKI WEBSITE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki)
+### [**EDC WEBSITE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki)
 ***
 ### Some advantages using EDC are:
 - Everyone can help collecting and building EDC further!, it's al open source!
