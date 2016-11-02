@@ -1,0 +1,53 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-06-17 01:28:22 ....A         9509       149706  plugin\glide64_readme.txt
+2015-10-14 02:34:56 ....A         1754               setup.txt
+2015-06-17 01:28:22 ....A        25484               plugin\Glide64.ini
+2015-06-17 01:28:10 ....A       363355               mupen64.ini
+2015-10-14 02:21:10 ....A         1650               n02.ini
+2015-06-17 01:28:24 ....A        25153               plugin\RiceVideo6.1.0.ini
+2015-06-17 01:37:24 ....A          928               mupen64.cfg
+2015-06-17 01:28:26 ....A          512               save\GoldenEye 007 (U) [!].eep
+2015-06-17 01:28:26 ....A         2048               save\Perfect Dark (U) (V1.1) [!].eep
+2015-06-17 01:28:26 ....A          512               save\Wave Race 64 (U) (V1.1) [!].eep
+2015-06-17 01:28:18 ....A         4241               Lang\brazilian portuguese.lng
+2015-06-17 01:28:18 ....A         5898               Lang\brazilian.lng
+2015-06-17 01:28:18 ....A         5558               Lang\bulgarian.lng
+2015-06-17 01:28:18 ....A         5853               Lang\dutch.lng
+2015-06-17 01:28:18 ....A         5554               Lang\english.lng
+2015-06-17 01:28:18 ....A         6163               Lang\french.lng
+2015-06-17 01:28:18 ....A         5880               Lang\german.lng
+2015-06-17 01:28:18 ....A         4037               Lang\polish.lng
+2015-06-17 01:28:20 ....A         4145               Lang\Russian.lng
+2015-06-17 01:28:20 ....A         6030               Lang\spanish.lng
+2015-06-17 01:28:20 ....A         6239               Lang\spanish_ar.lng
+2015-06-17 01:28:20 ....A         3743               Lang\swedish.lng
+2015-06-17 01:28:16 ....A       377655               Project64.rdb
+2015-06-17 01:28:26 ....A        32768               save\Super Smash Bros. (U) [!].sra
+2015-06-17 01:36:28 ....A       650752      2310719  mupen64pp.exe
+2014-11-27 23:37:04 ....A        22016               plugin\AudioHLE.dll
+2015-06-17 01:28:12 ....A       581632               bmglib.dll
+2015-06-17 01:28:20 ....A        16268               plugin\gameshark.dll
+2015-06-17 01:28:12 ....A       262144               glide3x.dll
+2015-06-17 01:28:22 ....A      2215936               plugin\Glide64.dll
+2015-06-17 01:28:22 ....A       654848               plugin\GlideHQ.dll
+2015-06-17 01:28:22 ....A        64000               plugin\Jabo_DInput 1.6.dll
+2015-06-17 01:28:22 ....A       129024               plugin\Jabo_Direct3D6.dll
+2011-09-10 17:18:28 ....A       242688               plugin\Jabo_Direct3D8.dll
+2014-11-27 23:37:30 ....A        21504               plugin\Jabo_Dsound.dll
+2015-06-17 01:28:14 ....A       108544               Kailleraclient.dll
+2015-06-17 01:28:14 ....A       499712               msvcp71.dll
+2015-06-17 01:28:14 ....A       339968               msvcr70.dll
+2015-06-17 01:28:14 ....A       348160               msvcr71.dll
+2015-06-17 01:28:24 ....A        92078               plugin\mupen64_rsp_hle.dll
+2015-06-17 01:28:24 ....A        36864               plugin\No Sound.dll
+2015-06-17 01:28:24 ....A        37888               plugin\NRage1.6.dll
+2015-06-17 01:28:24 ....A       147456               plugin\NRage_DInput8_V2_2.00.dll
+2015-06-17 01:28:24 ....A       843776               plugin\RiceVideo.dll
+2015-06-17 01:28:18 ....A        32256               supraclient.dll
+2016-10-26 19:23:26 D....            0            0  ScreenShots
+2016-10-26 19:23:26 D....            0            0  save
+2016-10-26 19:23:26 D....            0            0  plugin
+2016-10-26 19:23:25 D....            0            0  Lang
+------------------- ----- ------------ ------------  ------------------------
+2016-10-26 19:23:26            8252183      2460425  45 files, 4 folders
