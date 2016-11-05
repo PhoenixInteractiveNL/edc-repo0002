@@ -1,0 +1,23 @@
+* DX11: fix scaling with RTT
+* HIKARU: NASCAR boot in public build
+* LISTXML generation fixes
+* DX11: fix z plane generation
+* SPU: fix cdda status set to gdrom
+* DX11: force background deptmode to 7
+* SPU: fix loop sound sonic adventure (refix from rev 1809)
+* DX11: fix aspect ratio (need test)
+* NAOMI: a bit better Alien Front controls
+* DX11: fix modifier holes
+* full rewrite aica DSP
+* NAOMI: Crazy Taxi debug ctrls
+* DX11: use clip for RenderDepth (fixes arcade 18Wheelerer), RenderDepth only  shadow poly (fix Xtreme sports), UV clamp/flip/wrap inside TextureSample() (fixes textures gaps), disable network sort (TODO make on/off in config), always use color clamp (Rumble Fish attract), all fog processing after shading calc
+* DX11: network sort option
+* HIKARU: sram mapping error fix, now pharrier can bookkeep (issue #54)
+* DX11: hw-like trilinear filter, optimise shadow
+* DX11: add read fb to dc vram
+* DX11: use mipmap adjust, add supersample (not working)
+* DX11: bilinear and textcoord clamp/flip fixes (Samurai6 shadows, Xtreeme Sports title, etc) 
+* DX11: fix 1x1 mips in 16bit and IDX8 textures (road marks in Sonic2); miplevel clamp; join similar texture decoders
+* SPU: return old adpcm decoder
+* DX11: clip mode set without GroupEn bit (18Wheleeler map, checkme), modvol clip
+

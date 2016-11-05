@@ -1,0 +1,43 @@
+AWAVE: Sega Bass Fishing Challenge romset added
+AWAVE: use MAME's NGBC rom, enable BBA
+CORE: FPU opcodes timing fix ("Dead Or Alive 2" slowdown fix)
+CORE: MMU sh4 fix
+CORE: addc, subc opcodes for SH2/SH3/SH4 fix
+CORE: dreamcast various fixes
+CORE: fcmpeq NAND case fix
+CORE: ftrc NaNd round fix
+CORE: ftrc int/rec opcode fix
+CORE: heap corruption fix
+CORE: internal DMAC support
+CORE: invalidate code SH4 fix
+CORE: trapa SH2 fix
+DC: a lot of game-specific fixes, now more games are playable or glitch-free
+DX11: bump mapping added
+DX11: order independent transparency added
+DX11: render to texture full rewrite
+DX11: scaling added
+DX11: shadow volume full refactor
+DX11: translucent modifier inplemented
+DX11: two volume modifier implemented
+GAELCO: new system added with two games supported: Smashing Drive and ATV Track
+GDROM: gdrom threading disabled
+GPU: DX10/DX11 support for Hardware and Software renders (can be played virtually on any GPU card, but obviously very slow)
+GPU: much correct volumes support
+GPU: workaround for ATI bugs
+HIKARU: system support added, a lot of work needed
+NAOMI2: new model cache system
+NAOMI2: reflect fix
+NAOMI2: render to texture fix
+NAOMI2: various improvements
+NAOMI: Crackin DJ controls fix
+NAOMI: Gun Spike auto-coin fix
+NAOMI: Ninja Assault Export (NJA4verA) added
+NAOMI: Ninja Assault light gun fix
+NAOMI: add 2 new USA bioses
+NAOMI: new romsets added: initdv3j with key, Star Horse, Shakatto Tambourine 2001 Spring,  Ninja Assault new rev, crackndj2, gunsur2 alt rev, marstv, Radirgy new rev, etc...
+NET: BBA network support (TAP driver / OpenVPN needed, modem isn't supported yet)
+NET: sync flash/eeprom/etc
+PAD: dead zones, dc triggers fix
+PAD: full xinput support
+VMS: fixed parsing crash on some VMS files
+VMS: various fixes

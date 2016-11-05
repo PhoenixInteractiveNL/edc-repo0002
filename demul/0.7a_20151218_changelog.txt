@@ -1,0 +1,17 @@
+18.12.2015 UPDATE
+- SH4 MMU optimizations, many WinCE games works at fullspeen on ~recent PCs
+- Tile Accelerator rewrite&optimize
+- Xinput devices without vibration supported
+- automatic DC video mode selection
+- simple deinterlace for TV-modes
+- fix rotate and aspect ratio
+- optional Bilinear filter
+- libchd doesn't require SSSE3 anymore
+- crash fix at exit after fullscreen switching (I hope)
+- gdrImage subcodes emulation fixes and improvements
+- gdrImage fix cue/bin booting support
+- SH4 exceptions handlindg fixes
+- Supid Invaders boots now
+- fixes for recent indie games
+- sync romset with current MAME
+- other minor things was fixed or rewritten, I forget about

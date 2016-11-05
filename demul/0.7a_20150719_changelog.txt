@@ -1,0 +1,11 @@
+19.07.2015 UPDATE
+- Crackin' DJ 1&2 playable
+- Ferrari F355 Deluxe have sound/music
+- fix Naomi 2 materials, lights refactor (DX11NG)
+- foolproof VMU files creation
+- remember last path in gdrCHD, gdrImage, etc
+- better Xinput deadzone handling
+- fix GDI audio in gdrCHD (this plugin is recommended now for usage with GDI images too)
+- workarounds for newest ATI bugs in 15.7 drivers (DX11)
+- SH4 MMU fixes & improvements, Shenmue's Afterburner II minigame playable
+- several minor tweaks

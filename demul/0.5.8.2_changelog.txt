@@ -1,0 +1,41 @@
+ATOMISWAVE: Crash fix
+CORE: Autoregion if booted without disk fix
+CORE: SSE2 optimizations, critical core corruptions fixed, much more stability
+CORE: Savestates fix
+CORE: Various fixes from the Issue tracker
+DC: Dev.Box bios autoregion
+DX10: NAOMI2 irq fix
+DX11: Aspect ratio for 2nd shader filter's pass fix
+DX11: Framebuffer rendering fix
+DX11: Ignore z-write disable for PuchThrough (fix Bust-A-Move 4)
+DX11: Rotate 90/270 fullscreen aspect fix
+GDR: gdrDemul is back from grave
+GPU: Aica dsp fix
+GPU: Full screen added to cave3rd and hikaru
+GPU: Lightgun mark fix
+GPU: YUV transfer out of RAM fix
+HIKARU: Minor fixes and speedup
+NAOMI2: Club Kart little controls fix
+NAOMI2: Color/diffuse lerp value
+NAOMI2: Delay irq and TL status
+NAOMI2: Diffuse and specular intensity
+NAOMI2: Fake shadow fix
+NAOMI2: Layouts
+NAOMI2: Znear/zfar fixes
+NAOMI2: Spot/point lights fix
+NAOMI2: Opaque modifiers
+NAOMI2: Optimize/refactor
+NAOMI2: VS3 stupid bug fix
+NAOMI2: shadow intensity fix
+NAOMI: 18 Wheeler DX Steering fix
+NAOMI: Soul Surfer floormat/controls
+PAD: Fixed jump to the BIOS when focus lost
+PAD: more precision for analogs/guns
+PAD: xinput stick, xinput crashes and compatibility fix, xinput rumble support
+PVR2: fix single modifiers (Soul Calibur)
+PVR2: fix specular
+SH4: Exception generate optimization, dinarec optimizations, minor speedup (major speedup for some game, like Under Defeat)
+SH4: MMU fix critical bug and speedup, all WinCE games are playable now
+SPU: Sound stretching for the slow machines
+VMU: beep fixed, speedup
+VMU: default setting changed, VMU screen disable option added

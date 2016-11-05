@@ -1,0 +1,9 @@
+31.07.2015 UPDATE
+- Naomi2 shadows improvements (DX11NG)
+- Naomi2 screen scale (DX11NG)
+- DirectInput thread close fix AKA "VMU window not closes"
+- VMU's windows auto open/close
+- exit by ALT+F4
+- romset corrections to make some rom managers happy
+- more precise SH4 FSRRA opcode
+- several minor corrections

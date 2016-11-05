@@ -1,0 +1,4 @@
+22.12.2015 UPDATE
+- ATI texture perspective correction fix is an option now (cause glitches on NVidia GPUs)
+- ancient CDI v2 parsing was killed by accident
+- GD-ROM status/irq corrections (Gauntlet Legends)

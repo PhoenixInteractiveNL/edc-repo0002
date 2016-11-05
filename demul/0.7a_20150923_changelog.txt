@@ -1,0 +1,4 @@
+23.09.2015 UPDATE
+- added "NAOMI 2 Vertex Cache" option, disabled by default, enable it if you have ATI/AMD GPU only.
+- fixed AMD-specific texture glitches in many games (Shenmue II, ECCO, HotD2, etc)
+- several optimizations

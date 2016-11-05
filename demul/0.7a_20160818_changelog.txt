@@ -1,0 +1,16 @@
+18.08.2016 cumulative UPDATE
+- fixed hang in KalistiOS based games with DC keyboard controller
+- fixed hang in some WinCE games if VMU present
+- better Dev.Box emulation
+- patches for Cycraft InitialD and ClubKart (boots, but not yet playable)
+- better aspect correction and filtering for Cave CV1000
+- InitialD, ClubKart and Derby Owners magnetic card readers emulated (press PUSH6 key then game ask insert/take card)
+- fixed Marvel vs Capcom 2 character pictures during intro
+- ClubKart2003 input fixes
+- WWF Royal Rumble 4 players inputs
+- NAOMI DIMM Board emulated
+- added recently dumped NAOMI and Atomiswave sets
+- romset in sync with MAME
+- bunch of minor things not worth mention
+- fix current LBA after Mil-CD security check
+- ADPCM decoder tweaks (thanks kode54 for info)

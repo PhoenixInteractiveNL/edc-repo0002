@@ -1,0 +1,4 @@
+20.09.2015 UPDATE
+- NAOMI 2 emulation rewritten almost from scratch, must be really close if not the same as real hardware, a lot of optimizations, can use separate thread (DX11NG)
+- shadow render fix (Cosmic Smash)
+- romset sync with current MAME

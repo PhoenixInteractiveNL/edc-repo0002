@@ -1,0 +1,20 @@
+* AICA: fixed sound
+* CORE: added 7zip support for roms
+* CORE: added mmu support for dynarec
+* CORE: fixed maple timers
+* CORE: fixed memcards in WinCE
+* CORE: fixed save states
+* CORE: new sh4/ppc cores, improvements, bugfixes
+* CORE: removed redundant gpu/spu multi threading
+* GDR: added support for filenames with spaces to GDI
+* GDR: fixed gdrImage plugin
+* GDR: fixed thread mode
+* GDR: removed redundant gdrDemul plugin
+* GPU: fixed DX3 z-buffer bug
+* GPU: new DX11 plugin featured order-independency transparency, object list multi-layered render simulation, translucent modifiers, aspect ratio support with hotkeys, two-pass postfilters, texture conversion on the GPU
+* GUI: new VMS manager merged with maple devices, menu rearranging
+* MODEL3: added little improvements, still no sound, not a priority since supermodel is here ;)
+* NAOMI: added M1/M2/M3/M4 decompression implementation, now all protections are emulated (thanks to Adnreas Naive, Deunan Knute, MAME and DU teams)
+* NAOMI: added jvs standart touchscreen emulation (Touch De Uno! 2)
+* NET: new proprietary network plugin added
+* VMS: added default vms file to all ports
