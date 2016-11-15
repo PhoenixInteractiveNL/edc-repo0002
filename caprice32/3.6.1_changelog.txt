@@ -1,0 +1,6 @@
+v3.6.1
+June 2, 2003
+
+ - If the back buffer cannot be allocated in video memory (i.e. the
+   memory on the graphics card), Caprice32 now falls back onto system
+   memory (incuring a MAJOR speed penalty).

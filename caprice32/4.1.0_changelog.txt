@@ -1,0 +1,13 @@
+v4.1.0
+June 18, 2004
+
+ - emulator can now run in either fullscreen or windowed mode, with the
+   possibility to switch between them at run time
+
+ - added command line parsing: pass dsk/sna/cdt/voc images (as is or
+   zipped) to the emulator and they are processed as necessary
+
+ - added FPS display
+
+ - lots of behind-the-scene changes to make Caprice32 compile and run
+   "out of the box" on Linux (thanks Stephane & Jurgen!)
