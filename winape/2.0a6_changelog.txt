@@ -1,0 +1,26 @@
+Version 2.0 Alpha 6	13-June-2004
+
+Debugger
+- Added total cycle display (T) plus a clear button. This eases development of time critical assembler, and can be used to measure the time taken for particular routines.
+- Scrolling the disassembler pane no longer changes the current selected instruction.
+- Focus available in the Stack pane. (Still need to fix keyboard scrolling).
+
+Assembler
+- Fixed a bug which ocurred when a breakpoint was set at the start address of assembled code.
+- Fixed the output to display the correct values in expressions etc at the end of a line.
+
+Configuration Screen
+- Fixed a bug which caused the Open and Save buttons for the keyboard file to sometimes display at the wrong time.
+- Added archive (ZIP etc) support to the ROM and Cartridge selections.
+
+Tape Emulation
+-Added an Eject button to the tape control.
+- Added archive (ZIP etc) support for tapes.
+- Added tape sound output. (Will add a volume control later).
+- Fixed enable/disable of Rewind, Press Play and Remove menu items for tape.
+
+Emulation
+- Moved all Z80 core code to a separate Pascal Unit. This will allow it to be used for other emulators.
+- Fixed emulation support for the “Disable All ROMs” checkbox in the configuration screen. This does not disable ROM 7 from the internal CPC Plus cartridge since it may cause some cartridges not to work properly.
+- Adjusted Sleep() time used. This reduces the CPU usage from 100% on faster machines, and “shouldn’t” cause any problems.
+- Fixed a memory mapping bug which cause CP/M Plus not to boot.

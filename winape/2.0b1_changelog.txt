@@ -1,0 +1,101 @@
+Version 2.0 Beta 1	26-Nov-2015
+
+Emulation
+-.Improved palette change emulation.
+- Z80 MEMPTR emulation.
+- Correct Z80 Flags emulation.
+- Fixed Z80 DAA instruction.
+- Re-mapped AY output volumes (again!).
+- Changed volume percentage of B channel to 75%.
+- Doubled the period for noise register.
+- Digiblaster and AmDrum emulation.
+- Allow read of AY register 15.
+- Fixed small residual volume on tape input when read bit was zero.
+- Fixed full residual volume on tape input when motor is turned off (and last bit read was high), previously caused disable of AY channel A.
+- Allowed for up to 32 Upper ROMs.
+- Allowed disc images to use up to 162 tracks (81 cylinders).
+- Fixed a keyboard bug with certain keyboard drivers returning key 0 as pressed (which was used for the (None) value). This caused multiple keys to be always pressed at the same time in the emulation.
+- Forced at least one tape read per frame to ensure tape progresses while playing even if the PPI is not read.
+- Reduced Tape Stall period when Tape Motor is turned off.
+- Changed CDT/TZX T-State conversion to 3470000 rather than 3500000 to allow some (badly created?) CDTs to work.
+- Fixed CDT/TZX Direct Recording block support.
+- Fixed CDT/TZX bit state transition (stays high for 1ms if that was the last state).
+- Changed CDT/TZX Standard block timing to match specification.
+- Fixed error on load of empty tape image.
+- Emulation of Dobbertin SmartWatch (Read Only), not currently available with SNR recording.
+
+Configuration
+-.Split Display configuration for Windowed and Full Screen separate values for various options.
+- Added Digiblaster option to Printer port configuration.
+- Added the ability to select (None) for any unmapped key.
+- Added FIRE 3 to keyboard/joystick configuration.
+- Forced ROM remapping after configuration changes so the ROMs are changed immediately.
+
+Tape Monitor
+- Added hints for details on various blocks.
+- Improved display of tape motor status.
+
+Debugger
+- New Memory Read/Write and Input/Output Breakpoints.
+- Disassembler display now shows in colours similar to assembler.
+- Added Pass Count to all Breakpoints to allow the number of passes before breaking to be defined.
+- Added the ability to Load and Save breakpoints from the Breakpoints window.
+- Fixed Follow PC and Break Instructions checkboxes.
+- Improved position checking for windows, allowing for multiple displays.
+- Improved row and column highlight and removal especially in full screen mode.
+- Breakpoint Window Condition editor resized with window.
+- Breakpoint Condition form now validates the condition when Ok is clicked.
+- GoTo no longer requires full 4 digit hex number to be entered. (eg. 38 can be entered rather than 0038).
+- Added Timers and associated window. These are controlled using breakpoint condition functions timer_start and timer_stop.
+- Added a number of variables to breakpoint conditions (eg. MODE, palette_select).
+- Ensured all breakpoints evaluate even on single-step and/or if another breakpoint triggered first.
+- Improved breakpoint condition function parameter count checks.
+- Add a hint to the Soft-Scroll register showing X and Y scrolls and blanking value.
+- Added the ability to load NOI symbol files using the Assembler Symbols window.
+
+Assembler
+- Editor support for Undo and Redo.
+- Display and move to correct column when TAB characters are used.
+- Display a * in the tab to indicate when a file has been modified but not saved.
+- Added a Save All menu item in the File menu.
+- Added SLL undocumented Z80 instruction.
+- Fixed OTDR instruction to output ED BB.
+- Fixed INCBIN access violation with empty include path when file not found.
+- Added an extra parameter (offset_high) to INCBIN to allow 32 bit offsets within the file.
+- Added an optional word parameter for RST instructions (eg. RST #18,label).
+- Added MEMORY function to read emulator memory during assembly.
+- Added CHECKSUM function and directive to produce a checksum or CRC for a region of memory or assembler output.
+- Added SAVE directive to save emulator memory to a file or direct to disc image.
+- Option to conditionally push PC to stack on run.
+- Option to automatically hide the output window on successful assemble.
+
+Snapshots
+- Added VerticalHold (Offset #99) and MemEnable (Offset #9A). (See CPCWiki Version 3 SNA document for details).
+
+AVI Writing
+- Forced writing of AVI frames on every frame refresh.
+- Forced emulator to full size if full size AVI is required.
+
+User Interface
+- Stopped F8 key from entering debug mode while currently stepping over an instruction.
+- Patched VCL to fix ALT key causing controls to disappear.
+- Improved ALT, ESC and F10 key handling (You can now press CTRL-SHIFT-ESC without launching Windows Task Manager).
+- Added Normal Speed (100%) (SHIFT-F3) and High Speed (1000%) (SHIFT-F4) options.
+- Fixed a lot of form and font scaling issues.
+- Fixed Rename menu in disc editor.
+- Fixed Overwrite prompts and default extensions on file dialogs.
+
+Other
+- Support for HTML Help in newer versions of Windows.
+- Added /SHUTDOWN and /SHUTDOWN:FORCE command line parameters to shut down Windows when emulator is closed.
+- Added /SN:filename command line parameter to load a snapshot or recorded session.
+- Fixed a bug with SNR time calculation.
+- Force Vertical Hold to zero for session recording.
+- Added PCW and VORTEX formats.
+- Fixed a bug retrieving and writing blocks to/from CP/M format discs (ROMDOS formats with incorrect DPB extent mask entries D80/D40 etc).
+- Improved detection of double-stepped disc images.
+- Allow IMG files to be used as IDE drives.
+- Support for LBA-48 read and write commands (#24, #34) supporting up to 2TB (32-bit sector address).
+- Improved IDE status handling and handling of IDNF errors.
+- IDE CHS translation.
+- Some support for Get Drive Parameters command (#EC).

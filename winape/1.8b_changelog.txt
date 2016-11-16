@@ -1,0 +1,5 @@
+New splash screen
+Full help system
+Ability to toggle between full screen and normal (windowed) mode
+Debugger
+Memory Dump and Disassembler enhancements.

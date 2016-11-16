@@ -1,0 +1,19 @@
+Version 2.0 Beta 2	05-Jan-2016
+
+Emulation
+- Correct Z80 Flags emulation for IN and OUT and all derivatives.
+- Added support for CRTC Type 1 register 6 border blanking when set to zero.
+
+Debugger
+- Changed breakpoint conditions to use 32 bit values rather than 16 bit values.
+- Added a number of functions to breakpoint conditions to support 32 bit to 16/8 bit conversion.
+- Added true and false variables.
+
+Assembler
+- Added ability to load symbols from the WinAPE command line using the /SYM:filename parameter.
+- Option to automatically hide the output window on successful assemble.
+
+Other
+- Added documentation of command line parameters in help files.
+- Added documentation of new breakpoint condition variables and functions.
+- Updates ParaDOS 1.2 and ParaDOS 1.2+ ROM images to bug-fixed version which will work in slots below 7.

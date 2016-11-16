@@ -1,0 +1,23 @@
+Version 2.0 Alpha 17	9-Sep-2008
+
+Emulation
+- Added PAL Emulation display modes.
+- Improved anti-aliasing in Half-Size display mode and minor optimisation to palette setting.
+- Fixed a bug reading 8K (or larger) sectors from a DSK file when they are stored in the DSK with their actual size.
+- Fixed a bug in disc drive sound emulation, initialising with noise when turned off.
+
+Configuration
+- Added PAL Emulation option in Display Settings.
+
+Graphics Editor
+- Added Rotate Clockwise and Rotate Anti-Clockwise functions, available in the right-click menu.
+
+Other
+- Improved sound synchronization for writing of AVI files.
+- Changed default behaviour of CPCDOS to only auto-detect file types from files with no AMSDOS header when the LOAD or RUN BASIC commands are used.
+- Fixed reporting of bad tracks in DSK images to show the correct track for single-sided images.
+- Added the ability to specify an Auto-Type file from the command line. This will execute after BASIC startup. e.g. WinAPE /T:test.atp
+- Added a LOAD command to Auto-Type to load a binary file into memory. e.g. ~LOAD filename,#4000~ or ~LOAD filename~
+ 	The default directory is the last directory from which an Auto-Type file was read.
+- Added the ability to specify a disc image for drive B: from the command line. e.g. WinAPE /B:test.dsk
+- Updated the automatic update executable installer (Update.exe) to attempt to stop virus scanners from deleting ot detecting it incorrectly.
