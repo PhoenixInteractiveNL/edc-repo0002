@@ -1,0 +1,6 @@
+New in ColEm 3.2
+  * Added support for Super Game Cartridges with >32kB ROMs. 
+  * Added support for cheats in AAAA-DD and AAAA-DDDD formats. 
+  * Added RAM-based cheats with AAAA in 0x6000..0x63FF range. 
+  * Added Cheat Hunter tool that lets you search for cheat codes. 
+  * Gameplay recording now always enabled. 

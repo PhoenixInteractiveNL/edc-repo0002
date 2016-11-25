@@ -1,0 +1,37 @@
+v 2.5.0     July 8, 2006  
+In the emulator : 
+- Implemented a new controllers and keyboard editor that gives still more comfort to the gamers and will allow to support easily other computers or consoles in future versions
+- Added the hard disk emulation : besides the well-known Sunrise IDE hard disk controllers, blueMSX has also implemented the Beer IDE and GIDE supports
+- blueMSX is the first emulator that is capable to support the Yamaha CX5M, CX5M-128 and CX7M-128 computers by emulation of the YM2151 sound chip and the YK-01, YK-10 and YK-20 music keyboards. The MIDI part of the Yamaha SFG cartridges is not yet available.
+- Added support for the MHT Ingenieros Gunstick and the ASCII Plus-X Terminator Laser
+- Added support for two 80 columns graphics cards on MSX1 : Microsol VMX-80 and SVI-737 
+- Added support for Video In, Sony HBI-V1 digitizer and the digitization part of the Philips NMS-8280 computer
+- Added superimpose and external video source support in V9938 emulation
+- Added support for PNG screenshots
+- Added support for creating new disk images of various size on MSX and SVI-328
+- Added support for undocumented screen mode (screen 0 with screen 2 style name table addressing)
+- Added a new display synchronization method
+- Added a video option to blend consecutive frames and get smoother picture
+- Added support for the YM2149 PSG
+- Fixed the MIDI-IN support in the Turbo-R machines
+- Added new rom mappers for SFG-01 and SFG-05 (used in the Yamaha music computers), the F&M Direct Assembler System and the SG-1000 version of The Castle
+- Improved SRAM enable/disable handling in FM-PAC
+- Restructured Keyboard and Joystick input
+- Optimized the video rendering
+- Added support for running blueMSX from read only media
+- Added support for running blueMSX without storing any data on local machine
+- Fixed addressing in Konami mappers
+- Fixed bug in 1kB ram mapper used in ColecoVision and SG-1000
+- Border rendering is now cycle accurate
+- Fixed HREFRESH timing in VDP
+- Fixed bug in XVRAM emulation
+- Fixed sprite status bug
+- Fixed VDP timing in Turbo-R and MSX2+ machines
+
+In the debugger :
+- Added find dialog to search for strings or values in the memory
+- Improved editing in memory window
+- Added debugging support of OPL sound chips
+
+In the trainer :
+- Extended the cheat database to 396 MSX games

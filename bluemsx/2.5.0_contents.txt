@@ -1,0 +1,863 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-11-25 18:53:45 ....A       344064      7143166  bluemsx.msi
+2006-07-06 20:33:00 ....A      1506848               blueMSX.chm
+2005-06-25 09:29:00 ....A      1750389               blueMSXjp.chm
+2005-03-11 00:12:00 ....A         6668               Themes\DIGIblue_SuiteX2\video-block\2ndmonitor.bmp
+2004-11-18 00:41:34 ....A        73640               blueMSXbanner.bmp
+2005-03-18 15:26:00 ....A        86452               Properties\Mixer\sliders\CLOCK-DIAL.bmp
+2005-03-18 15:26:00 ....A        86452               Themes\DIGIblue_SuiteX2\sliders\CLOCK-DIAL.bmp
+2005-07-27 12:26:00 ....A         3322               Properties\Mixer\switches\CLOSE-BUTTON.bmp
+2005-09-13 10:08:00 ....A         3284               Keyboard Config\Theme\TurboRN\CLOSE-BUTTON.bmp
+2005-09-13 10:08:00 ....A         3284               Themes\DIGIblue_SuiteX2\CLOSE-BUTTON.bmp
+2005-07-27 12:35:00 ....A        14936               Properties\Mixer\Closed-tab.bmp
+2005-09-13 10:08:00 ....A        10788               Keyboard Config\Theme\TurboRN\Closed-tab.bmp
+2005-09-13 10:08:00 ....A        10788               Themes\DIGIblue_SuiteX2\Closed-tab.bmp
+2005-03-18 15:25:00 ....A         9728               Themes\DIGIblue_SuiteX2\video-block\Color-dail.bmp
+2005-01-31 12:47:00 ....A         4424               Themes\DIGIblue_SuiteX2\buttons\CONFIG-BUTTON.bmp
+2006-07-01 13:09:42 ....A        54654               Keyboard Config\Theme\TurboRN\EOS-ASCIIGUN.bmp
+2006-06-26 15:25:06 ....A       126414               Keyboard Config\Theme\TurboRN\EOS-COLECO.bmp
+2006-07-06 23:59:28 ....A        33142               Keyboard Config\Theme\TurboRN\EOS-DONGLE.bmp
+2006-06-27 00:24:44 ....A       177126               Keyboard Config\Theme\TurboRN\EOS-JOYSTICK.bmp
+2006-06-27 00:04:08 ....A       459054               Keyboard Config\Theme\TurboRN\EOS-joystick1.bmp
+2006-06-27 00:15:14 ....A       459054               Keyboard Config\Theme\TurboRN\EOS-joystick2.bmp
+2006-07-01 15:40:04 ....A       731934               Keyboard Config\Theme\TurboRN\EOS-key.bmp
+2006-07-01 15:15:54 ....A       154078               Keyboard Config\Theme\TurboRN\EOS-keyboard.bmp
+2006-06-27 00:18:38 ....A        33534               Keyboard Config\Theme\TurboRN\EOS-MOUSE.bmp
+2006-07-01 12:54:04 ....A        52974               Keyboard Config\Theme\TurboRN\EOS-SEGAGUN.bmp
+2006-07-07 00:16:04 ....A        25274               Keyboard Config\Theme\TurboRN\EOS-TETRISDONGLE.bmp
+2005-09-13 10:08:00 ....A        24628               Keyboard Config\Theme\TurboRN\EOS-top.bmp
+2005-07-27 12:43:00 ....A         3324               Properties\Mixer\switches\EXPAND-BUTTON.bmp
+2005-09-13 10:08:00 ....A         3284               Keyboard Config\Theme\TurboRN\EXPAND-BUTTON.bmp
+2005-09-13 10:08:00 ....A         3284               Themes\DIGIblue_SuiteX2\EXPAND-BUTTON.bmp
+2005-01-31 13:54:00 ....A         6140               Themes\DIGIblue_SuiteX2\buttons\FDD-BUTTON.bmp
+2005-01-24 22:32:00 ....A        44406               Themes\DIGIblue_SuiteX2\fonts\FONT.bmp
+2005-09-13 15:17:00 ....A       308276               Themes\DIGIblue_SuiteX2\fullscreen-bk.bmp
+2005-03-13 19:43:00 ....A       262396               Themes\DIGIblue_SuiteX2\Turbo R\G-keyboard.bmp
+2005-02-11 21:09:00 ....A        48440               Themes\DIGIblue_SuiteX2\fonts\GREYFONT.bmp
+2005-01-31 12:56:00 ....A         2096               Themes\DIGIblue_SuiteX2\buttons\HELP-BUTTON.bmp
+2006-06-26 20:27:52 ....A        21054               Keyboard Config\Theme\TurboRN\JOY1-JOY2-BUTTON.bmp
+2006-06-26 20:29:08 ....A        21054               Keyboard Config\Theme\TurboRN\JOY1-KEYBOARD-BUTTON.bmp
+2006-06-26 18:13:06 ....A        21254               Keyboard Config\Theme\TurboRN\JOY2-JOY1-BUTTON.bmp
+2006-06-26 21:19:42 ....A        21054               Keyboard Config\Theme\TurboRN\JOY2-KEYBOARD-BUTTON.bmp
+2006-06-26 23:01:54 ....A         2646               Keyboard Config\Theme\TurboRN\joybutton.bmp
+2005-01-31 19:29:00 ....A         1256               Themes\DIGIblue_SuiteX2\buttons\joybutton1.bmp
+2005-01-31 19:33:00 ....A         1256               Themes\DIGIblue_SuiteX2\buttons\joybutton2.bmp
+2006-06-26 18:06:04 ....A        21254               Keyboard Config\Theme\TurboRN\KEYBOARD-JOY1-BUTTON.bmp
+2006-06-26 21:22:08 ....A        21054               Keyboard Config\Theme\TurboRN\KEYBOARD-JOY2-BUTTON.bmp
+2005-03-18 15:27:00 ....A        16344               Properties\Mixer\leds\LARGE-VOLUME-LED.bmp
+2005-02-11 21:10:00 ....A        48440               Themes\DIGIblue_SuiteX2\fonts\LIGHT-FONT.bmp
+2005-02-11 00:53:00 ....A         2464               Themes\DIGIblue_SuiteX2\video-block\Lightup-led.bmp
+2006-06-26 23:24:40 ....A        53078               Themes\DIGIblue_SuiteX2\mediapanel.bmp
+2005-07-27 12:25:00 ....A         3324               Properties\Mixer\switches\MIN-BUTTON.bmp
+2005-09-13 10:08:00 ....A         3284               Keyboard Config\Theme\TurboRN\MIN-BUTTON.bmp
+2005-09-13 10:08:00 ....A         3284               Themes\DIGIblue_SuiteX2\MIN-BUTTON.bmp
+2005-01-23 21:52:00 ....A         1256               Themes\DIGIblue_SuiteX2\buttons\MIXER-SWITCHER-SELECTED.bmp
+2005-01-23 21:51:00 ....A         3496               Themes\DIGIblue_SuiteX2\buttons\MIXER-SWITCHER.bmp
+2006-06-01 00:27:58 ....A        19638               Properties\Mixer\MixerBottom.bmp
+2006-06-01 00:31:42 ....A       202422               Properties\Mixer\MixerMain.bmp
+2006-06-01 00:23:24 ....A        78390               Properties\Mixer\MixerTop.bmp
+2005-03-18 15:25:00 ....A        13880               Themes\DIGIblue_SuiteX2\video-block\Moni1Selection.bmp
+2005-03-18 15:25:00 ....A         7480               Themes\DIGIblue_SuiteX2\video-block\Moni2Selection.bmp
+2005-01-31 12:36:00 ....A         4424               Themes\DIGIblue_SuiteX2\buttons\MONITOR-BUTTON.bmp
+2006-06-26 23:39:22 ....A      1192854               Themes\DIGIblue_SuiteX2\monitorpanel.bmp
+2005-01-07 00:56:00 ....A         1054               Properties\Mixer\switches\MUTE-SWITCH.bmp
+2005-02-12 02:16:00 ....A         1056               Properties\Mixer\switches\MUTE-SWITCH2.bmp
+2005-02-11 01:11:00 ....A         2464               Themes\DIGIblue_SuiteX2\video-block\Normal-led.bmp
+2005-02-27 12:02:00 ....A         1256               Themes\DIGIblue_SuiteX2\buttons\NORMSPEED-BUTTON.bmp
+2005-03-18 15:26:00 ....A        17280               Properties\Mixer\sliders\PAN-DIAL.bmp
+2005-01-31 13:16:00 ....A         1960               Themes\DIGIblue_SuiteX2\buttons\PAUSE-BUTTON.bmp
+2005-01-31 13:18:00 ....A         1960               Themes\DIGIblue_SuiteX2\buttons\PLAY-BUTTON.bmp
+2005-03-18 15:26:00 ....A        36220               Themes\DIGIblue_SuiteX2\sliders\renshaslider.bmp
+2005-01-31 13:24:00 ....A        12728               Themes\DIGIblue_SuiteX2\buttons\RESET-BUTTON.bmp
+2005-01-31 19:40:00 ....A          560               Themes\DIGIblue_SuiteX2\leds\RESET-LED.bmp
+2005-03-18 15:27:00 ....A         1004               Themes\DIGIblue_SuiteX2\buttons\REWIND-BUTTON.bmp
+2005-03-18 15:25:00 ....A         1436               Themes\DIGIblue_SuiteX2\video-block\scan-button1.bmp
+2006-06-26 21:58:00 ....A         6962               Keyboard Config\Theme\TurboRN\SEL-BOX.bmp
+2006-06-26 21:58:28 ....A         7854               Keyboard Config\Theme\TurboRN\SEL-DROP.bmp
+2005-09-13 10:08:00 ....A         1144               Keyboard Config\Theme\TurboRN\SEL-FIELFA-L.bmp
+2005-09-13 10:08:00 ....A         1120               Keyboard Config\Theme\TurboRN\SEL-FIELFA-R.bmp
+2005-09-13 10:08:00 ....A         1128               Keyboard Config\Theme\TurboRN\SEL-FIELFB-L.bmp
+2005-09-13 10:08:00 ....A         1108               Keyboard Config\Theme\TurboRN\SEL-FIELFB-R.bmp
+2005-11-09 14:07:38 ....A         2650               Keyboard Config\Theme\TurboRN\SEL-TEXT.bmp
+2005-07-27 12:34:00 ....A         3324               Properties\Mixer\switches\SHUT-BUTTON.bmp
+2005-09-13 10:08:00 ....A         3284               Keyboard Config\Theme\TurboRN\SHUT-BUTTON.bmp
+2005-09-13 10:08:00 ....A         3284               Themes\DIGIblue_SuiteX2\SHUT-BUTTON.bmp
+2005-03-18 15:25:00 ....A        71228               Themes\DIGIblue_SuiteX2\video-block\SliderFXcontrol.bmp
+2005-03-18 15:25:00 ....A         6092               Themes\DIGIblue_SuiteX2\video-block\SliderRFcontrol.bmp
+2005-01-31 13:46:00 ....A         6776               Themes\DIGIblue_SuiteX2\buttons\SLOT-BUTTON.bmp
+2005-03-18 15:27:00 ....A        11008               Properties\Mixer\leds\SMALL-VOLUME-LED.bmp
+2005-03-18 15:24:00 ....A        44280               Themes\DIGIblue_SuiteX2\statusbar.bmp
+2005-02-11 21:35:00 ....A         1256               Properties\Mixer\switches\STEREO-BUTTON.bmp
+2005-02-11 21:36:00 ....A         1256               Properties\Mixer\switches\STEREO-BUTTON2.bmp
+2005-01-31 13:07:00 ....A         1848               Themes\DIGIblue_SuiteX2\buttons\STOP-BUTTON.bmp
+2004-11-19 17:50:00 ....A          560               Themes\DIGIblue_SuiteX2\leds\SWITCH-LED.bmp
+2005-01-10 02:39:00 ....A         2054               Properties\Mixer\switches\SWITCH-MUTE.bmp
+2005-02-11 19:29:00 ....A          488               Themes\DIGIblue_SuiteX2\buttons\SWITCHER-BUTTON-SELECTED.bmp
+2005-02-11 19:29:00 ....A         1256               Themes\DIGIblue_SuiteX2\buttons\SWITCHER-BUTTON.bmp
+2005-01-31 18:05:00 ....A          540               Themes\DIGIblue_SuiteX2\leds\TINY-LED.bmp
+2005-09-13 14:21:00 ....A         1768               Themes\DIGIblue_SuiteX2\buttons\TOGGLE-BUTTON.bmp
+2005-03-18 15:25:00 ....A        17868               Themes\DIGIblue_SuiteX2\video-block\Tv-dail.bmp
+2005-03-18 15:25:00 ....A        96280               Themes\DIGIblue_SuiteX2\video-block\tvpanel.bmp
+2005-03-18 15:25:00 ....A         1180               Themes\DIGIblue_SuiteX2\video-block\vidout-button1.bmp
+2005-03-18 15:25:00 ....A         1180               Themes\DIGIblue_SuiteX2\video-block\vidout-button2.bmp
+2005-03-18 15:24:00 ....A       111480               Themes\DIGIblue_SuiteX2\virtualkeyboard.bmp
+2005-03-18 15:26:00 ....A        36408               Properties\Mixer\sliders\VOLUME-BAR.bmp
+2005-03-18 15:26:00 ....A        40172               Properties\Mixer\sliders\VOLUME-DIAL.bmp
+2005-09-17 13:43:00 ....A        31256               Themes\DIGIblue_SuiteX2\x2-foot.bmp
+2005-09-17 13:22:00 ....A       115256               Themes\DIGIblue_SuiteX2\x2-top.bmp
+2006-06-08 18:42:00 ....A        99833               Databases\colecodb.xml
+2006-06-04 23:53:00 ....A        27715               Databases\segadb.xml
+2006-07-05 02:10:00 ....A      1235029               Databases\softwaredb.xml
+2006-06-07 22:46:00 ....A       265580               Databases\svidb.xml
+2006-06-01 00:28:42 ....A        10736               Properties\Mixer\theme.xml
+2006-06-27 13:26:58 ....A        31740               Themes\DIGIblue_SuiteX2\theme.xml
+2006-07-07 00:19:22 ....A        19870               Keyboard Config\Theme\theme.xml
+2005-03-10 20:25:00 ....A           41               Machines\Shared Roms\Shared.txt
+2005-05-14 01:45:00 ....A          359               Machines\MSX - Canon V-20\config.ini
+2005-05-14 01:54:00 ....A          368               Machines\MSX - Goldstar FC-200\config.ini
+2005-05-14 01:54:00 ....A          375               Machines\MSX - Gradiente Expert 1.0\config.ini
+2005-05-14 01:55:00 ....A          363               Machines\MSX - JVC HC-7GB\config.ini
+2005-05-14 01:55:00 ....A          368               Machines\MSX - National CF-1200\config.ini
+2005-05-14 01:55:00 ....A          370               Machines\MSX - Mitsubishi ML-F80\config.ini
+2005-05-14 01:55:00 ....A          370               Machines\MSX - Mitsubishi ML-FX1\config.ini
+2005-05-14 01:55:00 ....A          375               Machines\MSX - Gradiente Expert 1.1\config.ini
+2005-05-14 01:56:00 ....A          365               Machines\MSX - Sanyo MPC-100\config.ini
+2005-05-14 01:56:00 ....A          368               Machines\MSX - National CF-2000\config.ini
+2005-05-14 01:56:00 ....A          368               Machines\MSX - National CF-2700\config.ini
+2005-05-14 01:56:00 ....A          368               Machines\MSX - National CF-3000\config.ini
+2005-05-14 01:56:00 ....A          370               Machines\MSX - National FS-1300\config.ini
+2005-05-14 01:56:00 ....A          436               Machines\MSX - National CF-3300\config.ini
+2005-05-14 01:56:00 ....A          552               Machines\MSX - National FS-4000\config.ini
+2005-05-14 01:57:00 ....A          365               Machines\MSX - Toshiba HX-10\config.ini
+2005-05-14 01:58:00 ....A          428               Machines\MSX - Toshiba HX-20\config.ini
+2005-09-18 20:14:00 ....A          408               Machines\MSX\config.ini
+2005-09-18 20:14:00 ....A          410               Machines\MSX - French\config.ini
+2005-09-18 20:15:00 ....A          409               Machines\MSX - German\config.ini
+2005-09-18 20:15:00 ....A          410               Machines\MSX - Spanish\config.ini
+2005-09-18 20:15:00 ....A          411               Machines\MSX - Japanese\config.ini
+2005-09-18 20:15:00 ....A          460               Machines\MSX - Korean\config.ini
+2005-09-18 20:16:00 ....A          410               Machines\MSX - Swedish\config.ini
+2005-09-24 09:29:00 ....A          411               Machines\MSX - Brazilian\config.ini
+2005-11-10 23:36:00 ....A          286               Machines\SEGA -  SG-1000\config.ini
+2006-01-25 00:18:00 ....A          438               Machines\MSX - Spectravideo SVI-728\config.ini
+2006-06-05 16:41:00 ....A          459               Machines\MSX - Arabic\config.ini
+2006-06-28 22:50:00 ....A          937               Machines\Turbo-R\config.ini
+2006-06-28 22:53:00 ....A          818               Machines\MSX2+ - Panasonic FS-A1WSX\config.ini
+2006-06-28 23:24:00 ....A          819               Machines\MSX2+ - Sanyo Wavy PHC-70FD2\config.ini
+2006-06-28 23:24:00 ....A          821               Machines\MSX2+ - Sanyo Wavy PHC-70FD1\config.ini
+2006-06-28 23:29:00 ....A          598               Machines\MSX2+ - Sanyo Wavy PHC-35J\config.ini
+2006-06-28 23:57:00 ....A          773               Machines\MSX2+\config.ini
+2006-06-29 00:45:00 ....A          514               Machines\MSX2 - Daewoo CPC-300\config.ini
+2006-06-29 00:45:00 ....A          636               Machines\MSX2 - Daewoo CPC-400\config.ini
+2006-06-29 00:46:00 ....A          644               Machines\MSX2 - Daewoo CPC-400S\config.ini
+2006-06-29 00:47:00 ....A          911               Machines\MSX2 - National FS-4600\config.ini
+2006-06-29 00:47:00 ....A         1044               Machines\MSX2 - National FS-4500\config.ini
+2006-06-29 00:49:00 ....A          717               Machines\MSX2 - National FS-5000\config.ini
+2006-06-29 00:50:00 ....A          717               Machines\MSX2 - National FS-5500\config.ini
+2006-06-29 00:52:00 ....A          578               Machines\MSX2 - Panasonic FS-A1\config.ini
+2006-06-29 00:52:00 ....A          666               Machines\MSX2 - Panasonic FS-A1 MK2\config.ini
+2006-06-29 00:53:00 ....A          707               Machines\MSX2 - Panasonic FS-A1F\config.ini
+2006-06-29 01:04:00 ....A          566               Machines\MSX2 - Sony HB-F9P\config.ini
+2006-06-29 01:14:00 ....A          373               Machines\MSX - Philips VG-8020\config.ini
+2006-06-29 01:18:00 ....A          657               Machines\MSX2 - French\config.ini
+2006-06-29 01:19:00 ....A          655               Machines\MSX2 - German\config.ini
+2006-06-29 01:19:00 ....A          774               Machines\MSX2 - Japanese\config.ini
+2006-06-29 01:20:00 ....A          528               Machines\MSX2 - Only PSG\config.ini
+2006-06-29 01:20:00 ....A          775               Machines\MSX2 - Korean\config.ini
+2006-06-29 01:21:00 ....A          655               Machines\MSX2 - Swedish\config.ini
+2006-06-29 01:24:00 ....A          649               Machines\MSX2\config.ini
+2006-06-29 01:26:00 ....A          809               Machines\MSX2 - Arabic\config.ini
+2006-06-29 10:12:10 ....A          347               Machines\COL - ColecoVision\config.ini
+2006-06-29 10:12:10 ....A          349               Machines\MSX - Philips NMS-801\config.ini
+2006-06-29 10:12:10 ....A          362               Machines\COL - Spectravideo SVI-603 Coleco\config.ini
+2006-06-29 10:12:10 ....A          372               Machines\MSX - Talent DPC-200\config.ini
+2006-06-29 10:12:10 ....A          376               Machines\MSX - Sharp Epcom HotBit 1.1\config.ini
+2006-06-29 10:12:10 ....A          376               Machines\MSX - Sharp Epcom HotBit 1.2\config.ini
+2006-06-29 10:12:10 ....A          388               Machines\MSX - Sony HB-501P\config.ini
+2006-06-29 10:12:10 ....A          394               Machines\COL - ColecoVision with Opcode Memory Extension\config.ini
+2006-06-29 10:12:10 ....A          410               Machines\MSX - Russian\config.ini
+2006-06-29 10:12:10 ....A          422               Machines\MSX - Sony HB-75D\config.ini
+2006-06-29 10:12:10 ....A          422               Machines\MSX - Sony HB-75P\config.ini
+2006-06-29 10:12:10 ....A          423               Machines\MSX - Daewoo DPC-100\config.ini
+2006-06-29 10:12:10 ....A          423               Machines\MSX - Daewoo DPC-180\config.ini
+2006-06-29 10:12:10 ....A          423               Machines\MSX - Daewoo DPC-200\config.ini
+2006-06-29 10:12:10 ....A          426               Machines\MSX - Yamaha CX5M\config.ini
+2006-06-29 10:12:10 ....A          430               Machines\MSX - C-BIOS\config.ini
+2006-06-29 10:12:10 ....A          440               Machines\MSX - Gradiente Expert Plus\config.ini
+2006-06-29 10:12:10 ....A          446               Machines\MSX - Gradiente Expert DDPlus\config.ini
+2006-06-29 10:12:10 ....A          446               Machines\MSX - Sony HB-201\config.ini
+2006-06-29 10:12:10 ....A          450               Machines\MSX - Sony HB-201P\config.ini
+2006-06-29 10:12:10 ....A          491               Machines\MSX - Yamaha CX5M-128\config.ini
+2006-06-29 10:12:10 ....A          500               Machines\MSX - Spectravideo SVI-738\config.ini
+2006-06-29 10:12:10 ....A          504               Machines\MSX2 - Philips VG-8235\config.ini
+2006-06-29 10:12:10 ....A          504               Machines\MSX2 - Philips VG-8240\config.ini
+2006-06-29 10:12:10 ....A          507               Machines\MSX2 - Philips NMS-8220\config.ini
+2006-06-29 10:12:10 ....A          508               Machines\MSX2 - C-BIOS\config.ini
+2006-06-29 10:12:10 ....A          508               Machines\MSX2 - Philips NMS-8250\config.ini
+2006-06-29 10:12:10 ....A          510               Machines\MSX2 - Philips NMS-8245\config.ini
+2006-06-29 10:12:10 ....A          510               Machines\MSX2 - Philips NMS-8255\config.ini
+2006-06-29 10:12:10 ....A          527               Machines\MSX - Spectravideo SVI-738 Swedish\config.ini
+2006-06-29 10:12:10 ....A          529               Machines\MSX2 - Philips NMS-8280\config.ini
+2006-06-29 10:12:10 ....A          544               Machines\MSX - Spectravideo SVI-738 Henrik Gilvad\config.ini
+2006-06-29 10:12:10 ....A          579               Machines\MSX2 - Gradiente Expert 2.0\config.ini
+2006-06-29 10:12:10 ....A          652               Machines\MSX2 - Brazilian\config.ini
+2006-06-29 10:12:10 ....A          656               Machines\MSX2 - Russian\config.ini
+2006-06-29 10:12:10 ....A          805               Machines\MSX2 - Panasonic FS-A1FM\config.ini
+2006-06-29 10:12:10 ....A         1109               Machines\MSX2 - National FS-4700\config.ini
+2006-06-29 10:12:12 ....A          346               Machines\SVI - Spectravideo SVI-318\config.ini
+2006-06-29 10:12:12 ....A          418               Machines\SVI - Spectravideo SVI-328\config.ini
+2006-06-29 10:12:12 ....A          441               Machines\SVI - Spectravideo SVI-328 MK2\config.ini
+2006-06-29 10:12:12 ....A          462               Machines\MSX2 - Sanyo Wavy PHC-23\config.ini
+2006-06-29 10:12:12 ....A          501               Machines\MSX2 - Sony HB-F500P\config.ini
+2006-06-29 10:12:12 ....A          501               Machines\MSX2 - Sony HB-F700P\config.ini
+2006-06-29 10:12:12 ....A          513               Machines\MSX2 - Sony HB-F1XD\config.ini
+2006-06-29 10:12:12 ....A          519               Machines\MSX2 - Sony HB-F700D\config.ini
+2006-06-29 10:12:12 ....A          521               Machines\SVI - Spectravideo SVI-328 80 Column\config.ini
+2006-06-29 10:12:12 ....A          525               Machines\SVI - Spectravideo SVI-328 80 Swedish\config.ini
+2006-06-29 10:12:12 ....A          531               Machines\MSX2 - Sony HB-F1XDMK2\config.ini
+2006-06-29 10:12:12 ....A          551               Machines\MSX2+ - C-BIOS\config.ini
+2006-06-29 10:12:12 ....A          552               Machines\MSX2 - Yamaha CX7M-128\config.ini
+2006-06-29 10:12:12 ....A          575               Machines\MSX2 - Sony HB-F500\config.ini
+2006-06-29 10:12:12 ....A          583               Machines\MSX2 - Sharp Epcom HotBit 2.0\config.ini
+2006-06-29 10:12:12 ....A          612               Machines\MSX2 - Sony HB-F1\config.ini
+2006-06-29 10:12:12 ....A          623               Machines\MSX2 - Sony HB-G900P\config.ini
+2006-06-29 10:12:12 ....A          628               Machines\MSX2+ - Ciel Expert 3\config.ini
+2006-06-29 10:12:12 ....A          632               Machines\MSX2 - Sony HB-F1II\config.ini
+2006-06-29 10:12:12 ....A          636               Machines\MSX2 - Sony HB-F900\config.ini
+2006-06-29 10:12:12 ....A          655               Machines\MSX2 - Talent TPC-310\config.ini
+2006-06-29 10:12:12 ....A          657               Machines\MSX2 - Spanish\config.ini
+2006-06-29 10:12:12 ....A          742               Machines\MSX2+ - Panasonic FS-A1FX\config.ini
+2006-06-29 10:12:12 ....A          778               Machines\MSX2+ - Sony HB-F1XV\config.ini
+2006-06-29 10:12:12 ....A          792               Machines\MSX2+ - Sony HB-F1XDJ\config.ini
+2006-06-29 10:12:12 ....A          806               Machines\MSX2+ - Panasonic FS-A1WX\config.ini
+2006-06-29 10:12:12 ....A          818               Machines\MSX2+ - Brazilian\config.ini
+2006-06-29 10:12:12 ....A          821               Machines\MSX2+ - European\config.ini
+2006-06-29 10:12:12 ....A          971               Machines\Turbo-R - Panasonic FS-A1ST\config.ini
+2006-06-29 10:12:12 ....A          987               Machines\Turbo-R - Panasonic FS-A1GT\config.ini
+2006-06-29 10:12:12 ....A         1003               Machines\Turbo-R - European\config.ini
+2005-12-28 21:25:20 ....A         1584               Keyboard Config\blueMSX Default.config
+2005-06-13 21:46:00 ....A          983               Keyboard Config\blueMSX Japanese Default.config
+2005-10-31 01:38:00 ....A          233               Tools\Cheats\msx\1942.mcf
+2006-01-16 16:14:00 ....A           96               Tools\Cheats\msx\abusimbel.mcf
+2006-01-24 02:12:00 ....A          381               Tools\Cheats\msx\actman.mcf
+2006-01-20 23:47:00 ....A          137               Tools\Cheats\msx\afterburner.mcf
+2006-01-20 23:47:00 ....A          113               Tools\Cheats\msx\afterthewar1.mcf
+2006-02-07 23:39:00 ....A          618               Tools\Cheats\msx\alcazar.mcf
+2006-01-20 23:47:00 ....A          172               Tools\Cheats\msx\alehop.mcf
+2006-01-17 02:15:00 ....A          398               Tools\Cheats\msx\aleste1.mcf
+2006-01-20 23:47:00 ....A          274               Tools\Cheats\msx\aleste2.mcf
+2006-01-20 23:47:00 ....A          325               Tools\Cheats\msx\alestegaiden.mcf
+2006-01-20 23:47:00 ....A          231               Tools\Cheats\msx\alien8.mcf
+2006-02-08 21:25:00 ....A          197               Tools\Cheats\msx\aliens2msx1.mcf
+2006-01-20 23:48:00 ....A          441               Tools\Cheats\msx\alifem36.mcf
+2005-10-30 19:06:00 ....A          225               Tools\Cheats\msx\alpharoid.mcf
+2006-01-20 23:48:00 ....A          160               Tools\Cheats\msx\americantruck.mcf
+2006-01-20 23:48:00 ....A          150               Tools\Cheats\msx\anaza.mcf
+2006-02-12 22:07:00 ....A          340               Tools\Cheats\msx\andorogynus.mcf
+2006-02-13 20:30:00 ....A          189               Tools\Cheats\msx\antarticadventure.mcf
+2006-01-20 23:49:00 ....A          206               Tools\Cheats\msx\aramo.mcf
+2006-02-05 17:39:00 ....A          484               Tools\Cheats\msx\arkanoid1.mcf
+2006-02-09 03:17:00 ....A          680               Tools\Cheats\msx\arkanoid2.mcf
+2006-01-20 23:49:00 ....A          107               Tools\Cheats\msx\arkos1.mcf
+2006-01-20 23:49:00 ....A          107               Tools\Cheats\msx\arkos2.mcf
+2006-01-20 23:49:00 ....A          107               Tools\Cheats\msx\arkos3.mcf
+2006-06-03 13:17:00 ....A          164               Tools\Cheats\msx\arsenelupin2.mcf
+2006-01-20 23:46:00 ....A          278               Tools\Cheats\msx\arsenelupin3.mcf
+2006-01-20 23:52:00 ....A          112               Tools\Cheats\msx\ashguine1.mcf
+2006-02-08 00:28:00 ....A          129               Tools\Cheats\msx\ashguine2.mcf
+2006-01-20 23:52:00 ....A          461               Tools\Cheats\msx\ashguine3.mcf
+2006-02-13 20:18:00 ....A          322               Tools\Cheats\msx\athleticland.mcf
+2006-01-20 23:52:00 ....A          230               Tools\Cheats\msx\aufwiedersehenmonty.mcf
+2005-10-30 20:17:00 ....A          204               Tools\Cheats\msx\avenger.mcf
+2006-01-20 23:53:00 ....A          135               Tools\Cheats\msx\backtothefuture.mcf
+2006-06-03 13:21:00 ....A          108               Tools\Cheats\msx\ballout1.mcf
+2006-06-03 13:23:00 ....A          108               Tools\Cheats\msx\ballout2.mcf
+2006-06-03 13:24:00 ....A          114               Tools\Cheats\msx\balloutspecial.mcf
+2006-06-03 13:27:00 ....A          111               Tools\Cheats\msx\bankbuster.mcf
+2006-06-03 13:29:00 ....A          107               Tools\Cheats\msx\barunba.mcf
+2006-01-20 23:53:00 ....A          129               Tools\Cheats\msx\bastard.mcf
+2006-01-20 23:53:00 ....A          199               Tools\Cheats\msx\batman.mcf
+2006-01-20 23:53:00 ....A          153               Tools\Cheats\msx\batmanthemovie.mcf
+2006-01-20 23:53:00 ....A          119               Tools\Cheats\msx\battennodaibouken.mcf
+2006-01-20 23:53:00 ....A          113               Tools\Cheats\msx\battlechopper.mcf
+2005-10-31 02:00:00 ....A          140               Tools\Cheats\msx\beamrider.mcf
+2006-06-03 17:13:00 ....A          132               Tools\Cheats\msx\blackcyclon.mcf
+2005-10-30 20:00:00 ....A          162               Tools\Cheats\msx\bladelords.mcf
+2006-01-20 23:54:00 ....A          163               Tools\Cheats\msx\blowup.mcf
+2006-06-04 10:38:00 ....A          156               Tools\Cheats\msx\bluewarrior.mcf
+2006-06-04 12:14:00 ....A          107               Tools\Cheats\msx\boggy84.mcf
+2006-01-20 23:54:00 ....A          318               Tools\Cheats\msx\bombaman.mcf
+2006-01-20 23:55:00 ....A          326               Tools\Cheats\msx\bombamandemo.mcf
+2006-01-20 23:55:00 ....A          190               Tools\Cheats\msx\bomberking.mcf
+2006-01-20 23:55:00 ....A          336               Tools\Cheats\msx\bombermanspecial.mcf
+2006-02-08 20:28:00 ....A          516               Tools\Cheats\msx\borfesu.mcf
+2005-10-31 04:13:00 ....A          173               Tools\Cheats\msx\bosconian.mcf
+2006-01-31 23:34:00 ....A          199               Tools\Cheats\msx\boulderdash1.mcf
+2006-02-27 00:37:00 ....A          158               Tools\Cheats\msx\boulderdash2.mcf
+2006-01-20 23:55:00 ....A          108               Tools\Cheats\msx\bounder.mcf
+2006-02-07 01:19:00 ....A          118               Tools\Cheats\msx\bozosbigadventure.mcf
+2005-10-31 04:11:00 ....A          108               Tools\Cheats\msx\breaker.mcf
+2006-02-13 22:34:00 ....A          518               Tools\Cheats\msx\breakin.mcf
+2005-10-31 02:17:00 ....A          118               Tools\Cheats\msx\brotheradventure.mcf
+2006-01-20 23:56:00 ....A          306               Tools\Cheats\msx\bubblebobble.mcf
+2006-01-20 23:56:00 ....A          181               Tools\Cheats\msx\buckrodgers.mcf
+2006-01-18 20:57:00 ....A          330               Tools\Cheats\msx\cabbagepatchkids.mcf
+2006-01-20 23:56:00 ....A          148               Tools\Cheats\msx\carfighter.mcf
+2005-10-30 20:47:00 ....A          110               Tools\Cheats\msx\casanova.mcf
+2005-10-31 02:24:00 ....A          175               Tools\Cheats\msx\castleofblackburn.mcf
+2006-01-20 23:57:00 ....A          131               Tools\Cheats\msx\catboy.mcf
+2006-02-08 22:04:00 ....A          144               Tools\Cheats\msx\cavernsoftitan.mcf
+2005-10-30 19:57:00 ....A          127               Tools\Cheats\msx\chiller.mcf
+2006-06-03 13:40:00 ....A          245               Tools\Cheats\msx\chopper2.mcf
+2005-10-30 20:49:00 ....A          115               Tools\Cheats\msx\chubbygristle.mcf
+2006-01-20 23:57:00 ....A          196               Tools\Cheats\msx\chukataisen.mcf
+2006-01-20 20:32:00 ....A          180               Tools\Cheats\msx\circuscharlie.mcf
+2006-01-21 01:35:00 ....A          169               Tools\Cheats\msx\comeonpicot.mcf
+2006-06-04 10:34:00 ....A          282               Tools\Cheats\msx\comicbakery.mcf
+2006-01-20 23:58:00 ....A          111               Tools\Cheats\msx\corsarios1.mcf
+2006-01-20 23:58:00 ....A          110               Tools\Cheats\msx\corsarios2.mcf
+2006-02-09 00:54:00 ....A          163               Tools\Cheats\msx\cosmoexplorer.mcf
+2006-06-04 12:00:00 ....A          327               Tools\Cheats\msx\craze.mcf
+2006-01-20 23:58:00 ....A          627               Tools\Cheats\msx\crossblaim.mcf
+2006-02-09 01:04:00 ....A          133               Tools\Cheats\msx\crusader.mcf
+2006-01-20 23:58:00 ....A          281               Tools\Cheats\msx\daiva4.mcf
+2005-10-31 03:46:00 ....A          358               Tools\Cheats\msx\daiva5.mcf
+2006-06-04 12:17:00 ....A          109               Tools\Cheats\msx\dangerx4.mcf
+2005-10-30 20:52:00 ....A          172               Tools\Cheats\msx\darwin4078.mcf
+2006-06-04 12:20:00 ....A          159               Tools\Cheats\msx\dass.mcf
+2006-06-04 12:10:00 ....A          108               Tools\Cheats\msx\david2.mcf
+2006-01-20 23:59:00 ....A          225               Tools\Cheats\msx\deathwish3.mcf
+2006-01-20 23:59:00 ....A          115               Tools\Cheats\msx\decathlon.mcf
+2006-02-13 20:50:00 ....A          227               Tools\Cheats\msx\deepdungeon1.mcf
+2006-02-13 20:57:00 ....A          296               Tools\Cheats\msx\deepdungeon2.mcf
+2006-02-12 22:05:00 ....A          260               Tools\Cheats\msx\deepforest.mcf
+2005-10-30 20:54:00 ....A          115               Tools\Cheats\msx\demonia.mcf
+2006-01-20 23:59:00 ....A          155               Tools\Cheats\msx\desolator.mcf
+2006-01-20 23:59:00 ....A          106               Tools\Cheats\msx\digdug.mcf
+2006-01-20 23:59:00 ....A          113               Tools\Cheats\msx\digitaldevil.mcf
+2005-10-31 03:37:00 ....A          579               Tools\Cheats\msx\dirdeaf.mcf
+2006-01-21 00:00:00 ....A          115               Tools\Cheats\msx\discwarrior.mcf
+2005-10-30 20:04:00 ....A          120               Tools\Cheats\msx\dokidokipenguinland.mcf
+2006-02-09 00:35:00 ....A          171               Tools\Cheats\msx\dorodon.mcf
+2006-01-21 00:00:00 ....A          273               Tools\Cheats\msx\dota.mcf
+2006-02-08 20:08:00 ....A          269               Tools\Cheats\msx\dragonbuster.mcf
+2006-02-12 22:41:00 ....A          423               Tools\Cheats\msx\dragonquest2.mcf
+2006-02-08 21:25:00 ....A          640               Tools\Cheats\msx\dragonslayer4msx1.mcf
+2006-02-08 21:25:00 ....A          915               Tools\Cheats\msx\dragonslayer4msx2.mcf
+2006-01-21 00:02:00 ....A         1460               Tools\Cheats\msx\dragonslayer6.mcf
+2005-10-30 21:41:00 ....A          183               Tools\Cheats\msx\drarchie.mcf
+2006-01-21 00:02:00 ....A          227               Tools\Cheats\msx\druid.mcf
+2006-01-16 16:15:00 ....A           93               Tools\Cheats\msx\dustin.mcf
+2006-01-21 00:02:00 ....A          109               Tools\Cheats\msx\dynamitedan.mcf
+2006-01-21 00:03:00 ....A          281               Tools\Cheats\msx\eggerland1.mcf
+2006-01-21 00:03:00 ....A          236               Tools\Cheats\msx\eggerland2.mcf
+2006-01-21 00:03:00 ....A          106               Tools\Cheats\msx\eidelon.mcf
+2006-01-21 00:03:00 ....A          120               Tools\Cheats\msx\eindeloos.mcf
+2006-01-21 00:03:00 ....A          115               Tools\Cheats\msx\elevatoraction.mcf
+2006-06-04 12:07:00 ....A          144               Tools\Cheats\msx\exerion1.mcf
+2006-06-04 12:07:00 ....A          144               Tools\Cheats\msx\exerion2.mcf
+2006-02-08 21:25:00 ....A          229               Tools\Cheats\msx\exoidezarea5.mcf
+2006-06-03 13:36:00 ....A          168               Tools\Cheats\msx\exterlien.mcf
+2006-01-21 11:39:00 ....A          431               Tools\Cheats\msx\f1spirit.mcf
+2006-06-04 11:37:00 ....A          105               Tools\Cheats\msx\fairy.mcf
+2006-06-04 12:25:00 ....A          116               Tools\Cheats\msx\fairylandstory.mcf
+2005-10-30 23:24:00 ....A          171               Tools\Cheats\msx\familyboxing.mcf
+2006-01-21 00:04:00 ....A          139               Tools\Cheats\msx\fantasmsoldier1.mcf
+2006-01-21 00:04:00 ....A          142               Tools\Cheats\msx\fantasmsoldier2.mcf
+2006-01-21 00:04:00 ....A          156               Tools\Cheats\msx\fantasyzone1.mcf
+2006-01-21 00:04:00 ....A          156               Tools\Cheats\msx\fantasyzone2.mcf
+2005-10-30 22:10:00 ....A          673               Tools\Cheats\msx\feedback.mcf
+2006-01-21 00:04:00 ....A          394               Tools\Cheats\msx\feud.mcf
+2006-02-12 22:19:00 ....A          245               Tools\Cheats\msx\finalfantasy.mcf
+2006-01-21 00:04:00 ....A          115               Tools\Cheats\msx\finaljustice.mcf
+2006-06-04 09:38:00 ....A          155               Tools\Cheats\msx\finalzone.mcf
+2006-01-21 00:05:00 ....A         1116               Tools\Cheats\msx\firebird.mcf
+2006-01-21 00:05:00 ....A          122               Tools\Cheats\msx\fireresque.mcf
+2006-02-08 01:08:00 ....A          416               Tools\Cheats\msx\fparodic1.mcf
+2006-02-08 01:07:00 ....A          109               Tools\Cheats\msx\fparodic2.mcf
+2006-02-08 00:55:00 ....A          159               Tools\Cheats\msx\fray.mcf
+2006-01-21 00:05:00 ....A          108               Tools\Cheats\msx\frogger.mcf
+2006-01-21 00:05:00 ....A          111               Tools\Cheats\msx\frontline.mcf
+2006-01-21 00:05:00 ....A          111               Tools\Cheats\msx\fruityfrank.mcf
+2006-02-09 00:55:00 ....A          110               Tools\Cheats\msx\funkymouse.mcf
+2006-01-21 00:06:00 ....A          108               Tools\Cheats\msx\galaga.mcf
+2006-02-07 23:22:00 ....A          183               Tools\Cheats\msx\gallforce.mcf
+2006-06-03 19:13:00 ....A          220               Tools\Cheats\msx\garryuuo.mcf
+2005-10-30 21:45:00 ....A          213               Tools\Cheats\msx\ghostbusters.mcf
+2006-02-12 22:15:00 ....A          261               Tools\Cheats\msx\girlyblock.mcf
+2006-02-07 23:22:00 ....A          132               Tools\Cheats\msx\godzilla.mcf
+2006-06-03 19:07:00 ....A          558               Tools\Cheats\msx\goemon.mcf
+2006-02-08 20:30:00 ....A          783               Tools\Cheats\msx\golvellius1.mcf
+2005-10-30 23:50:00 ....A          788               Tools\Cheats\msx\golvellius2.mcf
+2005-10-30 18:31:00 ....A          110               Tools\Cheats\msx\goody.mcf
+2006-02-13 20:42:00 ....A          192               Tools\Cheats\msx\goonies.mcf
+2006-02-13 20:46:00 ....A          106               Tools\Cheats\msx\gpworld.mcf
+2006-02-14 22:43:00 ....A          524               Tools\Cheats\msx\gradius1.mcf
+2006-02-14 22:44:00 ....A          527               Tools\Cheats\msx\gradius1scc.mcf
+2006-02-14 22:46:00 ....A          721               Tools\Cheats\msx\gradius2.mcf
+2006-06-04 13:12:00 ....A         1013               Tools\Cheats\msx\gradius3.mcf
+2006-02-09 00:40:00 ....A          137               Tools\Cheats\msx\greenberet.mcf
+2006-02-09 00:44:00 ....A          181               Tools\Cheats\msx\grogsrevenge.mcf
+2005-10-31 01:24:00 ....A          876               Tools\Cheats\msx\gryzor.mcf
+2006-02-08 20:12:00 ....A          192               Tools\Cheats\msx\guardic.mcf
+2006-02-07 23:20:00 ....A          138               Tools\Cheats\msx\gularve.mcf
+2006-02-07 23:20:00 ....A          194               Tools\Cheats\msx\gunfright.mcf
+2006-02-07 23:19:00 ....A          115               Tools\Cheats\msx\gurulogicmsx1.mcf
+2006-01-13 19:08:00 ....A          140               Tools\Cheats\msx\gurulogicmsx2.mcf
+2006-02-07 23:19:00 ....A          171               Tools\Cheats\msx\guttblaster.mcf
+2005-10-31 01:50:00 ....A          147               Tools\Cheats\msx\gyrodine.mcf
+2006-02-07 23:19:00 ....A          120               Tools\Cheats\msx\happyfret.mcf
+2006-02-07 23:19:00 ....A          111               Tools\Cheats\msx\hardboiled.mcf
+2006-02-07 23:19:00 ....A          301               Tools\Cheats\msx\headoverheels.mcf
+2006-02-07 23:18:00 ....A          257               Tools\Cheats\msx\heaven.mcf
+2006-02-07 23:18:00 ....A          178               Tools\Cheats\msx\hero.mcf
+2006-02-07 23:18:00 ....A          247               Tools\Cheats\msx\herzog.mcf
+2006-02-12 22:02:00 ....A          324               Tools\Cheats\msx\higemaru.mcf
+2006-02-07 23:18:00 ....A          151               Tools\Cheats\msx\highwaystar.mcf
+2006-02-07 23:18:00 ....A          152               Tools\Cheats\msx\holeinonespecial.mcf
+2006-02-07 23:18:00 ....A          108               Tools\Cheats\msx\humphrey.mcf
+2006-02-07 23:17:00 ....A          202               Tools\Cheats\msx\hydefos.mcf
+2006-02-07 23:17:00 ....A          158               Tools\Cheats\msx\hydlide1.mcf
+2006-06-03 17:10:00 ....A          198               Tools\Cheats\msx\hydlide2.mcf
+2006-02-07 23:17:00 ....A          765               Tools\Cheats\msx\hydlide3.mcf
+2006-02-12 22:51:00 ....A          145               Tools\Cheats\msx\hyperolympics1.mcf
+2006-02-12 22:51:00 ....A          145               Tools\Cheats\msx\hyperolympics2.mcf
+2006-02-07 23:17:00 ....A          187               Tools\Cheats\msx\hyperrally.mcf
+2006-02-12 22:46:00 ....A          151               Tools\Cheats\msx\hypersports1.mcf
+2006-06-03 10:47:00 ....A          305               Tools\Cheats\msx\hypersports2.mcf
+2006-02-07 23:17:00 ....A          186               Tools\Cheats\msx\hypersports3.mcf
+2005-10-31 04:00:00 ....A          108               Tools\Cheats\msx\iceworld.mcf
+2006-02-09 01:07:00 ....A          132               Tools\Cheats\msx\iganinpouten1.mcf
+2006-02-09 01:08:00 ....A          115               Tools\Cheats\msx\iganinpouten2.mcf
+2005-10-31 03:05:00 ....A          725               Tools\Cheats\msx\ikariwarriors.mcf
+2006-02-07 23:16:00 ....A          135               Tools\Cheats\msx\illusioncity.mcf
+2006-02-07 23:16:00 ....A          176               Tools\Cheats\msx\indianajonesandthelastcrusade.mcf
+2006-02-07 23:16:00 ....A          131               Tools\Cheats\msx\indianajonesandthetempleofdoom.mcf
+2006-02-12 21:55:00 ....A          140               Tools\Cheats\msx\indiannobouken.mcf
+2006-02-08 22:45:00 ....A          170               Tools\Cheats\msx\ink.mcf
+2006-02-07 23:16:00 ....A          221               Tools\Cheats\msx\inspecteurz.mcf
+2006-02-07 23:15:00 ....A          130               Tools\Cheats\msx\iremkarate.mcf
+2006-06-04 10:30:00 ....A          151               Tools\Cheats\msx\issunhoushinodonnamondai.mcf
+2006-06-03 17:16:00 ....A          110               Tools\Cheats\msx\itaexpress.mcf
+2006-02-07 23:15:00 ....A          139               Tools\Cheats\msx\jackiechprotector.mcf
+2006-02-07 23:15:00 ....A          117               Tools\Cheats\msx\jackthenipper.mcf
+2006-02-07 23:15:00 ....A          183               Tools\Cheats\msx\jackthenippercoconut.mcf
+2006-02-08 20:14:00 ....A          148               Tools\Cheats\msx\jagur.mcf
+2006-02-07 23:15:00 ....A          176               Tools\Cheats\msx\jaws.mcf
+2006-02-07 23:14:00 ....A          112               Tools\Cheats\msx\jetsetwilly.mcf
+2005-10-30 21:38:00 ....A          296               Tools\Cheats\msx\joeblade.mcf
+2006-02-07 23:14:00 ....A          348               Tools\Cheats\msx\jpwinkle.mcf
+2006-02-07 23:14:00 ....A          134               Tools\Cheats\msx\kikikaikai.mcf
+2005-10-30 23:24:00 ....A          505               Tools\Cheats\msx\kingkong2.mcf
+2006-02-09 00:41:00 ....A          114               Tools\Cheats\msx\kingsballoon.mcf
+2006-02-07 23:14:00 ....A          117               Tools\Cheats\msx\kingsknight.mcf
+2006-02-07 23:14:00 ....A          179               Tools\Cheats\msx\kingsvalley1.mcf
+2006-02-07 23:14:00 ....A          235               Tools\Cheats\msx\kingsvalley2.mcf
+2006-02-08 22:14:00 ....A          120               Tools\Cheats\msx\kinnikuman.mcf
+2006-02-07 23:13:00 ....A          134               Tools\Cheats\msx\knightlore.mcf
+2006-06-04 10:50:00 ....A          469               Tools\Cheats\msx\knightmare.mcf
+2006-02-09 01:02:00 ....A          361               Tools\Cheats\msx\knitherspecial.mcf
+2006-02-07 23:13:00 ....A          184               Tools\Cheats\msx\kobashi.mcf
+2006-02-07 23:13:00 ....A          113               Tools\Cheats\msx\konamisboxing.mcf
+2006-02-09 00:39:00 ....A          142               Tools\Cheats\msx\laptick2.mcf
+2005-10-31 01:28:00 ....A          116               Tools\Cheats\msx\leatherskirts.mcf
+2006-06-03 17:43:00 ....A          462               Tools\Cheats\msx\legendlyknight.mcf
+2006-06-04 10:29:00 ....A          309               Tools\Cheats\msx\leonidas.mcf
+2006-06-03 19:15:00 ....A          135               Tools\Cheats\msx\madrider.mcf
+2006-02-07 23:13:00 ....A          115               Tools\Cheats\msx\magicaltree.mcf
+2006-02-07 23:12:00 ....A          341               Tools\Cheats\msx\magicalwizzkid.mcf
+2005-10-31 03:57:00 ....A          154               Tools\Cheats\msx\magunam.mcf
+2006-02-07 23:12:00 ....A          312               Tools\Cheats\msx\malayanohibou.mcf
+2005-10-31 04:00:00 ....A          105               Tools\Cheats\msx\manes.mcf
+2006-06-04 11:38:00 ....A          106               Tools\Cheats\msx\mappy.mcf
+2005-10-31 03:59:00 ....A          128               Tools\Cheats\msx\mashounoyakatagabalin.mcf
+2006-02-07 23:12:00 ....A          230               Tools\Cheats\msx\mastersoftheuniverse.mcf
+2006-06-03 18:06:00 ....A         2108               Tools\Cheats\msx\mazeofgalious.mcf
+2006-02-08 22:20:00 ....A          163               Tools\Cheats\msx\megamitensho.mcf
+2005-10-31 01:01:00 ....A         2056               Tools\Cheats\msx\metalgear1.mcf
+2005-10-31 01:25:00 ....A         1289               Tools\Cheats\msx\metalgear2.mcf
+2005-10-31 01:54:00 ....A          115               Tools\Cheats\msx\mirai.mcf
+2006-02-08 22:12:00 ....A          134               Tools\Cheats\msx\moainohibou.mcf
+2006-02-07 23:10:00 ....A          158               Tools\Cheats\msx\mobileplanet.mcf
+2006-02-08 00:45:00 ....A          223               Tools\Cheats\msx\monmonmonster.mcf
+2006-02-09 00:48:00 ....A          169               Tools\Cheats\msx\monstersfair.mcf
+2006-02-07 23:09:00 ....A          114               Tools\Cheats\msx\mopiranger.mcf
+2006-02-09 00:37:00 ....A          106               Tools\Cheats\msx\mrchin.mcf
+2006-02-07 23:09:00 ....A          241               Tools\Cheats\msx\mrghost.mcf
+2006-02-07 23:09:00 ....A          114               Tools\Cheats\msx\msxlogo.mcf
+2006-01-16 16:19:00 ....A          113               Tools\Cheats\msx\mythos.mcf
+2006-06-05 22:37:00 ....A          143               Tools\Cheats\msx\namcof1racing.mcf
+2006-02-07 23:08:00 ....A          110               Tools\Cheats\msx\nightshade.mcf
+2006-02-07 23:08:00 ....A          196               Tools\Cheats\msx\ninjakage.mcf
+2006-02-07 23:08:00 ....A          162               Tools\Cheats\msx\ninjakun.mcf
+2006-02-07 23:08:00 ....A          114               Tools\Cheats\msx\ninjayoumakor.mcf
+2005-10-07 01:14:00 ....A           71               Tools\Cheats\msx\nsub.mcf
+2006-02-07 23:08:00 ....A          201               Tools\Cheats\msx\nyancleracing.mcf
+2005-10-30 19:10:00 ....A          179               Tools\Cheats\msx\operationwolf.mcf
+2006-02-07 23:08:00 ....A          106               Tools\Cheats\msx\outrun.mcf
+2006-02-12 21:50:00 ....A          181               Tools\Cheats\msx\pachiprodensetsu.mcf
+2006-02-07 23:07:00 ....A          171               Tools\Cheats\msx\pacman.mcf
+2006-02-07 23:07:00 ....A          411               Tools\Cheats\msx\pacmania.mcf
+2006-02-17 02:48:00 ....A          587               Tools\Cheats\msx\parodius.mcf
+2006-02-07 23:07:00 ....A          143               Tools\Cheats\msx\pastfinder.mcf
+2005-10-30 20:12:00 ....A          185               Tools\Cheats\msx\pegasus.mcf
+2006-06-03 18:01:00 ....A         1088               Tools\Cheats\msx\penguinadventure.mcf
+2006-02-09 00:51:00 ....A          163               Tools\Cheats\msx\penguinkunwars1.mcf
+2006-02-09 00:49:00 ....A          219               Tools\Cheats\msx\penguinkunwars2.mcf
+2006-02-07 23:06:00 ....A          208               Tools\Cheats\msx\pennantrace1.mcf
+2006-01-16 16:18:00 ....A          118               Tools\Cheats\msx\phantomas2.mcf
+2006-02-07 23:06:00 ....A          211               Tools\Cheats\msx\pineaplin.mcf
+2006-06-04 12:32:00 ....A          212               Tools\Cheats\msx\pipi.mcf
+2006-02-08 00:50:00 ....A          186               Tools\Cheats\msx\pippols.mcf
+2006-02-07 23:03:00 ....A          278               Tools\Cheats\msx\pitfall1.mcf
+2006-02-07 23:03:00 ....A          257               Tools\Cheats\msx\pitfall2.mcf
+2006-02-07 23:03:00 ....A          166               Tools\Cheats\msx\polarstar.mcf
+2005-10-30 18:01:00 ....A          153               Tools\Cheats\msx\policeacademy1.mcf
+2005-10-30 18:08:00 ....A          160               Tools\Cheats\msx\policeacademy2.mcf
+2006-02-07 23:02:00 ....A          133               Tools\Cheats\msx\pooyan.mcf
+2006-02-08 22:16:00 ....A          121               Tools\Cheats\msx\poppaqthefish.mcf
+2006-02-07 23:02:00 ....A          258               Tools\Cheats\msx\predator.mcf
+2005-10-31 03:54:00 ....A          160               Tools\Cheats\msx\princessmaker.mcf
+2006-02-07 23:02:00 ....A          111               Tools\Cheats\msx\projecta2.mcf
+2006-06-04 12:28:00 ....A          190               Tools\Cheats\msx\psychicsoldier2.mcf
+2006-06-03 19:27:00 ....A          429               Tools\Cheats\msx\psychoworld.mcf
+2006-06-04 10:25:00 ....A         3333               Tools\Cheats\msx\pumpkinadventure3.mcf
+2006-02-07 23:02:00 ....A          142               Tools\Cheats\msx\qbert.mcf
+2006-02-07 23:01:00 ....A          236               Tools\Cheats\msx\quinpl.mcf
+2006-02-07 23:01:00 ....A          138               Tools\Cheats\msx\raidonbungelingbay.mcf
+2006-02-07 23:01:00 ....A          274               Tools\Cheats\msx\rambo.mcf
+2006-02-07 23:01:00 ....A          105               Tools\Cheats\msx\rambo3.mcf
+2005-10-30 20:26:00 ....A          363               Tools\Cheats\msx\randar3.mcf
+2006-02-07 23:01:00 ....A          181               Tools\Cheats\msx\rastansaga.mcf
+2005-10-30 21:59:00 ....A          635               Tools\Cheats\msx\replicart.mcf
+2006-02-07 23:00:00 ....A          135               Tools\Cheats\msx\returnofjelda.mcf
+2006-02-07 23:00:00 ....A          114               Tools\Cheats\msx\richandmich.mcf
+2006-06-04 12:16:00 ....A          109               Tools\Cheats\msx\riseout.mcf
+2006-02-07 23:00:00 ....A          116               Tools\Cheats\msx\roadfighter.mcf
+2005-11-12 12:12:00 ....A          150               Tools\Cheats\msx\robocop.mcf
+2006-02-08 21:27:00 ....A          167               Tools\Cheats\msx\rtype.mcf
+2006-02-07 23:00:00 ....A          162               Tools\Cheats\msx\runemaster1.mcf
+2006-02-08 21:35:00 ....A          397               Tools\Cheats\msx\saimazoom.mcf
+2006-02-11 20:50:00 ....A         1036               Tools\Cheats\msx\salamander.mcf
+2006-06-03 17:18:00 ....A          133               Tools\Cheats\msx\sammyudensetsu.mcf
+2006-02-07 22:59:00 ....A          142               Tools\Cheats\msx\satan1.mcf
+2005-10-31 04:07:00 ....A          109               Tools\Cheats\msx\scarlet7.mcf
+2005-10-30 22:28:00 ....A          144               Tools\Cheats\msx\scrambleformation.mcf
+2006-06-03 10:50:00 ....A         3173               Tools\Cheats\msx\sdsnatcher.mcf
+2006-02-08 22:07:00 ....A          189               Tools\Cheats\msx\seikema2special.mcf
+2006-02-09 00:33:00 ....A          131               Tools\Cheats\msx\seikenacho.mcf
+2006-02-12 21:57:00 ....A          108               Tools\Cheats\msx\shalom.mcf
+2006-02-07 22:55:00 ....A          150               Tools\Cheats\msx\silviana.mcf
+2006-02-09 01:10:00 ....A          126               Tools\Cheats\msx\sinbad.mcf
+2006-02-07 22:55:00 ....A           74               Tools\Cheats\msx\skooter.mcf
+2006-02-07 22:55:00 ....A          136               Tools\Cheats\msx\skygaldo.mcf
+2006-02-07 22:55:00 ....A          114               Tools\Cheats\msx\skyjaguar.mcf
+2006-06-04 12:13:00 ....A          147               Tools\Cheats\msx\sofia.mcf
+2005-10-31 02:00:00 ....A          124               Tools\Cheats\msx\sonyc.mcf
+2006-02-07 22:54:00 ....A          119               Tools\Cheats\msx\spacecamp.mcf
+2006-02-08 22:17:00 ....A          117               Tools\Cheats\msx\spaceinvadertaito.mcf
+2006-02-07 22:54:00 ....A          186               Tools\Cheats\msx\spacemanbow.mcf
+2006-02-07 22:54:00 ....A          141               Tools\Cheats\msx\sparkie.mcf
+2006-02-09 01:12:00 ....A          131               Tools\Cheats\msx\starblazer.mcf
+2006-02-07 22:54:00 ....A          171               Tools\Cheats\msx\starquake.mcf
+2006-02-07 22:54:00 ....A          157               Tools\Cheats\msx\starsoldier.mcf
+2006-02-07 22:54:00 ....A          179               Tools\Cheats\msx\starwars.mcf
+2006-06-04 12:04:00 ....A          131               Tools\Cheats\msx\stepper.mcf
+2006-02-07 22:54:00 ....A          154               Tools\Cheats\msx\stonedofwisdom.mcf
+2006-02-07 22:53:00 ....A          158               Tools\Cheats\msx\strangeloop.mcf
+2006-02-07 22:53:00 ....A          200               Tools\Cheats\msx\strategicmars.mcf
+2006-02-23 09:07:00 ....A          563               Tools\Cheats\msx\superbioman4.mcf
+2006-02-19 00:51:00 ....A          244               Tools\Cheats\msx\superboy1.mcf
+2006-02-19 01:10:00 ....A          244               Tools\Cheats\msx\superboy2.mcf
+2006-02-22 00:09:00 ....A          426               Tools\Cheats\msx\superboy3.mcf
+2006-02-07 22:53:00 ....A          135               Tools\Cheats\msx\supercobra.mcf
+2005-10-30 23:29:00 ....A          215               Tools\Cheats\msx\supercooks.mcf
+2006-02-07 22:49:00 ....A          115               Tools\Cheats\msx\superlaydock2.mcf
+2006-02-08 21:27:00 ....A          262               Tools\Cheats\msx\superlaydockmissionstriker.mcf
+2006-02-07 22:48:00 ....A          118               Tools\Cheats\msx\superlaydockmsx2.mcf
+2006-02-07 22:47:00 ....A          137               Tools\Cheats\msx\superpierrot.mcf
+2006-02-07 22:47:00 ....A          477               Tools\Cheats\msx\superrambospecial.mcf
+2006-02-07 22:47:00 ....A          161               Tools\Cheats\msx\superrunner.mcf
+2006-02-07 22:47:00 ....A          156               Tools\Cheats\msx\supertritorn.mcf
+2006-06-04 12:09:00 ....A          107               Tools\Cheats\msx\swing.mcf
+2006-02-07 22:46:00 ....A          154               Tools\Cheats\msx\tankbattalion.mcf
+2005-10-30 19:49:00 ....A          135               Tools\Cheats\msx\teenageninjamutantheroturtles.mcf
+2006-06-04 12:11:00 ....A          112               Tools\Cheats\msx\telebunnie.mcf
+2005-10-31 04:37:00 ....A          129               Tools\Cheats\msx\tensairabbiandaifunsen.mcf
+2006-02-07 22:41:00 ....A          119               Tools\Cheats\msx\terramex.mcf
+2006-02-07 22:46:00 ....A          205               Tools\Cheats\msx\testament.mcf
+2006-02-07 22:46:00 ....A          325               Tools\Cheats\msx\thecastle.mcf
+2006-02-07 22:46:00 ....A          333               Tools\Cheats\msx\thecastleexcellent.mcf
+2006-02-08 21:58:00 ....A          298               Tools\Cheats\msx\thecure.mcf
+2006-02-13 20:59:00 ....A          113               Tools\Cheats\msx\themunsters.mcf
+2006-02-07 22:45:00 ....A          146               Tools\Cheats\msx\theseus.mcf
+2006-02-13 20:43:00 ....A          187               Tools\Cheats\msx\thexder1.mcf
+2006-02-07 22:46:00 ....A          308               Tools\Cheats\msx\thexder2.mcf
+2006-02-07 22:45:00 ....A          122               Tools\Cheats\msx\thingbouncesback.mcf
+2006-02-07 22:45:00 ....A          114               Tools\Cheats\msx\timepilot.mcf
+2006-06-03 17:05:00 ....A          125               Tools\Cheats\msx\tnt.mcf
+2006-06-03 17:02:00 ....A          132               Tools\Cheats\msx\tntbootleg.mcf
+2006-02-09 08:39:00 ....A          426               Tools\Cheats\msx\trailblazer.mcf
+2006-02-07 22:45:00 ....A          152               Tools\Cheats\msx\tritorn.mcf
+2005-10-30 18:10:00 ....A          108               Tools\Cheats\msx\ttracer.mcf
+2006-02-07 22:44:00 ....A          171               Tools\Cheats\msx\twinbee.mcf
+2006-02-07 22:44:00 ....A          111               Tools\Cheats\msx\undeadline.mcf
+2006-02-08 22:01:00 ....A          172               Tools\Cheats\msx\universeunknown.mcf
+2006-06-03 17:26:00 ....A         1338               Tools\Cheats\msx\usas.mcf
+2006-02-12 21:47:00 ....A          127               Tools\Cheats\msx\vampire.mcf
+2005-10-31 02:38:00 ....A          565               Tools\Cheats\msx\vampirekiller.mcf
+2006-02-07 22:44:00 ....A          433               Tools\Cheats\msx\venomstrikesback.mcf
+2006-02-07 22:43:00 ....A          110               Tools\Cheats\msx\volguard.mcf
+2006-02-09 00:57:00 ....A          109               Tools\Cheats\msx\warpwarp.mcf
+2006-06-04 11:40:00 ....A          146               Tools\Cheats\msx\warroid.mcf
+2006-02-07 22:43:00 ....A          156               Tools\Cheats\msx\wonderboy.mcf
+2006-02-07 22:43:00 ....A          256               Tools\Cheats\msx\woodypoco.mcf
+2005-10-31 05:29:00 ....A         1612               Tools\Cheats\msx\xak1.mcf
+2006-02-07 22:43:00 ....A          176               Tools\Cheats\msx\xak2.mcf
+2006-02-07 22:43:00 ....A          151               Tools\Cheats\msx\xevious.mcf
+2006-02-07 22:43:00 ....A          156               Tools\Cheats\msx\xyz.mcf
+2006-06-04 12:03:00 ....A          109               Tools\Cheats\msx\xyzolog.mcf
+2006-02-08 01:01:00 ....A          275               Tools\Cheats\msx\xzr1.mcf
+2006-02-08 01:05:00 ....A          218               Tools\Cheats\msx\xzr2.mcf
+2006-02-08 21:48:00 ....A          153               Tools\Cheats\msx\yiearkungfu1.mcf
+2006-02-08 21:51:00 ....A          230               Tools\Cheats\msx\yiearkungfu2.mcf
+2006-02-07 22:42:00 ....A          398               Tools\Cheats\msx\ys1.mcf
+2006-02-07 22:42:00 ....A          220               Tools\Cheats\msx\ys2.mcf
+2006-02-07 22:42:00 ....A          330               Tools\Cheats\msx\ys3.mcf
+2005-10-31 04:19:00 ....A          225               Tools\Cheats\msx\zaider.mcf
+2006-06-04 09:41:00 ....A          240               Tools\Cheats\msx\zambeze.mcf
+2005-10-30 21:06:00 ....A          184               Tools\Cheats\msx\zanac.mcf
+2006-02-08 21:24:00 ....A          435               Tools\Cheats\msx\zanacex.mcf
+2006-02-07 22:41:00 ....A          125               Tools\Cheats\msx\zaxxon.mcf
+2006-06-04 12:33:00 ....A          119               Tools\Cheats\msx\zexaslimited.mcf
+2006-02-08 21:24:00 ....A          203               Tools\Cheats\msx\zombiehunter.mcf
+2005-10-31 04:08:00 ....A          106               Tools\Cheats\msx\zoom909.mcf
+2006-06-03 19:21:00 ....A          431               Tools\Cheats\msx\zukkokeyajikitaonmitsudoutyuu.mcf
+2005-08-17 07:31:00 ....A        32768               Machines\Shared Roms\ARAB1.ROM
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\ARABIC.rom
+2005-12-28 03:43:00 ....A        16384               Machines\Shared Roms\BEERIDE.ROM
+2005-06-07 01:48:00 ....A        32768               Machines\MSX - C-BIOS\cbios_main_msx1.rom
+2005-06-07 01:48:00 ....A        32768               Machines\MSX2+ - C-BIOS\cbios_main_msx2+.rom
+2005-06-07 01:48:00 ....A        32768               Machines\MSX2 - C-BIOS\cbios_main_msx2.rom
+2005-06-07 01:48:00 ....A        16384               Machines\MSX2+ - C-BIOS\cbios_music.rom
+2005-06-07 01:48:00 ....A        16384               Machines\MSX2 - C-BIOS\cbios_sub.rom
+2005-06-07 01:48:00 ....A        16384               Machines\MSX2+ - C-BIOS\cbios_sub.rom
+2004-10-21 16:16:00 ....A         8192               Machines\COL - ColecoVision with Opcode Memory Extension\coleco.rom
+2004-10-21 16:16:00 ....A         8192               Machines\COL - ColecoVision\coleco.rom
+2004-06-01 20:37:00 ....A        65536               Machines\Shared Roms\FMPAC.rom
+2004-12-05 21:27:00 ....A         8192               Machines\Shared Roms\GCVMX80.ROM
+2001-01-01 01:00:00 ....A       131072               Machines\Shared Roms\HANGUL.rom
+2004-06-01 20:37:00 ....A       262144               Machines\Shared Roms\KANJI.rom
+2004-10-26 23:18:00 ....A        16384               Machines\Shared Roms\MICROSOLDISK.ROM
+2004-06-01 20:37:00 ....A      2097152               Machines\Shared Roms\MOONSOUND.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSX.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSX2.rom
+1988-02-14 14:09:00 ....A        32768               Machines\Shared Roms\MSX2AR.ROM
+1988-02-14 14:10:00 ....A        16384               Machines\Shared Roms\MSX2AREXT.ROM
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSX2BR.rom
+2004-06-01 20:37:00 ....A        16384               Machines\Shared Roms\MSX2BREXT.rom
+2004-06-01 20:37:00 ....A        16384               Machines\Shared Roms\MSX2EXT.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSX2FR.rom
+2004-06-01 20:37:00 ....A        16384               Machines\Shared Roms\MSX2FREXT.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSX2G.rom
+2004-06-01 20:37:00 ....A        16384               Machines\Shared Roms\MSX2GEXT.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSX2HAN.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSX2J.rom
+2004-06-01 20:37:00 ....A        16384               Machines\Shared Roms\MSX2JEXT.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSX2KR.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSX2KREXT.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSX2P.rom
+2004-06-01 20:37:00 ....A        16384               Machines\Shared Roms\MSX2PEXT.rom
+2004-06-01 20:37:00 ....A        16384               Machines\Shared Roms\MSX2PMUS.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSX2R.rom
+1995-05-25 19:08:00 ....A        16384               Machines\Shared Roms\MSX2REXT.rom
+2005-06-20 18:03:00 ....A        32768               Machines\Shared Roms\MSX2SE.rom
+2001-01-01 01:00:00 ....A        32768               Machines\Shared Roms\MSX2SP.rom
+2001-01-01 01:00:00 ....A        16384               Machines\Shared Roms\MSX2SPEXT.rom
+2005-08-17 07:31:00 ....A        32768               Machines\Shared Roms\MSXAR.ROM
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSXBR.rom
+2001-01-01 01:00:00 ....A        65536               Machines\Shared Roms\MSXDOS23.ROM
+2005-06-20 22:37:00 ....A        32768               Machines\Shared Roms\MSXFR.rom
+2001-01-01 01:00:00 ....A        32768               Machines\Shared Roms\MSXG.rom
+2004-06-01 20:37:00 ....A         8192               Machines\Shared Roms\MSXHAN.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSXJ.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSXKANJI.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\MSXKR.rom
+2005-06-20 23:06:00 ....A        32768               Machines\Shared Roms\MSXR.rom
+1984-01-01 00:00:00 ....A        32768               Machines\Shared Roms\MSXSE.ROM
+2005-06-20 22:51:00 ....A        32768               Machines\Shared Roms\MSXSP.rom
+2001-01-01 01:00:00 ....A        32768               Machines\Shared Roms\MSXTR.ROM
+2001-01-01 01:00:00 ....A        16384               Machines\Shared Roms\MSXTREXT.ROM
+2001-01-01 01:00:00 ....A        16384               Machines\Shared Roms\MSXTRMUS.ROM
+2001-01-01 01:00:00 ....A        16384               Machines\Shared Roms\MSXTROPT.ROM
+2001-01-01 01:00:00 ....A        16384               Machines\Shared Roms\NATIONALDISK.rom
+2004-06-01 20:37:00 ....A        65536               Machines\Shared Roms\PAINT.rom
+2003-08-28 01:00:00 ....A        16384               Machines\Shared Roms\PANASONICDISK.rom
+2001-01-01 01:00:00 ....A        16384               Machines\Shared Roms\PHILIPSDISK.rom
+2001-01-01 01:00:00 ....A         8192               Machines\Shared Roms\RS232.ROM
+2005-03-23 04:04:00 ....A        65536               Machines\Shared Roms\SUNRISEIDE.rom
+2000-07-21 08:50:00 ....A        32768               Machines\SVI - Spectravideo SVI-318\svi318.rom
+2000-07-21 08:50:00 ....A        32768               Machines\SVI - Spectravideo SVI-328\svi328.rom
+2000-07-21 08:50:00 ....A        32768               Machines\SVI - Spectravideo SVI-328 80 Column\svi328a.rom
+2000-07-21 08:50:00 ....A        32768               Machines\SVI - Spectravideo SVI-328 80 Swedish\svi328a.rom
+2000-07-21 08:50:00 ....A        32768               Machines\SVI - Spectravideo SVI-328 MK2\svi328a.rom
+2005-06-04 12:29:00 ....A         8192               Machines\COL - Spectravideo SVI-603 Coleco\SVI603.ROM
+2000-08-29 17:27:00 ....A         4096               Machines\SVI - Spectravideo SVI-328 80 Column\svi806.rom
+2000-08-29 17:27:00 ....A         4096               Machines\SVI - Spectravideo SVI-328 MK2\svi806.rom
+2005-06-04 11:43:00 ....A         4096               Machines\SVI - Spectravideo SVI-328 80 Swedish\svi806se.rom
+2004-06-01 20:37:00 ....A        32768               Machines\Shared Roms\SWP.rom
+2004-06-01 20:37:00 ....A        16384               Machines\Shared Roms\XBASIC2.rom
+2006-06-23 12:58:12 ....A         1854               Shortcut Profiles\blueMSX.shortcuts
+2006-07-07 09:11:00 ....A      3125248       942236  blueMSX.exe
+2005-03-13 14:09:00 ....A       256000               Tools\bluetrainer.dll
+2005-05-01 11:18:26 ....A         3584               kbdlock.dll
+2006-07-01 12:16:50 ....A       208896               Tools\SimpleDebugger.dll
+2006-06-11 22:28:38 ....A        73728               Tools\TraceWindow.dll
+2016-11-25 18:53:50 D....            0            0  Tools\Cheats\msx
+2016-11-25 18:53:45 D....            0            0  Tools\Cheats
+2016-11-25 18:53:49 D....            0            0  Tools
+2016-11-25 18:53:50 D....            0            0  Themes\DIGIblue_SuiteX2\video-block
+2016-11-25 18:53:50 D....            0            0  Themes\DIGIblue_SuiteX2\Turbo R
+2016-11-25 18:53:50 D....            0            0  Themes\DIGIblue_SuiteX2\sliders
+2016-11-25 18:53:46 D....            0            0  Themes\DIGIblue_SuiteX2\leds
+2016-11-25 18:53:46 D....            0            0  Themes\DIGIblue_SuiteX2\fonts
+2016-11-25 18:53:50 D....            0            0  Themes\DIGIblue_SuiteX2\buttons
+2016-11-25 18:53:50 D....            0            0  Themes\DIGIblue_SuiteX2
+2016-11-25 18:53:45 D....            0            0  Themes
+2016-11-25 18:53:47 D....            0            0  Shortcut Profiles
+2016-11-25 18:53:47 D....            0            0  Properties\Mixer\switches
+2016-11-25 18:53:49 D....            0            0  Properties\Mixer\sliders
+2016-11-25 18:53:47 D....            0            0  Properties\Mixer\leds
+2016-11-25 18:53:50 D....            0            0  Properties\Mixer
+2016-11-25 18:53:45 D....            0            0  Properties
+2016-11-25 18:53:46 D....            0            0  Machines\Turbo-R - Panasonic FS-A1ST
+2016-11-25 18:53:46 D....            0            0  Machines\Turbo-R - Panasonic FS-A1GT
+2016-11-25 18:53:46 D....            0            0  Machines\Turbo-R - European
+2016-11-25 18:53:46 D....            0            0  Machines\Turbo-R
+2016-11-25 18:53:49 D....            0            0  Machines\SVI - Spectravideo SVI-328 MK2
+2016-11-25 18:53:49 D....            0            0  Machines\SVI - Spectravideo SVI-328 80 Swedish
+2016-11-25 18:53:47 D....            0            0  Machines\SVI - Spectravideo SVI-328 80 Column
+2016-11-25 18:53:50 D....            0            0  Machines\SVI - Spectravideo SVI-328
+2016-11-25 18:53:46 D....            0            0  Machines\SVI - Spectravideo SVI-318
+2016-11-25 18:53:50 D....            0            0  Machines\Shared Roms
+2016-11-25 18:53:46 D....            0            0  Machines\SEGA -  SG-1000
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2+ - Sony HB-F1XV
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2+ - Sony HB-F1XDJ
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2+ - Sanyo Wavy PHC-70FD2
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2+ - Sanyo Wavy PHC-70FD1
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2+ - Sanyo Wavy PHC-35J
+2016-11-25 18:53:45 D....            0            0  Machines\MSX2+ - Panasonic FS-A1WX
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2+ - Panasonic FS-A1WSX
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2+ - Panasonic FS-A1FX
+2016-11-25 18:53:49 D....            0            0  Machines\MSX2+ - European
+2016-11-25 18:53:45 D....            0            0  Machines\MSX2+ - Ciel Expert 3
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2+ - C-BIOS
+2016-11-25 18:53:49 D....            0            0  Machines\MSX2+ - Brazilian
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2+
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - Yamaha CX7M-128
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - Talent TPC-310
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - Swedish
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - Spanish
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - Sony HB-G900P
+2016-11-25 18:53:49 D....            0            0  Machines\MSX2 - Sony HB-F9P
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - Sony HB-F900
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - Sony HB-F700P
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - Sony HB-F700D
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - Sony HB-F500P
+2016-11-25 18:53:49 D....            0            0  Machines\MSX2 - Sony HB-F500
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - Sony HB-F1XDMK2
+2016-11-25 18:53:45 D....            0            0  Machines\MSX2 - Sony HB-F1XD
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - Sony HB-F1II
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - Sony HB-F1
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - Sharp Epcom HotBit 2.0
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - Sanyo Wavy PHC-23
+2016-11-25 18:53:45 D....            0            0  Machines\MSX2 - Russian
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - Philips VG-8240
+2016-11-25 18:53:45 D....            0            0  Machines\MSX2 - Philips VG-8235
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - Philips NMS-8280
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - Philips NMS-8255
+2016-11-25 18:53:45 D....            0            0  Machines\MSX2 - Philips NMS-8250
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - Philips NMS-8245
+2016-11-25 18:53:45 D....            0            0  Machines\MSX2 - Philips NMS-8220
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - Panasonic FS-A1FM
+2016-11-25 18:53:50 D....            0            0  Machines\MSX2 - Panasonic FS-A1F
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - Panasonic FS-A1 MK2
+2016-11-25 18:53:45 D....            0            0  Machines\MSX2 - Panasonic FS-A1
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - Only PSG
+2016-11-25 18:53:49 D....            0            0  Machines\MSX2 - National FS-5500
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - National FS-5000
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - National FS-4700
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - National FS-4600
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - National FS-4500
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - Korean
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - Japanese
+2016-11-25 18:53:45 D....            0            0  Machines\MSX2 - Gradiente Expert 2.0
+2016-11-25 18:53:45 D....            0            0  Machines\MSX2 - German
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - French
+2016-11-25 18:53:45 D....            0            0  Machines\MSX2 - Daewoo CPC-400S
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - Daewoo CPC-400
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - Daewoo CPC-300
+2016-11-25 18:53:46 D....            0            0  Machines\MSX2 - C-BIOS
+2016-11-25 18:53:49 D....            0            0  Machines\MSX2 - Brazilian
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2 - Arabic
+2016-11-25 18:53:47 D....            0            0  Machines\MSX2
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - Yamaha CX5M-128
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Yamaha CX5M
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - Toshiba HX-20
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - Toshiba HX-10
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - Talent DPC-200
+2016-11-25 18:53:50 D....            0            0  Machines\MSX - Swedish
+2016-11-25 18:53:45 D....            0            0  Machines\MSX - Spectravideo SVI-738 Swedish
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Spectravideo SVI-738 Henrik Gilvad
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Spectravideo SVI-738
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Spectravideo SVI-728
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Spanish
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Sony HB-75P
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - Sony HB-75D
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - Sony HB-501P
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - Sony HB-201P
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Sony HB-201
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Sharp Epcom HotBit 1.2
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Sharp Epcom HotBit 1.1
+2016-11-25 18:53:45 D....            0            0  Machines\MSX - Sanyo MPC-100
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - Russian
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Philips VG-8020
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Philips NMS-801
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - National FS-4000
+2016-11-25 18:53:45 D....            0            0  Machines\MSX - National FS-1300
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - National CF-3300
+2016-11-25 18:53:45 D....            0            0  Machines\MSX - National CF-3000
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - National CF-2700
+2016-11-25 18:53:49 D....            0            0  Machines\MSX - National CF-2000
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - National CF-1200
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Mitsubishi ML-FX1
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - Mitsubishi ML-F80
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - Korean
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - JVC HC-7GB
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Japanese
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Gradiente Expert Plus
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Gradiente Expert DDPlus
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - Gradiente Expert 1.1
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Gradiente Expert 1.0
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Goldstar FC-200
+2016-11-25 18:53:50 D....            0            0  Machines\MSX - German
+2016-11-25 18:53:45 D....            0            0  Machines\MSX - French
+2016-11-25 18:53:49 D....            0            0  Machines\MSX - Daewoo DPC-200
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Daewoo DPC-180
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - Daewoo DPC-100
+2016-11-25 18:53:45 D....            0            0  Machines\MSX - Canon V-20
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - C-BIOS
+2016-11-25 18:53:46 D....            0            0  Machines\MSX - Brazilian
+2016-11-25 18:53:47 D....            0            0  Machines\MSX - Arabic
+2016-11-25 18:53:47 D....            0            0  Machines\MSX
+2016-11-25 18:53:50 D....            0            0  Machines\COL - Spectravideo SVI-603 Coleco
+2016-11-25 18:53:47 D....            0            0  Machines\COL - ColecoVision with Opcode Memory Extension
+2016-11-25 18:53:47 D....            0            0  Machines\COL - ColecoVision
+2016-11-25 18:53:50 D....            0            0  Machines
+2016-11-25 18:53:50 D....            0            0  Keyboard Config\Theme\TurboRN
+2016-11-25 18:53:50 D....            0            0  Keyboard Config\Theme
+2016-11-25 18:53:47 D....            0            0  Keyboard Config
+2016-11-25 18:53:49 D....            0            0  Databases
+------------------- ----- ------------ ------------  ------------------------
+2016-11-25 18:53:50           19312623      8085402  714 files, 145 folders

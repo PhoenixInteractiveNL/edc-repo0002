@@ -1,0 +1,8 @@
+v1.0.2
+------
+
+- PC-joystick and gamepad support
+- Centronics printer support (output sent to printer.txt)
+- adjustable colour display saturation
+- reenabled basic breakpoint support in the external monitor
+- compiled statically against the Visual C++ runtime

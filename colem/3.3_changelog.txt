@@ -1,0 +1,7 @@
+New in ColEm 3.3
+  * Added accurate SN76489 noise channel emulation. 
+  * Added RAM-based cheats with AAAA in 0x6000..0x63FF range. 
+  * Added Cheat Hunter tool that lets you search for cheat codes. 
+  * Now properly restoring sound parameters. 
+  * Disabled console window in ColEm-Windows. 
+  * Fixed compilation errors in ColEm-Unix. 

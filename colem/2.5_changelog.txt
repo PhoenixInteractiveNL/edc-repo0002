@@ -1,0 +1,11 @@
+New in ColEm 2.5
+  * Yet again ported ColEm to Unix using the new EMULib framework. The new ColEm-Unix has been tested to compile and run on Ubuntu Linux but should work on any other Unix. ColEm-Unix source code is included with the core source code distribution. 
+  * Ported ColEm to Maemo OS2008 used in N800 and N810 internet tablets from Nokia. ColEm-Maemo has been specifically optimized for the tablets using ARM assembler. It will simulate joypad with the touch screen and automatically open *.cv/*.cv.gz files from the file manager. ColEm-Maemo source code is included with the core source code distribution. 
+  * Renamed -zoom/-nozoom to -soft/-nosoft. 
+  * Added -scale option to scale window on Unix. 
+  * Added -home to set home directory with system ROMs. 
+  * Options -tv/-notv, -soft/-nosoft, and the [F8] key now work for both MSDOS and Unix. 
+  * ColEm-Symbian display routines rewritten in ARM assembler for speed. 
+  * Split ColEm-Symbian configuration menu into four tabs, making "Video" and "Audio" settings separate. 
+  * Added "Audio Latency", "Skip Frames", and "Sync Updates" settings to ColEm-Symbian. 
+  * Documentation and built-in help changed, many inconsistencies removed. 

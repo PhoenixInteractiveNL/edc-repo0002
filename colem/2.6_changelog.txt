@@ -1,0 +1,14 @@
+New in ColEm 2.6
+  * State save file format (.STA) changed! 
+  * Now clearing all RAM to zeros (Heist works). 
+  * Now padding smaller ROMs with 0xFFs in LoadROM(). 
+  * Fixed Reset9918() to reset VDP completely (Boulder Dash and Frogger). 
+  * Implemented SCREEN2 table address masking, thanks to Daniel Bienvenu. 
+  * Fixed ColEm-Unix to automatically adapt to the screen depth. 
+  * Ported ColEm to Maemo5 (aka Fremantle). 
+  * Added accelerometer based tilt controls to ColEm-Maemo5. 
+  * Added Maemo-specific configuration menu to ColEm-Maemo5. 
+  * Added customizable key mappings to ColEm-Maemo5. 
+  * Added fast-forwarding with [Ctrl]+[Space] to ColEm-Maemo5. 
+  * Fixed on-screen dialpad in ColEm-Maemo. 
+  * Multiple other small fixes and additions to ColEm-Maemo. 
