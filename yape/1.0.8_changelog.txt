@@ -1,0 +1,8 @@
+CHANGES IN 1.0.8 FROM 1.0.7
+---------------------------
+released on Dec 25, 2015
+
+- [FIX] GUI fix
+- [FIX] SID fixes
+- [FIX] drive RPM fix
+- [FIX] autostart randomization fix

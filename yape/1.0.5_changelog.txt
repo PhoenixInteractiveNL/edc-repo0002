@@ -1,0 +1,18 @@
+CHANGES IN 1.0.5 FROM 1.0.4
+---------------------------
+released on Oct 21, 2014
+
+- [NEW] show full IEC path in directory listing
+- [NEW] using Direct3D 9.0 (at last...)
+  - better fullscreen mode (no resolution mode change)
+  - more consistent CRT emulation across video modes
+  - adjustable video oversampling in DX mode (i.e. 'Use GDI' off)
+  - Direct3D surfaces can be saved to PNG format
+  - replaced 'double size' with 'double scan' in DX mode (576 row line buffer)
+  - removed deprecated overlay mode and DirectDraw dependencies
+- [NEW] Morph to NTSC mode and back without a reset
+- [NEW] Windows XP and higher only (sorry... no time to maintain earlier ones)
+- [FIX] file association bug
+- [FIX] autostart fixes
+- [FIX] tape motor should not start when PLAY/RECORD is pressed via the GUI
+- [FIX] some code cleanups and fixes

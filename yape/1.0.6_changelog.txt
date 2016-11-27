@@ -1,0 +1,9 @@
+CHANGES IN 1.0.6 FROM 1.0.5
+---------------------------
+released on Oct 30, 2014
+
+- [NEW] direction controllers (POV buttons) can now, too, be used as joystick
+- [FIX] fullscreen mode made ALT+TAB friendly
+- [FIX] occasional crashes on some machines with small border mode on
+- [FIX] assembler bug in 64 bit build
+- [FIX] minor fixes

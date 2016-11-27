@@ -1,0 +1,11 @@
+CHANGES IN 1.0.9 FROM 1.0.8
+---------------------------
+released on Feb 14, 2016
+
+- [NEW] updated project to be used with Visual Studio 2015 and MinGW-w64
+- [NEW] optional XAudio2 driver added
+- [NEW] D81 image support in 1551/IEC mode (no partitions though)
+- [NEW] PSID replay support via the autostart menu
+- [NEW] refactored audio mixing
+- [FIX] disk attachment regression bug
+- [FIX] couple of other bugfixes (monitor settings, TED sound, snapshot)
