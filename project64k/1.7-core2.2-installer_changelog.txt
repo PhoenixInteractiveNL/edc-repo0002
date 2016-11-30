@@ -1,0 +1,3 @@
+Oops! Multi-code cheats were not working last release. This has been fixed. Cheats were also not able to be disabled. I think this has been fixed.
+
+Cheats should be 100% functional now!
