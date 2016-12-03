@@ -1,0 +1,3 @@
+2013-10-09  Petter Schau (peschau)
+	* [r966] fellow/SRC/WIN32/C/WGUI.C, fellow/SRC/WIN32/MSVC/GUI_general.rc: Removed statefile
+	  entries in the menu.

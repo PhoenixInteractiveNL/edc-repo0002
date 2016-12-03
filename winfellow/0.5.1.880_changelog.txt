@@ -1,0 +1,10 @@
+2013-04-14  Torsten Enderling (carfesh)
+	* [r880] fellow/SRC/WIN32/MSVC/WinFellow.vcxproj: toolset targeting also changed for release
+	  builds
+	* [r879] fellow/SRC/WIN32/MSVC/WinFellow.vcxproj: toolset changed to target WinXP
+	* [r878] fellow/Docs/WinFellow/WinFellow User Guide.lyx, fellow/readme.txt: minor
+	  documentation update before release
+	* [r877] fellow/Docs/WinFellow/WinFellow User Guide.lyx,
+	  fellow/SRC/WIN32/INCLUDE/versioninfo-wcrev.h,
+	  fellow/SRC/WIN32/MSVC/GUI_versioninfo-wcrev.rc: updated version information to release
+	  0.5.1
