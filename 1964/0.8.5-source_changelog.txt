@@ -1,0 +1,8 @@
+- Full GoodN64 names are now shown in the rom browser (tested ones, 800+).
+- All game specific "Save Types" (primary, secondary) are set by default.
+- Many newly supported games.
+- Now supports (G), (F), (I), (S), and (J) region roms.
+- Numerous fixes: sound problem in Zelda OOT/crashing, freeze/hang when hitting another car in Ridge Racer 64, etc., speed issues, sound fixes, resolutions corrected (many).
+- All (PD) roms are tested and most all are supported.
+
+*Note* Theres alot more supported games (regions), fixes and optimizations than is listed below, ive lost track of them all with the testing of over 800+ roms.

@@ -1,0 +1,1981 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-08-28 18:48:34 ....A        62259      4936383  Source\3rd Party\zlib\ChangeLog
+2015-08-28 18:48:34 ....A         1753               Source\3rd Party\zlib\INDEX
+2015-08-28 18:48:34 ....A        18009               Source\nragev20\LICENSE
+2015-08-28 18:48:34 ....A         5200               Source\3rd Party\zlib\README
+2015-08-28 18:48:34 ....A       119621               Source\Glide64\Help\Glide64 Help.chm
+2015-08-28 18:48:34 ....A        24252               Source\Project64\User Interface\Bitmaps\AboutScreenBottom.bmp
+2015-08-28 18:48:34 ....A         8472               Source\Project64\User Interface\Bitmaps\AboutScreenMiddle.bmp
+2015-08-28 18:48:34 ....A       132608               Source\Project64\User Interface\Bitmaps\AboutScreenTop.bmp
+2015-08-28 18:48:34 ....A         1398               Source\Project64\User Interface\Bitmaps\CloseHover.bmp
+2015-08-28 18:48:34 ....A         1400               Source\Project64\User Interface\Bitmaps\CloseNormal.bmp
+2015-08-28 18:48:34 ....A         1398               Source\Project64\User Interface\Bitmaps\ClosePushed.bmp
+2015-08-28 18:48:34 ....A       154542               Source\Installer\Installer-Sidebar.bmp
+2015-08-28 18:48:34 ....A         5576               Source\Project64\User Interface\Bitmaps\LangOK.bmp
+2015-08-28 18:48:34 ....A         5576               Source\Project64\User Interface\Bitmaps\LangOK_down.bmp
+2015-08-28 18:48:34 ....A         7734               Source\Project64\res\ListItems.bmp
+2015-08-28 18:48:34 ....A         7734               Source\Project64\User Interface\Bitmaps\ListItems.bmp
+2015-08-28 18:48:34 ....A         9296               Source\Installer\Pj64LogoSmallImage.bmp
+2015-08-28 18:48:34 ....A         3128               Source\Project64\User Interface\Bitmaps\tri-state.bmp
+2015-08-28 18:48:34 ....A        26494               Bin\Inno Setup\WizModernImage.bmp
+2015-08-28 18:48:34 ....A         1658               Bin\Inno Setup\WizModernSmallImage.bmp
+2015-08-28 18:48:34 ....A         1518               Source\Project64\User Interface\Icons\left.ico
+2015-08-28 18:48:34 ....A        26582               Source\Project64\User Interface\Icons\pj64.ico
+2015-08-28 18:48:34 ....A         1518               Source\Project64\User Interface\Icons\right.ico
+2015-08-28 18:48:34 ....A       459657               Source\Project64\User Interface\Bitmaps\AboutScreen.psd
+2015-08-28 18:48:34 ....A        38190               Source\3rd Party\wx\src\common\unictabl.inc
+2015-08-28 18:48:34 ....A         3719               Source\Glitch64\3dfx-mangling.h
+2015-08-28 18:48:34 ....A         3046               Source\3rd Party\glide\3DFX.H
+2015-08-28 18:48:34 ....A         3574               Source\Glide64\inc\3dfx.h
+2015-08-28 18:48:34 ....A         3596               Source\Glitch64\inc\3dfx.h
+2015-08-28 18:48:34 ....A         2476               Source\Glide64\3dmath.h
+2015-08-28 18:48:34 ....A         4733               Source\3rd Party\7zip\7z.h
+2015-08-28 18:48:34 ....A          326               Source\3rd Party\7zip\7zAlloc.h
+2015-08-28 18:48:34 ....A          649               Source\3rd Party\7zip\7zBuf.h
+2015-08-28 18:48:34 ....A          635               Source\3rd Party\7zip\7zCrc.h
+2015-08-28 18:48:34 ....A         1496               Source\3rd Party\7zip\7zFile.h
+2015-08-28 18:48:34 ....A         2391               Source\Project64\3rd Party\7zip.h
+2015-08-28 18:48:34 ....A         1110               Source\3rd Party\7zip\7zTypes.h
+2015-08-28 18:48:34 ....A          254               Source\3rd Party\7zip\7zVersion.h
+2015-08-28 18:48:34 ....A         1387               Source\3rd Party\wx\include\wx\msw\accel.h
+2015-08-28 18:48:34 ....A         5853               Source\3rd Party\wx\include\wx\accel.h
+2015-08-28 18:48:34 ....A         8450               Source\3rd Party\wx\include\wx\msw\ole\activex.h
+2015-08-28 18:48:34 ....A         1734               Source\3rd Party\wx\include\wx\affinematrix2d.h
+2015-08-28 18:48:34 ....A         3847               Source\3rd Party\wx\include\wx\affinematrix2dbase.h
+2015-08-28 18:48:34 ....A         1415               Source\3rd Party\wx\include\wx\afterstd.h
+2015-08-28 18:48:34 ....A          622               Source\3rd Party\7zip\Alloc.h
+2015-08-28 18:48:34 ....A         2746               Source\3rd Party\wx\include\wx\anidecod.h
+2015-08-28 18:48:34 ....A         5895               Source\3rd Party\wx\include\wx\animdecod.h
+2015-08-28 18:48:34 ....A        31787               Source\3rd Party\wx\include\wx\any.h
+2015-08-28 18:48:34 ....A         2761               Source\3rd Party\wx\include\wx\msw\anybutton.h
+2015-08-28 18:48:34 ....A         7620               Source\3rd Party\wx\include\wx\anybutton.h
+2015-08-28 18:48:34 ....A         5299               Source\3rd Party\wx\include\wx\anystr.h
+2015-08-28 18:48:34 ....A         4521               Source\3rd Party\wx\include\wx\msw\app.h
+2015-08-28 18:48:34 ....A        35227               Source\3rd Party\wx\include\wx\app.h
+2015-08-28 18:48:34 ....A        14341               Source\3rd Party\wx\art\tango\application_x_executable.h
+2015-08-28 18:48:34 ....A         2733               Source\3rd Party\wx\include\wx\msw\apptbase.h
+2015-08-28 18:48:34 ....A         2162               Source\3rd Party\wx\include\wx\msw\apptrait.h
+2015-08-28 18:48:34 ....A        10907               Source\3rd Party\wx\include\wx\apptrait.h
+2015-08-28 18:48:34 ....A        11902               Source\3rd Party\wx\include\wx\archive.h
+2015-08-28 18:48:34 ....A        18864               Source\3rd Party\wx\include\wx\arrstr.h
+2015-08-28 18:48:34 ....A        11729               Source\3rd Party\wx\include\wx\artprov.h
+2015-08-28 18:48:34 ....A        55845               Source\3rd Party\WTL\atlapp.h
+2015-08-28 18:48:34 ....A        62144               Source\3rd Party\WTL\atlcrack.h
+2015-08-28 18:48:34 ....A       272121               Source\3rd Party\WTL\atlctrls.h
+2015-08-28 18:48:34 ....A       121748               Source\3rd Party\WTL\atlctrlw.h
+2015-08-28 18:48:34 ....A       132570               Source\3rd Party\WTL\atlctrlx.h
+2015-08-28 18:48:34 ....A        17236               Source\3rd Party\WTL\atlddx.h
+2015-08-28 18:48:34 ....A       178941               Source\3rd Party\WTL\atldlgs.h
+2015-08-28 18:48:34 ....A        11555               Source\3rd Party\WTL\atldwm.h
+2015-08-28 18:48:34 ....A        27982               Source\3rd Party\WTL\atlfind.h
+2015-08-28 18:48:34 ....A       108856               Source\3rd Party\WTL\atlframe.h
+2015-08-28 18:48:34 ....A       101817               Source\3rd Party\WTL\atlgdi.h
+2015-08-28 18:48:34 ....A        87689               Source\3rd Party\WTL\atlmisc.h
+2015-08-28 18:48:34 ....A        29998               Source\3rd Party\WTL\atlprint.h
+2015-08-28 18:48:34 ....A         9888               Source\3rd Party\WTL\atlres.h
+2015-08-28 18:48:34 ....A         2607               Source\3rd Party\WTL\atlresce.h
+2015-08-28 18:48:34 ....A        88277               Source\3rd Party\WTL\atlribbon.h
+2015-08-28 18:48:34 ....A        57898               Source\3rd Party\WTL\atlscrl.h
+2015-08-28 18:48:34 ....A        25362               Source\3rd Party\WTL\atlsplit.h
+2015-08-28 18:48:34 ....A        34935               Source\3rd Party\WTL\atltheme.h
+2015-08-28 18:48:34 ....A        39717               Source\3rd Party\WTL\atluser.h
+2015-08-28 18:48:34 ....A        83905               Source\3rd Party\WTL\atlwince.h
+2015-08-28 18:48:34 ....A        14397               Source\3rd Party\WTL\atlwinx.h
+2015-08-28 18:48:34 ....A         4424               Source\3rd Party\wx\include\wx\atomic.h
+2015-08-28 18:48:34 ....A         1771               Source\Project64\Plugins\Audio Plugin.h
+2015-08-28 18:48:34 ....A         1398               Source\Project64\N64 System\Mips\Audio.h
+2015-08-28 18:48:34 ....A         4855               Source\3rd Party\wx\include\wx\msw\ole\automtn.h
+2015-08-28 18:48:34 ....A         4695               Source\3rd Party\wx\include\wx\base64.h
+2015-08-28 18:48:34 ....A          707               Source\3rd Party\7zip\Bcj2.h
+2015-08-28 18:48:34 ....A         3021               Source\3rd Party\wx\include\wx\beforestd.h
+2015-08-28 18:48:34 ....A        10565               Source\3rd Party\wx\include\wx\msw\bitmap.h
+2015-08-28 18:48:34 ....A        10581               Source\3rd Party\wx\include\wx\bitmap.h
+2015-08-28 18:48:34 ....A         1642               Source\3rd Party\wx\include\wx\msw\bmpbuttn.h
+2015-08-28 18:48:34 ....A         4522               Source\3rd Party\wx\include\wx\bmpbuttn.h
+2015-08-28 18:48:34 ....A        15161               Source\3rd Party\wx\include\wx\bookctrl.h
+2015-08-28 18:48:34 ....A         1899               Source\3rd Party\7zip\Bra.h
+2015-08-28 18:48:34 ....A         1602               Source\RSP\breakpoint.h
+2015-08-28 18:48:34 ....A         1986               Source\3rd Party\wx\include\wx\msw\brush.h
+2015-08-28 18:48:34 ....A         4474               Source\3rd Party\wx\include\wx\brush.h
+2015-08-28 18:48:34 ....A        17277               Source\3rd Party\wx\include\wx\buffer.h
+2015-08-28 18:48:34 ....A         4776               Source\3rd Party\wx\include\wx\build.h
+2015-08-28 18:48:34 ....A          575               Source\3rd Party\wx\include\wx\busyinfo.h
+2015-08-28 18:48:34 ....A         1192               Source\3rd Party\wx\include\wx\generic\busyinfo.h
+2015-08-28 18:48:34 ....A         2057               Source\3rd Party\wx\include\wx\button.h
+2015-08-28 18:48:34 ....A         2538               Source\3rd Party\wx\include\wx\msw\private\button.h
+2015-08-28 18:48:34 ....A         2635               Source\3rd Party\wx\include\wx\msw\button.h
+2015-08-28 18:48:34 ....A          628               Source\3rd Party\wx\include\wx\cairo.h
+2015-08-28 18:48:34 ....A         1524               Source\3rd Party\wx\include\wx\msw\caret.h
+2015-08-28 18:48:34 ....A         7491               Source\3rd Party\wx\include\wx\caret.h
+2015-08-28 18:48:34 ....A        10913               Source\3rd Party\wx\include\wx\chartype.h
+2015-08-28 18:48:34 ....A         4242               Source\Project64\N64 System\Cheat Class.h
+2015-08-28 18:48:34 ....A         2878               Source\3rd Party\wx\include\wx\msw\checkbox.h
+2015-08-28 18:48:34 ....A         6028               Source\3rd Party\wx\include\wx\checkbox.h
+2015-08-28 18:48:34 ....A         2399               Source\3rd Party\wx\include\wx\checkeddelete.h
+2015-08-28 18:48:34 ....A         2110               Source\3rd Party\wx\include\wx\checklst.h
+2015-08-28 18:48:34 ....A         3443               Source\3rd Party\wx\include\wx\msw\checklst.h
+2015-08-28 18:48:34 ....A        11946               Source\3rd Party\wx\include\wx\msw\chkconf.h
+2015-08-28 18:48:34 ....A        66140               Source\3rd Party\wx\include\wx\chkconf.h
+2015-08-28 18:48:34 ....A        20802               Source\3rd Party\wx\include\wx\generic\choicdgg.h
+2015-08-28 18:48:34 ....A          559               Source\3rd Party\wx\include\wx\choicdlg.h
+2015-08-28 18:48:34 ....A         3157               Source\3rd Party\wx\include\wx\choice.h
+2015-08-28 18:48:34 ....A         6182               Source\3rd Party\wx\include\wx\msw\choice.h
+2015-08-28 18:48:34 ....A         4588               Source\3rd Party\wx\include\wx\choicebk.h
+2015-08-28 18:48:34 ....A         1368               Source\Project64\CKaillera.h
+2015-08-28 18:48:34 ....A         3171               Source\3rd Party\wx\include\wx\msw\clipbrd.h
+2015-08-28 18:48:34 ....A         6563               Source\3rd Party\wx\include\wx\clipbrd.h
+2015-08-28 18:48:34 ....A         5049               Source\3rd Party\wx\include\wx\clntdata.h
+2015-08-28 18:48:34 ....A         7182               Source\3rd Party\wx\include\wx\clrpicker.h
+2015-08-28 18:48:34 ....A         2854               Source\3rd Party\wx\include\wx\generic\clrpickerg.h
+2015-08-28 18:48:34 ....A         4023               Source\3rd Party\wx\include\wx\cmdargs.h
+2015-08-28 18:48:34 ....A        10916               Source\3rd Party\wx\include\wx\cmdline.h
+2015-08-28 18:48:34 ....A         4619               Source\3rd Party\wx\include\wx\cmdproc.h
+2015-08-28 18:48:34 ....A        11765               Source\3rd Party\wx\include\wx\cmndata.h
+2015-08-28 18:48:34 ....A         3440               Source\Project64\N64 System\Recompiler\Code Block.h
+2015-08-28 18:48:34 ....A         3275               Source\Project64\N64 System\Recompiler\Code Section.h
+2015-08-28 18:48:34 ....A         3378               Source\3rd Party\wx\include\wx\collpane.h
+2015-08-28 18:48:34 ....A         3469               Source\3rd Party\wx\include\wx\generic\collpaneg.h
+2015-08-28 18:48:34 ....A         1336               Source\3rd Party\wx\include\wx\colordlg.h
+2015-08-28 18:48:34 ....A         2281               Source\3rd Party\wx\include\wx\msw\colordlg.h
+2015-08-28 18:48:34 ....A         1943               Source\3rd Party\wx\include\wx\msw\colour.h
+2015-08-28 18:48:34 ....A         8337               Source\3rd Party\wx\include\wx\colour.h
+2015-08-28 18:48:34 ....A         1630               Source\3rd Party\wx\include\wx\colourdata.h
+2015-08-28 18:48:34 ....A         5213               Source\Glide64\Combine.h
+2015-08-28 18:48:34 ....A         3665               Source\3rd Party\wx\include\wx\msw\combo.h
+2015-08-28 18:48:34 ....A         5203               Source\3rd Party\wx\include\wx\generic\combo.h
+2015-08-28 18:48:34 ....A        33056               Source\3rd Party\wx\include\wx\combo.h
+2015-08-28 18:48:34 ....A         3627               Source\3rd Party\wx\include\wx\combobox.h
+2015-08-28 18:48:34 ....A         6181               Source\3rd Party\wx\include\wx\msw\combobox.h
+2015-08-28 18:48:34 ....A         1558               Source\nragev20\commonIncludes.h
+2015-08-28 18:48:34 ....A         7766               Source\3rd Party\wx\include\wx\compositewin.h
+2015-08-28 18:48:34 ....A         3193               Source\3rd Party\wx\include\wx\msw\private\comptr.h
+2015-08-28 18:48:34 ....A        17780               Source\3rd Party\wx\include\wx\confbase.h
+2015-08-28 18:48:34 ....A         1240               Source\3rd Party\wx\include\wx\config.h
+2015-08-28 18:48:34 ....A        10474               Source\Glide64\Config.h
+2015-08-28 18:48:34 ....A        17453               Source\3rd Party\wx\include\wx\containr.h
+2015-08-28 18:48:34 ....A         5380               Source\3rd Party\wx\include\wx\msw\control.h
+2015-08-28 18:48:34 ....A         8893               Source\3rd Party\wx\include\wx\control.h
+2015-08-28 18:48:34 ....A         8899               Source\nragev20\ControllerSpecs\Controller #1.1.h
+2015-08-28 18:48:34 ....A         3490               Source\Project64\Plugins\Controller Plugin.h
+2015-08-28 18:48:34 ....A         4719               Source\3rd Party\wx\include\wx\convauto.h
+2015-08-28 18:48:34 ....A         1082               Source\3rd Party\wx\include\wx\meta\convertible.h
+2015-08-28 18:48:34 ....A         3934               Source\3rd Party\wx\include\wx\cpp.h
+2015-08-28 18:48:34 ....A         1454               Source\RSP\Cpu.h
+2015-08-28 18:48:34 ....A         3778               Source\3rd Party\7zip\CpuArch.h
+2015-08-28 18:48:34 ....A         4166               Source\3rd Party\wx\include\wx\msw\crashrpt.h
+2015-08-28 18:48:34 ....A         2149               Source\Glide64\CRC.h
+2015-08-28 18:48:34 ....A        30568               Source\3rd Party\zlib\crc32.h
+2015-08-28 18:48:34 ....A        31009               Source\3rd Party\wx\src\zlib\crc32.h
+2015-08-28 18:48:34 ....A         2730               Source\Common\CriticalSection.h
+2015-08-28 18:48:34 ....A          673               Source\3rd Party\wx\include\wx\crt.h
+2015-08-28 18:48:34 ....A         4712               Source\3rd Party\zlib\contrib\minizip\crypt.h
+2015-08-28 18:48:34 ....A         8887               Source\3rd Party\wx\include\wx\cshelp.h
+2015-08-28 18:48:34 ....A         1725               Source\3rd Party\wx\include\wx\msw\ctrlsub.h
+2015-08-28 18:48:34 ....A         4431               Source\3rd Party\wx\include\wx\generic\ctrlsub.h
+2015-08-28 18:48:34 ....A        19030               Source\3rd Party\wx\include\wx\ctrlsub.h
+2015-08-28 18:48:34 ....A         1345               Source\3rd Party\wx\include\wx\msw\cursor.h
+2015-08-28 18:48:34 ....A         3438               Source\3rd Party\wx\include\wx\cursor.h
+2015-08-28 18:48:34 ....A        10114               Source\Glide64\cursor.h
+2015-08-28 18:48:34 ....A         4746               Source\Project64\User Interface\WTL Controls\ClistCtrl\DataArray.h
+2015-08-28 18:48:34 ....A         3122               Source\3rd Party\wx\include\wx\msw\ole\dataform.h
+2015-08-28 18:48:34 ....A         3142               Source\3rd Party\wx\include\wx\msw\ole\dataobj.h
+2015-08-28 18:48:34 ....A        22909               Source\3rd Party\wx\include\wx\dataobj.h
+2015-08-28 18:48:34 ....A         5287               Source\3rd Party\wx\include\wx\msw\ole\dataobj2.h
+2015-08-28 18:48:34 ....A        88663               Source\3rd Party\wx\include\wx\datetime.h
+2015-08-28 18:48:34 ....A         5265               Source\3rd Party\wx\include\wx\datstrm.h
+2015-08-28 18:48:34 ....A         3728               Source\3rd Party\wx\include\wx\msw\private\dc.h
+2015-08-28 18:48:34 ....A        13573               Source\3rd Party\wx\include\wx\msw\dc.h
+2015-08-28 18:48:34 ....A        55240               Source\3rd Party\wx\include\wx\dc.h
+2015-08-28 18:48:34 ....A         7903               Source\3rd Party\wx\include\wx\dcbuffer.h
+2015-08-28 18:48:34 ....A         1666               Source\3rd Party\wx\include\wx\dcclient.h
+2015-08-28 18:48:34 ....A         3221               Source\3rd Party\wx\include\wx\msw\dcclient.h
+2015-08-28 18:48:34 ....A         7571               Source\3rd Party\wx\include\wx\dcgraph.h
+2015-08-28 18:48:34 ....A         1212               Source\3rd Party\wx\include\wx\dcmemory.h
+2015-08-28 18:48:34 ....A         1477               Source\3rd Party\wx\include\wx\msw\dcmemory.h
+2015-08-28 18:48:34 ....A        10597               Source\3rd Party\wx\include\wx\dcmirror.h
+2015-08-28 18:48:34 ....A         1090               Source\3rd Party\wx\include\wx\dcprint.h
+2015-08-28 18:48:34 ....A         2390               Source\3rd Party\wx\include\wx\msw\dcprint.h
+2015-08-28 18:48:34 ....A          887               Source\3rd Party\wx\include\wx\msw\dcscreen.h
+2015-08-28 18:48:34 ....A          911               Source\3rd Party\wx\include\wx\dcscreen.h
+2015-08-28 18:48:34 ....A         6912               Source\3rd Party\wx\include\wx\dcsvg.h
+2015-08-28 18:48:34 ....A          977               Source\3rd Party\wx\include\wx\dde.h
+2015-08-28 18:48:34 ....A         4216               Source\3rd Party\wx\include\wx\msw\dde.h
+2015-08-28 18:48:34 ....A         1547               Source\Project64\N64 System\Debugger\Debug Dialog.h
+2015-08-28 18:48:34 ....A         1596               Source\Project64\Settings\Debug Settings.h
+2015-08-28 18:48:34 ....A         2025               Source\nragev20\Debug.h
+2015-08-28 18:48:34 ....A        19757               Source\3rd Party\wx\include\wx\debug.h
+2015-08-28 18:48:34 ....A         1729               Source\Project64\N64 System\Debugger\Debugger - Memory Dump.h
+2015-08-28 18:48:34 ....A         3176               Source\Project64\N64 System\Debugger\Debugger - Memory Search.h
+2015-08-28 18:48:34 ....A         1343               Source\Project64\N64 System\Debugger\Debugger - TLB.h
+2015-08-28 18:48:34 ....A         2337               Source\Project64\N64 System\Debugger\Debugger - View Memory.h
+2015-08-28 18:48:34 ....A          928               Source\Project64\N64 System\Debugger\Debugger UI.h
+2015-08-28 18:48:34 ....A         1436               Source\Project64\N64 System\Debugger\debugger.h
+2015-08-28 18:48:34 ....A         4285               Source\Glide64\Debugger.h
+2015-08-28 18:48:34 ....A         9565               Source\3rd Party\wx\include\wx\msw\debughlp.h
+2015-08-28 18:48:34 ....A        12445               Source\3rd Party\wx\src\zlib\deflate.h
+2015-08-28 18:48:34 ....A        12672               Source\3rd Party\zlib\deflate.h
+2015-08-28 18:48:34 ....A       115383               Source\3rd Party\wx\include\wx\defs.h
+2015-08-28 18:48:34 ....A         1260               Source\Project64\N64 System\Recompiler\Delay Slot Map Class.h
+2015-08-28 18:48:34 ....A          413               Source\3rd Party\7zip\Delta.h
+2015-08-28 18:48:34 ....A         2425               Source\Glide64\DepthBufferRender.h
+2015-08-28 18:48:34 ....A         4637               Source\3rd Party\wx\include\wx\msw\dialog.h
+2015-08-28 18:48:34 ....A        15947               Source\3rd Party\wx\include\wx\dialog.h
+2015-08-28 18:48:34 ....A        13219               Source\3rd Party\wx\art\tango\dialog_error.h
+2015-08-28 18:48:34 ....A        18610               Source\3rd Party\wx\art\tango\dialog_information.h
+2015-08-28 18:48:34 ....A        13332               Source\3rd Party\wx\art\tango\dialog_warning.h
+2015-08-28 18:48:34 ....A         8416               Source\3rd Party\wx\include\wx\dialup.h
+2015-08-28 18:48:34 ....A         8536               Source\3rd Party\wx\include\wx\msw\dib.h
+2015-08-28 18:48:34 ....A       226822               Source\3rd Party\directx\include\dinput.h
+2015-08-28 18:48:34 ....A         6554               Source\3rd Party\wx\include\wx\dir.h
+2015-08-28 18:48:34 ....A        10433               Source\3rd Party\wx\include\wx\generic\dirctrlg.h
+2015-08-28 18:48:34 ....A         1264               Source\3rd Party\wx\include\wx\msw\dirdlg.h
+2015-08-28 18:48:34 ....A         4985               Source\3rd Party\wx\include\wx\dirdlg.h
+2015-08-28 18:48:34 ....A         5682               Source\nragev20\DirectInput.h
+2015-08-28 18:48:34 ....A         4501               Source\3rd Party\wx\include\wx\display.h
+2015-08-28 18:48:34 ....A         3668               Source\3rd Party\wx\include\wx\display_impl.h
+2015-08-28 18:48:34 ....A        12333               Source\3rd Party\wx\include\wx\dlimpexp.h
+2015-08-28 18:48:34 ....A        25595               Source\3rd Party\wx\include\wx\dlist.h
+2015-08-28 18:48:34 ....A         1098               Source\RSP\dma.h
+2015-08-28 18:48:34 ....A         1216               Source\Project64\N64 System\Mips\Dma.h
+2015-08-28 18:48:34 ....A        10159               Source\3rd Party\wx\include\wx\dnd.h
+2015-08-28 18:48:34 ....A         3429               Source\3rd Party\wx\include\wx\docmdi.h
+2015-08-28 18:48:34 ....A         9603               Source\3rd Party\wx\art\tango\document_new.h
+2015-08-28 18:48:34 ....A        13799               Source\3rd Party\wx\art\tango\document_open.h
+2015-08-28 18:48:34 ....A        11514               Source\3rd Party\wx\art\tango\document_print.h
+2015-08-28 18:48:34 ....A        17195               Source\3rd Party\wx\art\tango\document_save.h
+2015-08-28 18:48:34 ....A        16751               Source\3rd Party\wx\art\tango\document_save_as.h
+2015-08-28 18:48:34 ....A        35944               Source\3rd Party\wx\include\wx\docview.h
+2015-08-28 18:48:34 ....A        20218               Source\Project64\User Interface\WTL Controls\ClistCtrl\DragDrop.h
+2015-08-28 18:48:34 ....A         7194               Source\3rd Party\wx\include\wx\msw\dragimag.h
+2015-08-28 18:48:34 ....A         9043               Source\3rd Party\wx\include\wx\generic\dragimgg.h
+2015-08-28 18:48:34 ....A         9665               Source\3rd Party\wx\art\tango\drive_harddisk.h
+2015-08-28 18:48:34 ....A        14438               Source\3rd Party\wx\art\tango\drive_optical.h
+2015-08-28 18:48:34 ....A         8976               Source\3rd Party\wx\art\tango\drive_removable_media.h
+2015-08-28 18:48:34 ....A         3355               Source\Project64\User Interface\WTL Controls\ClistCtrl\DropArrows.h
+2015-08-28 18:48:34 ....A         3165               Source\3rd Party\wx\include\wx\msw\ole\dropsrc.h
+2015-08-28 18:48:34 ....A         2842               Source\3rd Party\wx\include\wx\msw\ole\droptgt.h
+2015-08-28 18:48:34 ....A         8142               Source\Glitch64\inc\dxdiag.h
+2015-08-28 18:48:34 ....A         1928               Source\GlideHQ\tc-1.1+\dxtn.h
+2015-08-28 18:48:34 ....A        64617               Source\3rd Party\wx\include\wx\dynarray.h
+2015-08-28 18:48:34 ....A        15876               Source\3rd Party\wx\include\wx\dynlib.h
+2015-08-28 18:48:34 ....A         5625               Source\3rd Party\wx\include\wx\dynload.h
+2015-08-28 18:48:34 ....A         9862               Source\3rd Party\wx\art\tango\edit_copy.h
+2015-08-28 18:48:34 ....A        16800               Source\3rd Party\wx\art\tango\edit_cut.h
+2015-08-28 18:48:34 ....A        17112               Source\3rd Party\wx\art\tango\edit_delete.h
+2015-08-28 18:48:34 ....A        15574               Source\3rd Party\wx\art\tango\edit_find.h
+2015-08-28 18:48:34 ....A        15882               Source\3rd Party\wx\art\tango\edit_find_replace.h
+2015-08-28 18:48:34 ....A        11474               Source\3rd Party\wx\art\tango\edit_paste.h
+2015-08-28 18:48:34 ....A        11818               Source\3rd Party\wx\art\tango\edit_redo.h
+2015-08-28 18:48:34 ....A        14440               Source\3rd Party\wx\art\tango\edit_undo.h
+2015-08-28 18:48:34 ....A         1162               Source\Project64\N64 System\Mips\Eeprom.h
+2015-08-28 18:48:34 ....A         3334               Source\3rd Party\wx\include\wx\effects.h
+2015-08-28 18:48:34 ....A         6903               Source\3rd Party\wx\include\wx\encconv.h
+2015-08-28 18:48:34 ....A         2383               Source\3rd Party\wx\include\wx\encinfo.h
+2015-08-28 18:48:34 ....A         7124               Source\3rd Party\wx\include\wx\msw\enhmeta.h
+2015-08-28 18:48:34 ....A       160692               Source\3rd Party\wx\include\wx\event.h
+2015-08-28 18:48:34 ....A         2340               Source\3rd Party\wx\include\wx\eventfilter.h
+2015-08-28 18:48:34 ....A         3665               Source\3rd Party\wx\include\wx\msw\evtloop.h
+2015-08-28 18:48:34 ....A        14281               Source\3rd Party\wx\include\wx\evtloop.h
+2015-08-28 18:48:34 ....A         1442               Source\3rd Party\wx\include\wx\except.h
+2015-08-28 18:48:34 ....A         1280               Source\Project64\N64 System\Recompiler\Exit Info.h
+2015-08-28 18:48:34 ....A         7391               Source\Glide64\Ext_TxFilter.h
+2015-08-28 18:48:34 ....A         7391               Source\GlideHQ\Ext_TxFilter.h
+2015-08-28 18:48:34 ....A         2486               Source\Glide64\FBtoScreen.h
+2015-08-28 18:48:34 ....A         2077               Source\3rd Party\wx\include\wx\msw\fdrepdlg.h
+2015-08-28 18:48:34 ....A         6714               Source\3rd Party\wx\include\wx\fdrepdlg.h
+2015-08-28 18:48:34 ....A         4256               Source\3rd Party\wx\include\wx\features.h
+2015-08-28 18:48:34 ....A         3883               Source\3rd Party\wx\include\wx\ffile.h
+2015-08-28 18:48:34 ....A         2023               Source\Common\File Class.h
+2015-08-28 18:48:34 ....A         7029               Source\3rd Party\wx\include\wx\file.h
+2015-08-28 18:48:34 ....A         7955               Source\nragev20\FileAccess.h
+2015-08-28 18:48:34 ....A         2730               Source\3rd Party\wx\include\wx\private\fileback.h
+2015-08-28 18:48:34 ....A        10272               Source\3rd Party\wx\include\wx\fileconf.h
+2015-08-28 18:48:34 ....A         5776               Source\3rd Party\wx\include\wx\filectrl.h
+2015-08-28 18:48:34 ....A        11000               Source\3rd Party\wx\include\wx\generic\filectrlg.h
+2015-08-28 18:48:34 ....A         2430               Source\3rd Party\wx\include\wx\msw\filedlg.h
+2015-08-28 18:48:34 ....A         9099               Source\3rd Party\wx\include\wx\filedlg.h
+2015-08-28 18:48:34 ....A        30618               Source\3rd Party\wx\include\wx\filefn.h
+2015-08-28 18:48:34 ....A         3521               Source\3rd Party\wx\include\wx\filehistory.h
+2015-08-28 18:48:34 ....A         2009               Source\3rd Party\wx\include\wx\private\filename.h
+2015-08-28 18:48:34 ....A        24193               Source\3rd Party\wx\include\wx\filename.h
+2015-08-28 18:48:34 ....A        16190               Source\3rd Party\wx\include\wx\filepicker.h
+2015-08-28 18:48:34 ....A         8328               Source\3rd Party\wx\include\wx\generic\filepickerg.h
+2015-08-28 18:48:34 ....A        10879               Source\3rd Party\wx\include\wx\filesys.h
+2015-08-28 18:48:34 ....A         4857               Source\3rd Party\wx\include\wx\flags.h
+2015-08-28 18:48:34 ....A         4227               Source\3rd Party\wx\include\wx\private\flagscheck.h
+2015-08-28 18:48:34 ....A         1511               Source\Project64\N64 System\Mips\FlashRam.h
+2015-08-28 18:48:34 ....A         2296               Source\3rd Party\wx\include\wx\fmappriv.h
+2015-08-28 18:48:34 ....A         9844               Source\3rd Party\wx\art\tango\folder.h
+2015-08-28 18:48:34 ....A        12626               Source\3rd Party\wx\art\tango\folder_new.h
+2015-08-28 18:48:34 ....A        11565               Source\3rd Party\wx\art\tango\folder_open.h
+2015-08-28 18:48:34 ....A         6018               Source\3rd Party\wx\include\wx\msw\font.h
+2015-08-28 18:48:34 ....A        10250               Source\Glide64\font.h
+2015-08-28 18:48:34 ....A        17801               Source\3rd Party\wx\include\wx\font.h
+2015-08-28 18:48:34 ....A         2418               Source\3rd Party\wx\include\wx\fontdata.h
+2015-08-28 18:48:34 ....A         1581               Source\3rd Party\wx\include\wx\msw\fontdlg.h
+2015-08-28 18:48:34 ....A         4050               Source\3rd Party\wx\include\wx\fontdlg.h
+2015-08-28 18:48:34 ....A         6944               Source\3rd Party\wx\include\wx\fontenc.h
+2015-08-28 18:48:34 ....A         3230               Source\3rd Party\wx\include\wx\fontenum.h
+2015-08-28 18:48:34 ....A        11069               Source\3rd Party\wx\include\wx\fontmap.h
+2015-08-28 18:48:34 ....A         7700               Source\3rd Party\wx\include\wx\fontpicker.h
+2015-08-28 18:48:34 ....A         2479               Source\3rd Party\wx\include\wx\generic\fontpickerg.h
+2015-08-28 18:48:34 ....A        10496               Source\3rd Party\wx\include\wx\fontutil.h
+2015-08-28 18:48:34 ....A         1492               Source\Project64\User Interface\Frame Per Second Class.h
+2015-08-28 18:48:34 ....A         5858               Source\3rd Party\wx\include\wx\msw\frame.h
+2015-08-28 18:48:34 ....A         9880               Source\3rd Party\wx\include\wx\frame.h
+2015-08-28 18:48:34 ....A          718               Source\3rd Party\wx\include\wx\generic\fswatcher.h
+2015-08-28 18:48:34 ....A         1204               Source\3rd Party\wx\include\wx\msw\fswatcher.h
+2015-08-28 18:48:34 ....A         2792               Source\3rd Party\wx\include\wx\private\fswatcher.h
+2015-08-28 18:48:34 ....A         9897               Source\3rd Party\wx\include\wx\msw\private\fswatcher.h
+2015-08-28 18:48:34 ....A        10251               Source\3rd Party\wx\include\wx\fswatcher.h
+2015-08-28 18:48:34 ....A         1714               Source\3rd Party\wx\include\wx\fs_arc.h
+2015-08-28 18:48:34 ....A         1214               Source\3rd Party\wx\include\wx\fs_filter.h
+2015-08-28 18:48:34 ....A         5146               Source\3rd Party\wx\include\wx\fs_mem.h
+2015-08-28 18:48:34 ....A         2054               Source\Project64\N64 System\Recompiler\Function Info.h
+2015-08-28 18:48:34 ....A         1363               Source\Project64\N64 System\Recompiler\Function Map Class.h
+2015-08-28 18:48:34 ....A         3391               Source\3rd Party\glide\FXDLL.H
+2015-08-28 18:48:34 ....A          908               Source\3rd Party\glide\FXGLOB.H
+2015-08-28 18:48:34 ....A         1255               Source\3rd Party\glide\FXOS.H
+2015-08-28 18:48:34 ....A         1494               Source\GlideHQ\tc-1.1+\fxt1.h
+2015-08-28 18:48:34 ....A         6723               Source\Glitch64\inc\g3ext.h
+2015-08-28 18:48:34 ....A         3446               Source\Project64\Settings\Game Settings.h
+2015-08-28 18:48:34 ....A         2380               Source\3rd Party\wx\include\wx\msw\gauge.h
+2015-08-28 18:48:34 ....A         3716               Source\3rd Party\wx\include\wx\gauge.h
+2015-08-28 18:48:34 ....A         2154               Source\nragev20\GBCart.h
+2015-08-28 18:48:34 ....A        12663               Source\3rd Party\wx\include\wx\gbsizer.h
+2015-08-28 18:48:34 ....A        33447               Source\3rd Party\wx\include\wx\gdicmn.h
+2015-08-28 18:48:34 ....A         7029               Source\3rd Party\wx\include\wx\msw\gdiimage.h
+2015-08-28 18:48:34 ....A         3220               Source\3rd Party\wx\include\wx\gdiobj.h
+2015-08-28 18:48:34 ....A          765               Source\3rd Party\wx\include\wx\msw\genrcdefs.h
+2015-08-28 18:48:34 ....A        31968               Source\3rd Party\wx\include\wx\geometry.h
+2015-08-28 18:48:34 ....A        24015               Source\Glide64\Gfx #1.3.h
+2015-08-28 18:48:34 ....A         3801               Source\Project64\Plugins\GFX plugin.h
+2015-08-28 18:48:34 ....A         4013               Source\3rd Party\wx\include\wx\gifdecod.h
+2015-08-28 18:48:34 ....A        79964               Source\Glitch64\inc\gl.h
+2015-08-28 18:48:34 ....A       334460               Source\Glitch64\inc\glext.h
+2015-08-28 18:48:34 ....A        29914               Source\3rd Party\glide\glide.h
+2015-08-28 18:48:34 ....A        30234               Source\Glide64\inc\glide.h
+2015-08-28 18:48:34 ....A        30234               Source\Glitch64\inc\glide.h
+2015-08-28 18:48:34 ....A         4086               Source\Glide64\GlideExtensions.h
+2015-08-28 18:48:34 ....A         4392               Source\3rd Party\glide\glidesys.h
+2015-08-28 18:48:34 ....A         5034               Source\Glide64\inc\glidesys.h
+2015-08-28 18:48:34 ....A         5034               Source\Glitch64\inc\glidesys.h
+2015-08-28 18:48:34 ....A         3373               Source\3rd Party\glide\glideutl.h
+2015-08-28 18:48:34 ....A         3858               Source\Glide64\inc\glideutl.h
+2015-08-28 18:48:34 ....A         3858               Source\Glitch64\inc\glideutl.h
+2015-08-28 18:48:34 ....A        13667               Source\3rd Party\wx\art\tango\go_down.h
+2015-08-28 18:48:34 ....A        13995               Source\3rd Party\wx\art\tango\go_first.h
+2015-08-28 18:48:34 ....A        12671               Source\3rd Party\wx\art\tango\go_home.h
+2015-08-28 18:48:34 ....A        13901               Source\3rd Party\wx\art\tango\go_last.h
+2015-08-28 18:48:34 ....A        13769               Source\3rd Party\wx\art\tango\go_next.h
+2015-08-28 18:48:34 ....A        14133               Source\3rd Party\wx\art\tango\go_previous.h
+2015-08-28 18:48:34 ....A        13365               Source\3rd Party\wx\art\tango\go_up.h
+2015-08-28 18:48:34 ....A         6296               Source\3rd Party\wx\include\wx\private\graphics.h
+2015-08-28 18:48:34 ....A        32025               Source\3rd Party\wx\include\wx\graphics.h
+2015-08-28 18:48:34 ....A         4289               Source\Project64\User Interface\Gui Class.h
+2015-08-28 18:48:34 ....A         1169               Source\Project64\Settings\Gui Settings.h
+2015-08-28 18:48:34 ....A         4677               Source\3rd Party\zlib\gzguts.h
+2015-08-28 18:48:34 ....A        12088               Source\3rd Party\wx\include\wx\hash.h
+2015-08-28 18:48:34 ....A        27662               Source\3rd Party\wx\include\wx\hashmap.h
+2015-08-28 18:48:34 ....A         9986               Source\3rd Party\wx\include\wx\hashset.h
+2015-08-28 18:48:34 ....A        10162               Source\3rd Party\wx\include\wx\headercol.h
+2015-08-28 18:48:34 ....A         5034               Source\3rd Party\wx\include\wx\msw\headerctrl.h
+2015-08-28 18:48:34 ....A        17933               Source\3rd Party\wx\include\wx\headerctrl.h
+2015-08-28 18:48:34 ....A         1043               Source\3rd Party\wx\include\wx\help.h
+2015-08-28 18:48:34 ....A         3670               Source\3rd Party\wx\include\wx\helpbase.h
+2015-08-28 18:48:34 ....A         3478               Source\3rd Party\wx\include\wx\msw\helpchm.h
+2015-08-28 18:48:34 ....A         1828               Source\3rd Party\wx\include\wx\msw\helpwin.h
+2015-08-28 18:48:34 ....A         1427               Source\3rd Party\wx\include\wx\msw\private\hiddenwin.h
+2015-08-28 18:48:34 ....A        12811               Source\3rd Party\wx\include\wx\msw\htmlhelp.h
+2015-08-28 18:48:34 ....A         2304               Source\3rd Party\wx\include\wx\icon.h
+2015-08-28 18:48:34 ....A         3007               Source\3rd Party\wx\include\wx\msw\icon.h
+2015-08-28 18:48:34 ....A         4718               Source\3rd Party\wx\include\wx\iconbndl.h
+2015-08-28 18:48:34 ....A         2391               Source\3rd Party\wx\include\wx\iconloc.h
+2015-08-28 18:48:34 ....A         2105               Source\3rd Party\wx\include\wx\meta\if.h
+2015-08-28 18:48:34 ....A         5573               Source\3rd Party\wx\include\wx\imagbmp.h
+2015-08-28 18:48:34 ....A        25870               Source\3rd Party\wx\include\wx\image.h
+2015-08-28 18:48:34 ....A         8869               Source\3rd Party\wx\art\tango\image_missing.h
+2015-08-28 18:48:34 ....A         3149               Source\3rd Party\wx\include\wx\imaggif.h
+2015-08-28 18:48:34 ....A         1316               Source\3rd Party\wx\include\wx\imagiff.h
+2015-08-28 18:48:34 ....A         1486               Source\3rd Party\wx\include\wx\imagjpeg.h
+2015-08-28 18:48:34 ....A         1897               Source\3rd Party\wx\include\wx\imaglist.h
+2015-08-28 18:48:34 ....A         8045               Source\3rd Party\wx\include\wx\msw\imaglist.h
+2015-08-28 18:48:34 ....A         1344               Source\3rd Party\wx\include\wx\imagpcx.h
+2015-08-28 18:48:34 ....A         1948               Source\3rd Party\wx\include\wx\imagpng.h
+2015-08-28 18:48:34 ....A         1396               Source\3rd Party\wx\include\wx\imagpnm.h
+2015-08-28 18:48:34 ....A         1379               Source\3rd Party\wx\include\wx\imagtga.h
+2015-08-28 18:48:34 ....A         2157               Source\3rd Party\wx\include\wx\imagtiff.h
+2015-08-28 18:48:34 ....A         1279               Source\3rd Party\wx\include\wx\imagxpm.h
+2015-08-28 18:48:34 ....A         3702               Source\3rd Party\wx\include\wx\meta\implicitconversion.h
+2015-08-28 18:48:34 ....A          418               Source\3rd Party\wx\src\zlib\inffast.h
+2015-08-28 18:48:34 ....A          427               Source\3rd Party\zlib\inffast.h
+2015-08-28 18:48:34 ....A         6343               Source\3rd Party\zlib\inffixed.h
+2015-08-28 18:48:34 ....A         6437               Source\3rd Party\wx\src\zlib\inffixed.h
+2015-08-28 18:48:34 ....A         6031               Source\3rd Party\wx\src\zlib\inflate.h
+2015-08-28 18:48:34 ....A         6399               Source\3rd Party\zlib\inflate.h
+2015-08-28 18:48:34 ....A         2382               Source\3rd Party\wx\include\wx\infobar.h
+2015-08-28 18:48:34 ....A         4266               Source\3rd Party\wx\include\wx\generic\infobar.h
+2015-08-28 18:48:34 ....A         2428               Source\3rd Party\wx\src\zlib\inftrees.h
+2015-08-28 18:48:34 ....A         2928               Source\3rd Party\zlib\inftrees.h
+2015-08-28 18:48:34 ....A         4042               Source\Common\Ini File Class.h
+2015-08-28 18:48:34 ....A         4175               Source\3rd Party\wx\include\wx\init.h
+2015-08-28 18:48:34 ....A         4491               Source\3rd Party\wx\include\wx\msw\init.h
+2015-08-28 18:48:34 ....A          576               Source\3rd Party\wx\include\wx\meta\int2type.h
+2015-08-28 18:48:34 ....A         2464               Source\nragev20\Interface.h
+2015-08-28 18:48:34 ....A         3864               Source\GlideHQ\tc-1.1+\internal.h
+2015-08-28 18:48:34 ....A         1318               Source\nragev20\International.h
+2015-08-28 18:48:34 ....A         1284               Source\Project64\N64 System\Interpreter\Interpreter CPU.h
+2015-08-28 18:48:34 ....A         1486               Source\RSP\Interpreter CPU.h
+2015-08-28 18:48:34 ....A         3518               Source\Project64\N64 System\Interpreter\Interpreter Ops 32.h
+2015-08-28 18:48:34 ....A         5987               Source\RSP\Interpreter Ops.h
+2015-08-28 18:48:34 ....A         9324               Source\Project64\N64 System\Interpreter\Interpreter Ops.h
+2015-08-28 18:48:34 ....A        13957               Source\3rd Party\wx\include\wx\intl.h
+2015-08-28 18:48:34 ....A         2535               Source\3rd Party\zlib\contrib\minizip\ioapi.h
+2015-08-28 18:48:34 ....A          745               Source\3rd Party\wx\include\wx\iosfwrap.h
+2015-08-28 18:48:34 ....A          743               Source\3rd Party\wx\include\wx\ioswrap.h
+2015-08-28 18:48:34 ....A          422               Source\3rd Party\zlib\contrib\minizip\iowin32.h
+2015-08-28 18:48:34 ....A         9937               Source\3rd Party\wx\include\wx\ipcbase.h
+2015-08-28 18:48:34 ....A         2189               Source\3rd Party\wx\include\wx\itemid.h
+2015-08-28 18:48:34 ....A         1629               Source\3rd Party\wx\src\jpeg\jchuff.h
+2015-08-28 18:48:34 ....A         1912               Source\3rd Party\wx\src\jpeg\jconfig.h
+2015-08-28 18:48:34 ....A         7242               Source\3rd Party\wx\src\jpeg\jdct.h
+2015-08-28 18:48:34 ....A         8368               Source\3rd Party\wx\src\jpeg\jdhuff.h
+2015-08-28 18:48:34 ....A        14227               Source\3rd Party\wx\src\jpeg\jerror.h
+2015-08-28 18:48:34 ....A         3341               Source\3rd Party\wx\src\jpeg\jinclude.h
+2015-08-28 18:48:34 ....A         8428               Source\3rd Party\wx\src\jpeg\jmemsys.h
+2015-08-28 18:48:34 ....A        14927               Source\3rd Party\wx\src\jpeg\jmorecfg.h
+2015-08-28 18:48:34 ....A        16527               Source\3rd Party\wx\src\jpeg\jpegint.h
+2015-08-28 18:48:34 ....A        47596               Source\3rd Party\wx\src\jpeg\jpeglib.h
+2015-08-28 18:48:34 ....A         1140               Source\Project64\N64 System\Recompiler\Jump Info.h
+2015-08-28 18:48:34 ....A          374               Source\3rd Party\wx\src\jpeg\jversion.h
+2015-08-28 18:48:34 ....A         3824               Source\3rd Party\wx\include\wx\kbdstate.h
+2015-08-28 18:48:34 ....A         1832               Source\3rd Party\wx\include\wx\msw\private\keyboard.h
+2015-08-28 18:48:34 ....A         3246               Source\Glide64\Keys.h
+2015-08-28 18:48:34 ....A         2126               Source\Project64\Multilanguage\Language Class.h
+2015-08-28 18:48:34 ....A         7944               Source\3rd Party\wx\include\wx\language.h
+2015-08-28 18:48:34 ....A         5831               Source\3rd Party\wx\include\wx\layout.h
+2015-08-28 18:48:34 ....A          753               Source\3rd Party\wx\include\wx\msw\libraries.h
+2015-08-28 18:48:34 ....A        76598               Source\3rd Party\wx\include\wx\list.h
+2015-08-28 18:48:34 ....A        23078               Source\3rd Party\wx\include\wx\listbase.h
+2015-08-28 18:48:34 ....A         4423               Source\3rd Party\wx\include\wx\listbook.h
+2015-08-28 18:48:34 ....A         6088               Source\3rd Party\wx\include\wx\listbox.h
+2015-08-28 18:48:34 ....A         7314               Source\3rd Party\wx\include\wx\msw\listbox.h
+2015-08-28 18:48:34 ....A        12207               Source\Project64\User Interface\WTL Controls\ClistCtrl\ListCombo.h
+2015-08-28 18:48:34 ....A         3495               Source\3rd Party\wx\include\wx\listctrl.h
+2015-08-28 18:48:34 ....A        17934               Source\3rd Party\wx\include\wx\msw\listctrl.h
+2015-08-28 18:48:34 ....A       115479               Source\Project64\User Interface\WTL Controls\ClistCtrl\ListCtrl.h
+2015-08-28 18:48:34 ....A         5019               Source\Project64\User Interface\WTL Controls\ClistCtrl\ListDate.h
+2015-08-28 18:48:34 ....A         7122               Source\Project64\User Interface\WTL Controls\ClistCtrl\ListEdit.h
+2015-08-28 18:48:34 ....A         3827               Source\Project64\User Interface\WTL Controls\ClistCtrl\ListTypes.h
+2015-08-28 18:48:34 ....A         5387               Source\3rd Party\wx\art\tango\list_add.h
+2015-08-28 18:48:34 ....A         3716               Source\3rd Party\wx\art\tango\list_remove.h
+2015-08-28 18:48:34 ....A         1196               Source\Common\Log Class.h
+2015-08-28 18:48:34 ....A         1489               Source\RSP\log.h
+2015-08-28 18:48:34 ....A        59636               Source\3rd Party\wx\include\wx\log.h
+2015-08-28 18:48:34 ....A         5583               Source\3rd Party\wx\include\wx\generic\logg.h
+2015-08-28 18:48:34 ....A         1957               Source\Project64\N64 System\C Core\Logging.h
+2015-08-28 18:48:34 ....A        37885               Source\3rd Party\wx\include\wx\longlong.h
+2015-08-28 18:48:34 ....A         3270               Source\Project64\N64 System\Recompiler\Loop Analysis.h
+2015-08-28 18:48:34 ....A         3290               Source\3rd Party\7zip\LzFind.h
+2015-08-28 18:48:34 ....A         2441               Source\3rd Party\7zip\LzFindMt.h
+2015-08-28 18:48:34 ....A         1964               Source\3rd Party\7zip\LzHash.h
+2015-08-28 18:48:34 ....A         2202               Source\3rd Party\7zip\Lzma2Dec.h
+2015-08-28 18:48:34 ....A         1804               Source\3rd Party\7zip\Lzma2Enc.h
+2015-08-28 18:48:34 ....A         3153               Source\3rd Party\7zip\Lzma86.h
+2015-08-28 18:48:34 ....A         6865               Source\3rd Party\7zip\LzmaDec.h
+2015-08-28 18:48:34 ....A         2905               Source\3rd Party\7zip\LzmaEnc.h
+2015-08-28 18:48:34 ....A         4344               Source\3rd Party\7zip\LzmaLib.h
+2015-08-28 18:48:34 ....A         3348               Source\Project64\User Interface\Main Menu Class.h
+2015-08-28 18:48:34 ....A         9368               Source\Glitch64\main.h
+2015-08-28 18:48:34 ....A         6323               Source\3rd Party\wx\include\wx\private\markupparser.h
+2015-08-28 18:48:34 ....A         8062               Source\3rd Party\wx\include\wx\private\markupparserattr.h
+2015-08-28 18:48:34 ....A         3114               Source\3rd Party\wx\include\wx\generic\private\markuptext.h
+2015-08-28 18:48:34 ....A         4421               Source\3rd Party\wx\include\wx\math.h
+2015-08-28 18:48:34 ....A         9274               Source\3rd Party\wx\include\wx\matrix.h
+2015-08-28 18:48:34 ....A         5284               Source\Common\md5.h
+2015-08-28 18:48:34 ....A         8748               Source\3rd Party\wx\include\wx\msw\mdi.h
+2015-08-28 18:48:34 ....A        13103               Source\3rd Party\wx\include\wx\mdi.h
+2015-08-28 18:48:34 ....A         2153               Source\3rd Party\wx\include\wx\memconf.h
+2015-08-28 18:48:34 ....A         4006               Source\Project64\N64 System\Mips\Memory Class.h
+2015-08-28 18:48:34 ....A         1484               Source\Project64\N64 System\Mips\Memory Labels Class.h
+2015-08-28 18:48:34 ....A         6452               Source\Project64\N64 System\Mips\Memory Virtual Mem.h
+2015-08-28 18:48:34 ....A         3082               Source\RSP\memory.h
+2015-08-28 18:48:34 ....A        12221               Source\3rd Party\wx\include\wx\memory.h
+2015-08-28 18:48:34 ....A         1047               Source\Project64\N64 System\Mips\Mempak.H
+2015-08-28 18:48:34 ....A         2647               Source\Common\MemTest.h
+2015-08-28 18:48:34 ....A         1591               Source\3rd Party\wx\include\wx\memtext.h
+2015-08-28 18:48:34 ....A         3019               Source\Project64\User Interface\Menu Class.h
+2015-08-28 18:48:34 ....A         8243               Source\3rd Party\wx\include\wx\msw\menu.h
+2015-08-28 18:48:34 ....A        21556               Source\3rd Party\wx\include\wx\menu.h
+2015-08-28 18:48:34 ....A         5009               Source\3rd Party\wx\include\wx\msw\menuitem.h
+2015-08-28 18:48:34 ....A         8317               Source\3rd Party\wx\include\wx\menuitem.h
+2015-08-28 18:48:34 ....A         4219               Source\Project64\User Interface\MenuShortCuts.h
+2015-08-28 18:48:34 ....A         1684               Source\3rd Party\wx\include\wx\metafile.h
+2015-08-28 18:48:34 ....A         1745               Source\3rd Party\wx\include\wx\msw\private\metrics.h
+2015-08-28 18:48:34 ....A         5910               Source\Glide64\MiClWr16b.h
+2015-08-28 18:48:34 ....A         5911               Source\Glide64\MiClWr32b.h
+2015-08-28 18:48:34 ....A         5845               Source\Glide64\MiClWr8b.h
+2015-08-28 18:48:34 ....A         4160               Source\3rd Party\wx\include\wx\msw\mimetype.h
+2015-08-28 18:48:34 ....A        20734               Source\3rd Party\wx\include\wx\mimetype.h
+2015-08-28 18:48:34 ....A         1156               Source\3rd Party\wx\include\wx\minifram.h
+2015-08-28 18:48:34 ....A         1636               Source\3rd Party\wx\include\wx\msw\minifram.h
+2015-08-28 18:48:34 ....A        16783               Source\3rd Party\wx\include\wx\msw\missing.h
+2015-08-28 18:48:34 ....A         2099               Source\Project64\User Interface\WTL Controls\ModifiedCheckBox.h
+2015-08-28 18:48:34 ....A         4507               Source\Project64\User Interface\WTL Controls\ModifiedComboBox.h
+2015-08-28 18:48:34 ....A         1427               Source\Project64\User Interface\WTL Controls\ModifiedEditBox.h
+2015-08-28 18:48:34 ....A         3886               Source\3rd Party\wx\include\wx\module.h
+2015-08-28 18:48:34 ....A         6229               Source\3rd Party\wx\include\wx\mousemanager.h
+2015-08-28 18:48:34 ....A         5035               Source\3rd Party\wx\include\wx\mousestate.h
+2015-08-28 18:48:34 ....A         1778               Source\3rd Party\wx\include\wx\meta\movable.h
+2015-08-28 18:48:34 ....A         2308               Source\3rd Party\wx\include\wx\msw\msgdlg.h
+2015-08-28 18:48:34 ....A         3452               Source\3rd Party\wx\include\wx\msw\private\msgdlg.h
+2015-08-28 18:48:34 ....A        11292               Source\3rd Party\wx\include\wx\msgdlg.h
+2015-08-28 18:48:34 ....A         1910               Source\3rd Party\wx\include\wx\generic\msgdlgg.h
+2015-08-28 18:48:34 ....A         6450               Source\3rd Party\wx\include\wx\msgout.h
+2015-08-28 18:48:34 ....A          859               Source\3rd Party\wx\include\wx\msw\mslu.h
+2015-08-28 18:48:34 ....A         3465               Source\3rd Party\wx\include\wx\mstream.h
+2015-08-28 18:48:34 ....A         2135               Source\3rd Party\wx\include\wx\msw\msvcrt.h
+2015-08-28 18:48:34 ....A         1974               Source\3rd Party\7zip\MtCoder.h
+2015-08-28 18:48:34 ....A        14656               Source\Project64\Multilanguage.h
+2015-08-28 18:48:34 ....A          735               Source\3rd Party\zlib\contrib\minizip\mztools.h
+2015-08-28 18:48:34 ....A         5972               Source\Project64\N64 System\N64 Class.h
+2015-08-28 18:48:34 ....A         2457               Source\Project64\N64 System\N64 Rom Class.h
+2015-08-28 18:48:34 ....A         3166               Source\Project64\N64 System.h
+2015-08-28 18:48:34 ....A         2882               Source\Project64\N64 System\N64 Types.h
+2015-08-28 18:48:34 ....A         1747               Source\Project64\Settings\N64System Settings.h
+2015-08-28 18:48:34 ....A         5482               Source\3rd Party\wx\include\wx\nativewin.h
+2015-08-28 18:48:34 ....A         1295               Source\3rd Party\wx\include\wx\msw\nonownedwnd.h
+2015-08-28 18:48:34 ....A         3731               Source\3rd Party\wx\include\wx\nonownedwnd.h
+2015-08-28 18:48:34 ....A         5309               Source\3rd Party\wx\include\wx\generic\notebook.h
+2015-08-28 18:48:34 ....A         6942               Source\3rd Party\wx\include\wx\notebook.h
+2015-08-28 18:48:34 ....A         6996               Source\3rd Party\wx\include\wx\msw\notebook.h
+2015-08-28 18:48:34 ....A         3090               Source\Project64\User Interface\Notification Class.h
+2015-08-28 18:48:34 ....A         1165               Source\Project64\Settings\Notification Settings.h
+2015-08-28 18:48:34 ....A        11847               Source\nragev20\NRagePluginV2.h
+2015-08-28 18:48:34 ....A         7953               Source\Project64\User Interface\WTL Controls\numberctrl.h
+2015-08-28 18:48:34 ....A          636               Source\3rd Party\wx\include\wx\numdlg.h
+2015-08-28 18:48:34 ....A         2469               Source\3rd Party\wx\include\wx\generic\numdlgg.h
+2015-08-28 18:48:34 ....A         3223               Source\3rd Party\wx\include\wx\numformatter.h
+2015-08-28 18:48:34 ....A        20376               Source\3rd Party\wx\include\wx\object.h
+2015-08-28 18:48:34 ....A        11242               Source\3rd Party\wx\include\wx\msw\ole\oleutils.h
+2015-08-28 18:48:34 ....A         5170               Source\RSP\OpCode.h
+2015-08-28 18:48:34 ....A         6318               Source\Project64\N64 System\Mips\OpCode.h
+2015-08-28 18:48:34 ....A         1583               Source\3rd Party\wx\include\wx\private\overlay.h
+2015-08-28 18:48:34 ....A         2622               Source\3rd Party\wx\include\wx\overlay.h
+2015-08-28 18:48:34 ....A          816               Source\3rd Party\wx\include\wx\msw\ownerdrw.h
+2015-08-28 18:48:34 ....A         4964               Source\3rd Party\wx\include\wx\ownerdrw.h
+2015-08-28 18:48:34 ....A         5221               Source\nragev20\PakIO.h
+2015-08-28 18:48:34 ....A         1192               Source\3rd Party\wx\include\wx\palette.h
+2015-08-28 18:48:34 ....A         1430               Source\3rd Party\wx\include\wx\msw\palette.h
+2015-08-28 18:48:34 ....A         1863               Source\3rd Party\wx\include\wx\msw\panel.h
+2015-08-28 18:48:34 ....A         2337               Source\3rd Party\wx\include\wx\panel.h
+2015-08-28 18:48:34 ....A         3746               Source\3rd Party\wx\include\wx\paper.h
+2015-08-28 18:48:34 ....A         1271               Source\Project64\User Interface\WTL Controls\PartialGroupBox.h
+2015-08-28 18:48:34 ....A         5293               Source\Common\path.h
+2015-08-28 18:48:34 ....A         2506               Source\3rd Party\wx\include\wx\msw\pen.h
+2015-08-28 18:48:34 ....A         4937               Source\3rd Party\wx\include\wx\pen.h
+2015-08-28 18:48:34 ....A         9696               Source\3rd Party\wx\include\wx\persist.h
+2015-08-28 18:48:34 ....A         5951               Source\3rd Party\wx\include\wx\pickerbase.h
+2015-08-28 18:48:34 ....A         1792               Source\Project64\N64 System\Mips\Pif Ram.h
+2015-08-28 18:48:34 ....A        23956               Source\3rd Party\wx\include\wx\platform.h
+2015-08-28 18:48:34 ....A        12436               Source\3rd Party\wx\include\wx\platinfo.h
+2015-08-28 18:48:34 ....A         2350               Source\Project64\Plugins\Plugin Base.h
+2015-08-28 18:48:34 ....A         5376               Source\Project64\Plugins\Plugin Class.h
+2015-08-28 18:48:34 ....A          619               Source\Project64\Plugins\Plugin List.h
+2015-08-28 18:48:34 ....A         1176               Source\Project64\Plugin.h
+2015-08-28 18:48:34 ....A       117552               Source\3rd Party\wx\src\png\png.h
+2015-08-28 18:48:34 ....A        22001               Source\3rd Party\wx\src\png\pngconf.h
+2015-08-28 18:48:34 ....A         5560               Source\3rd Party\wx\src\png\pngdebug.h
+2015-08-28 18:48:34 ....A        12671               Source\3rd Party\wx\src\png\pnginfo.h
+2015-08-28 18:48:34 ....A         6471               Source\3rd Party\wx\src\png\pnglibconf.h
+2015-08-28 18:48:34 ....A        64623               Source\3rd Party\wx\src\png\pngpriv.h
+2015-08-28 18:48:34 ....A        16140               Source\3rd Party\wx\src\png\pngstruct.h
+2015-08-28 18:48:34 ....A         2834               Source\3rd Party\wx\include\wx\meta\pod.h
+2015-08-28 18:48:34 ....A         1493               Source\3rd Party\wx\include\wx\msw\popupwin.h
+2015-08-28 18:48:34 ....A         6271               Source\3rd Party\wx\include\wx\popupwin.h
+2015-08-28 18:48:34 ....A         2284               Source\3rd Party\wx\include\wx\position.h
+2015-08-28 18:48:34 ....A         3800               Source\3rd Party\wx\include\wx\power.h
+2015-08-28 18:48:34 ....A         1908               Source\3rd Party\7zip\Ppmd.h
+2015-08-28 18:48:34 ....A         3682               Source\3rd Party\7zip\Ppmd7.h
+2015-08-28 18:48:34 ....A          836               Source\3rd Party\wx\include\wx\print.h
+2015-08-28 18:48:34 ....A         3886               Source\3rd Party\wx\include\wx\printdlg.h
+2015-08-28 18:48:34 ....A         4033               Source\3rd Party\wx\include\wx\msw\printdlg.h
+2015-08-28 18:48:34 ....A         2207               Source\3rd Party\wx\include\wx\msw\printwin.h
+2015-08-28 18:48:34 ....A        32006               Source\3rd Party\wx\include\wx\msw\private.h
+2015-08-28 18:48:34 ....A        27155               Source\3rd Party\wx\include\wx\prntbase.h
+2015-08-28 18:48:34 ....A         8222               Source\3rd Party\wx\include\wx\generic\prntdlgg.h
+2015-08-28 18:48:34 ....A         5896               Source\3rd Party\wx\include\wx\process.h
+2015-08-28 18:48:34 ....A         1779               Source\Project64\N64 System\Profiling Class.h
+2015-08-28 18:48:34 ....A         1515               Source\RSP\Profiling.h
+2015-08-28 18:48:34 ....A         1713               Source\3rd Party\wx\include\wx\progdlg.h
+2015-08-28 18:48:34 ....A         2416               Source\3rd Party\wx\include\wx\msw\progdlg.h
+2015-08-28 18:48:34 ....A         8130               Source\3rd Party\wx\include\wx\generic\progdlgg.h
+2015-08-28 18:48:34 ....A          610               Source\3rd Party\wx\include\wx\ptr_scpd.h
+2015-08-28 18:48:34 ....A         2749               Source\3rd Party\wx\include\wx\quantize.h
+2015-08-28 18:48:34 ....A         1417               Source\Project64\N64 System\C Core\r4300i Commands.h
+2015-08-28 18:48:34 ....A         6109               Source\3rd Party\wx\include\wx\radiobox.h
+2015-08-28 18:48:34 ....A         6820               Source\3rd Party\wx\include\wx\msw\radiobox.h
+2015-08-28 18:48:34 ....A         1620               Source\3rd Party\wx\include\wx\radiobut.h
+2015-08-28 18:48:34 ....A         2314               Source\3rd Party\wx\include\wx\msw\radiobut.h
+2015-08-28 18:48:34 ....A          785               Source\3rd Party\wx\include\wx\range.h
+2015-08-28 18:48:34 ....A        26255               Source\3rd Party\wx\include\wx\rawbmp.h
+2015-08-28 18:48:34 ....A          185               Source\3rd Party\wx\lib\vc_lib\msw\wx\msw\rcdefs.h
+2015-08-28 18:48:34 ....A        26666               Source\Glide64\rdp.h
+2015-08-28 18:48:34 ....A         8267               Source\3rd Party\wx\include\wx\rearrangectrl.h
+2015-08-28 18:48:34 ....A         1578               Source\3rd Party\wx\include\wx\recguard.h
+2015-08-28 18:48:34 ....A         3067               Source\Project64\N64 System\Recompiler\Recompiler Class.h
+2015-08-28 18:48:34 ....A         3437               Source\RSP\Recompiler CPU.h
+2015-08-28 18:48:34 ....A         1337               Source\Project64\N64 System\Recompiler\Recompiler Memory.h
+2015-08-28 18:48:34 ....A         6355               Source\RSP\Recompiler Ops.h
+2015-08-28 18:48:34 ....A        13712               Source\Project64\N64 System\Recompiler\Recompiler Ops.h
+2015-08-28 18:48:34 ....A         1394               Source\Project64\Settings\Recompiler Settings.h
+2015-08-28 18:48:34 ....A         8698               Source\Project64\N64 System\Recompiler\Reg Info.h
+2015-08-28 18:48:34 ....A         4070               Source\3rd Party\wx\include\wx\msw\regconf.h
+2015-08-28 18:48:34 ....A         5619               Source\3rd Party\wx\include\wx\regex.h
+2015-08-28 18:48:34 ....A        11422               Source\3rd Party\wx\src\regex\regex.h
+2015-08-28 18:48:34 ....A         3130               Source\3rd Party\wx\include\wx\msw\region.h
+2015-08-28 18:48:34 ....A         9762               Source\3rd Party\wx\include\wx\region.h
+2015-08-28 18:48:34 ....A        17427               Source\Project64\N64 System\Mips\Register Class.h
+2015-08-28 18:48:34 ....A         4601               Source\Common\registry.h
+2015-08-28 18:48:34 ....A        10811               Source\3rd Party\wx\include\wx\msw\registry.h
+2015-08-28 18:48:34 ....A        21426               Source\3rd Party\wx\include\wx\renderer.h
+2015-08-28 18:48:34 ....A          401               Source\Glide64\resource.h
+2015-08-28 18:48:34 ....A         2016               Source\RSP\resource.h
+2015-08-28 18:48:34 ....A        16057               Source\Project64\User Interface\resource.h
+2015-08-28 18:48:34 ....A        16731               Source\nragev20\resource.h
+2015-08-28 18:48:34 ....A         1038               Source\3rd Party\wx\include\wx\msw\richmsgdlg.h
+2015-08-28 18:48:34 ....A         2813               Source\3rd Party\wx\include\wx\richmsgdlg.h
+2015-08-28 18:48:34 ....A         1587               Source\3rd Party\wx\include\wx\generic\richmsgdlgg.h
+2015-08-28 18:48:34 ....A         8092               Source\Project64\User Interface\Rom Browser.h
+2015-08-28 18:48:34 ....A         1160               Source\Project64\N64 System\Rom Information Class.h
+2015-08-28 18:48:34 ....A          393               Source\3rd Party\7zip\RotateDefs.h
+2015-08-28 18:48:34 ....A         1518               Source\RSP\RSP Command.h
+2015-08-28 18:48:34 ....A         3008               Source\Project64\Plugins\RSP Plugin.h
+2015-08-28 18:48:34 ....A         7161               Source\RSP\RSP Registers.h
+2015-08-28 18:48:34 ....A         5014               Source\RSP\Rsp.h
+2015-08-28 18:48:34 ....A        13551               Source\3rd Party\wx\include\wx\rtti.h
+2015-08-28 18:48:34 ....A         3908               Source\3rd Party\wx\include\wx\scopedarray.h
+2015-08-28 18:48:34 ....A         8064               Source\3rd Party\wx\include\wx\scopedptr.h
+2015-08-28 18:48:34 ....A        17261               Source\3rd Party\wx\include\wx\scopeguard.h
+2015-08-28 18:48:34 ....A         2613               Source\3rd Party\wx\include\wx\scrolbar.h
+2015-08-28 18:48:34 ....A         2806               Source\3rd Party\wx\include\wx\msw\scrolbar.h
+2015-08-28 18:48:34 ....A         1887               Source\3rd Party\wx\include\wx\generic\scrolwin.h
+2015-08-28 18:48:34 ....A        17720               Source\3rd Party\wx\include\wx\scrolwin.h
+2015-08-28 18:48:34 ....A          998               Source\Project64\N64 System\Recompiler\Section Info.h
+2015-08-28 18:48:34 ....A         3240               Source\3rd Party\wx\include\wx\msw\seh.h
+2015-08-28 18:48:34 ....A         3814               Source\3rd Party\wx\include\wx\selstore.h
+2015-08-28 18:48:34 ....A         5710               Source\Project64\Settings\Settings Class.h
+2015-08-28 18:48:34 ....A         1392               Source\Project64\User Interface\Settings Config.h
+2015-08-28 18:48:34 ....A         1831               Source\Project64\User Interface\Settings\Settings Page - Advanced Options.h
+2015-08-28 18:48:34 ....A         4549               Source\Project64\User Interface\Settings\Settings Page - Directories.h
+2015-08-28 18:48:34 ....A         2199               Source\Project64\User Interface\Settings\Settings Page - Game - General.h
+2015-08-28 18:48:34 ....A         3494               Source\Project64\User Interface\Settings\Settings Page - Game - Plugin.h
+2015-08-28 18:48:34 ....A         2079               Source\Project64\User Interface\Settings\Settings Page - Game - Recompiler.h
+2015-08-28 18:48:34 ....A         1569               Source\Project64\User Interface\Settings\Settings Page - Game - Status.h
+2015-08-28 18:48:34 ....A         2390               Source\Project64\User Interface\Settings\Settings Page - Game Browser.h
+2015-08-28 18:48:34 ....A         2957               Source\Project64\User Interface\Settings\Settings Page - Keyboard Shortcuts.h
+2015-08-28 18:48:34 ....A         1870               Source\Project64\User Interface\Settings\Settings Page - Options.h
+2015-08-28 18:48:34 ....A         3499               Source\Project64\User Interface\Settings\Settings Page - Plugin.h
+2015-08-28 18:48:34 ....A        15766               Source\Project64\User Interface\Settings\Settings Page.h
+2015-08-28 18:48:34 ....A         1893               Source\Settings\Settings.h
+2015-08-28 18:48:34 ....A         4072               Source\nragev20\settings.h
+2015-08-28 18:48:34 ....A         6761               Source\3rd Party\wx\include\wx\settings.h
+2015-08-28 18:48:34 ....A         6830               Source\Project64\Settings.h
+2015-08-28 18:48:34 ....A         2791               Source\Project64\Settings\SettingType\SettingsType-Application.h
+2015-08-28 18:48:34 ....A         2069               Source\Project64\Settings\SettingType\SettingsType-ApplicationIndex.h
+2015-08-28 18:48:34 ....A         1363               Source\Project64\Settings\SettingType\SettingsType-ApplicationPath.h
+2015-08-28 18:48:34 ....A         2367               Source\Project64\Settings\SettingType\SettingsType-Base.h
+2015-08-28 18:48:34 ....A         2174               Source\Project64\Settings\SettingType\SettingsType-Cheats.h
+2015-08-28 18:48:34 ....A         2273               Source\Project64\Settings\SettingType\SettingsType-GameSetting.h
+2015-08-28 18:48:34 ....A         2098               Source\Project64\Settings\SettingType\SettingsType-GameSettingIndex.h
+2015-08-28 18:48:34 ....A         1782               Source\Project64\Settings\SettingType\SettingsType-RDBCpuType.h
+2015-08-28 18:48:34 ....A         1760               Source\Project64\Settings\SettingType\SettingsType-RDBOnOff.h
+2015-08-28 18:48:34 ....A         1790               Source\Project64\Settings\SettingType\SettingsType-RDBRamSize.h
+2015-08-28 18:48:34 ....A         1786               Source\Project64\Settings\SettingType\SettingsType-RDBSaveChip.h
+2015-08-28 18:48:34 ....A         1760               Source\Project64\Settings\SettingType\SettingsType-RDBYesNo.h
+2015-08-28 18:48:34 ....A         1842               Source\Project64\Settings\SettingType\SettingsType-RelativePath.h
+2015-08-28 18:48:34 ....A         2811               Source\Project64\Settings\SettingType\SettingsType-RomDatabase.h
+2015-08-28 18:48:34 ....A         2144               Source\Project64\Settings\SettingType\SettingsType-RomDatabaseIndex.h
+2015-08-28 18:48:34 ....A         1673               Source\Project64\Settings\SettingType\SettingsType-RomDatabaseSetting.h
+2015-08-28 18:48:34 ....A         1187               Source\Project64\Settings\SettingType\SettingsType-RomSetting.h
+2015-08-28 18:48:34 ....A         2112               Source\Project64\Settings\SettingType\SettingsType-SelectedDirectory.h
+2015-08-28 18:48:34 ....A         1766               Source\Project64\Settings\SettingType\SettingsType-TempBool.h
+2015-08-28 18:48:34 ....A         1777               Source\Project64\Settings\SettingType\SettingsType-TempNumber.h
+2015-08-28 18:48:34 ....A         1780               Source\Project64\Settings\SettingType\SettingsType-TempString.h
+2015-08-28 18:48:34 ....A         8073               Source\3rd Party\wx\include\msvc\wx\setup.h
+2015-08-28 18:48:34 ....A        57325               Source\3rd Party\wx\include\wx\msw\setup.h
+2015-08-28 18:48:34 ....A        57325               Source\3rd Party\wx\lib\vc_lib\msw\setup.h
+2015-08-28 18:48:34 ....A        57325               Source\3rd Party\wx\lib\vc_lib\msw\wx\setup.h
+2015-08-28 18:48:34 ....A        57325               Source\3rd Party\wx\lib\vc_lib\mswd\wx\setup.h
+2015-08-28 18:48:34 ....A        57325               Source\3rd Party\wx\lib\vc_lib\mswud\wx\setup.h
+2015-08-28 18:48:34 ....A          436               Source\3rd Party\7zip\Sha256.h
+2015-08-28 18:48:34 ....A         3558               Source\3rd Party\wx\include\wx\sharedptr.h
+2015-08-28 18:48:34 ....A        40701               Source\3rd Party\wx\include\wx\sizer.h
+2015-08-28 18:48:34 ....A         4728               Source\3rd Party\wx\include\wx\msw\slider.h
+2015-08-28 18:48:34 ....A         5565               Source\3rd Party\wx\include\wx\slider.h
+2015-08-28 18:48:34 ....A         1660               Source\Common\Smart Pointer.h
+2015-08-28 18:48:34 ....A         3446               Source\3rd Party\wx\include\wx\snglinst.h
+2015-08-28 18:48:34 ....A         1407               Source\Project64\N64 System\Speed Limitor Class.h
+2015-08-28 18:48:34 ....A         2359               Source\3rd Party\wx\include\wx\msw\spinbutt.h
+2015-08-28 18:48:34 ....A         4883               Source\3rd Party\wx\include\wx\spinbutt.h
+2015-08-28 18:48:34 ....A        13084               Source\3rd Party\wx\include\wx\generic\spinctlg.h
+2015-08-28 18:48:34 ....A         5045               Source\3rd Party\wx\include\wx\spinctrl.h
+2015-08-28 18:48:34 ....A         5466               Source\3rd Party\wx\include\wx\msw\spinctrl.h
+2015-08-28 18:48:34 ....A         1824               Source\3rd Party\wx\include\wx\splitter.h
+2015-08-28 18:48:34 ....A        14463               Source\3rd Party\wx\include\wx\generic\splitter.h
+2015-08-28 18:48:34 ....A         1092               Source\Project64\N64 System\Mips\Sram.h
+2015-08-28 18:48:34 ....A         9119               Source\3rd Party\wx\include\wx\generic\srchctlg.h
+2015-08-28 18:48:34 ....A         3260               Source\3rd Party\wx\include\wx\srchctrl.h
+2015-08-28 18:48:34 ....A        65180               Source\3rd Party\glide\sst1init.h
+2015-08-28 18:48:34 ....A         3287               Source\3rd Party\glide\SST1VID.H
+2015-08-28 18:48:34 ....A         5116               Source\Glide64\inc\sst1vid.h
+2015-08-28 18:48:34 ....A         5116               Source\Glitch64\inc\sst1vid.h
+2015-08-28 18:48:34 ....A         3537               Source\3rd Party\wx\include\wx\sstream.h
+2015-08-28 18:48:34 ....A         2238               Source\3rd Party\wx\include\wx\stack.h
+2015-08-28 18:48:34 ....A         3070               Source\3rd Party\wx\include\wx\msw\stackwalk.h
+2015-08-28 18:48:34 ....A         5318               Source\3rd Party\wx\include\wx\stackwalk.h
+2015-08-28 18:48:34 ....A         2184               Source\3rd Party\wx\include\wx\statbmp.h
+2015-08-28 18:48:34 ....A         2850               Source\3rd Party\wx\include\wx\msw\statbmp.h
+2015-08-28 18:48:34 ....A         2368               Source\3rd Party\wx\include\wx\generic\statbmpg.h
+2015-08-28 18:48:34 ....A         2317               Source\3rd Party\wx\include\wx\statbox.h
+2015-08-28 18:48:34 ....A         2492               Source\3rd Party\wx\include\wx\msw\statbox.h
+2015-08-28 18:48:34 ....A         1778               Source\3rd Party\wx\include\wx\msw\statline.h
+2015-08-28 18:48:34 ....A         2153               Source\3rd Party\wx\include\wx\generic\statline.h
+2015-08-28 18:48:34 ....A         3281               Source\3rd Party\wx\include\wx\statline.h
+2015-08-28 18:48:34 ....A         1908               Source\3rd Party\wx\include\wx\msw\stattext.h
+2015-08-28 18:48:34 ....A         3619               Source\3rd Party\wx\include\wx\stattext.h
+2015-08-28 18:48:34 ....A         2723               Source\3rd Party\wx\include\wx\generic\stattextg.h
+2015-08-28 18:48:34 ....A         3337               Source\3rd Party\wx\include\wx\msw\statusbar.h
+2015-08-28 18:48:34 ....A         3564               Source\3rd Party\wx\include\wx\generic\statusbr.h
+2015-08-28 18:48:34 ....A         8393               Source\3rd Party\wx\include\wx\statusbr.h
+2015-08-28 18:48:34 ....A         1421               Source\Common\std string.h
+2015-08-28 18:48:34 ....A           23               Source\Project64\N64 System\Debugger\stdafx.h
+2015-08-28 18:48:34 ....A           23               Source\Project64\N64 System\Interpreter\stdafx.h
+2015-08-28 18:48:34 ....A           23               Source\Project64\N64 System\stdafx.h
+2015-08-28 18:48:34 ....A          401               Source\Common\stdafx.h
+2015-08-28 18:48:34 ....A         1255               Source\Project64\stdafx.h
+2015-08-28 18:48:34 ....A         3915               Source\3rd Party\wx\include\wx\msw\stdpaths.h
+2015-08-28 18:48:34 ....A         8321               Source\3rd Party\wx\include\wx\stdpaths.h
+2015-08-28 18:48:34 ....A         4541               Source\3rd Party\wx\include\wx\stdstream.h
+2015-08-28 18:48:34 ....A         2913               Source\3rd Party\wx\include\wx\stockitem.h
+2015-08-28 18:48:34 ....A         3478               Source\3rd Party\wx\include\wx\stopwatch.h
+2015-08-28 18:48:34 ....A        26856               Source\3rd Party\wx\include\wx\strconv.h
+2015-08-28 18:48:34 ....A        23966               Source\3rd Party\wx\include\wx\stream.h
+2015-08-28 18:48:34 ....A       167882               Source\3rd Party\wx\include\wx\string.h
+2015-08-28 18:48:34 ....A        24345               Source\3rd Party\wx\include\wx\stringimpl.h
+2015-08-28 18:48:34 ....A         5479               Source\3rd Party\wx\include\wx\stringops.h
+2015-08-28 18:48:34 ....A        53741               Source\3rd Party\wx\include\wx\strvararg.h
+2015-08-28 18:48:34 ....A         7786               Source\3rd Party\wx\include\wx\msw\subwin.h
+2015-08-28 18:48:34 ....A          427               Source\Project64\Support.h
+2015-08-28 18:48:34 ....A         2109               Source\3rd Party\wx\include\wx\sysopt.h
+2015-08-28 18:48:34 ....A         2594               Source\Project64\N64 System\Mips\System Events.h
+2015-08-28 18:48:34 ....A         1636               Source\Project64\N64 System\System Globals.h
+2015-08-28 18:48:34 ....A         2302               Source\Project64\N64 System\Mips\System Timing.h
+2015-08-28 18:48:34 ....A        12846               Source\3rd Party\wx\include\wx\tarstrm.h
+2015-08-28 18:48:34 ....A        26767               Source\3rd Party\wx\include\wx\tbarbase.h
+2015-08-28 18:48:34 ....A         2397               Source\Glide64\TexBuffer.h
+2015-08-28 18:48:34 ....A         2071               Source\Glide64\TexCache.h
+2015-08-28 18:48:34 ....A         3505               Source\Glide64\TexConv.h
+2015-08-28 18:48:34 ....A         2643               Source\Glide64\TexLoad.h
+2015-08-28 18:48:34 ....A         4799               Source\Glide64\TexLoad16b.h
+2015-08-28 18:48:34 ....A         6056               Source\Glide64\TexLoad32b.h
+2015-08-28 18:48:34 ....A         4781               Source\Glide64\TexLoad4b.h
+2015-08-28 18:48:34 ....A         4446               Source\Glide64\TexLoad8b.h
+2015-08-28 18:48:34 ....A        16953               Source\Glide64\TexMod.h
+2015-08-28 18:48:34 ....A        14487               Source\Glide64\TexModCI.h
+2015-08-28 18:48:34 ....A         7795               Source\3rd Party\wx\include\wx\textbuf.h
+2015-08-28 18:48:34 ....A         3012               Source\3rd Party\wx\include\wx\textcompleter.h
+2015-08-28 18:48:34 ....A        10551               Source\3rd Party\wx\include\wx\msw\textctrl.h
+2015-08-28 18:48:34 ....A        38005               Source\3rd Party\wx\include\wx\textctrl.h
+2015-08-28 18:48:34 ....A          524               Source\3rd Party\wx\include\wx\textdlg.h
+2015-08-28 18:48:34 ....A         4258               Source\3rd Party\wx\include\wx\generic\textdlgg.h
+2015-08-28 18:48:34 ....A         3534               Source\3rd Party\wx\include\wx\msw\textentry.h
+2015-08-28 18:48:34 ....A        10963               Source\3rd Party\wx\include\wx\textentry.h
+2015-08-28 18:48:34 ....A         1886               Source\3rd Party\wx\include\wx\textfile.h
+2015-08-28 18:48:34 ....A         3745               Source\GlideHQ\TextureFilters.h
+2015-08-28 18:48:34 ....A         4947               Source\GlideHQ\TextureFilters_2xsai.h
+2015-08-28 18:48:34 ....A        26285               Source\GlideHQ\TextureFilters_hq2x.h
+2015-08-28 18:48:34 ....A        96736               Source\GlideHQ\TextureFilters_hq4x.h
+2015-08-28 18:48:34 ....A        17396               Source\GlideHQ\TextureFilters_lq2x.h
+2015-08-28 18:48:34 ....A         3567               Source\3rd Party\wx\include\wx\textwrapper.h
+2015-08-28 18:48:34 ....A         6704               Source\3rd Party\wx\art\tango\text_x_generic.h
+2015-08-28 18:48:34 ....A         3005               Source\3rd Party\wx\include\wx\tglbtn.h
+2015-08-28 18:48:34 ....A         3920               Source\3rd Party\wx\include\wx\msw\tglbtn.h
+2015-08-28 18:48:34 ....A        31793               Source\3rd Party\wx\include\wx\thread.h
+2015-08-28 18:48:34 ....A         2052               Source\3rd Party\wx\include\wx\private\threadinfo.h
+2015-08-28 18:48:34 ....A         1955               Source\3rd Party\7zip\Threads.h
+2015-08-28 18:48:34 ....A        34385               Source\3rd Party\wx\src\tiff\libtiff\tiff.h
+2015-08-28 18:48:34 ....A         2968               Source\3rd Party\wx\src\tiff\libtiff\tiffconf.h
+2015-08-28 18:48:34 ....A        20179               Source\3rd Party\wx\src\tiff\libtiff\tiffio.h
+2015-08-28 18:48:34 ....A          419               Source\3rd Party\wx\src\tiff\libtiff\tiffvers.h
+2015-08-28 18:48:34 ....A         2695               Source\3rd Party\wx\include\wx\time.h
+2015-08-28 18:48:34 ....A         1075               Source\3rd Party\wx\include\wx\msw\private\timer.h
+2015-08-28 18:48:34 ....A         2437               Source\3rd Party\wx\include\wx\private\timer.h
+2015-08-28 18:48:34 ....A         5412               Source\3rd Party\wx\include\wx\timer.h
+2015-08-28 18:48:34 ....A         2879               Source\3rd Party\wx\include\wx\tipwin.h
+2015-08-28 18:48:34 ....A         6492               Source\Project64\User Interface\WTL Controls\ClistCtrl\TitleTip.h
+2015-08-28 18:48:34 ....A         3179               Source\Project64\N64 System\Mips\TLB Class.h
+2015-08-28 18:48:34 ....A         5426               Source\3rd Party\wx\include\wx\tls.h
+2015-08-28 18:48:34 ....A         5766               Source\3rd Party\wx\include\wx\tokenzr.h
+2015-08-28 18:48:34 ....A         2873               Source\3rd Party\wx\include\wx\toolbar.h
+2015-08-28 18:48:34 ....A         6367               Source\3rd Party\wx\include\wx\msw\toolbar.h
+2015-08-28 18:48:34 ....A         4724               Source\3rd Party\wx\include\wx\toolbook.h
+2015-08-28 18:48:34 ....A          967               Source\3rd Party\wx\include\wx\tooltip.h
+2015-08-28 18:48:34 ....A         4080               Source\3rd Party\wx\include\wx\msw\tooltip.h
+2015-08-28 18:48:34 ....A         8957               Source\3rd Party\wx\include\wx\msw\toplevel.h
+2015-08-28 18:48:34 ....A        16040               Source\3rd Party\wx\include\wx\toplevel.h
+2015-08-28 18:48:34 ....A         1303               Source\Common\Trace.h
+2015-08-28 18:48:34 ....A          925               Source\Common\TraceDefs.h
+2015-08-28 18:48:34 ....A         2680               Source\3rd Party\wx\include\wx\tracker.h
+2015-08-28 18:48:34 ....A         1050               Source\Project64\N64 System\Mips\TranslateVaddr.h
+2015-08-28 18:48:34 ....A        11338               Source\3rd Party\wx\include\wx\translation.h
+2015-08-28 18:48:34 ....A        18188               Source\3rd Party\wx\include\wx\treebase.h
+2015-08-28 18:48:34 ....A        10313               Source\3rd Party\wx\include\wx\treebook.h
+2015-08-28 18:48:34 ....A        14903               Source\3rd Party\wx\include\wx\generic\treectlg.h
+2015-08-28 18:48:34 ....A        13383               Source\3rd Party\wx\include\wx\msw\treectrl.h
+2015-08-28 18:48:34 ....A        20363               Source\3rd Party\wx\include\wx\treectrl.h
+2015-08-28 18:48:34 ....A         8472               Source\3rd Party\zlib\trees.h
+2015-08-28 18:48:34 ....A         8572               Source\3rd Party\wx\src\zlib\trees.h
+2015-08-28 18:48:34 ....A         9942               Source\Glide64\turbo3D.h
+2015-08-28 18:48:34 ....A         2139               Source\GlideHQ\TxCache.h
+2015-08-28 18:48:34 ....A         1551               Source\GlideHQ\TxDbg.h
+2015-08-28 18:48:34 ....A         2446               Source\GlideHQ\TxFilter.h
+2015-08-28 18:48:34 ....A         1672               Source\GlideHQ\TxHiResCache.h
+2015-08-28 18:48:34 ....A         3439               Source\GlideHQ\TxImage.h
+2015-08-28 18:48:34 ....A         3476               Source\GlideHQ\TxInternal.h
+2015-08-28 18:48:34 ....A         3883               Source\GlideHQ\TxQuantize.h
+2015-08-28 18:48:34 ....A         1395               Source\GlideHQ\TxReSample.h
+2015-08-28 18:48:34 ....A         1271               Source\GlideHQ\TxTexCache.h
+2015-08-28 18:48:34 ....A         5469               Source\3rd Party\wx\include\wx\txtstrm.h
+2015-08-28 18:48:34 ....A         3782               Source\GlideHQ\TxUtil.h
+2015-08-28 18:48:34 ....A         4720               Source\3rd Party\wx\include\wx\typeinfo.h
+2015-08-28 18:48:34 ....A          358               Source\GlideHQ\tc-1.1+\types.h
+2015-08-28 18:48:34 ....A         1417               Source\Project64\N64 System\Types.h
+2015-08-28 18:48:34 ....A         2589               Source\RSP\Types.h
+2015-08-28 18:48:34 ....A         5423               Source\3rd Party\7zip\Types.h
+2015-08-28 18:48:34 ....A        77393               Source\Glide64\ucode.h
+2015-08-28 18:48:34 ....A        31310               Source\Glide64\ucode00.h
+2015-08-28 18:48:34 ....A         4884               Source\Glide64\ucode01.h
+2015-08-28 18:48:34 ....A        24395               Source\Glide64\ucode02.h
+2015-08-28 18:48:34 ....A         3645               Source\Glide64\ucode03.h
+2015-08-28 18:48:34 ....A         2968               Source\Glide64\ucode04.h
+2015-08-28 18:48:34 ....A        11572               Source\Glide64\ucode05.h
+2015-08-28 18:48:34 ....A        50969               Source\Glide64\ucode06.h
+2015-08-28 18:48:34 ....A         5506               Source\Glide64\ucode07.h
+2015-08-28 18:48:34 ....A        17476               Source\Glide64\ucode08.h
+2015-08-28 18:48:34 ....A        21743               Source\Glide64\ucode09.h
+2015-08-28 18:48:34 ....A         2648               Source\Glide64\ucode09rdp.h
+2015-08-28 18:48:34 ....A        63056               Source\Glide64\ucodeFB.h
+2015-08-28 18:48:34 ....A         3129               Source\3rd Party\wx\include\wx\uiaction.h
+2015-08-28 18:48:34 ....A        13835               Source\3rd Party\wx\include\wx\unichar.h
+2015-08-28 18:48:34 ....A        10205               Source\Project64\3rd Party\zlib\UNZIP.H
+2015-08-28 18:48:34 ....A        13011               Source\3rd Party\zlib\contrib\minizip\unzip.h
+2015-08-28 18:48:34 ....A         6504               Source\3rd Party\wx\include\wx\uri.h
+2015-08-28 18:48:34 ....A         1946               Source\Project64\User Interface.h
+2015-08-28 18:48:34 ....A        23484               Source\3rd Party\wx\include\wx\ustring.h
+2015-08-28 18:48:34 ....A         3193               Source\Glide64\Util.h
+2015-08-28 18:48:34 ....A        30487               Source\3rd Party\wx\include\wx\utils.h
+2015-08-28 18:48:34 ....A         3034               Source\3rd Party\wx\include\wx\msw\ole\uuid.h
+2015-08-28 18:48:34 ....A        13664               Source\3rd Party\wx\include\wx\msw\uxtheme.h
+2015-08-28 18:48:34 ....A         6279               Source\3rd Party\wx\include\wx\msw\uxthemep.h
+2015-08-28 18:48:34 ....A         3267               Source\3rd Party\wx\include\wx\valgen.h
+2015-08-28 18:48:34 ....A         3641               Source\3rd Party\wx\include\wx\validate.h
+2015-08-28 18:48:34 ....A        14882               Source\3rd Party\wx\include\wx\valnum.h
+2015-08-28 18:48:34 ....A         3573               Source\3rd Party\wx\include\wx\valtext.h
+2015-08-28 18:48:34 ....A        20433               Source\3rd Party\wx\include\wx\variant.h
+2015-08-28 18:48:34 ....A        14187               Source\3rd Party\wx\include\wx\vector.h
+2015-08-28 18:48:34 ....A         2014               Source\Project64\Version.h
+2015-08-28 18:48:34 ....A         2074               Source\Glide64\Version.h
+2015-08-28 18:48:34 ....A         2104               Source\nragev20\Version.h
+2015-08-28 18:48:34 ....A         2225               Source\RSP\Version.h
+2015-08-28 18:48:34 ....A         3807               Source\3rd Party\wx\include\wx\version.h
+2015-08-28 18:48:34 ....A         2271               Source\3rd Party\wx\include\wx\versioninfo.h
+2015-08-28 18:48:34 ....A         2430               Source\3rd Party\wx\include\wx\vidmode.h
+2015-08-28 18:48:34 ....A        11191               Source\3rd Party\wx\include\wx\vlbox.h
+2015-08-28 18:48:34 ....A         3821               Source\3rd Party\wx\include\wx\volume.h
+2015-08-28 18:48:34 ....A        34855               Source\3rd Party\wx\include\wx\vscroll.h
+2015-08-28 18:48:34 ....A         9262               Source\3rd Party\wx\include\wx\weakref.h
+2015-08-28 18:48:34 ....A         7050               Source\3rd Party\wx\include\wx\wfstream.h
+2015-08-28 18:48:34 ....A        27728               Source\Glitch64\inc\wglext.h
+2015-08-28 18:48:34 ....A         1273               Source\3rd Party\wx\include\wx\private\window.h
+2015-08-28 18:48:34 ....A        28293               Source\3rd Party\wx\include\wx\msw\window.h
+2015-08-28 18:48:34 ....A        79900               Source\3rd Party\wx\include\wx\window.h
+2015-08-28 18:48:34 ....A         4677               Source\3rd Party\wx\include\wx\windowid.h
+2015-08-28 18:48:34 ....A        11819               Source\3rd Party\wx\include\wx\msw\winundef.h
+2015-08-28 18:48:34 ....A         2707               Source\3rd Party\wx\include\wx\withimages.h
+2015-08-28 18:48:34 ....A         1476               Source\3rd Party\wx\include\wx\msw\wrapcctl.h
+2015-08-28 18:48:34 ....A          801               Source\3rd Party\wx\include\wx\msw\wrapcdlg.h
+2015-08-28 18:48:34 ....A         1052               Source\3rd Party\wx\include\wx\msw\wrapgdip.h
+2015-08-28 18:48:34 ....A         2371               Source\3rd Party\wx\include\wx\msw\wrapshl.h
+2015-08-28 18:48:34 ....A         3782               Source\3rd Party\wx\include\wx\wrapsizer.h
+2015-08-28 18:48:34 ....A         4324               Source\3rd Party\wx\include\wx\msw\wrapwin.h
+2015-08-28 18:48:34 ....A         1894               Source\Project64\WTL App.h
+2015-08-28 18:48:34 ....A         1222               Source\3rd Party\wx\include\wx\wupdlock.h
+2015-08-28 18:48:34 ....A         2896               Source\3rd Party\wx\include\wx\wx.h
+2015-08-28 18:48:34 ....A        50443               Source\3rd Party\wx\include\wx\wxcrt.h
+2015-08-28 18:48:34 ....A        23724               Source\3rd Party\wx\include\wx\wxcrtbase.h
+2015-08-28 18:48:34 ....A        18838               Source\3rd Party\wx\include\wx\wxcrtvararg.h
+2015-08-28 18:48:34 ....A         1705               Source\3rd Party\wx\include\wx\wxprec.h
+2015-08-28 18:48:34 ....A        31768               Source\3rd Party\wx\include\wx\private\wxprintf.h
+2015-08-28 18:48:34 ....A        14652               Source\RSP\X86.h
+2015-08-28 18:48:34 ....A         1040               Source\Project64\N64 System\Recompiler\x86CodeLog.h
+2015-08-28 18:48:34 ....A        21237               Source\Project64\N64 System\Recompiler\X86ops.h
+2015-08-28 18:48:34 ....A         6780               Source\nragev20\XInputController.h
+2015-08-28 18:48:34 ....A        15743               Source\3rd Party\wx\include\wx\xlocale.h
+2015-08-28 18:48:34 ....A         1542               Source\3rd Party\wx\include\wx\xpmdecod.h
+2015-08-28 18:48:34 ....A        18268               Source\3rd Party\wx\include\wx\xti.h
+2015-08-28 18:48:34 ....A        14244               Source\3rd Party\wx\include\wx\xti2.h
+2015-08-28 18:48:34 ....A         6380               Source\3rd Party\7zip\Xz.h
+2015-08-28 18:48:34 ....A          613               Source\3rd Party\7zip\XzCrc64.h
+2015-08-28 18:48:34 ....A          428               Source\3rd Party\7zip\XzEnc.h
+2015-08-28 18:48:34 ....A         9876               Source\3rd Party\wx\src\zlib\zconf.h
+2015-08-28 18:48:34 ....A         9876               Source\Project64\3rd Party\zlib\ZCONF.H
+2015-08-28 18:48:34 ....A        13375               Source\3rd Party\zlib\zconf.h
+2015-08-28 18:48:34 ....A          104               Source\Project64\3rd Party\zip.h
+2015-08-28 18:48:34 ....A         5240               Source\Project64\3rd Party\zlib\zip.h
+2015-08-28 18:48:34 ....A         8890               Source\3rd Party\zlib\contrib\minizip\zip.h
+2015-08-28 18:48:34 ....A        19770               Source\3rd Party\wx\include\wx\zipstrm.h
+2015-08-28 18:48:34 ....A        67545               Source\3rd Party\wx\src\zlib\zlib.h
+2015-08-28 18:48:34 ....A        67545               Source\Project64\3rd Party\zlib\ZLIB.H
+2015-08-28 18:48:34 ....A        79564               Source\3rd Party\zlib\zlib.h
+2015-08-28 18:48:34 ....A         4598               Source\3rd Party\wx\include\wx\zstream.h
+2015-08-28 18:48:34 ....A         7150               Source\3rd Party\wx\src\zlib\zutil.h
+2015-08-28 18:48:34 ....A         7153               Source\3rd Party\zlib\zutil.h
+2015-08-28 18:48:34 ....A         1472               Source\3rd Party\7zip\7zAlloc.c
+2015-08-28 18:48:34 ....A          501               Source\3rd Party\7zip\7zBuf.c
+2015-08-28 18:48:34 ....A          837               Source\3rd Party\7zip\7zBuf2.c
+2015-08-28 18:48:34 ....A         1830               Source\3rd Party\7zip\7zCrc.c
+2015-08-28 18:48:34 ....A          923               Source\3rd Party\7zip\7zCrcOpt.c
+2015-08-28 18:48:34 ....A        12607               Source\3rd Party\7zip\7zDec.c
+2015-08-28 18:48:34 ....A         6658               Source\3rd Party\7zip\7zFile.c
+2015-08-28 18:48:34 ....A        36211               Source\3rd Party\7zip\7zIn.c
+2015-08-28 18:48:34 ....A         3993               Source\3rd Party\7zip\7zStream.c
+2015-08-28 18:48:34 ....A         4708               Source\3rd Party\wx\src\zlib\adler32.c
+2015-08-28 18:48:34 ....A         5048               Source\3rd Party\zlib\adler32.c
+2015-08-28 18:48:34 ....A         2684               Source\3rd Party\7zip\Alloc.c
+2015-08-28 18:48:34 ....A         3170               Source\3rd Party\7zip\Bcj2.c
+2015-08-28 18:48:34 ....A         3144               Source\3rd Party\7zip\Bra.c
+2015-08-28 18:48:34 ....A         2184               Source\3rd Party\7zip\Bra86.c
+2015-08-28 18:48:34 ....A         1748               Source\3rd Party\7zip\BraIA64.c
+2015-08-28 18:48:34 ....A         4465               Source\RSP\breakpoint.c
+2015-08-28 18:48:34 ....A         2520               Source\3rd Party\zlib\compress.c
+2015-08-28 18:48:34 ....A         2568               Source\3rd Party\wx\src\zlib\compress.c
+2015-08-28 18:48:34 ....A         7390               Source\RSP\Cpu.c
+2015-08-28 18:48:34 ....A         3399               Source\3rd Party\7zip\CpuArch.c
+2015-08-28 18:48:34 ....A        13638               Source\3rd Party\wx\src\zlib\crc32.c
+2015-08-28 18:48:34 ....A        13681               Source\3rd Party\zlib\crc32.c
+2015-08-28 18:48:34 ....A        65919               Source\3rd Party\wx\src\zlib\deflate.c
+2015-08-28 18:48:34 ....A        67992               Source\3rd Party\zlib\deflate.c
+2015-08-28 18:48:34 ....A         1251               Source\3rd Party\7zip\Delta.c
+2015-08-28 18:48:34 ....A         4413               Source\RSP\dma.c
+2015-08-28 18:48:34 ....A        23953               Source\GlideHQ\tc-1.1+\dxtn.c
+2015-08-28 18:48:34 ....A         6683               Source\3rd Party\wx\src\common\extended.c
+2015-08-28 18:48:34 ....A        36239               Source\GlideHQ\tc-1.1+\fxt1.c
+2015-08-28 18:48:34 ....A          678               Source\3rd Party\zlib\gzclose.c
+2015-08-28 18:48:34 ....A        32290               Source\3rd Party\wx\src\zlib\gzio.c
+2015-08-28 18:48:34 ....A        14073               Source\3rd Party\zlib\gzlib.c
+2015-08-28 18:48:34 ....A        20576               Source\3rd Party\zlib\gzread.c
+2015-08-28 18:48:34 ....A        14604               Source\3rd Party\zlib\gzwrite.c
+2015-08-28 18:48:34 ....A        22622               Source\3rd Party\zlib\infback.c
+2015-08-28 18:48:34 ....A        22787               Source\3rd Party\wx\src\zlib\infback.c
+2015-08-28 18:48:34 ....A        12886               Source\3rd Party\wx\src\zlib\inffast.c
+2015-08-28 18:48:34 ....A        13439               Source\3rd Party\zlib\inffast.c
+2015-08-28 18:48:34 ....A        50345               Source\3rd Party\wx\src\zlib\inflate.c
+2015-08-28 18:48:34 ....A        52623               Source\3rd Party\zlib\inflate.c
+2015-08-28 18:48:34 ....A        13769               Source\3rd Party\zlib\inftrees.c
+2015-08-28 18:48:34 ....A        14085               Source\3rd Party\wx\src\zlib\inftrees.c
+2015-08-28 18:48:34 ....A        15972               Source\RSP\Interpreter CPU.c
+2015-08-28 18:48:34 ....A        51833               Source\RSP\Interpreter Ops.c
+2015-08-28 18:48:34 ....A         3759               Source\3rd Party\zlib\contrib\minizip\ioapi.c
+2015-08-28 18:48:34 ....A         6417               Source\3rd Party\zlib\contrib\minizip\iowin32.c
+2015-08-28 18:48:34 ....A         9408               Source\3rd Party\wx\src\jpeg\jcapimin.c
+2015-08-28 18:48:34 ....A         6049               Source\3rd Party\wx\src\jpeg\jcapistd.c
+2015-08-28 18:48:34 ....A        16898               Source\3rd Party\wx\src\jpeg\jccoefct.c
+2015-08-28 18:48:34 ....A        15362               Source\3rd Party\wx\src\jpeg\jccolor.c
+2015-08-28 18:48:34 ....A        12866               Source\3rd Party\wx\src\jpeg\jcdctmgr.c
+2015-08-28 18:48:34 ....A        29252               Source\3rd Party\wx\src\jpeg\jchuff.c
+2015-08-28 18:48:34 ....A         2428               Source\3rd Party\wx\src\jpeg\jcinit.c
+2015-08-28 18:48:34 ....A         9578               Source\3rd Party\wx\src\jpeg\jcmainct.c
+2015-08-28 18:48:34 ....A        17923               Source\3rd Party\wx\src\jpeg\jcmarker.c
+2015-08-28 18:48:34 ....A        20493               Source\3rd Party\wx\src\jpeg\jcmaster.c
+2015-08-28 18:48:34 ....A         3216               Source\3rd Party\wx\src\jpeg\jcomapi.c
+2015-08-28 18:48:34 ....A        21906               Source\3rd Party\wx\src\jpeg\jcparam.c
+2015-08-28 18:48:34 ....A        26059               Source\3rd Party\wx\src\jpeg\jcphuff.c
+2015-08-28 18:48:34 ....A        12434               Source\3rd Party\wx\src\jpeg\jcprepct.c
+2015-08-28 18:48:34 ....A        19405               Source\3rd Party\wx\src\jpeg\jcsample.c
+2015-08-28 18:48:34 ....A        14774               Source\3rd Party\wx\src\jpeg\jctrans.c
+2015-08-28 18:48:34 ....A        13060               Source\3rd Party\wx\src\jpeg\jdapimin.c
+2015-08-28 18:48:34 ....A         9658               Source\3rd Party\wx\src\jpeg\jdapistd.c
+2015-08-28 18:48:34 ....A         5277               Source\3rd Party\wx\src\jpeg\jdatadst.c
+2015-08-28 18:48:34 ....A         7830               Source\3rd Party\wx\src\jpeg\jdatasrc.c
+2015-08-28 18:48:34 ....A        26115               Source\3rd Party\wx\src\jpeg\jdcoefct.c
+2015-08-28 18:48:34 ....A        13820               Source\3rd Party\wx\src\jpeg\jdcolor.c
+2015-08-28 18:48:34 ....A         8572               Source\3rd Party\wx\src\jpeg\jddctmgr.c
+2015-08-28 18:48:34 ....A        21584               Source\3rd Party\wx\src\jpeg\jdhuff.c
+2015-08-28 18:48:34 ....A        13935               Source\3rd Party\wx\src\jpeg\jdinput.c
+2015-08-28 18:48:34 ....A        21421               Source\3rd Party\wx\src\jpeg\jdmainct.c
+2015-08-28 18:48:34 ....A        42675               Source\3rd Party\wx\src\jpeg\jdmarker.c
+2015-08-28 18:48:34 ....A        20287               Source\3rd Party\wx\src\jpeg\jdmaster.c
+2015-08-28 18:48:34 ....A        14386               Source\3rd Party\wx\src\jpeg\jdmerge.c
+2015-08-28 18:48:34 ....A        21297               Source\3rd Party\wx\src\jpeg\jdphuff.c
+2015-08-28 18:48:34 ....A        10020               Source\3rd Party\wx\src\jpeg\jdpostct.c
+2015-08-28 18:48:34 ....A        16871               Source\3rd Party\wx\src\jpeg\jdsample.c
+2015-08-28 18:48:34 ....A         5233               Source\3rd Party\wx\src\jpeg\jdtrans.c
+2015-08-28 18:48:34 ....A         8060               Source\3rd Party\wx\src\jpeg\jerror.c
+2015-08-28 18:48:34 ....A         5654               Source\3rd Party\wx\src\jpeg\jfdctflt.c
+2015-08-28 18:48:34 ....A         7822               Source\3rd Party\wx\src\jpeg\jfdctfst.c
+2015-08-28 18:48:34 ....A        11424               Source\3rd Party\wx\src\jpeg\jfdctint.c
+2015-08-28 18:48:34 ....A         8733               Source\3rd Party\wx\src\jpeg\jidctflt.c
+2015-08-28 18:48:34 ....A        13558               Source\3rd Party\wx\src\jpeg\jidctfst.c
+2015-08-28 18:48:34 ....A        15334               Source\3rd Party\wx\src\jpeg\jidctint.c
+2015-08-28 18:48:34 ....A        14086               Source\3rd Party\wx\src\jpeg\jidctred.c
+2015-08-28 18:48:34 ....A        42190               Source\3rd Party\wx\src\jpeg\jmemmgr.c
+2015-08-28 18:48:34 ....A         2881               Source\3rd Party\wx\src\jpeg\jmemnobs.c
+2015-08-28 18:48:34 ....A        32213               Source\3rd Party\wx\src\jpeg\jquant1.c
+2015-08-28 18:48:34 ....A        49830               Source\3rd Party\wx\src\jpeg\jquant2.c
+2015-08-28 18:48:34 ....A         5419               Source\3rd Party\wx\src\jpeg\jutils.c
+2015-08-28 18:48:34 ....A        19712               Source\3rd Party\7zip\LzFind.c
+2015-08-28 18:48:34 ....A        22171               Source\3rd Party\7zip\LzFindMt.c
+2015-08-28 18:48:34 ....A         9948               Source\3rd Party\7zip\Lzma2Dec.c
+2015-08-28 18:48:34 ....A        11824               Source\3rd Party\7zip\Lzma2Enc.c
+2015-08-28 18:48:34 ....A         1413               Source\3rd Party\7zip\Lzma86Dec.c
+2015-08-28 18:48:34 ....A         2768               Source\3rd Party\7zip\Lzma86Enc.c
+2015-08-28 18:48:34 ....A        27174               Source\3rd Party\7zip\LzmaDec.c
+2015-08-28 18:48:34 ....A        62489               Source\3rd Party\7zip\LzmaEnc.c
+2015-08-28 18:48:34 ....A         1478               Source\3rd Party\7zip\LzmaLib.c
+2015-08-28 18:48:34 ....A        20744               Source\RSP\memory.c
+2015-08-28 18:48:34 ....A        15381               Source\3rd Party\zlib\contrib\minizip\miniunz.c
+2015-08-28 18:48:34 ....A        11663               Source\3rd Party\zlib\contrib\minizip\minizip.c
+2015-08-28 18:48:34 ....A        24313               Source\RSP\Mmx.c
+2015-08-28 18:48:34 ....A         7987               Source\3rd Party\7zip\MtCoder.c
+2015-08-28 18:48:34 ....A         8052               Source\3rd Party\zlib\contrib\minizip\mztools.c
+2015-08-28 18:48:34 ....A        95631               Source\3rd Party\wx\src\png\png.c
+2015-08-28 18:48:34 ....A        20060               Source\3rd Party\wx\src\png\pngerror.c
+2015-08-28 18:48:34 ....A        31776               Source\3rd Party\wx\src\png\pngget.c
+2015-08-28 18:48:34 ....A        18341               Source\3rd Party\wx\src\png\pngmem.c
+2015-08-28 18:48:34 ....A        53443               Source\3rd Party\wx\src\png\pngpread.c
+2015-08-28 18:48:34 ....A        40204               Source\3rd Party\wx\src\png\pngread.c
+2015-08-28 18:48:34 ....A         5398               Source\3rd Party\wx\src\png\pngrio.c
+2015-08-28 18:48:34 ....A       172821               Source\3rd Party\wx\src\png\pngrtran.c
+2015-08-28 18:48:34 ....A       126903               Source\3rd Party\wx\src\png\pngrutil.c
+2015-08-28 18:48:34 ....A        37508               Source\3rd Party\wx\src\png\pngset.c
+2015-08-28 18:48:34 ....A        20605               Source\3rd Party\wx\src\png\pngtrans.c
+2015-08-28 18:48:34 ....A         7889               Source\3rd Party\wx\src\png\pngwio.c
+2015-08-28 18:48:34 ....A        52253               Source\3rd Party\wx\src\png\pngwrite.c
+2015-08-28 18:48:34 ....A        17982               Source\3rd Party\wx\src\png\pngwtran.c
+2015-08-28 18:48:34 ....A        94988               Source\3rd Party\wx\src\png\pngwutil.c
+2015-08-28 18:48:34 ....A        16829               Source\3rd Party\7zip\Ppmd7.c
+2015-08-28 18:48:34 ....A         4673               Source\3rd Party\7zip\Ppmd7Dec.c
+2015-08-28 18:48:34 ....A         4347               Source\3rd Party\7zip\Ppmd7Enc.c
+2015-08-28 18:48:34 ....A        47348               Source\RSP\Recompiler Analysis.c
+2015-08-28 18:48:34 ....A        30207               Source\RSP\Recompiler CPU.c
+2015-08-28 18:48:34 ....A       173896               Source\RSP\Recompiler Ops.c
+2015-08-28 18:48:34 ....A        34507               Source\RSP\Recompiler Sections.c
+2015-08-28 18:48:34 ....A        44892               Source\RSP\RSP Command.c
+2015-08-28 18:48:34 ....A        22360               Source\RSP\RSP Register.c
+2015-08-28 18:48:34 ....A         4998               Source\3rd Party\7zip\Sha256.c
+2015-08-28 18:48:34 ....A        11269               Source\RSP\Sse.c
+2015-08-28 18:48:34 ....A         3041               Source\GlideHQ\tc-1.1+\texstore.c
+2015-08-28 18:48:34 ....A         2628               Source\3rd Party\7zip\Threads.c
+2015-08-28 18:48:34 ....A        45248               Source\3rd Party\zlib\trees.c
+2015-08-28 18:48:34 ....A        45255               Source\3rd Party\wx\src\zlib\trees.c
+2015-08-28 18:48:34 ....A         1994               Source\3rd Party\zlib\uncompr.c
+2015-08-28 18:48:34 ....A         2148               Source\3rd Party\wx\src\zlib\uncompr.c
+2015-08-28 18:48:34 ....A        34704               Source\Project64\3rd Party\zlib\UNZIP.C
+2015-08-28 18:48:34 ....A        49400               Source\3rd Party\zlib\contrib\minizip\unzip.c
+2015-08-28 18:48:34 ....A         2859               Source\GlideHQ\tc-1.1+\wrapper.c
+2015-08-28 18:48:34 ....A        97276               Source\RSP\X86.c
+2015-08-28 18:48:34 ....A         1880               Source\3rd Party\7zip\Xz.c
+2015-08-28 18:48:34 ....A          746               Source\3rd Party\7zip\XzCrc64.c
+2015-08-28 18:48:34 ....A        21787               Source\3rd Party\7zip\XzDec.c
+2015-08-28 18:48:34 ....A        12907               Source\3rd Party\7zip\XzEnc.c
+2015-08-28 18:48:34 ....A         8399               Source\3rd Party\7zip\XzIn.c
+2015-08-28 18:48:34 ....A        21837               Source\Project64\3rd Party\zlib\zip.c
+2015-08-28 18:48:34 ....A        37419               Source\3rd Party\zlib\contrib\minizip\zip.c
+2015-08-28 18:48:34 ....A         7313               Source\3rd Party\zlib\zutil.c
+2015-08-28 18:48:34 ....A         7454               Source\3rd Party\wx\src\zlib\zutil.c
+2015-08-28 18:48:34 ....A         8206               Source\Glide64\3dmath.cpp
+2015-08-28 18:48:34 ....A        16351               Source\Glide64\3dmathSIMD.asm.cpp
+2015-08-28 18:48:34 ....A         5555               Source\Project64\3rd Party\7zip.cpp
+2015-08-28 18:48:34 ....A         4340               Source\3rd Party\wx\src\msw\accel.cpp
+2015-08-28 18:48:34 ....A        13301               Source\3rd Party\wx\src\common\accelcmn.cpp
+2015-08-28 18:48:34 ....A        63966               Source\3rd Party\wx\src\msw\ole\access.cpp
+2015-08-28 18:48:34 ....A          689               Source\3rd Party\wx\src\common\accesscmn.cpp
+2015-08-28 18:48:34 ....A        43276               Source\3rd Party\wx\src\msw\ole\activex.cpp
+2015-08-28 18:48:34 ....A         4958               Source\3rd Party\wx\src\common\affinematrix2d.cpp
+2015-08-28 18:48:34 ....A        10991               Source\3rd Party\wx\src\common\anidecod.cpp
+2015-08-28 18:48:34 ....A        16164               Source\3rd Party\wx\src\common\any.cpp
+2015-08-28 18:48:34 ....A        38289               Source\3rd Party\wx\src\msw\anybutton.cpp
+2015-08-28 18:48:34 ....A        33034               Source\3rd Party\wx\src\msw\app.cpp
+2015-08-28 18:48:34 ....A        36487               Source\3rd Party\wx\src\common\appbase.cpp
+2015-08-28 18:48:34 ....A        13913               Source\3rd Party\wx\src\common\appcmn.cpp
+2015-08-28 18:48:34 ....A         1109               Source\3rd Party\wx\src\common\arcall.cpp
+2015-08-28 18:48:34 ....A         1226               Source\3rd Party\wx\src\common\arcfind.cpp
+2015-08-28 18:48:34 ....A         2559               Source\3rd Party\wx\src\common\archive.cpp
+2015-08-28 18:48:34 ....A         8699               Source\3rd Party\wx\include\wx\arrimpl.cpp
+2015-08-28 18:48:34 ....A        14350               Source\3rd Party\wx\src\common\arrstr.cpp
+2015-08-28 18:48:34 ....A         4210               Source\3rd Party\wx\src\msw\artmsw.cpp
+2015-08-28 18:48:34 ....A        13514               Source\3rd Party\wx\src\common\artprov.cpp
+2015-08-28 18:48:34 ....A        10092               Source\3rd Party\wx\src\common\artstd.cpp
+2015-08-28 18:48:34 ....A        12997               Source\3rd Party\wx\src\common\arttango.cpp
+2015-08-28 18:48:34 ....A         5614               Source\Project64\Plugins\Audio Plugin.cpp
+2015-08-28 18:48:34 ....A         4582               Source\Project64\N64 System\Mips\Audio.cpp
+2015-08-28 18:48:34 ....A        18265               Source\3rd Party\wx\src\msw\ole\automtn.cpp
+2015-08-28 18:48:34 ....A         7734               Source\3rd Party\wx\src\common\base64.cpp
+2015-08-28 18:48:34 ....A         2971               Source\3rd Party\wx\src\msw\basemsw.cpp
+2015-08-28 18:48:34 ....A        51527               Source\3rd Party\wx\src\msw\bitmap.cpp
+2015-08-28 18:48:34 ....A         5674               Source\3rd Party\wx\src\common\bmpbase.cpp
+2015-08-28 18:48:34 ....A         2809               Source\3rd Party\wx\src\common\bmpbtncmn.cpp
+2015-08-28 18:48:34 ....A         2556               Source\3rd Party\wx\src\msw\bmpbuttn.cpp
+2015-08-28 18:48:34 ....A        14910               Source\3rd Party\wx\src\common\bookctrl.cpp
+2015-08-28 18:48:34 ....A         9660               Source\3rd Party\wx\src\msw\brush.cpp
+2015-08-28 18:48:34 ....A         4117               Source\3rd Party\wx\src\common\btncmn.cpp
+2015-08-28 18:48:34 ....A         4123               Source\3rd Party\wx\src\generic\busyinfo.cpp
+2015-08-28 18:48:34 ....A        15911               Source\3rd Party\wx\src\msw\button.cpp
+2015-08-28 18:48:34 ....A        16825               Source\3rd Party\wx\src\generic\buttonbar.cpp
+2015-08-28 18:48:34 ....A        15599               Source\3rd Party\wx\src\common\cairo.cpp
+2015-08-28 18:48:34 ....A         5246               Source\3rd Party\wx\src\msw\caret.cpp
+2015-08-28 18:48:34 ....A        62112               Source\Project64\N64 System\Cheat Class.cpp
+2015-08-28 18:48:34 ....A        14014               Source\3rd Party\wx\src\msw\checkbox.cpp
+2015-08-28 18:48:34 ....A         3279               Source\3rd Party\wx\src\common\checkboxcmn.cpp
+2015-08-28 18:48:34 ....A        12760               Source\3rd Party\wx\src\msw\checklst.cpp
+2015-08-28 18:48:34 ....A         3399               Source\3rd Party\wx\src\common\checklstcmn.cpp
+2015-08-28 18:48:34 ....A         8497               Source\3rd Party\wx\src\generic\choicbkg.cpp
+2015-08-28 18:48:34 ....A         3626               Source\3rd Party\wx\src\common\choiccmn.cpp
+2015-08-28 18:48:34 ....A        23059               Source\3rd Party\wx\src\generic\choicdgg.cpp
+2015-08-28 18:48:34 ....A        26595               Source\3rd Party\wx\src\msw\choice.cpp
+2015-08-28 18:48:34 ....A         5849               Source\Project64\CKaillera.cpp
+2015-08-28 18:48:34 ....A        27364               Source\3rd Party\wx\src\msw\clipbrd.cpp
+2015-08-28 18:48:34 ....A         3154               Source\3rd Party\wx\src\common\clipcmn.cpp
+2015-08-28 18:48:34 ....A         2463               Source\3rd Party\wx\src\common\clntdata.cpp
+2015-08-28 18:48:34 ....A         4931               Source\3rd Party\wx\src\common\clrpickercmn.cpp
+2015-08-28 18:48:34 ....A         4366               Source\3rd Party\wx\src\generic\clrpickerg.cpp
+2015-08-28 18:48:34 ....A        48457               Source\3rd Party\wx\src\common\cmdline.cpp
+2015-08-28 18:48:34 ....A        10152               Source\3rd Party\wx\src\common\cmdproc.cpp
+2015-08-28 18:48:34 ....A        11219               Source\3rd Party\wx\src\common\cmndata.cpp
+2015-08-28 18:48:34 ....A        20643               Source\Project64\N64 System\Recompiler\Code Block.cpp
+2015-08-28 18:48:34 ....A        70805               Source\Project64\N64 System\Recompiler\Code Section.cpp
+2015-08-28 18:48:34 ....A         8905               Source\3rd Party\wx\src\generic\collpaneg.cpp
+2015-08-28 18:48:34 ....A         8387               Source\3rd Party\wx\src\msw\colordlg.cpp
+2015-08-28 18:48:34 ....A         1083               Source\3rd Party\wx\src\msw\colour.cpp
+2015-08-28 18:48:34 ....A        11998               Source\3rd Party\wx\src\common\colourcmn.cpp
+2015-08-28 18:48:34 ....A         2889               Source\3rd Party\wx\src\common\colourdata.cpp
+2015-08-28 18:48:34 ....A       508544               Source\Glide64\Combine.cpp
+2015-08-28 18:48:34 ....A        99726               Source\Glitch64\combiner.cpp
+2015-08-28 18:48:34 ....A        24887               Source\3rd Party\wx\src\msw\combo.cpp
+2015-08-28 18:48:34 ....A        21472               Source\3rd Party\wx\src\msw\combobox.cpp
+2015-08-28 18:48:34 ....A        82364               Source\3rd Party\wx\src\common\combocmn.cpp
+2015-08-28 18:48:34 ....A        14556               Source\3rd Party\wx\src\generic\combog.cpp
+2015-08-28 18:48:34 ....A        18471               Source\3rd Party\wx\src\common\config.cpp
+2015-08-28 18:48:34 ....A        74520               Source\Glide64\Config.cpp
+2015-08-28 18:48:34 ....A        24160               Source\3rd Party\wx\src\common\containr.cpp
+2015-08-28 18:48:34 ....A        16455               Source\3rd Party\wx\src\msw\control.cpp
+2015-08-28 18:48:34 ....A         6207               Source\Project64\Plugins\Controller Plugin.cpp
+2015-08-28 18:48:34 ....A        10790               Source\3rd Party\wx\src\common\convauto.cpp
+2015-08-28 18:48:34 ....A        11363               Source\3rd Party\wx\src\msw\crashrpt.cpp
+2015-08-28 18:48:34 ....A         3846               Source\Glide64\CRC.cpp
+2015-08-28 18:48:34 ....A        14024               Source\3rd Party\wx\src\common\cshelp.cpp
+2015-08-28 18:48:34 ....A        19925               Source\3rd Party\wx\src\common\ctrlcmn.cpp
+2015-08-28 18:48:34 ....A         8259               Source\3rd Party\wx\src\common\ctrlsub.cpp
+2015-08-28 18:48:34 ....A        12411               Source\3rd Party\wx\src\msw\cursor.cpp
+2015-08-28 18:48:34 ....A          526               Source\3rd Party\wx\src\msw\data.cpp
+2015-08-28 18:48:34 ....A        41509               Source\3rd Party\wx\src\msw\ole\dataobj.cpp
+2015-08-28 18:48:34 ....A        67067               Source\3rd Party\wx\src\common\datetime.cpp
+2015-08-28 18:48:34 ....A        77601               Source\3rd Party\wx\src\common\datetimefmt.cpp
+2015-08-28 18:48:34 ....A        16403               Source\3rd Party\wx\src\common\datstrm.cpp
+2015-08-28 18:48:34 ....A        90654               Source\3rd Party\wx\src\msw\dc.cpp
+2015-08-28 18:48:34 ....A        52941               Source\3rd Party\wx\src\common\dcbase.cpp
+2015-08-28 18:48:34 ....A         5123               Source\3rd Party\wx\src\common\dcbufcmn.cpp
+2015-08-28 18:48:34 ....A        11623               Source\3rd Party\wx\src\msw\dcclient.cpp
+2015-08-28 18:48:34 ....A        33673               Source\3rd Party\wx\src\common\dcgraph.cpp
+2015-08-28 18:48:34 ....A         5967               Source\3rd Party\wx\src\msw\dcmemory.cpp
+2015-08-28 18:48:34 ....A        14230               Source\3rd Party\wx\src\msw\dcprint.cpp
+2015-08-28 18:48:34 ....A        74501               Source\3rd Party\wx\src\generic\dcpsg.cpp
+2015-08-28 18:48:34 ....A         1111               Source\3rd Party\wx\src\msw\dcscreen.cpp
+2015-08-28 18:48:34 ....A        20803               Source\3rd Party\wx\src\common\dcsvg.cpp
+2015-08-28 18:48:34 ....A        36897               Source\3rd Party\wx\src\msw\dde.cpp
+2015-08-28 18:48:34 ....A         2634               Source\Project64\Settings\Debug Settings.cpp
+2015-08-28 18:48:34 ....A         3786               Source\nragev20\Debug.cpp
+2015-08-28 18:48:34 ....A        19705               Source\Project64\N64 System\Debugger\Debugger - Memory Dump.cpp
+2015-08-28 18:48:34 ....A        22082               Source\Project64\N64 System\Debugger\Debugger - Memory Search.cpp
+2015-08-28 18:48:34 ....A         7126               Source\Project64\N64 System\Debugger\Debugger - TLB.cpp
+2015-08-28 18:48:34 ....A        13200               Source\Project64\N64 System\Debugger\Debugger - View Memory.cpp
+2015-08-28 18:48:34 ....A         2690               Source\Project64\N64 System\Debugger\Debugger.cpp
+2015-08-28 18:48:34 ....A        35107               Source\Glide64\Debugger.cpp
+2015-08-28 18:48:34 ....A        22803               Source\3rd Party\wx\src\msw\debughlp.cpp
+2015-08-28 18:48:34 ....A         8676               Source\Glide64\DepthBufferRender.cpp
+2015-08-28 18:48:34 ....A        14735               Source\3rd Party\wx\src\msw\dialog.cpp
+2015-08-28 18:48:34 ....A        44832               Source\3rd Party\wx\src\msw\dialup.cpp
+2015-08-28 18:48:34 ....A        26990               Source\3rd Party\wx\src\msw\dib.cpp
+2015-08-28 18:48:34 ....A        10166               Source\3rd Party\wx\src\msw\dir.cpp
+2015-08-28 18:48:34 ....A        12191               Source\3rd Party\wx\src\common\dircmn.cpp
+2015-08-28 18:48:34 ....A         3483               Source\3rd Party\wx\src\common\dirctrlcmn.cpp
+2015-08-28 18:48:34 ....A        51136               Source\3rd Party\wx\src\generic\dirctrlg.cpp
+2015-08-28 18:48:34 ....A        16623               Source\3rd Party\wx\src\msw\dirdlg.cpp
+2015-08-28 18:48:34 ....A        39267               Source\nragev20\DirectInput.cpp
+2015-08-28 18:48:34 ....A        19924               Source\3rd Party\wx\src\msw\display.cpp
+2015-08-28 18:48:34 ....A        31996               Source\3rd Party\wx\src\common\dlgcmn.cpp
+2015-08-28 18:48:34 ....A        13484               Source\3rd Party\wx\src\msw\dlmsw.cpp
+2015-08-28 18:48:34 ....A         8419               Source\Project64\N64 System\Mips\Dma.cpp
+2015-08-28 18:48:34 ....A          808               Source\3rd Party\wx\src\common\dndcmn.cpp
+2015-08-28 18:48:34 ....A        18553               Source\3rd Party\wx\src\common\dobjcmn.cpp
+2015-08-28 18:48:34 ....A          821               Source\3rd Party\wx\src\common\docmdi.cpp
+2015-08-28 18:48:34 ....A        64645               Source\3rd Party\wx\src\common\docview.cpp
+2015-08-28 18:48:34 ....A         7533               Source\3rd Party\wx\src\common\dpycmn.cpp
+2015-08-28 18:48:34 ....A        14667               Source\3rd Party\wx\src\msw\dragimag.cpp
+2015-08-28 18:48:34 ....A        16738               Source\3rd Party\wx\src\generic\dragimgg.cpp
+2015-08-28 18:48:34 ....A         7974               Source\3rd Party\wx\src\msw\ole\dropsrc.cpp
+2015-08-28 18:48:34 ....A        18979               Source\3rd Party\wx\src\msw\ole\droptgt.cpp
+2015-08-28 18:48:34 ....A         1664               Source\3rd Party\wx\src\common\dseldlg.cpp
+2015-08-28 18:48:34 ....A          713               Source\3rd Party\wx\src\common\dummy.cpp
+2015-08-28 18:48:34 ....A        30291               Source\3rd Party\wx\src\common\dynarray.cpp
+2015-08-28 18:48:34 ....A         7990               Source\3rd Party\wx\src\common\dynlib.cpp
+2015-08-28 18:48:34 ....A        10384               Source\3rd Party\wx\src\common\dynload.cpp
+2015-08-28 18:48:34 ....A         5453               Source\Project64\N64 System\Mips\Eeprom.cpp
+2015-08-28 18:48:34 ....A         4170               Source\3rd Party\wx\src\common\effects.cpp
+2015-08-28 18:48:34 ....A        14696               Source\3rd Party\wx\src\common\encconv.cpp
+2015-08-28 18:48:34 ....A        16279               Source\3rd Party\wx\src\msw\enhmeta.cpp
+2015-08-28 18:48:34 ....A        58923               Source\3rd Party\wx\src\common\event.cpp
+2015-08-28 18:48:34 ....A        18320               Source\3rd Party\wx\src\msw\evtloop.cpp
+2015-08-28 18:48:34 ....A         7500               Source\3rd Party\wx\src\common\evtloopcmn.cpp
+2015-08-28 18:48:34 ....A         4001               Source\3rd Party\wx\src\common\execcmn.cpp
+2015-08-28 18:48:34 ....A         3164               Source\Glide64\Ext_TxFilter.cpp
+2015-08-28 18:48:34 ....A        23566               Source\Glide64\FBtoScreen.cpp
+2015-08-28 18:48:34 ....A         3550               Source\3rd Party\wx\src\common\fddlgcmn.cpp
+2015-08-28 18:48:34 ....A        15650               Source\3rd Party\wx\src\msw\fdrepdlg.cpp
+2015-08-28 18:48:34 ....A         6735               Source\3rd Party\wx\src\common\ffile.cpp
+2015-08-28 18:48:34 ....A         3934               Source\Common\File Class.cpp
+2015-08-28 18:48:34 ....A        15416               Source\3rd Party\wx\src\common\file.cpp
+2015-08-28 18:48:34 ....A        55412               Source\nragev20\FileAccess.cpp
+2015-08-28 18:48:34 ....A         8922               Source\3rd Party\wx\src\common\fileback.cpp
+2015-08-28 18:48:34 ....A        66451               Source\3rd Party\wx\src\common\fileconf.cpp
+2015-08-28 18:48:34 ....A         3097               Source\3rd Party\wx\src\common\filectrlcmn.cpp
+2015-08-28 18:48:34 ....A        43025               Source\3rd Party\wx\src\generic\filectrlg.cpp
+2015-08-28 18:48:34 ....A        23300               Source\3rd Party\wx\src\msw\filedlg.cpp
+2015-08-28 18:48:34 ....A        57779               Source\3rd Party\wx\src\common\filefn.cpp
+2015-08-28 18:48:34 ....A         8773               Source\3rd Party\wx\src\common\filehistorycmn.cpp
+2015-08-28 18:48:34 ....A        86012               Source\3rd Party\wx\src\common\filename.cpp
+2015-08-28 18:48:34 ....A         9866               Source\3rd Party\wx\src\common\filepickercmn.cpp
+2015-08-28 18:48:34 ....A         6087               Source\3rd Party\wx\src\generic\filepickerg.cpp
+2015-08-28 18:48:34 ....A        22148               Source\3rd Party\wx\src\common\filesys.cpp
+2015-08-28 18:48:34 ....A          989               Source\3rd Party\wx\src\common\filtall.cpp
+2015-08-28 18:48:34 ....A         1201               Source\3rd Party\wx\src\common\filtfind.cpp
+2015-08-28 18:48:34 ....A         2457               Source\Glide64\FixedPoint.asm.cpp
+2015-08-28 18:48:34 ....A         6417               Source\Project64\N64 System\Mips\FlashRam.cpp
+2015-08-28 18:48:34 ....A        13241               Source\3rd Party\wx\src\common\fldlgcmn.cpp
+2015-08-28 18:48:34 ....A        29994               Source\3rd Party\wx\src\common\fmapbase.cpp
+2015-08-28 18:48:34 ....A        28946               Source\3rd Party\wx\src\msw\font.cpp
+2015-08-28 18:48:34 ....A        32192               Source\3rd Party\wx\src\common\fontcmn.cpp
+2015-08-28 18:48:34 ....A         1901               Source\3rd Party\wx\src\common\fontdata.cpp
+2015-08-28 18:48:34 ....A         3739               Source\3rd Party\wx\src\msw\fontdlg.cpp
+2015-08-28 18:48:34 ....A         9405               Source\3rd Party\wx\src\msw\fontenum.cpp
+2015-08-28 18:48:34 ....A         4303               Source\3rd Party\wx\src\common\fontenumcmn.cpp
+2015-08-28 18:48:34 ....A        18118               Source\3rd Party\wx\src\common\fontmap.cpp
+2015-08-28 18:48:34 ....A         6139               Source\3rd Party\wx\src\common\fontpickercmn.cpp
+2015-08-28 18:48:34 ....A         3736               Source\3rd Party\wx\src\generic\fontpickerg.cpp
+2015-08-28 18:48:34 ....A         8383               Source\3rd Party\wx\src\msw\fontutil.cpp
+2015-08-28 18:48:34 ....A         2015               Source\3rd Party\wx\src\common\fontutilcmn.cpp
+2015-08-28 18:48:34 ....A         4977               Source\Project64\User Interface\Frame Per Second Class.cpp
+2015-08-28 18:48:34 ....A        30876               Source\3rd Party\wx\src\msw\frame.cpp
+2015-08-28 18:48:34 ....A        19841               Source\3rd Party\wx\src\common\framecmn.cpp
+2015-08-28 18:48:34 ....A        13454               Source\3rd Party\wx\src\msw\fswatcher.cpp
+2015-08-28 18:48:34 ....A         7231               Source\3rd Party\wx\src\common\fswatchercmn.cpp
+2015-08-28 18:48:34 ....A          654               Source\3rd Party\wx\src\generic\fswatcherg.cpp
+2015-08-28 18:48:34 ....A        14610               Source\3rd Party\wx\src\common\fs_arc.cpp
+2015-08-28 18:48:34 ....A         2872               Source\3rd Party\wx\src\common\fs_filter.cpp
+2015-08-28 18:48:34 ....A         7540               Source\3rd Party\wx\src\common\fs_mem.cpp
+2015-08-28 18:48:34 ....A         1272               Source\Project64\N64 System\Recompiler\Function Info.cpp
+2015-08-28 18:48:34 ....A         2489               Source\Project64\N64 System\Recompiler\Function Map Class.cpp
+2015-08-28 18:48:34 ....A         3804               Source\Project64\Settings\Game Settings.cpp
+2015-08-28 18:48:34 ....A         6391               Source\3rd Party\wx\src\msw\gauge.cpp
+2015-08-28 18:48:34 ....A         6199               Source\3rd Party\wx\src\common\gaugecmn.cpp
+2015-08-28 18:48:34 ....A        32527               Source\nragev20\GBCart.cpp
+2015-08-28 18:48:34 ....A        23489               Source\3rd Party\wx\src\common\gbsizer.cpp
+2015-08-28 18:48:34 ....A        27701               Source\3rd Party\wx\src\common\gdicmn.cpp
+2015-08-28 18:48:34 ....A        18623               Source\3rd Party\wx\src\msw\gdiimage.cpp
+2015-08-28 18:48:34 ....A         1503               Source\3rd Party\wx\src\msw\gdiobj.cpp
+2015-08-28 18:48:34 ....A        85392               Source\3rd Party\wx\src\msw\gdiplus.cpp
+2015-08-28 18:48:34 ....A         8335               Source\3rd Party\wx\src\common\geometry.cpp
+2015-08-28 18:48:34 ....A        22352               Source\Glitch64\geometry.cpp
+2015-08-28 18:48:34 ....A         8162               Source\Project64\Plugins\GFX plugin.cpp
+2015-08-28 18:48:34 ....A        31272               Source\3rd Party\wx\src\common\gifdecod.cpp
+2015-08-28 18:48:34 ....A        27307               Source\3rd Party\wx\src\common\graphcmn.cpp
+2015-08-28 18:48:34 ....A        81875               Source\3rd Party\wx\src\generic\graphicc.cpp
+2015-08-28 18:48:34 ....A        70553               Source\3rd Party\wx\src\msw\graphics.cpp
+2015-08-28 18:48:34 ....A        35324               Source\Project64\User Interface\Gui Class.cpp
+2015-08-28 18:48:34 ....A         1665               Source\Project64\Settings\Gui Settings.cpp
+2015-08-28 18:48:34 ....A         8826               Source\3rd Party\wx\src\common\hash.cpp
+2015-08-28 18:48:34 ....A         3992               Source\3rd Party\wx\src\common\hashmap.cpp
+2015-08-28 18:48:34 ....A         2650               Source\3rd Party\wx\src\common\headercolcmn.cpp
+2015-08-28 18:48:34 ....A        22155               Source\3rd Party\wx\src\msw\headerctrl.cpp
+2015-08-28 18:48:34 ....A        14858               Source\3rd Party\wx\src\common\headerctrlcmn.cpp
+2015-08-28 18:48:34 ....A        20290               Source\3rd Party\wx\src\generic\headerctrlg.cpp
+2015-08-28 18:48:34 ....A          698               Source\3rd Party\wx\src\common\helpbase.cpp
+2015-08-28 18:48:34 ....A         6563               Source\3rd Party\wx\src\msw\helpchm.cpp
+2015-08-28 18:48:34 ....A         3332               Source\3rd Party\wx\src\msw\helpwin.cpp
+2015-08-28 18:48:34 ....A         4408               Source\3rd Party\wx\src\msw\icon.cpp
+2015-08-28 18:48:34 ....A         8955               Source\3rd Party\wx\src\common\iconbndl.cpp
+2015-08-28 18:48:34 ....A         1751               Source\3rd Party\wx\src\common\imagall.cpp
+2015-08-28 18:48:34 ....A        52409               Source\3rd Party\wx\src\common\imagbmp.cpp
+2015-08-28 18:48:34 ....A       109202               Source\3rd Party\wx\src\common\image.cpp
+2015-08-28 18:48:34 ....A         9541               Source\3rd Party\wx\src\common\imagfill.cpp
+2015-08-28 18:48:34 ....A        22655               Source\3rd Party\wx\src\common\imaggif.cpp
+2015-08-28 18:48:34 ....A        24077               Source\3rd Party\wx\src\common\imagiff.cpp
+2015-08-28 18:48:34 ....A        16033               Source\3rd Party\wx\src\common\imagjpeg.cpp
+2015-08-28 18:48:34 ....A        13675               Source\3rd Party\wx\src\msw\imaglist.cpp
+2015-08-28 18:48:34 ....A        15584               Source\3rd Party\wx\src\common\imagpcx.cpp
+2015-08-28 18:48:34 ....A        35911               Source\3rd Party\wx\src\common\imagpng.cpp
+2015-08-28 18:48:34 ....A         5734               Source\3rd Party\wx\src\common\imagpnm.cpp
+2015-08-28 18:48:34 ....A        24210               Source\3rd Party\wx\src\common\imagtga.cpp
+2015-08-28 18:48:34 ....A        25636               Source\3rd Party\wx\src\common\imagtiff.cpp
+2015-08-28 18:48:34 ....A         9168               Source\3rd Party\wx\src\common\imagxpm.cpp
+2015-08-28 18:48:34 ....A        11271               Source\3rd Party\wx\src\generic\infobar.cpp
+2015-08-28 18:48:34 ....A        19684               Source\Common\Ini File Class.cpp
+2015-08-28 18:48:34 ....A        13931               Source\3rd Party\wx\src\msw\iniconf.cpp
+2015-08-28 18:48:34 ....A        15543               Source\3rd Party\wx\src\common\init.cpp
+2015-08-28 18:48:34 ....A       134109               Source\nragev20\Interface.cpp
+2015-08-28 18:48:34 ....A         6005               Source\nragev20\International.cpp
+2015-08-28 18:48:34 ....A        12783               Source\Project64\N64 System\Interpreter\Interpreter CPU.cpp
+2015-08-28 18:48:34 ....A        45048               Source\Project64\N64 System\Interpreter\Interpreter Ops 32.cpp
+2015-08-28 18:48:34 ....A        71585               Source\Project64\N64 System\Interpreter\Interpreter Ops.cpp
+2015-08-28 18:48:34 ....A        52408               Source\3rd Party\wx\src\common\intl.cpp
+2015-08-28 18:48:34 ....A         3591               Source\3rd Party\wx\src\common\ipcbase.cpp
+2015-08-28 18:48:34 ....A         4070               Source\Glide64\Keys.cpp
+2015-08-28 18:48:34 ....A        38381               Source\Project64\Multilanguage\Language Class.cpp
+2015-08-28 18:48:34 ....A        48416               Source\3rd Party\wx\src\common\languageinfo.cpp
+2015-08-28 18:48:34 ....A        35383               Source\3rd Party\wx\src\common\layout.cpp
+2015-08-28 18:48:34 ....A        10167               Source\3rd Party\wx\src\common\lboxcmn.cpp
+2015-08-28 18:48:34 ....A        19378               Source\3rd Party\wx\src\common\list.cpp
+2015-08-28 18:48:34 ....A        11640               Source\3rd Party\wx\src\generic\listbkg.cpp
+2015-08-28 18:48:34 ....A        21987               Source\3rd Party\wx\src\msw\listbox.cpp
+2015-08-28 18:48:34 ....A       107789               Source\3rd Party\wx\src\msw\listctrl.cpp
+2015-08-28 18:48:34 ....A         7990               Source\3rd Party\wx\src\common\listctrlcmn.cpp
+2015-08-28 18:48:34 ....A         1528               Source\3rd Party\wx\include\wx\listimpl.cpp
+2015-08-28 18:48:34 ....A         3955               Source\Common\Log Class.cpp
+2015-08-28 18:48:34 ....A         9162               Source\RSP\log.cpp
+2015-08-28 18:48:34 ....A        31885               Source\3rd Party\wx\src\common\log.cpp
+2015-08-28 18:48:34 ....A        31249               Source\3rd Party\wx\src\generic\logg.cpp
+2015-08-28 18:48:34 ....A        36800               Source\Project64\N64 System\C Core\Logging.cpp
+2015-08-28 18:48:34 ....A        33354               Source\3rd Party\wx\src\common\longlong.cpp
+2015-08-28 18:48:34 ....A        39965               Source\Project64\N64 System\Recompiler\Loop Analysis.cpp
+2015-08-28 18:48:34 ....A        47689               Source\Project64\User Interface\Main Menu Class.cpp
+2015-08-28 18:48:34 ....A         8517               Source\Project64\main.cpp
+2015-08-28 18:48:34 ....A        12619               Source\3rd Party\wx\src\msw\main.cpp
+2015-08-28 18:48:34 ....A        16138               Source\SortRdb\main.cpp
+2015-08-28 18:48:34 ....A        24397               Source\RSP\Main.cpp
+2015-08-28 18:48:34 ....A        80337               Source\Glide64\Main.cpp
+2015-08-28 18:48:34 ....A       100500               Source\Glitch64\main.cpp
+2015-08-28 18:48:34 ....A        16563               Source\3rd Party\wx\src\common\markupparser.cpp
+2015-08-28 18:48:34 ....A         8706               Source\3rd Party\wx\src\generic\markuptext.cpp
+2015-08-28 18:48:34 ....A        16347               Source\3rd Party\wx\src\common\matrix.cpp
+2015-08-28 18:48:34 ....A        13688               Source\Common\md5.cpp
+2015-08-28 18:48:34 ....A        45709               Source\3rd Party\wx\src\msw\mdi.cpp
+2015-08-28 18:48:34 ....A         5397               Source\Project64\N64 System\Mips\Memory Labels Class.cpp
+2015-08-28 18:48:34 ....A       151401               Source\Project64\N64 System\Mips\Memory Virtual Mem.cpp
+2015-08-28 18:48:34 ....A        31010               Source\3rd Party\wx\src\common\memory.cpp
+2015-08-28 18:48:34 ....A         5139               Source\Project64\N64 System\Mips\Mempak.cpp
+2015-08-28 18:48:34 ....A         7926               Source\Common\MemTest.cpp
+2015-08-28 18:48:34 ....A         1714               Source\Project64\User Interface\Menu Class.cpp
+2015-08-28 18:48:34 ....A        47083               Source\3rd Party\wx\src\msw\menu.cpp
+2015-08-28 18:48:34 ....A        31023               Source\3rd Party\wx\src\common\menucmn.cpp
+2015-08-28 18:48:34 ....A        38261               Source\3rd Party\wx\src\msw\menuitem.cpp
+2015-08-28 18:48:34 ....A        23156               Source\Project64\User Interface\MenuShortCuts.cpp
+2015-08-28 18:48:34 ....A        14803               Source\3rd Party\wx\src\msw\metafile.cpp
+2015-08-28 18:48:34 ....A        21189               Source\3rd Party\wx\src\common\mimecmn.cpp
+2015-08-28 18:48:34 ....A        26394               Source\3rd Party\wx\src\msw\mimetype.cpp
+2015-08-28 18:48:34 ....A          656               Source\3rd Party\wx\src\msw\minifram.cpp
+2015-08-28 18:48:34 ....A         2786               Source\Project64\User Interface\WTL Controls\ModifiedEditBox.cpp
+2015-08-28 18:48:34 ....A         6814               Source\3rd Party\wx\src\common\module.cpp
+2015-08-28 18:48:34 ....A         5751               Source\3rd Party\wx\src\common\mousemanager.cpp
+2015-08-28 18:48:34 ....A        30215               Source\3rd Party\wx\src\msw\msgdlg.cpp
+2015-08-28 18:48:34 ....A         8255               Source\3rd Party\wx\src\generic\msgdlgg.cpp
+2015-08-28 18:48:34 ....A         6165               Source\3rd Party\wx\src\common\msgout.cpp
+2015-08-28 18:48:34 ....A         7036               Source\3rd Party\wx\src\msw\mslu.cpp
+2015-08-28 18:48:34 ....A         5930               Source\3rd Party\wx\src\common\mstream.cpp
+2015-08-28 18:48:34 ....A        62716               Source\Project64\N64 System\N64 Class.cpp
+2015-08-28 18:48:34 ....A        15373               Source\Project64\N64 System\N64 Rom Class.cpp
+2015-08-28 18:48:34 ....A         2849               Source\Project64\Settings\N64System Settings.cpp
+2015-08-28 18:48:34 ....A         9257               Source\3rd Party\wx\src\msw\nativdlg.cpp
+2015-08-28 18:48:34 ....A         2754               Source\3rd Party\wx\src\msw\nativewin.cpp
+2015-08-28 18:48:34 ....A         7267               Source\3rd Party\wx\src\common\nbkbase.cpp
+2015-08-28 18:48:34 ....A         5531               Source\3rd Party\wx\src\msw\nonownedwnd.cpp
+2015-08-28 18:48:34 ....A        42406               Source\3rd Party\wx\src\msw\notebook.cpp
+2015-08-28 18:48:34 ....A         7252               Source\Project64\User Interface\Notification Class.cpp
+2015-08-28 18:48:34 ....A         1391               Source\Project64\Settings\Notification Settings.cpp
+2015-08-28 18:48:34 ....A        41982               Source\nragev20\NRagePluginV2.cpp
+2015-08-28 18:48:34 ....A         5569               Source\3rd Party\wx\src\generic\numdlgg.cpp
+2015-08-28 18:48:34 ....A         9122               Source\3rd Party\wx\src\common\numformatter.cpp
+2015-08-28 18:48:34 ....A        12627               Source\3rd Party\wx\src\common\object.cpp
+2015-08-28 18:48:34 ....A        17978               Source\3rd Party\wx\src\msw\ole\oleutils.cpp
+2015-08-28 18:48:34 ....A         4322               Source\3rd Party\wx\src\common\overlaycmn.cpp
+2015-08-28 18:48:34 ....A         4849               Source\3rd Party\wx\src\msw\ownerdrw.cpp
+2015-08-28 18:48:34 ....A         3047               Source\3rd Party\wx\src\common\ownerdrwcmn.cpp
+2015-08-28 18:48:34 ....A        44472               Source\nragev20\PakIO.cpp
+2015-08-28 18:48:34 ....A         4794               Source\3rd Party\wx\src\msw\palette.cpp
+2015-08-28 18:48:34 ....A         1535               Source\3rd Party\wx\src\msw\panel.cpp
+2015-08-28 18:48:34 ....A         4134               Source\3rd Party\wx\src\common\panelcmn.cpp
+2015-08-28 18:48:34 ....A        21884               Source\3rd Party\wx\src\common\paper.cpp
+2015-08-28 18:48:34 ....A         3884               Source\Project64\User Interface\WTL Controls\PartialGroupBox.cpp
+2015-08-28 18:48:34 ....A        35309               Source\Common\path.cpp
+2015-08-28 18:48:34 ....A        15293               Source\3rd Party\wx\src\msw\pen.cpp
+2015-08-28 18:48:34 ....A         5172               Source\3rd Party\wx\src\common\persist.cpp
+2015-08-28 18:48:34 ....A         6485               Source\3rd Party\wx\src\common\pickerbase.cpp
+2015-08-28 18:48:34 ....A        17286               Source\Project64\N64 System\Mips\Pif Ram.cpp
+2015-08-28 18:48:34 ....A         9808               Source\3rd Party\wx\src\common\platinfo.cpp
+2015-08-28 18:48:34 ....A         6365               Source\Project64\Plugins\Plugin Base.cpp
+2015-08-28 18:48:34 ....A        14856               Source\Project64\Plugins\Plugin Class.cpp
+2015-08-28 18:48:34 ....A         3927               Source\Project64\Plugins\Plugin List.cpp
+2015-08-28 18:48:34 ....A        18929               Source\3rd Party\wx\src\common\popupcmn.cpp
+2015-08-28 18:48:34 ....A         3538               Source\3rd Party\wx\src\msw\popupwin.cpp
+2015-08-28 18:48:34 ....A         3042               Source\3rd Party\wx\src\msw\power.cpp
+2015-08-28 18:48:34 ....A         1849               Source\3rd Party\wx\src\common\powercmn.cpp
+2015-08-28 18:48:34 ....A        39479               Source\3rd Party\wx\src\msw\printdlg.cpp
+2015-08-28 18:48:34 ....A        11702               Source\3rd Party\wx\src\generic\printps.cpp
+2015-08-28 18:48:34 ....A        13537               Source\3rd Party\wx\src\msw\printwin.cpp
+2015-08-28 18:48:34 ....A        67066               Source\3rd Party\wx\src\common\prntbase.cpp
+2015-08-28 18:48:34 ....A        37662               Source\3rd Party\wx\src\generic\prntdlgg.cpp
+2015-08-28 18:48:34 ....A         5115               Source\3rd Party\wx\src\common\process.cpp
+2015-08-28 18:48:34 ....A         5762               Source\Project64\N64 System\Profiling Class.cpp
+2015-08-28 18:48:34 ....A         8927               Source\RSP\Profiling.cpp
+2015-08-28 18:48:34 ....A        30749               Source\3rd Party\wx\src\msw\progdlg.cpp
+2015-08-28 18:48:34 ....A        23722               Source\3rd Party\wx\src\generic\progdlgg.cpp
+2015-08-28 18:48:34 ....A        59211               Source\3rd Party\wx\src\common\quantize.cpp
+2015-08-28 18:48:34 ....A        29462               Source\Project64\N64 System\C Core\r4300i Commands.cpp
+2015-08-28 18:48:34 ....A        29924               Source\3rd Party\wx\src\msw\radiobox.cpp
+2015-08-28 18:48:34 ....A         3517               Source\3rd Party\wx\src\common\radiobtncmn.cpp
+2015-08-28 18:48:34 ....A         9579               Source\3rd Party\wx\src\msw\radiobut.cpp
+2015-08-28 18:48:34 ....A        10554               Source\3rd Party\wx\src\common\radiocmn.cpp
+2015-08-28 18:48:34 ....A       124571               Source\Glide64\rdp.cpp
+2015-08-28 18:48:34 ....A        10495               Source\3rd Party\wx\src\common\rearrangectrl.cpp
+2015-08-28 18:48:34 ....A        26445               Source\Project64\N64 System\Recompiler\Recompiler Class.cpp
+2015-08-28 18:48:34 ....A         2968               Source\Project64\N64 System\Recompiler\Recompiler Memory.cpp
+2015-08-28 18:48:34 ....A       200429               Source\Project64\N64 System\Recompiler\Recompiler Ops.cpp
+2015-08-28 18:48:34 ....A         1850               Source\Project64\Settings\Recompiler Settings.cpp
+2015-08-28 18:48:34 ....A        39617               Source\Project64\N64 System\Recompiler\Reg Info.cpp
+2015-08-28 18:48:34 ....A        24323               Source\3rd Party\wx\src\msw\regconf.cpp
+2015-08-28 18:48:34 ....A        21111               Source\3rd Party\wx\src\common\regex.cpp
+2015-08-28 18:48:34 ....A        12173               Source\3rd Party\wx\src\msw\region.cpp
+2015-08-28 18:48:34 ....A        15543               Source\Project64\N64 System\Mips\Register Class.cpp
+2015-08-28 18:48:34 ....A        16473               Source\Common\registry.cpp
+2015-08-28 18:48:34 ....A        46868               Source\3rd Party\wx\src\msw\registry.cpp
+2015-08-28 18:48:34 ....A         5985               Source\3rd Party\wx\src\common\rendcmn.cpp
+2015-08-28 18:48:34 ....A        30378               Source\3rd Party\wx\src\msw\renderer.cpp
+2015-08-28 18:48:34 ....A        26912               Source\3rd Party\wx\src\generic\renderg.cpp
+2015-08-28 18:48:34 ....A         5822               Source\3rd Party\wx\src\common\rgncmn.cpp
+2015-08-28 18:48:34 ....A         2522               Source\3rd Party\wx\src\msw\richmsgdlg.cpp
+2015-08-28 18:48:34 ....A         3017               Source\3rd Party\wx\src\generic\richmsgdlgg.cpp
+2015-08-28 18:48:34 ....A        61466               Source\Project64\User Interface\Rom Browser Class.cpp
+2015-08-28 18:48:34 ....A         5717               Source\Project64\N64 System\Rom Information Class.cpp
+2015-08-28 18:48:34 ....A         6493               Source\Project64\Plugins\RSP Plugin.cpp
+2015-08-28 18:48:34 ....A        52520               Source\3rd Party\wx\src\generic\scrlwing.cpp
+2015-08-28 18:48:34 ....A         6730               Source\3rd Party\wx\src\msw\scrolbar.cpp
+2015-08-28 18:48:34 ....A         3222               Source\3rd Party\wx\src\common\scrolbarcmn.cpp
+2015-08-28 18:48:34 ....A         4665               Source\Project64\N64 System\Recompiler\Section Info.cpp
+2015-08-28 18:48:34 ....A         7595               Source\3rd Party\wx\src\generic\selstore.cpp
+2015-08-28 18:48:34 ....A         2118               Source\3rd Party\wx\src\common\settcmn.cpp
+2015-08-28 18:48:34 ....A        42982               Source\Project64\Settings\Settings Class.cpp
+2015-08-28 18:48:34 ....A         9198               Source\Project64\User Interface\Settings Config.cpp
+2015-08-28 18:48:34 ....A         2281               Source\Project64\User Interface\Settings\Settings Page - Advanced Options.cpp
+2015-08-28 18:48:34 ....A        12695               Source\Project64\User Interface\Settings\Settings Page - Directories.cpp
+2015-08-28 18:48:34 ....A         3533               Source\Project64\User Interface\Settings\Settings Page - Game - General.cpp
+2015-08-28 18:48:34 ....A         9296               Source\Project64\User Interface\Settings\Settings Page - Game - Plugin.cpp
+2015-08-28 18:48:34 ....A         2894               Source\Project64\User Interface\Settings\Settings Page - Game - Recompiler.cpp
+2015-08-28 18:48:34 ....A         2484               Source\Project64\User Interface\Settings\Settings Page - Game - Status.cpp
+2015-08-28 18:48:34 ....A         7645               Source\Project64\User Interface\Settings\Settings Page - Game Browser.cpp
+2015-08-28 18:48:34 ....A        12527               Source\Project64\User Interface\Settings\Settings Page - Keyboard Shortcuts.cpp
+2015-08-28 18:48:34 ....A         2389               Source\Project64\User Interface\Settings\Settings Page - Options.cpp
+2015-08-28 18:48:34 ....A         9057               Source\Project64\User Interface\Settings\Settings Page - Plugin.cpp
+2015-08-28 18:48:34 ....A         1393               Source\Project64\User Interface\Settings\Settings Page.cpp
+2015-08-28 18:48:34 ....A         6737               Source\Settings\Settings.cpp
+2015-08-28 18:48:34 ....A        15218               Source\3rd Party\wx\src\msw\settings.cpp
+2015-08-28 18:48:34 ....A         7152               Source\Project64\Settings\SettingType\SettingsType-Application.cpp
+2015-08-28 18:48:34 ....A         3782               Source\Project64\Settings\SettingType\SettingsType-ApplicationIndex.cpp
+2015-08-28 18:48:34 ....A         1704               Source\Project64\Settings\SettingType\SettingsType-ApplicationPath.cpp
+2015-08-28 18:48:34 ....A         4074               Source\Project64\Settings\SettingType\SettingsType-Cheats.cpp
+2015-08-28 18:48:34 ....A         7479               Source\Project64\Settings\SettingType\SettingsType-GameSetting.cpp
+2015-08-28 18:48:34 ....A         3525               Source\Project64\Settings\SettingType\SettingsType-GameSettingIndex.cpp
+2015-08-28 18:48:34 ....A         3797               Source\Project64\Settings\SettingType\SettingsType-RDBCpuType.cpp
+2015-08-28 18:48:34 ....A         3413               Source\Project64\Settings\SettingType\SettingsType-RDBOnOff.cpp
+2015-08-28 18:48:34 ....A         3064               Source\Project64\Settings\SettingType\SettingsType-RDBRamSize.cpp
+2015-08-28 18:48:34 ....A         4334               Source\Project64\Settings\SettingType\SettingsType-RDBSaveChip.cpp
+2015-08-28 18:48:34 ....A         3620               Source\Project64\Settings\SettingType\SettingsType-RDBYesNo.cpp
+2015-08-28 18:48:34 ....A         2313               Source\Project64\Settings\SettingType\SettingsType-RelativePath.cpp
+2015-08-28 18:48:34 ....A         7361               Source\Project64\Settings\SettingType\SettingsType-RomDatabase.cpp
+2015-08-28 18:48:34 ....A         3679               Source\Project64\Settings\SettingType\SettingsType-RomDatabaseIndex.cpp
+2015-08-28 18:48:34 ....A         2678               Source\Project64\Settings\SettingType\SettingsType-RomDatabaseSetting.cpp
+2015-08-28 18:48:34 ....A         2899               Source\Project64\Settings\SettingType\SettingsType-SelectedDirectory.cpp
+2015-08-28 18:48:34 ....A         2405               Source\Project64\Settings\SettingType\SettingsType-TempBool.cpp
+2015-08-28 18:48:34 ....A         2435               Source\Project64\Settings\SettingType\SettingsType-TempNumber.cpp
+2015-08-28 18:48:34 ....A         2411               Source\Project64\Settings\SettingType\SettingsType-TempString.cpp
+2015-08-28 18:48:34 ....A        79126               Source\3rd Party\wx\src\common\sizer.cpp
+2015-08-28 18:48:34 ....A        21115               Source\3rd Party\wx\src\msw\slider.cpp
+2015-08-28 18:48:34 ....A         4116               Source\3rd Party\wx\src\common\slidercmn.cpp
+2015-08-28 18:48:34 ....A         3791               Source\3rd Party\wx\src\msw\snglinst.cpp
+2015-08-28 18:48:34 ....A         2764               Source\Project64\N64 System\Speed Limitor Class.cpp
+2015-08-28 18:48:34 ....A         3392               Source\3rd Party\wx\src\common\spinbtncmn.cpp
+2015-08-28 18:48:34 ....A         7853               Source\3rd Party\wx\src\msw\spinbutt.cpp
+2015-08-28 18:48:34 ....A        18239               Source\3rd Party\wx\src\generic\spinctlg.cpp
+2015-08-28 18:48:34 ....A        23146               Source\3rd Party\wx\src\msw\spinctrl.cpp
+2015-08-28 18:48:34 ....A         3726               Source\3rd Party\wx\src\common\spinctrlcmn.cpp
+2015-08-28 18:48:34 ....A        31272               Source\3rd Party\wx\src\generic\splitter.cpp
+2015-08-28 18:48:34 ....A         2563               Source\Project64\N64 System\Mips\Sram.cpp
+2015-08-28 18:48:34 ....A         1315               Source\3rd Party\wx\src\common\srchcmn.cpp
+2015-08-28 18:48:34 ....A        33373               Source\3rd Party\wx\src\generic\srchctlg.cpp
+2015-08-28 18:48:34 ....A         6280               Source\3rd Party\wx\src\common\sstream.cpp
+2015-08-28 18:48:34 ....A        13253               Source\3rd Party\wx\src\msw\stackwalk.cpp
+2015-08-28 18:48:34 ....A         9595               Source\3rd Party\wx\src\common\statbar.cpp
+2015-08-28 18:48:34 ....A         9072               Source\3rd Party\wx\src\msw\statbmp.cpp
+2015-08-28 18:48:34 ....A         2872               Source\3rd Party\wx\src\common\statbmpcmn.cpp
+2015-08-28 18:48:34 ....A         1467               Source\3rd Party\wx\src\generic\statbmpg.cpp
+2015-08-28 18:48:34 ....A        18780               Source\3rd Party\wx\src\msw\statbox.cpp
+2015-08-28 18:48:34 ....A         2937               Source\3rd Party\wx\src\common\statboxcmn.cpp
+2015-08-28 18:48:34 ....A         2346               Source\3rd Party\wx\src\msw\statline.cpp
+2015-08-28 18:48:34 ....A         2849               Source\3rd Party\wx\src\common\statlinecmn.cpp
+2015-08-28 18:48:34 ....A         7959               Source\3rd Party\wx\src\msw\stattext.cpp
+2015-08-28 18:48:34 ....A         7992               Source\3rd Party\wx\src\common\stattextcmn.cpp
+2015-08-28 18:48:34 ....A         4326               Source\3rd Party\wx\src\generic\stattextg.cpp
+2015-08-28 18:48:34 ....A        21006               Source\3rd Party\wx\src\msw\statusbar.cpp
+2015-08-28 18:48:34 ....A        18346               Source\3rd Party\wx\src\generic\statusbr.cpp
+2015-08-28 18:48:34 ....A         5176               Source\Common\std string.cpp
+2015-08-28 18:48:34 ....A           20               Source\Project64\stdafx.cpp
+2015-08-28 18:48:34 ....A           54               Source\Common\stdafx.cpp
+2015-08-28 18:48:34 ....A        11934               Source\3rd Party\wx\src\msw\stdpaths.cpp
+2015-08-28 18:48:34 ....A         4496               Source\3rd Party\wx\src\common\stdpbase.cpp
+2015-08-28 18:48:34 ....A         7393               Source\3rd Party\wx\src\common\stdstream.cpp
+2015-08-28 18:48:34 ....A        14682               Source\3rd Party\wx\src\common\stockitem.cpp
+2015-08-28 18:48:34 ....A         5427               Source\3rd Party\wx\src\common\stopwatch.cpp
+2015-08-28 18:48:34 ....A       105877               Source\3rd Party\wx\src\common\strconv.cpp
+2015-08-28 18:48:34 ....A        40680               Source\3rd Party\wx\src\common\stream.cpp
+2015-08-28 18:48:34 ....A        69391               Source\3rd Party\wx\src\common\string.cpp
+2015-08-28 18:48:34 ....A        23222               Source\3rd Party\wx\src\common\stringimpl.cpp
+2015-08-28 18:48:34 ....A        11109               Source\3rd Party\wx\src\common\stringops.cpp
+2015-08-28 18:48:34 ....A        23043               Source\3rd Party\wx\src\common\strvararg.cpp
+2015-08-28 18:48:34 ....A         3309               Source\3rd Party\wx\src\common\sysopt.cpp
+2015-08-28 18:48:34 ....A         5958               Source\Project64\N64 System\Mips\System Events.cpp
+2015-08-28 18:48:34 ....A         1591               Source\Project64\N64 System\System Globals.cpp
+2015-08-28 18:48:34 ....A        10123               Source\Project64\N64 System\Mips\System Timing.cpp
+2015-08-28 18:48:34 ....A        43220               Source\3rd Party\wx\src\common\tarstrm.cpp
+2015-08-28 18:48:34 ....A        20547               Source\3rd Party\wx\src\common\tbarbase.cpp
+2015-08-28 18:48:34 ....A        26425               Source\Glide64\TexBuffer.cpp
+2015-08-28 18:48:34 ....A        59687               Source\Glide64\TexCache.cpp
+2015-08-28 18:48:34 ....A         8107               Source\3rd Party\wx\src\common\textbuf.cpp
+2015-08-28 18:48:34 ....A        40321               Source\3rd Party\wx\src\common\textcmn.cpp
+2015-08-28 18:48:34 ....A        91890               Source\3rd Party\wx\src\msw\textctrl.cpp
+2015-08-28 18:48:34 ....A         5859               Source\3rd Party\wx\src\generic\textdlgg.cpp
+2015-08-28 18:48:34 ....A        29630               Source\3rd Party\wx\src\msw\textentry.cpp
+2015-08-28 18:48:34 ....A        12194               Source\3rd Party\wx\src\common\textentrycmn.cpp
+2015-08-28 18:48:34 ....A         9686               Source\3rd Party\wx\src\common\textfile.cpp
+2015-08-28 18:48:34 ....A        83079               Source\Glide64\Texture.asm.cpp
+2015-08-28 18:48:34 ....A        19388               Source\GlideHQ\TextureFilters.cpp
+2015-08-28 18:48:34 ....A         5564               Source\GlideHQ\TextureFilters_2xsai.cpp
+2015-08-28 18:48:34 ....A        41379               Source\GlideHQ\TextureFilters_hq2x.cpp
+2015-08-28 18:48:34 ....A        27753               Source\GlideHQ\TextureFilters_hq4x.cpp
+2015-08-28 18:48:34 ....A        26160               Source\Glitch64\textures.cpp
+2015-08-28 18:48:34 ....A         5798               Source\3rd Party\wx\src\msw\tglbtn.cpp
+2015-08-28 18:48:34 ....A        40177               Source\3rd Party\wx\src\msw\thread.cpp
+2015-08-28 18:48:34 ....A         9087               Source\3rd Party\wx\include\wx\thrimpl.cpp
+2015-08-28 18:48:34 ....A        10510               Source\3rd Party\wx\src\common\time.cpp
+2015-08-28 18:48:34 ....A         6972               Source\3rd Party\wx\src\msw\timer.cpp
+2015-08-28 18:48:34 ....A         7243               Source\3rd Party\wx\src\generic\timer.cpp
+2015-08-28 18:48:34 ....A         3754               Source\3rd Party\wx\src\common\timercmn.cpp
+2015-08-28 18:48:34 ....A         2415               Source\3rd Party\wx\src\common\timerimpl.cpp
+2015-08-28 18:48:34 ....A        10661               Source\3rd Party\wx\src\generic\tipwin.cpp
+2015-08-28 18:48:34 ....A        10016               Source\Project64\N64 System\Mips\TLB class.cpp
+2015-08-28 18:48:34 ....A         9310               Source\3rd Party\wx\src\common\tokenzr.cpp
+2015-08-28 18:48:34 ....A        66349               Source\3rd Party\wx\src\msw\toolbar.cpp
+2015-08-28 18:48:34 ....A        11113               Source\3rd Party\wx\src\generic\toolbkg.cpp
+2015-08-28 18:48:34 ....A        18506               Source\3rd Party\wx\src\msw\tooltip.cpp
+2015-08-28 18:48:34 ....A        50945               Source\3rd Party\wx\src\msw\toplevel.cpp
+2015-08-28 18:48:34 ....A        14939               Source\3rd Party\wx\src\common\toplvcmn.cpp
+2015-08-28 18:48:34 ....A         5766               Source\Common\Trace.cpp
+2015-08-28 18:48:34 ....A        54324               Source\3rd Party\wx\src\common\translation.cpp
+2015-08-28 18:48:34 ....A        11925               Source\3rd Party\wx\src\common\treebase.cpp
+2015-08-28 18:48:34 ....A        23616               Source\3rd Party\wx\src\generic\treebkg.cpp
+2015-08-28 18:48:34 ....A       124636               Source\3rd Party\wx\src\generic\treectlg.cpp
+2015-08-28 18:48:34 ....A       128083               Source\3rd Party\wx\src\msw\treectrl.cpp
+2015-08-28 18:48:34 ....A        12749               Source\GlideHQ\TxCache.cpp
+2015-08-28 18:48:34 ....A         1698               Source\GlideHQ\TxDbg.cpp
+2015-08-28 18:48:34 ....A        22579               Source\GlideHQ\TxFilter.cpp
+2015-08-28 18:48:34 ....A         2616               Source\GlideHQ\TxFilterExport.cpp
+2015-08-28 18:48:34 ....A        37550               Source\GlideHQ\TxHiResCache.cpp
+2015-08-28 18:48:34 ....A        20814               Source\GlideHQ\TxImage.cpp
+2015-08-28 18:48:34 ....A        69306               Source\GlideHQ\TxQuantize.cpp
+2015-08-28 18:48:34 ....A        11721               Source\GlideHQ\TxReSample.cpp
+2015-08-28 18:48:34 ....A         2530               Source\GlideHQ\TxTexCache.cpp
+2015-08-28 18:48:34 ....A        11989               Source\3rd Party\wx\src\common\txtstrm.cpp
+2015-08-28 18:48:34 ....A        21465               Source\GlideHQ\TxUtil.cpp
+2015-08-28 18:48:34 ....A         2672               Source\3rd Party\wx\src\msw\uiaction.cpp
+2015-08-28 18:48:34 ....A         3284               Source\3rd Party\wx\src\common\uiactioncmn.cpp
+2015-08-28 18:48:34 ....A         5793               Source\3rd Party\wx\src\common\unichar.cpp
+2015-08-28 18:48:34 ....A        28579               Source\3rd Party\wx\src\common\uri.cpp
+2015-08-28 18:48:34 ....A        14252               Source\3rd Party\wx\src\common\ustring.cpp
+2015-08-28 18:48:34 ....A        72551               Source\Glide64\Util.cpp
+2015-08-28 18:48:34 ....A        55275               Source\3rd Party\wx\src\msw\utils.cpp
+2015-08-28 18:48:34 ....A        47083               Source\3rd Party\wx\src\common\utilscmn.cpp
+2015-08-28 18:48:34 ....A        35454               Source\3rd Party\wx\src\msw\utilsexc.cpp
+2015-08-28 18:48:34 ....A        13895               Source\3rd Party\wx\src\msw\utilsgui.cpp
+2015-08-28 18:48:34 ....A         4711               Source\3rd Party\wx\src\msw\ole\uuid.cpp
+2015-08-28 18:48:34 ....A         7736               Source\3rd Party\wx\src\msw\uxtheme.cpp
+2015-08-28 18:48:34 ....A        18561               Source\3rd Party\wx\src\common\valgen.cpp
+2015-08-28 18:48:34 ....A         1012               Source\3rd Party\wx\src\common\validate.cpp
+2015-08-28 18:48:34 ....A         9664               Source\3rd Party\wx\src\common\valnum.cpp
+2015-08-28 18:48:34 ....A         9750               Source\3rd Party\wx\src\common\valtext.cpp
+2015-08-28 18:48:34 ....A        61146               Source\3rd Party\wx\src\common\variant.cpp
+2015-08-28 18:48:34 ....A        21190               Source\3rd Party\wx\src\generic\vlbox.cpp
+2015-08-28 18:48:34 ....A        22480               Source\3rd Party\wx\src\msw\volume.cpp
+2015-08-28 18:48:34 ....A         2847               Source\Glitch64\vram.cpp
+2015-08-28 18:48:34 ....A        29966               Source\3rd Party\wx\src\generic\vscroll.cpp
+2015-08-28 18:48:34 ....A        10410               Source\3rd Party\wx\src\common\wfstream.cpp
+2015-08-28 18:48:34 ....A       119954               Source\3rd Party\wx\src\common\wincmn.cpp
+2015-08-28 18:48:34 ....A       244873               Source\3rd Party\wx\src\msw\window.cpp
+2015-08-28 18:48:34 ....A         9510               Source\3rd Party\wx\src\common\windowid.cpp
+2015-08-28 18:48:34 ....A        20271               Source\3rd Party\wx\src\common\wrapsizer.cpp
+2015-08-28 18:48:34 ....A        35160               Source\3rd Party\wx\src\common\wxcrt.cpp
+2015-08-28 18:48:34 ....A         8273               Source\3rd Party\wx\src\common\wxprintf.cpp
+2015-08-28 18:48:34 ....A         1766               Source\Project64\N64 System\Recompiler\x86CodeLog.cpp
+2015-08-28 18:48:34 ....A       129359               Source\Project64\N64 System\Recompiler\X86ops.cpp
+2015-08-28 18:48:34 ....A        29183               Source\nragev20\XInputController.cpp
+2015-08-28 18:48:34 ....A        10976               Source\3rd Party\wx\src\common\xlocale.cpp
+2015-08-28 18:48:34 ....A        29530               Source\3rd Party\wx\src\common\xpmdecod.cpp
+2015-08-28 18:48:34 ....A        29050               Source\3rd Party\wx\src\common\xti.cpp
+2015-08-28 18:48:34 ....A        24910               Source\3rd Party\wx\src\common\xtistrm.cpp
+2015-08-28 18:48:34 ....A        69737               Source\3rd Party\wx\src\common\zipstrm.cpp
+2015-08-28 18:48:34 ....A        12797               Source\3rd Party\wx\src\common\zstream.cpp
+2015-08-28 18:48:34 ....A         2923               Source\Glide64\Glide64.rc
+2015-08-28 18:48:34 ....A        40921               Source\nragev20\NRagePluginV2.rc
+2015-08-28 18:48:34 ....A         7820               Source\RSP\RSP.rc
+2015-08-28 18:48:34 ....A        43168               Source\Project64\User Interface\UI Resources.rc
+2015-08-28 18:48:34 ....A          981               Source\Project64\3rd Party\zlib\zlib.def
+2015-08-28 18:48:34 ....A          804               Source\Project64\Project64.exe.manifest
+2015-08-28 18:48:34 ....A         6634               Source\3rd Party\7zip\7zip.vcproj
+2015-08-28 18:48:34 ....A         4183               Source\Common\Common.vcproj
+2015-08-28 18:48:34 ....A         7585               Source\Glide64\Glide64.vcproj
+2015-08-28 18:48:34 ....A         5238               Source\GlideHQ\GlideHQ.vcproj
+2015-08-28 18:48:34 ....A         3047               Source\Glitch64\Glitch64.vcproj
+2015-08-28 18:48:34 ....A         3513               Source\Installer\Installer.vcproj
+2015-08-28 18:48:34 ....A         5298               Source\nragev20\NRage_Input_V2.vcproj
+2015-08-28 18:48:34 ....A        29951               Source\Project64\Project64.vcproj
+2015-08-28 18:48:34 ....A         5304               Source\RSP\RSP.vcproj
+2015-08-28 18:48:34 ....A         2628               Source\Settings\Settings.vcproj
+2015-08-28 18:48:34 ....A         3166               Source\SortRdb\SortRdb.vcproj
+2015-08-28 18:48:34 ....A         2088               Source\3rd Party\WTL\WTL.vcproj
+2015-08-28 18:48:34 ....A        27220               Source\3rd Party\wx\wx_base.vcproj
+2015-08-28 18:48:34 ....A        91091               Source\3rd Party\wx\wx_core.vcproj
+2015-08-28 18:48:34 ....A         5825               Source\3rd Party\wx\wx_wxjpeg.vcproj
+2015-08-28 18:48:34 ....A         3683               Source\3rd Party\wx\wx_wxpng.vcproj
+2015-08-28 18:48:34 ....A         3336               Source\3rd Party\wx\wx_wxzlib.vcproj
+2015-08-28 18:48:34 ....A         5206               Source\3rd Party\zlib\zlib.vcproj
+2015-08-28 18:48:34 ....A        12603               Project64.vs2008.sln
+2015-08-28 18:48:34 ....A         9933               Project64.vs2013.sln
+2015-08-28 18:48:34 ....A         5744               Source\Common\Common.dsp
+2015-08-28 18:48:34 ....A        32778               Source\Project64\Project64.dsp
+2015-08-28 18:48:34 ....A         7299               Source\RSP\RSP.dsp
+2015-08-28 18:48:34 ....A         3008               Source\Settings\Settings.dsp
+2015-08-28 18:48:34 ....A         3903               Source\3rd Party\WTL\WTL.dsp
+2015-08-28 18:48:34 ....A          240               Source\Glide64\build_asm.bat
+2015-08-28 18:48:34 ....A         3340               Source\Installer\package_zip.bat
+2015-08-28 18:48:34 ....A       338763               Source\Glide64\Help\Glide64 compatibility list.html
+2015-08-28 18:48:34 ....A        49952               Source\Glide64\Help\Glide64 Known Issues.html
+2015-08-28 18:48:34 ....A        39645               Source\Glide64\Help\Glide64 Readme.html
+2015-08-28 18:48:34 ....A        18008               Source\Glide64\gpl.txt
+2015-08-28 18:48:34 ....A         4525               Source\GlideHQ\README.txt
+2015-08-28 18:48:34 ....A        10071               Source\nragev20\README.txt
+2015-08-28 18:48:34 ....A        25484               Source\Glide64\config\Glide64.ini
+2015-08-28 18:48:34 ....A         6144               Source\Project64\User Interface\Icons\Thumbs.db
+2015-08-28 18:48:34 ....A        21504               Source\Project64\User Interface\Bitmaps\Thumbs.db
+2015-08-28 18:48:34 ....A        19978               Source\3rd Party\directx\lib\dinput8.lib
+2015-08-28 18:48:34 ....A       104752               Source\3rd Party\directx\lib\dxguid.lib
+2015-08-28 18:48:34 ....A       566642               Source\Glitch64\lib\dxguid.lib
+2015-08-28 18:48:34 ....A        77030               Source\3rd Party\glide\lib\glide3x.lib
+2015-08-28 18:48:34 ....A        10590               Source\Project64\3rd Party\zlib\zdll.lib
+2015-08-28 18:48:34 ....A        87702               Source\Project64\3rd Party\zlib\ZLIB113.LIB
+2015-08-28 18:48:34 ....A         5813               Source\Glide64\CB\Glide64.cbp
+2015-08-28 18:48:34 ....A         2055               Source\Glitch64\CB\Glitch64.cbp
+2015-08-28 18:48:34 ....A           50               Bin\Debug\Config\Project64.cfg
+2015-08-28 18:48:34 ....A           50               Bin\Release\Config\Project64.cfg
+2015-08-28 18:48:34 ....A        29990               Bin\Release\Config\Project64.cht
+2015-08-28 18:48:34 ....A      1239977               Config\Project64.cht
+2015-08-28 18:48:34 ....A          656               Source\nragev20\configs\Controller1.cpf
+2015-08-28 18:48:34 ....A          326               Source\Project64\res\divider.cur
+2015-08-28 18:48:34 ....A          326               Source\Project64\User Interface\Icons\divider.cur
+2015-08-28 18:48:34 ....A          326               Source\Project64\res\hand.cur
+2015-08-28 18:48:34 ....A          326               Source\Project64\User Interface\Icons\hand.cur
+2015-08-28 18:48:34 ....A          606               Config\Project64.cfg.development
+2015-08-28 18:48:34 ....A      1154048               Bin\Inno Setup\Setup.e32
+2015-08-28 18:48:34 ....A       140800               Bin\Inno Setup\SetupLdr.e32
+2015-08-28 18:48:34 ....A         6109               Source\Project64\3rd Party\zlib\zdll.exp
+2015-08-28 18:48:34 ....A         6509               Source\3rd Party\7zip\7zip.vcxproj.filters
+2015-08-28 18:48:34 ....A         2701               Source\Common\Common.vcxproj.filters
+2015-08-28 18:48:34 ....A         5737               Source\Glide64\Glide64.vcxproj.filters
+2015-08-28 18:48:34 ....A         4036               Source\GlideHQ\GlideHQ.vcxproj.filters
+2015-08-28 18:48:34 ....A         1182               Source\Glitch64\Glitch64.vcxproj.filters
+2015-08-28 18:48:34 ....A          882               Source\Installer\Installer.vcxproj.filters
+2015-08-28 18:48:34 ....A         3323               Source\nragev20\NRage_Input_V2.vcxproj.filters
+2015-08-28 18:48:34 ....A        40054               Source\Project64\Project64.vcxproj.filters
+2015-08-28 18:48:34 ....A         4676               Source\RSP\RSP.vcxproj.filters
+2015-08-28 18:48:34 ....A          788               Source\Settings\Settings.vcxproj.filters
+2015-08-28 18:48:34 ....A          919               Source\SortRdb\SortRdb.vcxproj.filters
+2015-08-28 18:48:34 ....A         2165               Source\3rd Party\WTL\WTL.vcxproj.filters
+2015-08-28 18:48:34 ....A        30129               Source\3rd Party\wx\wx_base.vcxproj.filters
+2015-08-28 18:48:34 ....A        51941               Source\3rd Party\wx\wx_core.vcxproj.filters
+2015-08-28 18:48:34 ....A         4862               Source\3rd Party\wx\wx_wxjpeg.vcxproj.filters
+2015-08-28 18:48:34 ....A         1785               Source\3rd Party\wx\wx_wxpng.vcxproj.filters
+2015-08-28 18:48:34 ....A         1500               Source\3rd Party\wx\wx_wxzlib.vcxproj.filters
+2015-08-28 18:48:34 ....A         4440               Source\3rd Party\zlib\zlib.vcxproj.filters
+2015-08-28 18:48:34 ....A         2568               Source\Glitch64\Makefile.gcc
+2015-08-28 18:48:34 ....A         3673               Source\Glide64\Makefile.gcc
+2015-08-28 18:48:34 ....A         3232               .gitignore
+2015-08-28 18:48:34 ....A        13375               Source\3rd Party\zlib\zconf.h.in
+2015-08-28 18:48:34 ....A        17056               Bin\Inno Setup\Default.isl
+2015-08-28 18:48:34 ....A        80129               Source\Installer\binno\binno.iss
+2015-08-28 18:48:34 ....A         5056               Source\Installer\Installer.iss
+2015-08-28 18:48:34 ....A        10940               Bin\Inno Setup\ISPPBuiltins.iss
+2015-08-28 18:48:34 ....A        10936               Source\Installer\binno\it_download.iss
+2015-08-28 18:48:34 ....A        11051               Source\Installer\binno\it_download_u.iss
+2015-08-28 18:48:34 ....A        18233               Source\Installer\binno\utility.iss
+2015-08-28 18:48:34 ....A        17967               Lang\Brazilian Portuguese.pj.Lang
+2015-08-28 18:48:34 ....A        18719               Lang\Bulgarian.pj.Lang
+2015-08-28 18:48:34 ....A        12501               Lang\Chinese (Simplified).pj.Lang
+2015-08-28 18:48:34 ....A        13027               Lang\Chinese (Taiwan).pj.Lang
+2015-08-28 18:48:34 ....A        13498               Lang\Chinese (Traditional).pj.Lang
+2015-08-28 18:48:34 ....A        12004               Lang\ChineseB5.pj.lang
+2015-08-28 18:48:34 ....A        11931               Lang\ChineseGB.pj.lang
+2015-08-28 18:48:34 ....A        13948               Lang\Czech.pj.Lang
+2015-08-28 18:48:34 ....A        13367               Lang\Danish.pj.Lang
+2015-08-28 18:48:34 ....A        13203               Lang\Dutch.pj.Lang
+2015-08-28 18:48:34 ....A        15887               Lang\English.pj.Lang
+2015-08-28 18:48:34 ....A        13056               Lang\English_alternative.pj.Lang
+2015-08-28 18:48:34 ....A        14215               Lang\Finnish.pj.Lang
+2015-08-28 18:48:34 ....A        14673               Lang\French.pj.Lang
+2015-08-28 18:48:34 ....A        14206               Lang\German.pj.Lang
+2015-08-28 18:48:34 ....A        14191               Lang\German_int.pj.Lang
+2015-08-28 18:48:34 ....A        14091               Lang\German_localised.pj.Lang
+2015-08-28 18:48:34 ....A        19324               Lang\Greek.pj.Lang
+2015-08-28 18:48:34 ....A        14415               Lang\Hungarian.pj.Lang
+2015-08-28 18:48:34 ....A        13937               Lang\Italian.pj.Lang
+2015-08-28 18:48:34 ....A        14857               Lang\Italian_alternative.pj.Lang
+2015-08-28 18:48:34 ....A        20883               Lang\Japanese.pj.Lang
+2015-08-28 18:48:34 ....A        14630               Lang\Lithuanian.pj.Lang
+2015-08-28 18:48:34 ....A        13597               Lang\Norwegian.pj.Lang
+2015-08-28 18:48:34 ....A        13212               Lang\Polish.pj.Lang
+2015-08-28 18:48:34 ....A        19044               Lang\Russian.pj.Lang
+2015-08-28 18:48:34 ....A        18022               Lang\Spanish.pj.Lang
+2015-08-28 18:48:34 ....A        13651               Lang\Swedish.pj.Lang
+2015-08-28 18:48:34 ....A        13143               Lang\T-Chinese.pj.Lang
+2015-08-28 18:48:34 ....A        18613               Lang\Ukrainian.pj.Lang
+2015-08-28 18:48:34 ....A          550               Source\Glide64\inc\c32.mac
+2015-08-28 18:48:34 ....A         2680               Source\Common\Common.plg
+2015-08-28 18:48:34 ....A        44697               Source\Glide64\Internalization\Glide64_de_DE.po
+2015-08-28 18:48:34 ....A        49689               Source\Glide64\Internalization\Glide64_fr_FR.po
+2015-08-28 18:48:34 ....A        50832               Source\Glide64\Internalization\Glide64_ja_JP.po
+2015-08-28 18:48:34 ....A        57789               Source\Glide64\Internalization\Glide64_ru_RU.po
+2015-08-28 18:48:34 ....A        46606               Source\Glide64\Internalization\Glide64_zh_CN.po
+2015-08-28 18:48:34 ....A        45520               Source\Glide64\Internalization\Glide64_zh_TW.po
+2015-08-28 18:48:34 ....A        27293               Source\Glide64\Internalization\Glide64_en.pot
+2015-08-28 18:48:34 ....A         1385               PropertySheets\Debug.props
+2015-08-28 18:48:34 ....A         1257               PropertySheets\Release.props
+2015-08-28 18:48:34 ....A          473               PropertySheets\Win32.Debug.props
+2015-08-28 18:48:34 ....A         9444               PropertySheets\Win32.props
+2015-08-28 18:48:34 ....A          475               PropertySheets\Win32.Release.props
+2015-08-28 18:48:34 ....A        77723               Config\Glide64.rdb
+2015-08-28 18:48:34 ....A       213557               Config\Project64.rdb
+2015-08-28 18:48:34 ....A       237809               Bin\Release\Config\Project64.rdb
+2015-08-28 18:48:34 ....A       148782               Config\Project64.rdx
+2015-08-28 18:48:34 ....A           58               Source\nragev20\configs\Shortcuts.sc
+2015-08-28 18:48:34 ....A         1378               Source\3rd Party\wx\src\jpeg\jconfig.vc
+2015-08-28 18:48:34 ....A         4507               Source\3rd Party\7zip\7zip.vcxproj
+2015-08-28 18:48:34 ....A         2862               Source\Common\Common.vcxproj
+2015-08-28 18:48:34 ....A         7712               Source\Glide64\Glide64.vcxproj
+2015-08-28 18:48:34 ....A         3883               Source\GlideHQ\GlideHQ.vcxproj
+2015-08-28 18:48:34 ....A         2429               Source\Glitch64\Glitch64.vcxproj
+2015-08-28 18:48:34 ....A         4063               Source\Installer\Installer.vcxproj
+2015-08-28 18:48:34 ....A         4053               Source\nragev20\NRage_Input_V2.vcxproj
+2015-08-28 18:48:34 ....A        20620               Source\Project64\Project64.vcxproj
+2015-08-28 18:48:34 ....A         4207               Source\RSP\RSP.vcxproj
+2015-08-28 18:48:34 ....A         2016               Source\Settings\Settings.vcxproj
+2015-08-28 18:48:34 ....A         3150               Source\SortRdb\SortRdb.vcxproj
+2015-08-28 18:48:34 ....A         2607               Source\3rd Party\WTL\WTL.vcxproj
+2015-08-28 18:48:34 ....A        19115               Source\3rd Party\wx\wx_base.vcxproj
+2015-08-28 18:48:34 ....A        30584               Source\3rd Party\wx\wx_core.vcxproj
+2015-08-28 18:48:34 ....A         4730               Source\3rd Party\wx\wx_wxjpeg.vcxproj
+2015-08-28 18:48:34 ....A         3215               Source\3rd Party\wx\wx_wxpng.vcxproj
+2015-08-28 18:48:34 ....A         2981               Source\3rd Party\wx\wx_wxzlib.vcxproj
+2015-08-28 18:48:34 ....A         3575               Source\3rd Party\zlib\zlib.vcxproj
+2015-08-28 18:48:34 ....A          815               PropertySheets\Debug.vsprops
+2015-08-28 18:48:34 ....A         5680               PropertySheets\Default.vsprops
+2015-08-28 18:48:34 ....A          774               PropertySheets\Release.vsprops
+2015-08-28 18:48:34 ....A          284               PropertySheets\root.vsprops
+2015-08-28 18:48:34 ....A          235               PropertySheets\Win32.Debug.vsprops
+2015-08-28 18:48:34 ....A          238               PropertySheets\Win32.Release.vsprops
+2015-08-28 18:48:34 ....A          336               PropertySheets\Win32.vsprops
+2015-08-28 18:48:34 ....A          488               Source\3rd Party\wx\art\addbookm.xpm
+2015-08-28 18:48:34 ....A          910               Source\Glide64\australia.xpm
+2015-08-28 18:48:34 ....A          425               Source\3rd Party\wx\art\back.xpm
+2015-08-28 18:48:34 ....A         1117               Source\Glide64\brazil.xpm
+2015-08-28 18:48:34 ....A         1016               Source\3rd Party\wx\art\cdrom.xpm
+2015-08-28 18:48:34 ....A          266               Source\3rd Party\wx\art\close.xpm
+2015-08-28 18:48:34 ....A          807               Source\3rd Party\wx\art\copy.xpm
+2015-08-28 18:48:34 ....A          302               Source\3rd Party\wx\art\cross.xpm
+2015-08-28 18:48:34 ....A          838               Source\3rd Party\wx\art\cut.xpm
+2015-08-28 18:48:34 ....A          975               Source\3rd Party\wx\art\deffile.xpm
+2015-08-28 18:48:34 ....A          488               Source\3rd Party\wx\art\delbookm.xpm
+2015-08-28 18:48:34 ....A          777               Source\3rd Party\wx\art\delete.xpm
+2015-08-28 18:48:34 ....A          937               Source\3rd Party\wx\art\dir_up.xpm
+2015-08-28 18:48:34 ....A          425               Source\3rd Party\wx\art\down.xpm
+2015-08-28 18:48:34 ....A         1279               Source\3rd Party\wx\art\exefile.xpm
+2015-08-28 18:48:34 ....A         1019               Source\3rd Party\wx\art\fileopen.xpm
+2015-08-28 18:48:34 ....A          779               Source\3rd Party\wx\art\filesave.xpm
+2015-08-28 18:48:34 ....A          811               Source\3rd Party\wx\art\filesaveas.xpm
+2015-08-28 18:48:34 ....A         1095               Source\3rd Party\wx\art\find.xpm
+2015-08-28 18:48:34 ....A         1115               Source\3rd Party\wx\art\findrepl.xpm
+2015-08-28 18:48:34 ....A          425               Source\3rd Party\wx\art\first.xpm
+2015-08-28 18:48:34 ....A          729               Source\3rd Party\wx\art\floppy.xpm
+2015-08-28 18:48:34 ....A          793               Source\3rd Party\wx\art\folder.xpm
+2015-08-28 18:48:34 ....A          942               Source\3rd Party\wx\art\folder_open.xpm
+2015-08-28 18:48:34 ....A          428               Source\3rd Party\wx\art\forward.xpm
+2015-08-28 18:48:34 ....A          861               Source\Glide64\france.xpm
+2015-08-28 18:48:34 ....A         1067               Source\3rd Party\wx\art\harddisk.xpm
+2015-08-28 18:48:34 ....A         1414               Source\3rd Party\wx\art\helpicon.xpm
+2015-08-28 18:48:34 ....A          484               Source\3rd Party\wx\art\home.xpm
+2015-08-28 18:48:34 ....A          497               Source\3rd Party\wx\art\htmbook.xpm
+2015-08-28 18:48:34 ....A          498               Source\3rd Party\wx\art\htmfoldr.xpm
+2015-08-28 18:48:34 ....A          415               Source\3rd Party\wx\art\htmoptns.xpm
+2015-08-28 18:48:34 ....A          465               Source\3rd Party\wx\art\htmpage.xpm
+2015-08-28 18:48:34 ....A          536               Source\3rd Party\wx\art\htmsidep.xpm
+2015-08-28 18:48:34 ....A          840               Source\Glide64\japan.xpm
+2015-08-28 18:48:34 ....A          424               Source\3rd Party\wx\art\last.xpm
+2015-08-28 18:48:34 ....A          507               Source\3rd Party\wx\art\listview.xpm
+2015-08-28 18:48:34 ....A        66345               Source\Glide64\logo.xpm
+2015-08-28 18:48:34 ....A          425               Source\3rd Party\wx\art\minus.xpm
+2015-08-28 18:48:34 ....A         1388               Source\3rd Party\wx\art\missimg.xpm
+2015-08-28 18:48:34 ....A          902               Source\3rd Party\wx\art\new.xpm
+2015-08-28 18:48:34 ....A          792               Source\3rd Party\wx\art\new_dir.xpm
+2015-08-28 18:48:34 ....A          840               Source\3rd Party\wx\art\paste.xpm
+2015-08-28 18:48:34 ....A          424               Source\3rd Party\wx\art\plus.xpm
+2015-08-28 18:48:34 ....A         1064               Source\3rd Party\wx\art\print.xpm
+2015-08-28 18:48:34 ....A         1541               Source\3rd Party\wx\art\quit.xpm
+2015-08-28 18:48:34 ....A         1031               Source\3rd Party\wx\art\redo.xpm
+2015-08-28 18:48:34 ....A          812               Source\3rd Party\wx\art\removable.xpm
+2015-08-28 18:48:34 ....A          490               Source\3rd Party\wx\art\repview.xpm
+2015-08-28 18:48:34 ....A         1002               Source\Glide64\russia.xpm
+2015-08-28 18:48:34 ....A          301               Source\3rd Party\wx\art\tick.xpm
+2015-08-28 18:48:34 ....A         1452               Source\3rd Party\wx\art\tipicon.xpm
+2015-08-28 18:48:34 ....A          429               Source\3rd Party\wx\art\toparent.xpm
+2015-08-28 18:48:34 ....A         1031               Source\3rd Party\wx\art\undo.xpm
+2015-08-28 18:48:34 ....A          423               Source\3rd Party\wx\art\up.xpm
+2015-08-28 18:48:34 ....A          939               Source\Glide64\usa.xpm
+2015-08-28 18:48:34 ....A       152064       829496  Bin\Inno Setup\ISCC.exe
+2015-08-28 18:48:34 ....A        65024               Source\Installer\binno\InnoCallback.dll
+2015-08-28 18:48:34 ....A       584192               Bin\Inno Setup\ISCmplr.dll
+2015-08-28 18:48:34 ....A        74240               Bin\Inno Setup\islzma.dll
+2015-08-28 18:48:34 ....A       255488               Bin\Inno Setup\ISPP.dll
+2015-08-28 18:48:34 ....A       205312               Source\Installer\binno\itdownload.dll
+2015-08-28 18:48:34 ....A       390144               Plugin\GFX\Jabo_Direct3D8.dll
+2015-08-28 18:48:34 ....A        45056               Plugin\Audio\Jabo_Dsound.dll
+2015-08-28 18:48:34 ....A       109056               Bin\Release\kailleraclient.dll
+2015-08-28 18:48:34 ....A            0            0  Source\GlideHQ\bldno.h
+2015-08-28 18:48:34 ....A            0            0  Source\Project64\N64 System\Debugger\Debug Dialog.cpp
+2015-08-28 18:48:34 ....A            0            0  Source\Project64\N64 System\Recompiler\Exit Info.cpp
+2015-08-28 18:48:34 ....A            0            0  Source\Project64\Settings\Setting Config.cpp
+2016-10-26 16:18:31 D....            0            0  Source\SortRdb
+2016-10-26 16:18:31 D....            0            0  Source\Settings
+2016-10-26 16:18:31 D....            0            0  Source\RSP
+2016-10-26 16:18:31 D....            0            0  Source\Project64\User Interface\WTL Controls\ClistCtrl
+2016-10-26 16:18:31 D....            0            0  Source\Project64\User Interface\WTL Controls
+2016-10-26 16:18:31 D....            0            0  Source\Project64\User Interface\Settings
+2016-10-26 16:18:31 D....            0            0  Source\Project64\User Interface\Icons
+2016-10-26 16:18:31 D....            0            0  Source\Project64\User Interface\Bitmaps
+2016-10-26 16:18:31 D....            0            0  Source\Project64\User Interface
+2016-10-26 16:18:31 D....            0            0  Source\Project64\Settings\SettingType
+2016-10-26 16:18:31 D....            0            0  Source\Project64\Settings
+2016-10-26 16:18:31 D....            0            0  Source\Project64\res
+2016-10-26 16:18:31 D....            0            0  Source\Project64\Plugins
+2016-10-26 16:18:30 D....            0            0  Source\Project64\N64 System\Recompiler
+2016-10-26 16:18:30 D....            0            0  Source\Project64\N64 System\Mips
+2016-10-26 16:18:30 D....            0            0  Source\Project64\N64 System\Interpreter
+2016-10-26 16:18:30 D....            0            0  Source\Project64\N64 System\Debugger
+2016-10-26 16:18:30 D....            0            0  Source\Project64\N64 System\C Core
+2016-10-26 16:18:30 D....            0            0  Source\Project64\N64 System
+2016-10-26 16:18:30 D....            0            0  Source\Project64\Multilanguage
+2016-10-26 16:18:30 D....            0            0  Source\Project64\3rd Party\zlib
+2016-10-26 16:18:30 D....            0            0  Source\Project64\3rd Party
+2016-10-26 16:18:31 D....            0            0  Source\Project64
+2016-10-26 16:18:31 D....            0            0  Source\nragev20\ControllerSpecs
+2016-10-26 16:18:32 D....            0            0  Source\nragev20\configs
+2016-10-26 16:18:32 D....            0            0  Source\nragev20
+2016-10-26 16:18:30 D....            0            0  Source\Installer\binno
+2016-10-26 16:18:30 D....            0            0  Source\Installer
+2016-10-26 16:18:30 D....            0            0  Source\Glitch64\lib
+2016-10-26 16:18:30 D....            0            0  Source\Glitch64\inc
+2016-10-26 16:18:30 D....            0            0  Source\Glitch64\CB
+2016-10-26 16:18:30 D....            0            0  Source\Glitch64
+2016-10-26 16:18:30 D....            0            0  Source\GlideHQ\tc-1.1+
+2016-10-26 16:18:30 D....            0            0  Source\GlideHQ
+2016-10-26 16:18:29 D....            0            0  Source\Glide64\Internalization
+2016-10-26 16:18:30 D....            0            0  Source\Glide64\inc
+2016-10-26 16:18:29 D....            0            0  Source\Glide64\Help
+2016-10-26 16:18:30 D....            0            0  Source\Glide64\config
+2016-10-26 16:18:29 D....            0            0  Source\Glide64\CB
+2016-10-26 16:18:30 D....            0            0  Source\Glide64
+2016-10-26 16:18:29 D....            0            0  Source\Common
+2016-10-26 16:18:29 D....            0            0  Source\3rd Party\zlib\contrib\minizip
+2016-10-26 16:18:29 D....            0            0  Source\3rd Party\zlib\contrib
+2016-10-26 16:18:29 D....            0            0  Source\3rd Party\zlib
+2016-10-26 16:18:29 D....            0            0  Source\3rd Party\wx\src\zlib
+2016-10-26 16:18:29 D....            0            0  Source\3rd Party\wx\src\tiff\libtiff
+2016-10-26 16:18:29 D....            0            0  Source\3rd Party\wx\src\tiff
+2016-10-26 16:18:29 D....            0            0  Source\3rd Party\wx\src\regex
+2016-10-26 16:18:29 D....            0            0  Source\3rd Party\wx\src\png
+2016-10-26 16:18:28 D....            0            0  Source\3rd Party\wx\src\msw\ole
+2016-10-26 16:18:29 D....            0            0  Source\3rd Party\wx\src\msw
+2016-10-26 16:18:28 D....            0            0  Source\3rd Party\wx\src\jpeg
+2016-10-26 16:18:28 D....            0            0  Source\3rd Party\wx\src\generic
+2016-10-26 16:18:27 D....            0            0  Source\3rd Party\wx\src\common
+2016-10-26 16:18:29 D....            0            0  Source\3rd Party\wx\src
+2016-10-26 16:18:26 D....            0            0  Source\3rd Party\wx\lib\vc_lib\mswud\wx
+2016-10-26 16:18:26 D....            0            0  Source\3rd Party\wx\lib\vc_lib\mswud
+2016-10-26 16:18:26 D....            0            0  Source\3rd Party\wx\lib\vc_lib\mswd\wx
+2016-10-26 16:18:26 D....            0            0  Source\3rd Party\wx\lib\vc_lib\mswd
+2016-10-26 16:18:26 D....            0            0  Source\3rd Party\wx\lib\vc_lib\msw\wx\msw
+2016-10-26 16:18:26 D....            0            0  Source\3rd Party\wx\lib\vc_lib\msw\wx
+2016-10-26 16:18:26 D....            0            0  Source\3rd Party\wx\lib\vc_lib\msw
+2016-10-26 16:18:26 D....            0            0  Source\3rd Party\wx\lib\vc_lib
+2016-10-26 16:18:26 D....            0            0  Source\3rd Party\wx\lib
+2016-10-26 16:18:26 D....            0            0  Source\3rd Party\wx\include\wx\private
+2016-10-26 16:18:26 D....            0            0  Source\3rd Party\wx\include\wx\msw\private
+2016-10-26 16:18:25 D....            0            0  Source\3rd Party\wx\include\wx\msw\ole
+2016-10-26 16:18:26 D....            0            0  Source\3rd Party\wx\include\wx\msw
+2016-10-26 16:18:25 D....            0            0  Source\3rd Party\wx\include\wx\meta
+2016-10-26 16:18:25 D....            0            0  Source\3rd Party\wx\include\wx\generic\private
+2016-10-26 16:18:25 D....            0            0  Source\3rd Party\wx\include\wx\generic
+2016-10-26 16:18:26 D....            0            0  Source\3rd Party\wx\include\wx
+2016-10-26 16:18:24 D....            0            0  Source\3rd Party\wx\include\msvc\wx
+2016-10-26 16:18:24 D....            0            0  Source\3rd Party\wx\include\msvc
+2016-10-26 16:18:24 D....            0            0  Source\3rd Party\wx\include
+2016-10-26 16:18:24 D....            0            0  Source\3rd Party\wx\art\tango
+2016-10-26 16:18:24 D....            0            0  Source\3rd Party\wx\art
+2016-10-26 16:18:29 D....            0            0  Source\3rd Party\wx
+2016-10-26 16:18:24 D....            0            0  Source\3rd Party\WTL
+2016-10-26 16:18:24 D....            0            0  Source\3rd Party\glide\lib
+2016-10-26 16:18:24 D....            0            0  Source\3rd Party\glide
+2016-10-26 16:18:24 D....            0            0  Source\3rd Party\directx\lib
+2016-10-26 16:18:24 D....            0            0  Source\3rd Party\directx\include
+2016-10-26 16:18:24 D....            0            0  Source\3rd Party\directx
+2016-10-26 16:18:24 D....            0            0  Source\3rd Party\7zip
+2016-10-26 16:18:29 D....            0            0  Source\3rd Party
+2016-10-26 16:18:31 D....            0            0  Source
+2016-10-26 16:18:23 D....            0            0  PropertySheets
+2016-10-26 16:18:23 D....            0            0  Plugin\GFX
+2016-10-26 16:18:23 D....            0            0  Plugin\Audio
+2016-10-26 16:18:23 D....            0            0  Plugin
+2016-10-26 16:18:23 D....            0            0  Lang
+2016-10-26 16:18:23 D....            0            0  Config
+2016-10-26 16:18:22 D....            0            0  Bin\Release\Config
+2016-10-26 16:18:22 D....            0            0  Bin\Release
+2016-10-26 16:18:22 D....            0            0  Bin\Inno Setup
+2016-10-26 16:18:22 D....            0            0  Bin\Debug\Config
+2016-10-26 16:18:22 D....            0            0  Bin\Debug
+2016-10-26 16:18:22 D....            0            0  Bin
+------------------- ----- ------------ ------------  ------------------------
+2016-10-26 16:18:32           34757900      5765879  1878 files, 99 folders
