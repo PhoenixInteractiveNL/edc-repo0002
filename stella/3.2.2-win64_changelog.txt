@@ -1,0 +1,4 @@
+3.2.1 to 3.2.2: (September 17, 2010)
+
+  * Fixed bug with window centering; if enabled and the the window was
+    larger than the desktop, the window would be moved offscreen.

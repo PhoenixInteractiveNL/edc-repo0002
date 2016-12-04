@@ -1,0 +1,4 @@
+2.7.1 to 2.7.2: (Jan. 27, 2009)
+
+  * Fixed major bug in ROM Audit functionality; renaming ROMs would create
+    files without an extension.

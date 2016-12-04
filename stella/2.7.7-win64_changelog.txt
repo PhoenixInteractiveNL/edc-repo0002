@@ -1,0 +1,11 @@
+2.7.6 to 2.7.7: (May 1, 2009)
+
+  * Corrected emulation of CPU opcodes involving 'decimal' mode (ADC/RRA
+    and SBC/ISB).  Special thanks to SeaGtGruff and others on the Stella
+    mailing list for in-depth discussion and creation of test ROMs.
+
+  * Fixed bug in F4SC bankswitching mode; writes to bankswitch addresses
+    weren't triggering a bank switch.
+
+  * Changed internal sound frequency of Pitfall 2 from 15.75KHz to 20KHz,
+    as this sounds much more authentic when compared to a real cartridge.

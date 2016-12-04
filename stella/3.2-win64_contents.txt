@@ -1,0 +1,66 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-07-10 21:51:22 ....A         3711       464420  docs\graphics\cheat.png
+2010-08-19 19:25:48 ....A        42117               docs\graphics\chucky_cheese.png
+2010-08-19 19:25:48 ....A         6410               docs\graphics\circuit.png
+2010-08-19 19:25:48 ....A         3974               docs\graphics\commandmenu.png
+2010-08-19 19:25:48 ....A        62525               docs\graphics\console.png
+2010-08-19 19:25:48 ....A          282               docs\graphics\debugger_bpstatus.png
+2010-08-19 19:25:48 ....A         1649               docs\graphics\debugger_cpuregs.png
+2010-08-19 19:25:48 ....A          476               docs\graphics\debugger_dataops.png
+2010-08-19 19:25:48 ....A          860               docs\graphics\debugger_globalbuttons.png
+2010-08-19 19:25:48 ....A         6012               docs\graphics\debugger_iotab.png
+2010-08-19 19:25:48 ....A        30241               docs\graphics\debugger_main.png
+2010-08-19 19:25:48 ....A         5767               docs\graphics\debugger_ram.png
+2010-08-19 19:25:48 ....A         5191               docs\graphics\debugger_ramsearch.png
+2010-08-19 19:25:48 ....A         8641               docs\graphics\debugger_rom.png
+2010-08-19 19:25:48 ....A         4422               docs\graphics\debugger_romcmenu.png
+2010-08-19 19:25:48 ....A         1635               docs\graphics\debugger_tiainfo.png
+2010-08-19 19:25:48 ....A         2371               docs\graphics\debugger_tiaoutcmenu.png
+2010-08-19 19:25:48 ....A        11427               docs\graphics\debugger_tiatab.png
+2010-08-19 19:25:48 ....A         1211               docs\graphics\debugger_tiazoomcmenu.png
+2010-08-19 19:25:48 ....A         3609               docs\graphics\developer_stats.png
+2010-08-19 19:25:48 ....A         6274               docs\graphics\eventmapping.png
+2010-08-19 19:25:48 ....A         3342               docs\graphics\eventmapping_combo.png
+2010-08-19 19:25:48 ....A         6192               docs\graphics\eventmapping_remap.png
+2010-08-19 19:25:48 ....A         6847               docs\graphics\eventmapping_virtualdevs.png
+2010-08-19 19:25:48 ....A         3146               docs\graphics\jr_pacman.png
+2010-08-19 19:25:48 ....A        22300               docs\graphics\launcher.png
+2010-08-19 19:25:48 ....A         2077               docs\graphics\launcher_filter.png
+2010-08-19 19:25:48 ....A         4546               docs\graphics\launcher_options.png
+2010-08-19 19:25:48 ....A         7361               docs\graphics\launcher_options_files.png
+2010-08-19 19:25:48 ....A         5043               docs\graphics\launcher_override.png
+2010-08-19 19:25:48 ....A         3556               docs\graphics\options.png
+2010-08-19 19:25:48 ....A         3175               docs\graphics\options_audio.png
+2010-08-19 19:25:48 ....A         3134               docs\graphics\options_debugger.png
+2010-08-19 19:25:48 ....A         6594               docs\graphics\options_gameinfo.png
+2010-08-19 19:25:48 ....A         6274               docs\graphics\options_input.png
+2010-08-19 19:25:48 ....A         4125               docs\graphics\options_misc.png
+2010-08-19 19:25:48 ....A         4546               docs\graphics\options_ui.png
+2010-08-19 19:25:48 ....A         9442               docs\graphics\options_video.png
+2010-08-19 19:25:48 ....A         6608               docs\graphics\options_video_tv.png
+2010-08-19 19:25:48 ....A         3168               docs\graphics\pacman.png
+2010-08-19 19:25:48 ....A         3192               docs\graphics\romaudit.png
+2010-08-19 19:25:48 ....A        30850               docs\graphics\rominfo_1x_large.png
+2010-08-19 19:25:48 ....A        21342               docs\graphics\rominfo_1x_small.png
+2010-08-19 19:25:48 ....A        39072               docs\graphics\rominfo_2x_small.png
+2010-08-19 19:25:48 ....A         3644               docs\graphics\rom_browser.png
+2010-08-19 19:25:48 ....A         2682               docs\graphics\secret_quest.png
+2010-08-19 19:25:48 ....A         3891               docs\graphics\select_romdir.png
+2010-08-19 19:25:48 ....A         3056               docs\graphics\space_invaders.png
+2010-08-19 19:25:48 ....A        58776               docs\debugger.html
+2010-08-19 19:25:48 ....A       138654               docs\index.html
+2010-08-19 22:40:10 ....A         2279               docs\Announce.txt
+2010-08-19 22:40:10 ....A        84064               docs\Changes.txt
+2010-08-19 22:40:10 ....A         1964               docs\Copyright.txt
+2010-08-19 22:40:10 ....A        18675               docs\License.txt
+2010-08-19 22:40:10 ....A          445               docs\README-SDL.txt
+2010-08-19 22:40:10 ....A          416               docs\Readme.txt
+2010-08-19 22:40:10 ....A          905               docs\Todo.txt
+2010-08-19 22:39:10 ....A      3231744       751129  64-bit\Stella.exe
+2009-10-29 18:15:38 ....A       457728               64-bit\SDL.dll
+2016-12-04 11:24:50 D...A            0            0  docs\graphics
+2016-12-04 11:24:50 D....            0            0  docs
+2016-12-04 11:24:50 D....            0            0  64-bit
+------------------- ----- ------------ ------------  ------------------------
+2016-12-04 11:24:50            4423660      1215549  59 files, 3 folders

@@ -1,0 +1,9 @@
+2.8.1 to 2.8.2: (June 23, 2009)
+
+  * Fixed OpenGL detection bug which could disable OpenGL support entirely
+    if TV effects are not available (version < 2.0), when in fact only the
+    effects should have been disabled.
+
+  * The '\' character can now be entered in UI text fields again.
+    Related to this, strings containing '\' are now properly loaded and
+    saved to various config files.

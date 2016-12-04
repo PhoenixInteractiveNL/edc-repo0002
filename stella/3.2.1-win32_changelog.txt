@@ -1,0 +1,11 @@
+3.2 to 3.2.1: (August 25, 2010)
+
+  * Improved behaviour of joystick 'hat' movement.  This should fix bugs
+    most visible in Yars' Revenge.
+
+  * Fixed bug in debugger rewind states; bankswitching wasn't being
+    performed during the rewind.  Related to this, fixed a similar issue
+    with the debugger 'loadstate' and 'savestate' commands.
+
+  * Added game properties info and snapshot for the newly released
+    'Halo 2600' ROM. 

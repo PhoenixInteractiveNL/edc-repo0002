@@ -1,0 +1,4 @@
+2.8.2 to 2.8.3: (June 25, 2009)
+
+  * Fixed OpenGL bug which caused an immediate program crash if the
+    available OpenGL version was less than 2.0.

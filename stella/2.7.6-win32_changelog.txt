@@ -1,0 +1,21 @@
+2.7.5 to 2.7.6: (April 14, 2009)
+
+  * Added support for 'EF' bankswitching (Paul Slocum Homestar Runner),
+    as well as auto-detection of this format.
+
+  * Added support for 'EFSC' bankswitching, as well as auto-detection of
+    this format.  This is similar to the 'EF' scheme, but also includes
+    128 bytes SuperChip RAM.
+
+  * Added autodetection for '0840' and 'SB' bankswitching formats.
+
+  * Improved autodetection for 'UA' bankswitching format.
+
+  * Fixed bug in selecting video modes larger than the current screen;
+    the resulting video mode will now be the largest one available
+    (previously it selected the smallest one available).
+
+  * The currently selected CPU register now displays its value in
+    decimal and binary (in addition to hex) in the debugger.
+
+-Have fun!

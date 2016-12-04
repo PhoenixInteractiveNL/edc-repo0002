@@ -1,0 +1,4 @@
+3.6 to 3.6.1: (March 30, 2012)
+
+  * Extended FA2 bankswitch scheme to handle 28K ROMs (in addition to
+    the previously supported 24K ROMs). 
