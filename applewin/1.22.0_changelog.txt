@@ -1,0 +1,12 @@
+1.24.0 - 11 Jan 2014
+--------------------
+Changes:
+. Support cursor keys (in addition to numpad) when using keyboard for joystick emulation
+. Support auto-fire for all 3 joystick buttons (via Config->Input)
+. Debugger: Added "disk info" command
+. Added confirmation message box for reboot (F2)
+. [Feature #5715] Added -no-printscreen-dlg to suppress the warning if AppleWin fails to capture the PrintScreen key
+. Changed save-state file persisted to Registry from filename to pathame
+Fixes:
+. [Bug #19154] ProDOS Order 2IMG crashing
+. [Support #103098] Sometimes swapping disk could cause INIT to fail with ERROR #8
