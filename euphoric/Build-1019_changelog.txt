@@ -1,0 +1,6 @@
+Build 1019 changes
+------------------
+- several bugs corrected thanks to Simon : I had broken the clock's cycles
+  global count, which affected a lot of parts in the emulator... Also, thanks
+  again for forcing me to fix a long-awaiting bug when switching back from the
+  environment screen...

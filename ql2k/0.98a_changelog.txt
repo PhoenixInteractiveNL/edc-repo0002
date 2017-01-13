@@ -1,0 +1,15 @@
+Changes :
+# Adding a new debugger accessible by the menu (Command / Debug...)
+  This debugger is self documented and fit in a resizeable window.
+# Completely rewritten execution timing
+  (Now a QL set a original speed use very few percent CPU time in
+   both DirectX or GDI mode)
+  It possible to set speed factor too from original QL Speed.
+  To set speed factor use -P x switch where x is 1 for QL orginal speed,
+  2 for 2 time quicker and so...
+# A new switche has been added to set the delay of MDV from 31ms to 1ms.
+  This switch is -Q.
+# DirectDraw FullScreen mode doesn't show window border anymore
+  We have left just the menu bar as often the ALT Key is locked by
+  the emulator for QL usage.
+# Many and many bugs fixes and code cleaning.

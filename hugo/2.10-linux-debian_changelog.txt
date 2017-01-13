@@ -1,0 +1,17 @@
+Changes from HU-GO! 2.09 to HU-GO! 2.10
+
+Arrival of a real GUI (using gtk) for both windows and linux ports
+  (which includes lot of easiness in changing configuration, ...)
+Availability on binary forms for several platforms
+FreeBSD port
+Improved CD support at pce level
+SDL joypad support (for linux only right now)
+CD support reenabled for windows (was messed since 2.00 probably)
+Rewritten fullscreen support, as well as x2, x3, x4 mode
+  in windowed mode.
+Lots of bugs fixed in the graphical engine (gunhed works
+  after the first level for instance)
+Improvement in the sound engine (for rendering noise
+  and drums and stereo mode)
+Thanks to Ixion, Black-, Cleaner, Zoop and Valerie Tching
+  for their very active contribution  

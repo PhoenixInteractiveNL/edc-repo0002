@@ -1,0 +1,12 @@
+Changes :
+# Sound emulation
+  QL Sound is now emulated.
+  Volume settings overide Windows general setting (MCI sound) but
+  restore orginal values when you quit QL2K.
+
+# FLASH support. Support blinking in 8 colors mode.
+
+# 800x480 screen enhanced support in GDI Mode.
+  (relative to EEE PC and others handheld computers)
+  
+# Some improvements and bugs corrections as been made too.

@@ -1,0 +1,1 @@
+* Moved to a GPL licence policy, due to the fact that I'm running a little low on time.

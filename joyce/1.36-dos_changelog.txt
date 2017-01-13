@@ -1,0 +1,3 @@
+New in v1.36: A bug in the floppy disc code has been fixed, meaning that
+             CP/M can now successfully detect and use .DSK files in the
+             CPC "system" and "data" formats.

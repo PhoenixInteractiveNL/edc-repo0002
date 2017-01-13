@@ -1,0 +1,9 @@
+Changes from HU-GO! 2.00 to HU-GO! 2.09
+
+Removed all Allegro references, switched to SDL ! which in itself
+  should improve pc compatibility especially in windows.
+Improved synchronization (limitation to 60hz rather)
+New sound engine (linked to the SDL switch)
+Externalized bios (for legal issues)
+Somes fixes, this and there
+Russian version

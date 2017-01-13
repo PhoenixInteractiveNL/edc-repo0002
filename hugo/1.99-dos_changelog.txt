@@ -1,0 +1,3 @@
+Changes from HU-GO! 1.29 to HU-GO! 1.99
+
+NEW KERNEL !!!! (short to say but long to implement :)

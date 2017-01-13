@@ -1,0 +1,438 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2007-07-28 19:36:52 ....A        58981       176672  ChangeLog
+2004-03-07 06:29:34 ....A          392               common\mmp\util\Makefile
+2004-05-03 20:00:49 ....A         1086               bdflib\Makefile
+2004-09-28 11:38:40 ....A          976               bdflib\parser\Makefile
+2004-11-14 15:03:08 ....A          654               common\cpu\print-test\Makefile
+2006-01-04 14:47:44 ....A          286               windows\resource\Makefile
+2006-02-09 18:58:39 ....A          768               unixlib\Makefile
+2006-02-10 18:25:26 ....A         2465               common\native\Makefile
+2006-02-16 19:19:41 ....A         1472               x11\Makefile
+2006-03-06 13:58:17 ....A          784               widgetlib\Makefile
+2006-03-06 13:58:17 ....A         1536               curses\Makefile
+2006-03-06 13:58:17 ....A         2209               qte\Makefile
+2006-03-06 13:58:17 ....A         6152               common\Makefile
+2007-07-28 19:36:52 ....A         1981               windows\Makefile
+2005-01-06 15:21:33 ....A          579               common\include\aapixel.h
+2006-02-17 14:55:51 ....A         3413               common\include\address.h
+2004-05-03 20:00:49 ....A          196               bdflib\include\bdffont.h
+2004-05-07 10:25:03 ....A          560               bdflib\include\bdffontset.h
+2004-05-07 10:25:03 ....A          346               bdflib\include\bdffontsets.h
+2005-01-24 04:49:07 ....A          489               bdflib\include\bdffontsetsjis.h
+2004-05-07 10:25:03 ....A          530               bdflib\include\bdflcdfont.h
+2004-05-07 10:25:03 ....A          488               bdflib\include\bdflcdfontjis.h
+2004-05-07 10:25:03 ....A          770               bdflib\include\bdfmgr.h
+2005-01-06 15:21:33 ....A          489               common\include\blink.h
+2005-01-06 15:21:33 ....A          297               common\include\blinkmgr.h
+2005-07-27 20:53:28 ....A          385               common\include\cessjis.h
+2005-01-06 15:21:33 ....A          782               common\include\cmlcd.h
+2006-01-21 19:04:34 ....A         1656               common\include\cmlcdfunc.h
+2006-01-21 19:04:34 ....A         1188               common\include\cmlcdfuncaa.h
+2006-01-21 19:04:34 ....A         1216               common\include\cmlcdfuncdefault.h
+2006-02-16 19:19:40 ....A         1369               common\include\cmlcdpix.h
+2006-02-19 14:04:39 ....A          360               common\include\cmlcdpixaa.h
+2005-01-06 15:21:33 ....A          364               common\include\cmlcdpixaa_noai.h
+2006-02-16 14:05:12 ....A          585               common\include\cmlcdpixdefault.h
+2005-01-06 15:21:33 ....A          396               common\include\cmlcdpixdefault_noai.h
+2005-01-06 15:21:33 ....A          479               common\include\codingascii.h
+2005-01-13 09:40:42 ....A          498               common\include\codingbase.h
+2005-01-06 15:21:33 ....A          446               common\include\codingshiftjis.h
+2005-01-06 15:21:33 ....A          193               common\include\codingsystem.h
+2006-03-06 13:59:08 ....A         1619               common\include\config.h
+2004-11-21 16:12:27 ....A         1902               common\include\cpu.h
+2006-02-20 14:58:05 ....A          402               curses\include\curlcd.h
+2006-02-19 14:04:40 ....A          332               curses\include\curlogoutput.h
+2006-02-19 14:04:40 ....A          463               curses\include\curruputer.h
+2006-01-05 10:45:05 ....A         1281               common\include\directory.h
+2004-11-06 18:16:01 ....A          558               common\include\directoryconverter.h
+2004-11-07 12:07:55 ....A          444               common\include\directoryelement.h
+2005-01-06 15:21:33 ....A          689               common\include\dirstack.h
+2005-01-06 15:21:33 ....A          362               common\include\dirstacksjis.h
+2006-01-05 10:45:05 ....A          868               common\include\dosdirectory.h
+2006-01-21 19:04:35 ....A          353               common\native\common\emu_common.h
+2005-01-08 10:40:31 ....A          574               common\native\common\emu_font.h
+2006-01-21 19:04:35 ....A          139               common\native\common\emu_gaiji.h
+2006-01-21 19:04:35 ....A          811               common\native\common\emu_lcdbios.h
+2004-04-29 11:44:33 ....A          346               common\native\common\emu_rupsys.h
+2005-01-08 10:40:31 ....A          219               common\native\common\emu_wbios.h
+2005-01-06 15:21:33 ....A         1244               common\include\exffile.h
+2004-04-29 11:44:32 ....A          186               common\include\exmemory.h
+2005-01-06 15:21:33 ....A          364               common\include\extlist.h
+2004-04-29 11:44:32 ....A          518               common\include\fdmgr.h
+2004-04-29 11:44:32 ....A          188               common\include\filerini.h
+2005-07-27 20:53:28 ....A          580               common\include\filerinibase.h
+2005-01-06 15:21:33 ....A          547               common\include\filerinimgr.h
+2006-02-13 09:56:32 ....A          876               common\include\frame.h
+2004-03-07 06:29:34 ....A        15959               common\mmp\gaijidata.h
+2004-10-31 14:41:17 ....A          981               common\include\internalfont.h
+2004-10-31 14:41:17 ....A          508               common\include\interruption.h
+2004-04-29 11:44:33 ....A          221               common\native\util\itoa.h
+2004-04-29 11:44:32 ....A          125               common\include\key.h
+2006-02-17 20:01:37 ....A         1502               common\include\keybuffer.h
+2006-01-04 14:47:45 ....A          382               windows\resource\language.h
+2004-10-31 14:41:17 ....A          993               common\include\lcd.h
+2005-01-06 15:21:33 ....A          778               common\include\lcdblrv.h
+2006-02-16 14:05:12 ....A          862               common\include\lcdblrvmgr.h
+2006-01-21 19:04:34 ....A         7768               common\include\lcdfunc.h
+2004-10-31 14:41:17 ....A          820               common\include\lcdport.h
+2006-02-19 14:04:39 ....A          771               common\include\log.h
+2006-01-05 10:45:05 ....A          260               common\include\logoutput.h
+2006-01-05 10:45:05 ....A          345               common\include\logoutputfile.h
+2006-01-05 10:45:05 ....A          318               common\include\logoutputstderr.h
+2004-04-29 12:22:21 ....A         1863               common\include\memory.h
+2004-11-01 12:12:16 ....A         3250               common\include\memorycpu.h
+2004-04-29 16:13:31 ....A          473               common\native\disp\messages_sjis.h
+2005-01-08 10:40:31 ....A       215389               common\mmp\mmpdata.h
+2004-11-10 05:02:35 ....A         1405               common\include\mncore.h
+2006-02-16 19:24:27 ....A        46107               common\native\native.h
+2006-01-22 16:35:28 ....A         2765               common\include\option.h
+2004-11-01 12:12:16 ....A         1239               common\include\optionitem.h
+2004-11-13 19:35:47 ....A          652               common\include\optionlist.h
+2004-05-03 20:00:49 ....A          240               bdflib\parser\parse.h
+2006-01-25 10:43:14 ....A          612               common\include\port.h
+2006-02-17 20:01:38 ....A         1920               common\include\psdos.h
+2006-02-12 18:17:22 ....A          421               qte\include\qtefiledialog.h
+2006-02-19 04:01:35 ....A          789               qte\include\qtelcd.h
+2005-07-27 15:50:54 ....A          604               qte\include\qtelcdfont.h
+2006-02-19 04:01:35 ....A         1664               qte\include\qteruputer.h
+2005-01-06 15:21:33 ....A          292               common\include\reverse.h
+2005-01-06 15:21:33 ....A          298               common\include\reversemgr.h
+2004-04-29 11:44:32 ....A          384               common\include\romgaiji.h
+2004-04-29 11:44:32 ....A          582               common\include\rommmp.h
+2004-10-31 14:41:17 ....A         1911               common\include\rupaddress.h
+2006-02-16 14:05:13 ....A         1040               common\native\rupmenu\rupmenucommon.h
+2004-04-29 11:44:32 ....A          588               common\include\rupstruct.h
+2006-02-17 20:01:38 ....A          644               common\include\rupsys.h
+2006-02-16 19:24:28 ....A         2011               common\native\rupsysaddress.h
+2006-02-19 14:04:39 ....A         3192               common\include\ruputer.h
+2004-11-06 18:16:01 ....A          567               common\include\ruputerdirectory.h
+2006-01-09 08:43:15 ....A          983               common\include\ruputerexception.h
+2006-03-06 13:59:08 ....A          134               windows\include\sdconfig.h
+2006-03-06 13:59:08 ....A          251               curses\include\sdconfig.h
+2006-03-06 13:59:08 ....A          285               qte\include\sdconfig.h
+2004-04-29 11:44:32 ....A          517               common\include\sdfile.h
+2006-02-22 18:40:39 ....A         1019               common\include\sdfindfile.h
+2005-01-13 09:40:42 ....A          585               common\include\sdlcd.h
+2004-11-02 11:18:37 ....A          428               widgetlib\include\sdlcdfactory.h
+2004-04-29 11:44:32 ....A          320               common\include\sdlcdfont.h
+2006-01-28 12:22:31 ....A          439               common\include\sdsound.h
+2004-03-06 19:36:25 ....A          191               common\native\softkey\softkey.h
+2006-01-28 12:22:31 ....A          399               common\include\sound.h
+2006-01-28 12:22:31 ....A          339               common\include\soundasync.h
+2006-01-28 12:22:31 ....A          525               common\include\soundsync.h
+2006-02-17 20:01:38 ....A          533               common\include\soundsyncnull.h
+2006-02-18 09:45:08 ....A         1479               common\include\state.h
+2004-10-31 14:41:17 ....A          745               common\include\systimer.h
+2006-02-17 20:01:38 ....A         1025               common\include\thread.h
+2006-02-17 20:01:38 ....A          308               common\include\threadable.h
+2004-11-06 18:16:01 ....A          141               common\include\throwable.h
+2005-01-08 10:40:30 ....A          717               common\include\timer.h
+2005-01-08 10:40:30 ....A         1250               common\include\timermgr.h
+2005-01-08 10:40:30 ....A          415               common\include\timerresource.h
+2005-01-08 10:40:31 ....A          552               common\include\timerresourcemgr.h
+2005-07-27 20:53:28 ....A          281               common\include\ufilerini.h
+2006-01-05 10:45:06 ....A          683               common\include\unixdirectory.h
+2006-02-22 18:40:39 ....A          702               unixlib\include\unixfindfile.h
+2006-02-09 04:52:47 ....A          548               unixlib\include\unixframe.h
+2006-02-09 18:58:39 ....A          408               unixlib\include\unixuserfile.h
+2006-02-17 20:01:38 ....A          951               common\include\wbios.h
+2007-07-28 19:36:52 ....A          361               widgetlib\include\widgetconfig.h
+2006-01-07 18:59:14 ....A          525               widgetlib\include\widgetoption.h
+2006-02-22 18:40:39 ....A          613               windows\include\winfindfile.h
+2004-04-29 16:12:51 ....A          345               windows\include\winframe.h
+2005-01-06 15:21:33 ....A         1246               windows\include\winlcd.h
+2005-01-14 05:09:40 ....A          480               windows\include\winlcdfactory.h
+2006-01-21 11:02:03 ....A         1824               windows\include\winlcdfont.h
+2006-01-26 19:42:45 ....A          353               windows\include\winlogoutputevent.h
+2006-01-24 19:48:58 ....A         1563               windows\include\winoption.h
+2006-01-26 19:42:45 ....A         1472               windows\include\winpropwindow.h
+2006-01-26 19:42:45 ....A          922               windows\include\winpropwindowlog.h
+2006-01-28 15:32:23 ....A         2579               windows\include\winresource.h
+2006-02-18 09:45:09 ....A         1886               windows\include\winruputer.h
+2006-02-16 14:05:13 ....A          548               windows\include\winsound.h
+2005-01-24 04:49:08 ....A          254               x11\include\x11exception.h
+2004-03-05 17:48:53 ....A          332               x11\include\x11fontset.h
+2005-01-08 16:51:53 ....A          758               x11\include\x11lcd.h
+2006-02-11 20:17:23 ....A         1092               x11\include\x11lcdfont.h
+2005-01-08 16:51:53 ....A          678               x11\include\x11ruputer.h
+2004-04-29 11:44:32 ....A         3021               common\include\x86reg.h
+2004-03-07 06:29:35 ....A         7144               common\mmp\util\convert.c
+2006-01-21 19:04:35 ....A         1493               common\native\disp\dispmess.c
+2005-01-06 15:21:33 ....A         2954               common\native\disp\disprtc.c
+2005-01-10 09:40:27 ....A         1741               common\native\disp\dispwait.c
+2006-01-21 19:04:35 ....A         2981               common\native\disp\dispyn.c
+2006-01-21 19:04:35 ....A         1543               common\native\common\emu_common.c
+2006-01-21 16:39:56 ....A         5060               common\native\rupmenu\entryitem.c
+2004-02-06 19:31:21 ....A         3137               common\native\tool\im2cpp.c
+2006-02-16 14:05:12 ....A         9314               common\native\rupmenu\inputtable.c
+2004-04-29 11:44:33 ....A         1563               common\native\util\itoa.c
+2005-01-13 09:40:42 ....A          653               windows\msvc\lf2crlf.c
+2006-01-21 19:04:35 ....A         5798               common\native\menu\menu.c
+2004-05-07 10:25:03 ....A         3120               bdflib\parser\parse.c
+2004-11-14 15:03:09 ....A         1562               common\cpu\print-test\src\print-mn-code.c
+2006-01-21 16:39:56 ....A         2850               common\native\rupmenu\rupmenucommon.c
+2004-03-07 06:29:35 ....A         2143               common\native\softkey\smallen.c
+2004-03-07 06:29:35 ....A         2669               common\native\softkey\softkey.c
+2006-02-10 18:25:26 ....A         1220               common\native\ruptool\strcat1.c
+2006-02-10 18:25:26 ....A         1833               common\native\ruptool\strcpy1.c
+2006-02-10 18:25:26 ....A         1181               common\native\ruptool\strother.c
+2005-01-13 09:40:42 ....A         4118               common\lcd\aapixel.cpp
+2004-05-04 08:34:11 ....A         2604               bdflib\bdf\bdffontset.cpp
+2004-05-03 20:00:49 ....A         1102               bdflib\bdf\bdffontsets.cpp
+2004-11-05 05:12:10 ....A         1701               bdflib\bdf\bdffontsetsjis.cpp
+2004-05-03 20:00:49 ....A         1349               bdflib\font\bdflcdfont.cpp
+2006-01-25 10:43:14 ....A         2657               bdflib\font\bdflcdfontjis.cpp
+2004-05-07 10:25:03 ....A         3258               bdflib\bdf\bdfmgr.cpp
+2005-01-06 15:21:33 ....A         1890               common\lcd\blink.cpp
+2004-02-20 18:56:18 ....A         1428               common\lcd\blinkmgr.cpp
+2005-07-27 20:53:28 ....A         3087               common\font\cessjis.cpp
+2006-02-16 19:19:40 ....A         3337               common\lcd\cmlcd.cpp
+2006-01-22 16:35:28 ....A         5183               common\lcd\cmlcdfunc.cpp
+2006-02-19 14:04:39 ....A        11311               common\lcd\cmlcdfuncaa.cpp
+2006-01-21 19:04:34 ....A         8225               common\lcd\cmlcdfuncdefault.cpp
+2006-02-16 19:19:40 ....A         5177               common\lcd\cmlcdpix.cpp
+2006-02-19 14:04:40 ....A         3109               common\lcd\cmlcdpixaa.cpp
+2006-02-19 14:04:40 ....A         2122               common\lcd\cmlcdpixaa_noai.cpp
+2006-02-19 14:04:40 ....A         4382               common\lcd\cmlcdpixdefault.cpp
+2006-02-19 14:04:40 ....A         2917               common\lcd\cmlcdpixdefault_noai.cpp
+2005-01-13 09:40:42 ....A         2469               common\coding\codingascii.cpp
+2005-01-13 09:40:42 ....A         1092               common\coding\codingbase.cpp
+2005-01-06 15:36:13 ....A         2611               common\coding\codingshiftjis.cpp
+2004-11-13 19:35:47 ....A         2356               common\cpu\cpu.cpp
+2006-02-20 14:58:05 ....A         3003               curses\graphic\curlcd.cpp
+2006-02-19 14:04:40 ....A         1272               curses\log\curlogoutput.cpp
+2006-02-19 14:04:40 ....A         2826               curses\curruputer.cpp
+2006-01-05 18:24:44 ....A         3375               common\directory\directory.cpp
+2006-01-09 08:43:14 ....A         3513               common\directory\directoryconverter.cpp
+2004-11-12 20:06:11 ....A         1720               common\directory\directoryelement.cpp
+2006-02-16 19:19:40 ....A         6394               common\directory\dirstack.cpp
+2006-02-16 19:19:40 ....A         2014               common\directory\dirstacksjis.cpp
+2006-01-05 10:45:05 ....A         4588               common\directory\dosdirectory.cpp
+2005-01-06 15:21:33 ....A         4104               common\other\exffile.cpp
+2005-01-13 16:13:47 ....A         1355               common\memory\exmemory.cpp
+2005-07-27 04:34:32 ....A         1796               common\filerini\extlist.cpp
+2004-03-07 06:29:35 ....A         1776               common\psdos\fdmgr.cpp
+2005-01-08 16:51:53 ....A         2539               common\filerini\filerinibase.cpp
+2005-01-06 15:21:33 ....A         3102               common\filerini\filerinimgr.cpp
+2006-02-16 19:19:40 ....A         4604               common\other\frame.cpp
+2006-01-25 10:43:15 ....A         4722               common\memory\internalfont.cpp
+2004-10-31 14:41:18 ....A         2551               common\other\interruption.cpp
+2006-02-18 09:45:09 ....A         2408               common\other\key.cpp
+2006-03-06 13:58:17 ....A         2825               common\other\keybuffer.cpp
+2006-01-21 19:04:34 ....A         5418               common\lcd\lcd.cpp
+2005-01-06 15:21:33 ....A         1804               common\lcd\lcdblrv.cpp
+2006-02-16 14:05:12 ....A         4210               common\lcd\lcdblrvmgr.cpp
+2007-07-28 19:36:52 ....A        12296               common\lcd\lcdfunc.cpp
+2005-01-06 15:21:33 ....A         4611               common\lcd\lcdport.cpp
+2006-02-09 18:58:38 ....A         2248               common\log\log.cpp
+2006-02-20 14:58:05 ....A         1092               common\log\logoutput.cpp
+2006-02-20 14:58:05 ....A         1273               common\log\logoutputfile.cpp
+2006-02-20 14:58:05 ....A         1236               common\log\logoutputstderr.cpp
+2006-02-10 15:10:57 ....A         3009               windows\main.cpp
+2006-02-19 04:01:35 ....A         2261               qte\main.cpp
+2006-02-19 14:04:40 ....A         2545               x11\main.cpp
+2006-02-20 14:58:05 ....A         2087               curses\main.cpp
+2004-11-12 20:06:11 ....A         1246               common\memory\memory.cpp
+2006-03-06 13:58:17 ....A         5642               common\memory\memorybase.cpp
+2004-11-10 05:02:36 ....A         4026               common\memory\memorycpu.cpp
+2004-02-20 09:28:06 ....A         2576               common\memory\memoryinside.cpp
+2006-01-26 07:56:22 ....A       278489               common\cpu\mncore.cpp
+2004-05-10 16:56:05 ....A         7400               common\cpu\mnexpr.cpp
+2004-11-14 15:13:02 ....A        16889               common\cpu\mnprint.cpp
+2006-03-06 13:58:17 ....A         6839               common\option\option.cpp
+2004-11-03 15:02:18 ....A         1605               common\option\item\optionbool.cpp
+2004-11-13 19:35:47 ....A         1527               common\option\item\optionint.cpp
+2004-11-12 20:06:11 ....A         1449               common\option\optionitem.cpp
+2006-02-16 19:19:40 ....A         3906               common\option\optionlist.cpp
+2004-11-12 20:06:11 ....A         1927               common\option\item\optionstring.cpp
+2006-01-25 10:43:15 ....A         2440               common\memory\port.cpp
+2004-11-14 16:48:52 ....A          795               common\cpu\print-test\src\print-test.cpp
+2006-02-17 20:01:38 ....A         8926               common\psdos\psdos.cpp
+2005-01-13 16:13:47 ....A        10522               common\psdos\psdos_file.cpp
+2006-02-19 14:04:40 ....A         3720               common\psdos\psdos_findfile.cpp
+2006-02-12 18:17:22 ....A         1982               qte\filedialog\qtefiledialog.cpp
+2006-02-20 09:20:02 ....A         3392               qte\graphic\qtelcd.cpp
+2006-02-12 17:31:41 ....A         3224               qte\font\qtelcdfont.cpp
+2006-02-20 09:16:20 ....A         9952               qte\qteruputer.cpp
+2006-02-20 09:20:02 ....A         1868               qte\qteruputer_load.cpp
+2005-01-06 15:21:33 ....A         1142               common\lcd\reverse.cpp
+2004-02-20 18:56:18 ....A         1365               common\lcd\reversemgr.cpp
+2004-11-03 15:02:18 ....A         1873               common\mmp\romgaiji.cpp
+2004-11-12 20:06:11 ....A         2247               common\mmp\rommmp.cpp
+2004-10-31 14:41:17 ....A         1063               common\main\rupaddress.cpp
+2004-02-14 06:24:43 ....A         2571               common\main\rupstruct.cpp
+2006-02-18 09:45:09 ....A        19630               common\rupsys\rupsys.cpp
+2007-07-28 19:36:52 ....A        18547               common\main\ruputer.cpp
+2005-01-14 05:09:40 ....A         3862               common\directory\ruputerdirectory.cpp
+2006-01-09 08:43:15 ....A         2134               common\main\ruputerexception.cpp
+2006-02-22 18:40:39 ....A         1934               common\psdos\sdfindfile.cpp
+2005-01-13 09:40:42 ....A         1245               common\lcd\sdlcd.cpp
+2004-11-03 15:02:18 ....A          517               widgetlib\lcd\sdlcdfactory.cpp
+2006-02-16 14:05:12 ....A         1086               common\font\sdlcdfont.cpp
+2006-02-08 16:26:42 ....A         1598               common\sound\sdsound.cpp
+2006-01-28 12:22:32 ....A         1301               common\sound\sound.cpp
+2006-01-28 12:22:32 ....A         2375               common\sound\soundasync.cpp
+2006-01-28 12:22:32 ....A         3558               common\sound\soundsync.cpp
+2006-02-18 13:35:05 ....A         1996               common\sound\soundsyncnull.cpp
+2004-10-31 14:41:18 ....A         3304               common\rupsys\systimer.cpp
+2006-02-18 13:35:05 ....A         4119               common\thread\thread.cpp
+2006-02-17 20:01:38 ....A         3008               common\timer\timer.cpp
+2006-02-11 20:17:22 ....A         4328               common\timer\timermgr.cpp
+2006-02-16 14:05:13 ....A         1543               common\timer\timerresource.cpp
+2005-01-10 09:40:28 ....A         1989               common\timer\timerresourcemgr.cpp
+2005-07-27 20:53:28 ....A         2105               common\filerini\ufilerini.cpp
+2006-01-05 10:45:05 ....A         3203               common\directory\unixdirectory.cpp
+2006-02-22 18:40:39 ....A         3417               unixlib\findfile\unixfindfile.cpp
+2006-02-09 18:58:39 ....A         1863               unixlib\unixuserfile.cpp
+2006-02-17 20:01:38 ....A         7178               common\wbios\wbios.cpp
+2006-01-28 12:22:32 ....A         1716               common\wbios\wbiossound.cpp
+2006-03-06 13:58:17 ....A         1797               widgetlib\option\widgetoption.cpp
+2006-03-06 13:58:17 ....A         4422               windows\findfile\winfindfile.cpp
+2006-02-10 18:25:26 ....A         4549               windows\graphic\winlcd.cpp
+2006-02-10 18:25:26 ....A         2228               windows\graphic\winlcd102x64.cpp
+2005-01-14 05:09:40 ....A         2181               windows\graphic\winlcdfactory.cpp
+2005-01-06 15:21:33 ....A         1753               windows\graphic\winlcdflip.cpp
+2006-01-21 11:02:03 ....A         3141               windows\font\winlcdfont.cpp
+2006-01-21 11:02:03 ....A         3505               windows\font\winlcdfontaa.cpp
+2006-02-22 18:40:39 ....A         2848               windows\font\winlcdfontaasjis.cpp
+2006-01-19 18:34:35 ....A         1943               windows\font\winlcdfontsjis.cpp
+2006-01-26 19:42:46 ....A         1473               windows\log\winlogoutputevent.cpp
+2006-01-24 19:24:24 ....A         3470               windows\option\winoption.cpp
+2006-01-28 15:32:24 ....A        16225               windows\option\winpropwindow.cpp
+2006-01-26 19:42:46 ....A         3798               windows\option\winpropwindowlog.cpp
+2007-07-28 19:36:52 ....A        21429               windows\winruputer.cpp
+2006-02-16 14:05:13 ....A         2913               windows\sound\winsound.cpp
+2006-02-11 20:17:23 ....A         2633               x11\font\x11fontset.cpp
+2006-02-16 19:19:41 ....A         3965               x11\graphic\x11lcd.cpp
+2006-02-11 20:17:23 ....A         3144               x11\font\x11lcdfont.cpp
+2006-02-11 20:17:23 ....A         2797               x11\font\x11lcdfontsjis.cpp
+2006-03-06 18:09:43 ....A         4972               x11\x11ruputer.cpp
+2004-02-14 06:24:43 ....A         4065               common\psdos\x86reg.cpp
+2007-07-28 19:36:52 ....A        12117               windows\resource\all_resources.rc
+2006-01-28 15:32:24 ....A         1872               windows\resource\menu.rc
+2006-01-28 17:17:59 ....A         8637               windows\resource\property.rc
+2007-07-28 19:36:52 ....A         1585               windows\resource\version.rc
+2006-02-10 15:10:57 ....A        33500               windows\msvc\Makefile.msvc.dep
+2004-11-14 15:03:09 ....A          180               common\cpu\print-test\shell\aurex.sh
+2004-03-07 06:29:35 ....A           97               common\mmp\util\makegaiji.sh
+2004-03-07 06:29:35 ....A          127               common\mmp\util\makemmp.sh
+2006-02-10 15:10:57 ....A          518               windows\msvc\make_collect_makefile.sh
+2005-01-13 16:13:47 ....A          507               windows\msvc\make_depend.sh
+2004-11-14 15:03:09 ....A          266               common\cpu\print-test\shell\objdump.sh
+2006-01-09 19:35:20 ....A          240               common\native\tool\sym2header.sh
+2004-03-07 06:29:34 ....A        19230               common\mmp\util\aurexgaiji.txt
+2005-01-08 10:40:31 ....A        88881               common\mmp\util\aurexmmp.txt
+2006-02-20 14:58:05 ....A        14787               doc\devlog.txt
+2006-02-17 14:55:52 ....A        15311               doc\memory.txt
+2004-02-07 07:50:44 ....A           91               common\native\tool\native_image.txt
+2005-01-14 05:09:40 ....A         5874               windows\msvc\src-list.txt
+2006-02-10 15:10:57 ....A        21272               windows\msvc\Makefile.collect
+2004-05-05 15:18:40 ....A          517               bdflib\parser\bdf.l
+2006-02-10 15:10:57 ....A         4831               windows\Makefile.msvc
+2006-01-09 19:35:20 ....A         2188               common\native\common\common.s
+2006-01-21 19:04:35 ....A         1474               common\native\disp\emudispmess.s
+2004-04-29 10:58:51 ....A         3261               common\native\disp\emudisprtc.s
+2005-01-10 09:40:27 ....A         1173               common\native\disp\emudispwait.s
+2006-02-10 15:10:56 ....A         1890               common\native\disp\emudispyn.s
+2006-01-21 19:04:35 ....A         1736               common\native\menu\emumenu.s
+2006-02-16 14:05:12 ....A         2896               common\native\rupmenu\emurupmenu.s
+2006-01-09 19:35:20 ....A         1672               common\native\softkey\emusoftkey.s
+2006-02-10 18:25:26 ....A         1447               common\native\ruptool\emustrcat1.s
+2006-02-10 18:25:26 ....A         2810               common\native\ruptool\emustrcpy1.s
+2006-02-10 18:25:26 ....A         1367               common\native\ruptool\emustrother.s
+2004-03-06 19:36:25 ....A         1577               common\native\common\emu_lcdbios.s
+2006-01-21 19:04:35 ....A         2434               common\native\common\emu_lcdfunc.s
+2004-03-06 19:36:25 ....A         1238               common\native\common\emu_rupsys.s
+2005-01-10 09:40:27 ....A         1928               common\native\common\emu_wbios.s
+2004-05-03 13:54:12 ....A          387               bdflib\parser\Makefile.test
+2006-02-11 20:17:23 ....A         1735               qte\image\down-arrow.xpm
+2006-02-11 20:17:23 ....A          816               qte\image\el.xpm
+2006-02-11 20:17:23 ....A          819               qte\image\enter.xpm
+2006-02-11 20:17:23 ....A          819               qte\image\filer.xpm
+2006-02-11 20:17:23 ....A         1374               qte\image\left-arrow.xpm
+2006-02-11 20:17:23 ....A          818               qte\image\menu.xpm
+2006-02-11 20:17:23 ....A         1345               qte\image\right-arrow.xpm
+2006-02-11 20:17:23 ....A         1732               qte\image\up-arrow.xpm
+2004-05-05 15:05:01 ....A         1216               bdflib\parser\bdf.y
+2006-03-06 18:09:43 ....A         3042               qte\Makefile.zau
+2017-01-12 23:10:08 D....            0            0  x11\include
+2017-01-12 23:10:08 D....            0            0  x11\graphic
+2017-01-12 23:10:08 D....            0            0  x11\font
+2017-01-12 23:10:08 D....            0            0  x11
+2017-01-12 23:10:09 D....            0            0  windows\sound
+2017-01-12 23:10:09 D....            0            0  windows\resource
+2017-01-12 23:10:09 D....            0            0  windows\other
+2017-01-12 23:10:09 D....            0            0  windows\option
+2017-01-12 23:10:09 D....            0            0  windows\msvc
+2017-01-12 23:10:09 D....            0            0  windows\memory
+2017-01-12 23:10:09 D....            0            0  windows\log
+2017-01-12 23:10:09 D....            0            0  windows\include
+2017-01-12 23:10:09 D....            0            0  windows\graphic
+2017-01-12 23:10:09 D....            0            0  windows\font
+2017-01-12 23:10:09 D....            0            0  windows\findfile
+2017-01-12 23:10:09 D....            0            0  windows
+2017-01-12 23:10:09 D....            0            0  widgetlib\option
+2017-01-12 23:10:09 D....            0            0  widgetlib\lcd
+2017-01-12 23:10:09 D....            0            0  widgetlib\include
+2017-01-12 23:10:09 D....            0            0  widgetlib
+2017-01-12 23:10:09 D....            0            0  unixlib\include
+2017-01-12 23:10:09 D....            0            0  unixlib\findfile
+2017-01-12 23:10:09 D....            0            0  unixlib
+2017-01-12 23:10:09 D....            0            0  sdl
+2017-01-12 23:10:09 D....            0            0  qte\include
+2017-01-12 23:10:09 D....            0            0  qte\image
+2017-01-12 23:10:09 D....            0            0  qte\graphic
+2017-01-12 23:10:09 D....            0            0  qte\font
+2017-01-12 23:10:09 D....            0            0  qte\filedialog
+2017-01-12 23:10:09 D....            0            0  qte
+2017-01-12 23:10:09 D....            0            0  doc
+2017-01-12 23:10:09 D....            0            0  curses\other
+2017-01-12 23:10:09 D....            0            0  curses\option
+2017-01-12 23:10:09 D....            0            0  curses\log
+2017-01-12 23:10:09 D....            0            0  curses\include
+2017-01-12 23:10:09 D....            0            0  curses\graphic
+2017-01-12 23:10:09 D....            0            0  curses\findfile
+2017-01-12 23:10:09 D....            0            0  curses
+2017-01-12 23:10:09 D....            0            0  common\wbios
+2017-01-12 23:10:09 D....            0            0  common\timer
+2017-01-12 23:10:09 D....            0            0  common\thread
+2017-01-12 23:10:09 D....            0            0  common\sound
+2017-01-12 23:10:09 D....            0            0  common\rupsys
+2017-01-12 23:10:09 D....            0            0  common\psdos
+2017-01-12 23:10:09 D....            0            0  common\other
+2017-01-12 23:10:09 D....            0            0  common\option\item
+2017-01-12 23:10:09 D....            0            0  common\option
+2017-01-12 23:10:09 D....            0            0  common\native\util
+2017-01-12 23:10:09 D....            0            0  common\native\tool
+2017-01-12 23:10:09 D....            0            0  common\native\softkey
+2017-01-12 23:10:09 D....            0            0  common\native\ruptool
+2017-01-12 23:10:09 D....            0            0  common\native\rupmenu
+2017-01-12 23:10:09 D....            0            0  common\native\menu
+2017-01-12 23:10:09 D....            0            0  common\native\disp
+2017-01-12 23:10:10 D....            0            0  common\native\common
+2017-01-12 23:10:10 D....            0            0  common\native
+2017-01-12 23:10:10 D....            0            0  common\mmp\util
+2017-01-12 23:10:10 D....            0            0  common\mmp
+2017-01-12 23:10:10 D....            0            0  common\memory
+2017-01-12 23:10:10 D....            0            0  common\main
+2017-01-12 23:10:10 D....            0            0  common\log
+2017-01-12 23:10:10 D....            0            0  common\lcd
+2017-01-12 23:10:10 D....            0            0  common\include
+2017-01-12 23:10:10 D....            0            0  common\font
+2017-01-12 23:10:10 D....            0            0  common\filerini
+2017-01-12 23:10:10 D....            0            0  common\directory
+2017-01-12 23:10:10 D....            0            0  common\debugger
+2017-01-12 23:10:10 D....            0            0  common\cpu\print-test\src
+2017-01-12 23:10:10 D....            0            0  common\cpu\print-test\shell
+2017-01-12 23:10:10 D....            0            0  common\cpu\print-test
+2017-01-12 23:10:10 D....            0            0  common\cpu
+2017-01-12 23:10:10 D....            0            0  common\coding
+2017-01-12 23:10:10 D....            0            0  common
+2017-01-12 23:10:11 D....            0            0  bdflib\parser
+2017-01-12 23:10:11 D....            0            0  bdflib\include
+2017-01-12 23:10:11 D....            0            0  bdflib\font
+2017-01-12 23:10:11 D....            0            0  bdflib\bdf
+2017-01-12 23:10:11 D....            0            0  bdflib
+------------------- ----- ------------ ------------  ------------------------
+2017-01-12 23:10:11            1578246       176672  356 files, 78 folders

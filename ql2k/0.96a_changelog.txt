@@ -1,0 +1,4 @@
+Changes :
+# Additionnal support for multiples ROM files
+# Minor bugs corrections.
+# Enabling support of speedscreen+ for QL2K registered users.

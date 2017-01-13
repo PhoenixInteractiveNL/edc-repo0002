@@ -1,0 +1,28 @@
+V 0.99g2: Open Source release
+-----------------------------
+- ok, I've worked on the Linux version again, it has been quite a long time,
+hasn't it ? So, the story might be a little confusing for you now : if you
+read the history file of the DOS version, you will see that the most advanced
+Linux version has been numbered 099h. So, why a return to 099a, 099b, and now
+099g2 ? Simply because two or three years ago, a nasty Windows installation
+destroyed my Linux partition. At that time, the DOS version was already more
+advanced than the linux one, so I couldn't recover from the current DOS version.
+Then time passed by, and it seems I forgot what happened when building the new
+web site... So, when building the new web site, I built a Linux release from
+what I had on my Linux partition : release 099a. Then, at some time, Thierry
+must have asked me to include 65C02 support in the Linux version, this gave
+a release 099b, not synchronized with the 099b release for DOS (I shouldn't
+have numbered it this way...). And yesterday, as I was reading through the
+DOS history file, I remembered the Linux version had come up to 099h.
+Looking on my DOS archive revealed I don't have a copy of this release, but I
+still have a copy of the 099g release. So, I have recompiled this 099g under
+Linux, updated some assembly files to conform with the new syntax of the
+assembler, simplified the keyboard handler so that it uses the routines in
+SVGAlib instead of re-inventing the wheel, and voila !
+- the second thing is that I am now providing the source code of Euphoric on
+an Open Source basis. Open Source might not be the exact legal terms to use,
+I haven't compared the terms with GPL and other licenses, the philosophy is
+just that everybody is allowed to contribute to Euphoric for Linux, of course
+it would be nice if all contributors share the same views. On the other hand,
+I (Fabrice Frances) don't allow anyone to build a product containing Euphoric's
+code without mentionning these sources. Well, you got the picture...
