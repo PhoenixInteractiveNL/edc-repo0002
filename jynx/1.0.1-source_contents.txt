@@ -1,0 +1,91 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-08-24 15:23:44 ....A         6966        91045  ForWindows\res\LynxPaw.bmp
+2014-08-24 15:23:44 ....A         7406               ForWindows\res\Jynx.ico
+2014-08-24 15:23:44 ....A          223               README.md
+2014-08-24 15:23:44 ....A          697               ForWindows\AboutBoxForm.h
+2014-08-24 15:23:44 ....A         1079               Portable\FileLoader.h
+2014-08-24 15:23:44 ....A         2370               Portable\FileSerialiser.h
+2014-08-24 15:23:44 ....A         1143               Portable\IBinarySerialiser.h
+2014-08-24 15:23:44 ....A         1318               Portable\IFileOpener.h
+2014-08-24 15:23:44 ....A         2515               Portable\IHostServicesForLynxEmulator.h
+2014-08-24 15:23:44 ....A         6431               Portable\IHostServicesForLynxUserInterfaceModel.h
+2014-08-24 15:23:44 ....A         5739               Portable\ILynxEmulator.h
+2014-08-24 15:23:44 ....A         2170               Portable\ILynxUserInterfaceModel.h
+2014-08-24 15:23:44 ....A         2246               Portable\ISerialiser.h
+2014-08-24 15:23:44 ....A         1076               Portable\Z80\IZ80DisassemblerStream.h
+2014-08-24 15:23:44 ....A         9298               Portable\Z80\JynxZ80.h
+2014-08-24 15:23:44 ....A         3246               Portable\Z80\JynxZ80Declarations.h
+2014-08-24 15:23:44 ....A         2832               Portable\Z80\JynxZ80Disassembler.h
+2014-08-24 15:23:44 ....A        84019               Portable\Z80\JynxZ80DisassemblyData.h
+2014-08-24 15:23:44 ....A         4802               Portable\Z80\JynxZ80ExternalImplementation.h
+2014-08-24 15:23:44 ....A        11693               Portable\Z80\JynxZ80Shared.h
+2014-08-24 15:23:44 ....A         1156               Portable\Z80\JynxZ80Timings.h
+2014-08-24 15:23:44 ....A         1405               Portable\Lexer.h
+2014-08-24 15:23:44 ....A        18866               ForWindows\libWinApi.h
+2014-08-24 15:23:44 ....A         9510               Portable\LynxEmulatorGuest.h
+2014-08-24 15:23:44 ....A         3195               Portable\LynxHardware.h
+2014-08-24 15:23:44 ....A         1623               Portable\LynxRectangle.h
+2014-08-24 15:23:44 ....A         1135               Portable\LynxRoms.h
+2014-08-24 15:23:44 ....A         4648               Portable\LynxUserInterfaceModel.h
+2014-08-24 15:23:44 ....A         3935               ForWindows\MainForm.h
+2014-08-24 15:23:44 ....A          175               ForWindows\Program.h
+2014-08-24 15:23:44 ....A         1900               ForWindows\resource.h
+2014-08-24 15:23:44 ....A         2666               Portable\SignalWriter.h
+2014-08-24 15:23:44 ....A         2722               Portable\SoundBufferWriter.h
+2014-08-24 15:23:44 ....A         1291               Portable\SoundRecorder.h
+2014-08-24 15:23:44 ....A         1072               ForWindows\SoundThread.h
+2014-08-24 15:23:44 ....A          442               ForWindows\stdafx.h
+2014-08-24 15:23:44 ....A         2481               Portable\TapFileReader.h
+2014-08-24 15:23:44 ....A         2146               Portable\TapFileSplitter.h
+2014-08-24 15:23:44 ....A         2217               Portable\TapFileWriter.h
+2014-08-24 15:23:44 ....A          450               ForWindows\targetver.h
+2014-08-24 15:23:44 ....A         1434               Portable\TextPlayer.h
+2014-08-24 15:23:44 ....A         1615               Portable\TextRecorder.h
+2014-08-24 15:23:44 ....A         1157               ForWindows\WindowsFileOpener.h
+2014-08-24 15:23:44 ....A         1455               Portable\ZeroInitialiseMemory.h
+2014-08-24 15:23:44 ....A          838               ForWindows\AboutBoxForm.cpp
+2014-08-24 15:23:44 ....A         1529               Portable\FileLoader.cpp
+2014-08-24 15:23:44 ....A         5586               Portable\FileSerialiser.cpp
+2014-08-24 15:23:44 ....A        11229               Portable\Z80\JynxZ80.cpp
+2014-08-24 15:23:44 ....A         8645               Portable\Z80\JynxZ80Disassembler.cpp
+2014-08-24 15:23:44 ....A        29599               Portable\Z80\JynxZ80MainSet.cpp
+2014-08-24 15:23:44 ....A         2062               Portable\Z80\JynxZ80Shared.cpp
+2014-08-24 15:23:44 ....A        10572               Portable\Z80\JynxZ80Timings.cpp
+2014-08-24 15:23:44 ....A         8306               Portable\Z80\JynxZ80_CB.cpp
+2014-08-24 15:23:44 ....A        10811               Portable\Z80\JynxZ80_ED.cpp
+2014-08-24 15:23:44 ....A         2413               Portable\Lexer.cpp
+2014-08-24 15:23:44 ....A        48962               ForWindows\libWinApi.cpp
+2014-08-24 15:23:44 ....A        41770               Portable\LynxEmulatorGuest.cpp
+2014-08-24 15:23:44 ....A         2234               Portable\LynxRectangle.cpp
+2014-08-24 15:23:44 ....A        19774               Portable\LynxUserInterfaceModel.cpp
+2014-08-24 15:23:44 ....A        19358               ForWindows\MainForm.cpp
+2014-08-24 15:23:44 ....A          711               ForWindows\Program.cpp
+2014-08-24 15:23:44 ....A         2834               Portable\SignalWriter.cpp
+2014-08-24 15:23:44 ....A         3477               Portable\SoundBufferWriter.cpp
+2014-08-24 15:23:44 ....A         3585               Portable\SoundRecorder.cpp
+2014-08-24 15:23:44 ....A         2487               ForWindows\SoundThread.cpp
+2014-08-24 15:23:44 ....A         5243               Portable\TapFileReader.cpp
+2014-08-24 15:23:44 ....A         6660               Portable\TapFileSplitter.cpp
+2014-08-24 15:23:44 ....A         6542               Portable\TapFileWriter.cpp
+2014-08-24 15:23:44 ....A         3061               Portable\TextPlayer.cpp
+2014-08-24 15:23:44 ....A         2534               Portable\TextRecorder.cpp
+2014-08-24 15:23:44 ....A         1281               ForWindows\WindowsFileOpener.cpp
+2014-08-24 15:23:44 ....A         9328               ForWindows\Jynx.rc
+2014-08-24 15:23:44 ....A         1228               ForWindows\Jynx.sln
+2014-08-24 15:23:44 ....A        13864               readme.htm
+2014-08-24 15:23:44 ....A        35798               LICENSE.txt
+2014-08-24 15:23:44 ....A         9793               ForWindows\Jynx.vcxproj.filters
+2014-08-24 15:23:44 ....A          100               .gitignore
+2014-08-24 15:23:44 ....A          792               ForWindows\res\Jynx.rc2
+2014-08-24 15:23:44 ....A        13171               ForWindows\Jynx.vcxproj
+2014-08-24 15:23:44 ....A            0            0  ForLinux\This is where the Linux code would go.txt
+2014-08-24 15:23:44 ....A            0            0  ForMacOS\This is where the MAC OS code would go.txt
+2017-02-03 17:42:46 D....            0            0  Portable\Z80
+2017-02-03 17:42:46 D....            0            0  Portable
+2017-02-03 17:42:46 D....            0            0  ForWindows\res
+2017-02-03 17:42:46 D....            0            0  ForWindows
+2017-02-03 17:42:46 D....            0            0  ForMacOS
+2017-02-03 17:42:46 D....            0            0  ForLinux
+------------------- ----- ------------ ------------  ------------------------
+2017-02-03 17:42:46             572142        91045  81 files, 6 folders

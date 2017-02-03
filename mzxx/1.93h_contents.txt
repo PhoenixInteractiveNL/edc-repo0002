@@ -1,0 +1,203 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-01-10 07:12:24 ....A         4096      1671890  ROMS\Sharp\1Z-009B_jap.bin
+1994-10-11 11:51:16 ....A         2048               ROMS\Galaxy\CHRGEN.BIN
+2002-08-05 13:47:36 ....A         2048               ROMS\Sharp\IPL80b.BIN
+2002-08-05 13:47:36 ....A         2048               IPL80b.BIN
+2008-01-07 14:33:26 ....A        16384               ROMS\spectrum\openzxrom.bin
+1992-10-07 14:02:28 ....A         4096               ROMS\Galaxy\ROM1.BIN
+1992-10-16 13:35:54 ....A         4096               ROMS\Galaxy\ROM2.BIN
+1992-12-11 10:00:36 ....A        43399               Favoriten\MZ700\spaceharrier.bin
+2009-07-05 14:53:48 ....A        11798               MZ700KBD.BMP
+2010-02-02 12:25:54 ....A        11798               MZ80AKBD.bmp
+2009-08-24 13:21:06 ....A        11798               MZ80BKBD.BMP
+1999-07-17 00:25:22 .R..A        18432               CPM\DRIVE_0\BASIC.COM
+2008-05-28 11:55:50 ....A          128               CPM\DRIVE_0\CLS.COM
+2003-10-12 17:04:02 ....A         2176               CPM\DRIVE_0\DATE.com
+1998-03-08 10:30:30 ....A        22784               CPM\DRIVE_0\DIS8080.COM
+2008-07-22 15:16:26 ....A         1792               CPM\DRIVE_0\dskpram.com
+2008-06-03 14:04:18 ....A        10240               CPM\DRIVE_0\DU.COM
+2008-05-28 11:52:20 ....A        10112               ROMS\ccp\SH.COM
+2008-08-01 10:56:20 ....A         1664               CPM\DRIVE_0\TIME.COM
+2008-08-01 10:54:56 ....A         1152               CPM\DRIVE_0\ver.com
+2008-07-22 13:04:36 ....A         2176               ROMS\ccp\ZCPRDEMO.COM
+2008-10-26 04:01:58 ....A         8585               CPM\DRIVE_0\zexall.com
+2005-05-19 14:21:32 ....A       512512               uassam.dll
+2005-02-17 04:15:48 ....A       322816               Favoriten\MZ80A\MZ80A_basic.DSK
+2004-03-07 12:08:26 .R..A       161536               Favoriten\MZ80K\MZ80K_disk.DSK
+2009-04-26 12:47:54 ....A       322816               Favoriten\MZ80B\mzbasic.dsk
+2010-01-08 09:31:40 ....A      1331712               MZ700_win.exe
+1998-04-25 16:13:40 ....A        26272               Z80DASM.EXE
+1993-06-30 20:13:46 ....A         3074               ROMS\TRSx\MODEL1.FNT
+2003-07-29 15:12:16 ....A         4098               Snap.fnt
+2003-04-25 01:24:08 ....A         2048               ROMS\Sharp\MZ80B.fon
+2006-04-06 09:25:00 ....A          141               init\1z-009b QD.INI
+2006-04-06 08:42:32 ....A           95               init\1Z-009B.INI
+2010-01-10 07:11:56 ....A          114               init\1Z-009BJP.INI
+2006-04-05 02:17:00 ....A           88               init\1Z-013A.INI
+2010-01-08 11:02:50 ....A           68               init\80ktc.INI
+1998-05-04 06:36:34 ....A          526               init\AMIDARS.INI
+1998-05-04 06:26:56 ....A          414               init\ATLANTIS.INI
+1998-05-21 06:28:34 ....A          346               init\CAVENGER.INI
+1998-05-01 04:56:34 ....A          285               init\COSMICMO.INI
+2003-05-03 17:39:48 ....A          330               init\FROGGER.INI
+1998-03-13 03:38:44 ....A          227               init\GALXWARS.INI
+2005-01-23 03:17:32 ....A          249               init\Gyruss.INI
+2003-05-02 01:33:50 ....A          426               init\JPirem.INI
+2007-06-01 04:29:52 ....A           86               init\Kopie von KUP.ini
+2007-06-01 04:30:00 ....A          119               init\KUP.ini
+2003-07-18 01:22:08 ....A          305               init\LADYBUG.INI
+2003-07-16 10:14:22 ....A           80               init\Miner.INI
+2010-01-08 11:01:44 ....A          116               init\mymz80a.INI
+2006-03-26 10:17:54 ....A           88               init\MZ1Z-009B.INI
+2006-03-26 10:19:12 ....A           88               init\MZ1Z-013A.INI
+2010-01-08 11:01:20 ....A           80               init\MZ800Mon.INI
+2003-09-02 14:34:14 ....A          104               init\MZ80ABootdisk.ini
+2010-01-08 11:18:38 ....A           68               init\MZ80k.INI
+2010-01-08 11:01:36 ....A          109               init\MZ80Kdisk.ini
+2007-06-01 04:30:48 ....A          121               init\MZ80Kdisk2.ini
+2010-01-08 11:17:32 ....A           94               init\MZ80kJP.INI
+2010-02-02 12:31:36 ....A          407               MZemu.ini
+2002-06-02 01:20:22 ....A           79               init\Newmon.INI
+2006-03-31 12:41:26 ....A          138               init\ozmawars.INI
+2003-07-16 13:24:16 ....A          195               init\PACMAN.INI
+2003-05-02 01:18:34 ....A          282               init\Pisces.INI
+2010-01-08 10:51:58 ....A           80               init\Plus4.INI
+2003-05-02 01:10:52 ....A          243               init\redufo.INI
+2010-01-08 11:19:48 ....A           82               init\SA1510.INI
+2003-05-03 19:50:52 ....A          446               init\SCRAMBLE.INI
+1998-05-01 05:02:04 ....A          206               init\Seinv.ini
+2003-07-20 16:52:40 ....A          369               init\SNAPJACK.INI
+2010-01-08 10:58:20 ....A          118               init\SuperMZ1500.INI
+2010-01-08 10:58:30 ....A          115               init\SuperMZ800.INI
+1998-05-04 08:00:22 ....A          473               init\THEEND.INI
+2010-01-08 11:07:58 ....A           79               init\TK95.INI
+1998-06-09 15:40:30 ....A         4096               MZ700FN.INT
+2002-07-05 11:16:04 ....A         4096               MZ700FON.INT
+2002-07-05 11:16:04 ....A         4096               MZ700FON.JAP
+2002-07-05 11:12:56 ....A         2048               MZ80KFON.JAP
+2003-03-21 10:08:08 ....A        12010               BACK.jpg
+2007-04-04 18:39:56 ....A         7695               coleco_key.JPG
+2007-03-25 10:37:42 ....A        33377               spectr_keyboard.JPG
+1999-02-12 17:48:44 ....A         5248               vdisk_MZ700\cannon ball.m12
+1999-05-05 09:19:48 ....A        19072               Favoriten\MZ1500\CRUISER3.M12
+1998-04-24 06:09:14 ....A        27680               MZ700BAS.M12
+1998-10-14 17:09:54 ....A        11799               Favoriten\MZ700\send-1.m12
+1992-07-15 13:22:22 ....A        44161               Favoriten\MZ800\FLAPPY.MZF
+1999-04-17 17:39:50 ....A        28800               Favoriten\MZ800\Zexas.mzf
+2002-06-30 12:29:04 ....A        18603               Favoriten\MZ800\zxemu.mzf
+2005-04-27 02:44:30 ....A         4528               vdisk_MZ700\Clock.MZT
+2005-04-27 02:35:36 ....A         9011               vdisk_MZ700\FDCOPY.MZT
+2014-11-13 04:35:18 ....A        61455               MZ700.qd
+2010-02-02 12:31:14 ....A        65536               1R18.R12
+2010-02-02 12:31:14 ....A        32769               cmos_1R12.R12
+1998-02-18 15:39:42 ....A         4096               ROMS\Sharp\1Z-009B.ROM
+2000-07-09 17:49:12 ....A         4096               ROMS\Sharp\1Z-013A.rom
+2000-11-21 11:10:22 ....A        16384               spectrumrom\48-plus4.rom
+2000-11-21 11:10:22 ....A        16384               ROMS\spectrum\48-plus4.rom
+2002-11-06 09:10:20 ....A        16384               ROMS\Sharp\800willy.rom
+2003-08-26 16:18:42 ....A         2048               80adisk.ROM
+2003-08-26 16:18:42 ....A         2048               ROMS\Sharp\80adisk.ROM
+2003-08-26 04:45:26 ....A         2048               ROMS\Sharp\80AFI.ROM
+2003-08-26 16:18:42 ....A         2048               80AFI.ROM
+2002-08-21 03:38:42 ....A         2048               ROMS\Sharp\80KCG.ROM
+2002-08-21 03:38:42 ....A         2048               80KCG.ROM
+2004-01-22 08:14:02 ....A         4096               80ktc.rom
+2004-01-22 03:51:34 ....A         4096               ROMS\Sharp\80ktc.rom
+2003-10-01 09:02:34 ....A         2048               ROMS\Galaxy\80Z.ROM
+2003-10-01 09:02:34 ....A         2048               ROMS\Sharp\80Z.ROM
+1998-11-13 11:55:40 ....A         8192               ROMS\Sharp\9Z_504M.ROM
+1997-12-19 14:34:30 ....A         8192               ROMS\ace\ace.rom
+1998-03-13 01:50:00 ....A        16384               Favoriten\coleco\Antarctic Adventure (1984) (alt).rom
+2008-01-09 14:50:22 ....A        16384               ROMS\spectrum\BBCBasic.rom
+2001-11-02 08:29:50 ....A         2048               ROMS\Sharp\Ce-340r.rom
+1996-04-15 06:02:50 ....A        16384               Favoriten\coleco\Centipede (1983).ROM
+2003-02-09 09:26:54 ....A         2048               ROMS\Sharp\CG2500.ROM
+2001-02-02 16:19:28 ....A         2048               ROMS\microtan\CharSet.ROM
+1996-01-30 02:45:30 ....A         8192               ROMS\coleco\COLECO.rom
+2003-02-09 09:26:54 ....A       262144               ROMS\Sharp\DICT.ROM
+1998-01-18 06:37:34 ....A        16384               Favoriten\coleco\Gyruss (1984).rom
+2003-02-09 09:26:54 ....A        32768               ROMS\Sharp\IPL.ROM
+2003-02-09 09:26:54 ....A        32768               ROMS\Sharp\IPL2500.ROM
+2003-02-09 09:26:54 ....A       262144               ROMS\Sharp\KANJI.ROM
+2000-02-24 11:13:34 ....A        16384               ROMS\microtan\Microtan.ROM
+2000-03-08 07:54:26 ....A        32768               Favoriten\coleco\Moon Patrol (1982-84) (Proto).rom
+2001-09-19 04:18:26 ....A         4096               ROMS\Sharp\MZ-1E14.ROM
+2001-09-29 09:07:46 ....A         4096               MZ1E05.rom
+2001-09-29 09:07:46 ....A         4096               ROMS\Sharp\MZ1E05.rom
+2000-01-24 14:05:34 ....A         4096               ROMS\Sharp\Mz700.ROM
+2002-03-03 14:51:40 ....A         4096               ROMS\Sharp\Mz700A.ROM
+1998-11-13 11:55:40 ....A         8192               ROMS\Sharp\MZ800H.ROM
+1999-09-27 11:32:14 ....A         2048               ROMS\Sharp\MZ80B.rom
+1999-09-27 11:32:14 ....A         2048               MZ80B.rom
+2002-08-28 14:29:58 ....A         1024               ROMS\Sharp\mz80kfdif.rom
+2002-08-28 14:29:58 ....A         1024               mz80kfdif.rom
+2004-02-23 14:10:34 ....A         4096               mz80ktc2.rom
+2004-02-23 11:19:34 ....A         4096               ROMS\Sharp\mz80ktc2.rom
+1999-09-27 11:30:30 ....A         2048               MZFONT.rom
+1999-09-27 11:30:30 ....A         2048               ROMS\Sharp\MZFONT.rom
+2000-10-09 18:00:00 ....A         4096               ROMS\Sharp\NEWMON.ROM
+2000-10-09 18:00:00 ....A         4096               ROMS\NEWMON.ROM
+2001-02-01 22:25:20 ....A        32768               ROMS\spectrum\P3_01_4M.ROM
+2001-02-01 22:25:38 ....A        32768               ROMS\spectrum\P3_23_4M.ROM
+1998-09-14 09:28:22 ....A        32768               pentagon.rom
+1998-12-14 13:13:56 ....A        16384               ROMS\spectrum\plus3-40-0.rom
+1998-12-14 13:13:56 ....A        16384               ROMS\spectrum\plus3-40-1.rom
+1998-12-14 13:13:56 ....A        16384               ROMS\spectrum\plus3-40-2.rom
+1998-12-14 13:13:56 ....A        16384               ROMS\spectrum\plus3-40-3.rom
+2000-09-24 15:23:04 ....A         8192               Favoriten\coleco\QBert.rom
+2001-08-19 09:32:44 ....A        16384               Favoriten\coleco\River Raid (1982-84) (Activision) [!].rom
+2001-11-06 06:05:48 ....A         4096               ROMS\Sharp\SA1510.rom
+2004-02-24 15:32:10 ....A         2048               ROMS\Sharp\SFD700.ROM
+1997-12-30 07:08:48 ....A         4096               ROMS\Sharp\SP1002.ROM
+1999-08-09 11:33:42 ....A        32768               ROMS\spectrum\spectr128.ROM
+1992-12-16 03:41:22 ....A        16384               ROMS\spectrum\SPECTRUM.ROM
+1999-12-16 14:07:00 ....A        32768               ROMS\spectrum\Spectrumplus2.rom
+2002-11-06 10:02:46 ....A         8192               SuperMZ800.rom
+2002-11-06 10:02:46 ....A         8192               ROMS\Sharp\SuperMZ800.rom
+1999-03-08 15:06:14 ....A         1024               ROMS\microtan\Tanbug1.rom
+2000-09-24 15:25:58 ....A        16384               Favoriten\coleco\TimePilot.rom
+1992-11-17 03:49:32 ....A        16384               ROMS\Roms\tk90.rom
+1992-11-17 03:49:32 ....A        16384               ROMS\Roms\tk95.rom
+1992-11-17 03:49:32 ....A        16384               spectrumrom\tk95.rom
+1995-07-07 19:03:00 ....A        16384               ROMS\Roms\TRDOS.ROM
+1993-06-30 13:32:34 ....A        12321               ROMS\TRSx\TRS80.ROM
+1995-06-08 03:52:02 ....A        24576               Favoriten\coleco\Zaxxon.rom
+1997-11-03 13:46:56 ....A         8192               ROMS\zx8x\ZX81.ROM
+1998-02-25 07:51:52 ....A        16384               ROMS\Roms\ZXI1.ROM
+2008-07-22 13:50:28 ....A         2048               ROMS\ccp\SJCCP.SYS
+2008-07-22 13:05:44 ....A         2039               ROMS\ccp\ZCPR.SYS
+2003-07-16 09:40:10 ....A         1245               Fehler.txt
+2004-07-05 14:30:50 ....A          168               SIO1_IN.TXT
+2010-02-02 12:31:14 ....A           66               SIO1_OUT.TXT
+2010-02-02 12:31:14 ....A           66               SIO2_OUT.TXT
+1996-11-15 05:39:34 ....A       109247               Favoriten\SPECTRUM128\CHASEHQ.Z80
+1994-04-19 19:15:56 ....A        90555               Favoriten\SPECTRUM128\RAINBOW.Z80
+2016-10-27 04:35:47 ....A            0            0  WINMZPRN.TXT
+2016-10-27 04:35:47 D....            0            0  ROMS\Roms
+2016-10-27 04:35:47 D....            0            0  Favoriten\MZ1500
+2016-10-27 04:35:47 D....            0            0  spectrumrom
+2016-10-27 04:35:47 D....            0            0  ROMS\Sharp
+2016-10-27 04:35:47 D....            0            0  Favoriten\MZ80K
+2016-10-27 04:35:47 D....            0            0  Favoriten\MZ80B
+2016-10-27 04:35:47 D....            0            0  ROMS\ccp
+2016-10-27 04:35:47 D....            0            0  CPM\DRIVE_0
+2016-10-27 04:35:47 D....            0            0  Favoriten\SPECTRUM128
+2016-10-27 04:35:47 D....            0            0  ROMS\zx8x
+2016-10-27 04:35:47 D....            0            0  Favoriten\coleco
+2016-10-27 04:35:47 D....            0            0  ROMS\microtan
+2016-10-27 04:35:47 D....            0            0  ROMS\ace
+2016-10-27 04:35:47 D....            0            0  ROMS\coleco
+2016-10-27 04:35:47 D....            0            0  vdisk_MZ700
+2016-10-27 04:35:47 D....            0            0  Favoriten
+2016-10-27 04:35:47 D....            0            0  ROMS
+2016-10-27 04:35:47 D....            0            0  ROMS\Galaxy
+2016-10-27 04:35:47 D....            0            0  CPM
+2016-10-27 04:35:47 D....            0            0  ROMS\TRSx
+2016-10-27 04:35:47 D....            0            0  ROMS\spectrum
+2016-10-27 04:35:47 D....            0            0  Favoriten\MZ800
+2016-10-27 04:35:47 D....            0            0  init
+2016-10-27 04:35:47 D....            0            0  Favoriten\MZ700
+2016-10-27 04:35:47 D....            0            0  Favoriten\MZ80A
+------------------- ----- ------------ ------------  ------------------------
+2016-10-27 04:35:47            4803152      1671890  174 files, 25 folders

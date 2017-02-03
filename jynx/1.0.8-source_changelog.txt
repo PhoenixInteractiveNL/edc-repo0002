@@ -1,0 +1,9 @@
+Changes - 16th September 2014
+-----------------------------
+
+Double click on screen engages/disengages full-screen mode
+Static linked Microsoft’s library, so no dependency on MSVC DLL.
+Stricter TAP parsing, plus specifically parsing spurious zero byte at end of some TAP files.
+Icon colour updates to match real Lynx
+Updates to README.HTM
+Updated blog address to jynxemulator.wordpress.com

@@ -1,0 +1,3 @@
+Emulator for the Camputers Lynx 48K and 96K microcomputers.
+This is for Microsoft Windows, 32 or 64-bit.
+This minor release contains a better readme.htm file.

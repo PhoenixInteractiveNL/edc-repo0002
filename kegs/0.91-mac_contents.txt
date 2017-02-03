@@ -1,0 +1,17 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2004-12-07 01:55:23 ....A       389536       206370  MacOS\KEGSMAC
+2004-12-07 01:55:03 ....A            9               PkgInfo
+2004-12-07 01:55:03 ....A        74738               Resources\2mg.icns
+2004-12-07 01:55:03 ....A        76671               Resources\525.icns
+2004-12-07 01:55:03 ....A        70755               Resources\kegsicon.icns
+2004-12-07 01:55:03 ....A           35               Resources\English.lproj\main.nib\classes.nib
+2004-12-07 01:55:03 ....A          557               Resources\English.lproj\main.nib\info.nib
+2004-12-07 01:55:03 ....A         1779               Info.plist
+2004-12-07 01:55:03 ....A         6877               Resources\English.lproj\main.nib\objects.xib
+2017-02-03 08:51:02 D....            0            0  Resources\English.lproj\main.nib
+2017-02-03 08:51:02 D....            0            0  Resources\English.lproj
+2017-02-03 08:51:02 D....            0            0  Resources
+2017-02-03 08:51:02 D....            0            0  MacOS
+------------------- ----- ------------ ------------  ------------------------
+2017-02-03 08:51:02             620957       206370  9 files, 4 folders

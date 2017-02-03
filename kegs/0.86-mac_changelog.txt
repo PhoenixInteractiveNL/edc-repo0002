@@ -1,0 +1,6 @@
+Changes in KEGS v0.86 since v0.85 (03/23/04)
+- Add patch for Solaris sound by Jonathan Kalbfeld.
+- Fix so that F4 enters config panel even while running Prosel-16
+- Major mouse pointer changes, based on some ideas from Geoff Weiss.
+	The GSOS mouse now exactly tracks the host pointer automatically.
+- Fixed an accidental debug halt when Prosel-16 disables the keyboard/mouse.

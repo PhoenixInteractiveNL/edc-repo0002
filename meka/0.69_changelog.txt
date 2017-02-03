@@ -1,0 +1,33 @@
+ MEKA 0.69
+ ---------
+  - Updated k.
+  - Updated documentation.
+  - Added a Memory Editor, long awaited by programmers, hackers and cheaters!
+    It allows reading and writing to Z80 memory map, ROM, RAM, VRAM, Palette
+    and Battery Backed RAM. Although it is not yet full-featured, it is 
+    already very possible to create your own Pro Action Replay codes, and 
+    perform various real-time hacks. 
+    Please share your questions and hacks on SMS Power forums:
+        http://www.smspower.org/forum
+    This tool is the result of joint work with my beloved girlfriend, who
+    submitted a first version of it that she developped.
+  - Added support for loading and saving pictures in PNG format. PNG is now 
+    the default format for screenshots, instead of the badly outdated PCX.
+    (thanks to libpng). 
+  - Screenshots are now saved in the "Screenshots/" subdirectory.
+  - Tweaked some themes, reordered them, removed a few. Themes backgrounds 
+    are now in PNG format. Please be sure to download the new picture pack at:
+        http://www.smspower.org/meka/themes
+  - [Windows] Added a message console that shows up on startup and magically
+    disappear before you have time to read anything. If any problem occurs,
+    the console will actually stay to let you read it.
+  - [Windows] Fixed runtime application icon that wasn't showing.
+  - [Windows] Removed command line parameters uppercase conversion (eg: when 
+    ran from Windows explorer). This inconveniently created uppercase output 
+    filenames for savestates, screen captures, etc. This was MS-DOS legacy.
+  - Slighty optimized VRAM accesses emulation.
+  - Incremented message buffer size to cope with SMS Chip-8 Interpreter 1.1
+    11k embedded comment. There is still buffer overflows in the code and
+    I'm not trying to fix most of them now, so this is just a work-around.
+  - Various other fixes and code tweaking.
+

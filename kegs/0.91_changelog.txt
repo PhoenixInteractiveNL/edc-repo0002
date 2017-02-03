@@ -1,20 +1,13 @@
-Changes - 6th August 2006
--------------------------
-
-Changes in KEGS v0.91 since v0.90
+Changes in KEGS v0.91 since v0.90 (12/06/04)
 - Fixed serious bug in engine_c.c that could cause Finder file copies to
- silently corrupt data.
-
-- Virtual Modem support - modem appears on serial port, allows outgoing
+	silently corrupt data.
+- Virtual Modem support--modem appears on serial port, allows outgoing
 	and incoming connections.
-
 - Sockets (and Virtual Modem) supported on Windows.
-
-- Fixed various reset bugs (where pressing Ctrl-Reset would cause infinite beeps, etc).
-
+- Fixed various reset bugs (where pressing Ctrl-Reset would cause infinite
+	beeps, etc).
 - Allow user to select ROM file from config panel if not found.
-
 - Improved Mac OS X interface: Full Screen support and error dialogs.
-
-- Better floppy support by always having 5.25" read nearest track regardless of head position (supports Last Gladiator game bad crack by
- emulating other emulators).
+- Better floppy support by always having 5.25" read nearest track regardless
+	of head position (supports Last Gladiator game bad crack by
+	emulating other emulators).

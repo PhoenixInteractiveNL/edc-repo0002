@@ -1,0 +1,62 @@
+ MEKA 0.70
+ ---------
+  - Released source code.
+    Added SOURCES.TXT file with some information for programmers.
+  - Registration key is a thing of the past. It never served a real purpose
+    other than identifying donators. All donators are publicly listed at:
+        http://www.smspower.org/contrib.htm
+    Big thanks to all of them for their great and useful support!
+    I'll keep sending news/e-mails to donators.
+    MEKA is now officially not having a registration procedure anymore, but
+    your donations are still greatly welcome and are helping me to cover a 
+    part of my never-ending Sega 8-bit expenses, including buying cartridges
+    for dumping and preservation purpose.
+    I updated documentation to reflect this, and changed occurences of the
+    "registration" word by "donation", as it was always meant to be anyway.
+  - In SMS mode, fixed color filling when VDP rendering is disabled. 
+    Previously disabled parts where filled with black, instead of the current 
+    border color. No commercial game exhibited the problem. Chris Cowell's 
+    port of Aleste 2 from GG to SMS did.
+  - Disabling background display now shows a yellow-ish color instead of the
+    black/border color, to help sprite ripping. Sorry it's not FF00FF pink,
+    but I am currently lacking free palette entries, and anyway, a screen full
+    of FF00FF pink would damage your eyes in a matter of seconds. :)
+  - Development:
+    - Added new full-featured breakpoints and watchpoints!
+      - Manage multiple breakpoints/watchpoints. Add/remove/enable/disable.
+      - Break and watch on CPU (rwx), IO (rw), VRAM (rw) and PRAM (w) buses.
+      - Break and watch on specific access (read/write/execute).
+      - Break and watch on single address or whole range.
+      - Previous "B" command changed to "S" (step over).
+      - Previous "B xxxx" command (one-time breakpoint) is still accessible
+        using the "C" (continue) command.
+    - Added detailed help for each command.
+      (eg: "HELP B" to get help on breakpoints).
+    - Instruction flow disassembly now attempt to display instructions before
+      the current one, based on some magical voodoo technique of mine.
+      Don't expect it to work in all cases - it is theorically impossible to 
+      do with variable-sized instructions anyway - but it can be improved.
+      This feature helps figuring out what's being executed contextually.
+    - The current instruction is now highlighted.
+    - ROM edition in the memory viewer was not taken into account without
+      a hard reset in region 0x0400-0x3FFF. Fixed.
+    - Fixed savestate saving/loading which didn't restore scanline number
+      properly, affecting debugging using those features.
+    - Tile viewer now display tile starting address.
+    - Tile viewer now update information while mouse hovering.
+    - Added optional length parameter to "MEM" and "DASM" commands.
+    - Fixed ASCII display of memory in "MEM" command.
+    - Added "debugger_console_lines" and "debugger_disassembly_lines" 
+      variables in configuration file, allowing to change debugger size.
+      Combine with a high-resolution MEKA desktop, and you can't be unhappy.
+    - Added debugger session logging to file "debug/debuglog.txt".
+      Can be disabled by clearing "debugger_log" in configuration file.
+    - Fixed a bug using the memory editor to write to RAM in Coleco Vision mode.
+    - Hacked a way so that you can affect controller inputs data while debugging
+      (press a direction, it immediately apply on the emulated system state).
+
+  - When used in the interface, analog peripherals supported by the mouse now
+    only perform their action if the mouse has focus on the game window. 
+    This prevent accidental in-game shooting when using tools or debugging.
+    Of course, you should not use the interface if you only intend to play.
+  - Fixed /LOG command line parameter (broken recently).

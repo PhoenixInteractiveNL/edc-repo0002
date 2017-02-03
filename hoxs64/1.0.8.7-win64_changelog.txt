@@ -1,0 +1,5 @@
+8 May 2014 v1.0.8.7
+===================
+1) Resizable main window for windowed mode.
+
+2) Fix Ultimax VIC fetch.

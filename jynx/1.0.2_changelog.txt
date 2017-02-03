@@ -1,0 +1,9 @@
+This release adds a user settings file, which saves the state of various settings accessible in the UI. This is saved in the "AppData" non-roaming folder tree, of the current user.
+
+The emulator serves tapes to the Lynx at the speed the Lynx BASIC "TAPE" command is using. However, there was a bug where this didn't always work, and reversion to default happened (TAPE 0). This resulted in mis-reads of the tape by the Lynx.
+
+Z80 emulation has been model-checked against another emulator, which threw up some small bugs: INC/DEC 8-bit set the carry flag when it shouldn't. Turns out I can't just re-use the add/sub code! Subtraction had an overflow calculation problem. CCF wasn't setting the other flags right, believe it or not!
+
+Not a bug, but conditional relative branching was unnecessarily fetching the displacement operand, even if the branch wasn't going to take place.
+
+I added GPL3 headers on all source files for this release, as I forgot some of them!

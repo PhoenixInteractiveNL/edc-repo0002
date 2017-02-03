@@ -1,0 +1,4 @@
+Go full screen (also stored in user settings file).
+Pause emulation
+Optionally: Automatically pause after loading TAP but before running program (snapshot feature)
+Command line parameters added (see readme.htm).

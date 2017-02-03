@@ -1,0 +1,21 @@
+30 December 2012 v1.0.8.0
+=========================
+1) New cartridge emulation with freeze function. Peter Schepers CRT format is supported. 
+The following cartridge emulations are supported.
+
+Action Replay v[6 - 2]
+Final Cartridge III (v3 only)
+Retro Replay 64K RAM
+Magic Desk
+Ocean 1
+Fun Play
+Super Games
+System 3
+Dinamic
+Zaxxon
+Simons Basic
+Normal Cartridge
+
+The CRT reader uses the in file reported chip bank numbers and not the order they appear in the file. 
+
+2) Fixed misreported raster position in the debugger when starting a new frame.

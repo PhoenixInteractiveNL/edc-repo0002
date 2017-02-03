@@ -1,0 +1,11 @@
+Changes in FS-UAE 2.8.3:
+
+Fix decoding on non-ascii %-escaped file names on directory HDs.
+Fixed caps lock.
+Imported updated translations from crowdin.com.
+Changes in FS-UAE Launcher 2.8.3:
+
+Show error message when version started is too old (cannot read databases).
+Fixed save state dir when starting with UUID parameter.
+CDTV games (from database) did not set CDTV model.
+Imported updated translations from crowdin.com.

@@ -1,0 +1,58 @@
+ MEKA 0.68
+ ---------
+ Please report any problems you encounter. 
+ Suggestions are always welcome.
+
+  - Updated MEKA.NAM database with a new format. 
+    The new format is more robust, includes CRC32, additionnal flags, and 
+    allows specifiying multiple countries for a same ROM file.
+    In addition, while the MEKA database is being repopulated with entries
+    in the new format, a high amount of verifications are being done on a
+    case by case basis (redump, verified name based on original game media,
+    box and manual, analysis of different versions of a same game, etc...).
+    I have already redumped more than a hundred games. This will unsure 
+    having a near-perfect database after the transition. Old formatted 
+    entries are kept during the transition period.
+  - SMS-mode Game Gear games are now autodetected and forced to run into
+    SMS mode even with a .GG extension. This is because those games are
+    often spread with a .GG extension, although there is no way in software 
+    to distinguish between a native GG game and one running in SMS mode, 
+    since the selection is done via a connected pin in the cartridge itself.
+  - Updated file browser:
+      - Added dedicated icons to known bad dumps, BIOS images, unofficial
+        hacks, homebrew programs (also incorrectly called "public domain"), 
+        prototypes and unofficial translation. A translation is defined as 
+        a hack whose primary purpose is to alter the language of a game.
+        How do you like my icons? 
+      - Added European, German, Italian, New-Zealand, Portuguese, Spanish,
+        Swedish and United-Kingdom flags. All flags are now displayed with 
+        a border, because some themes may choose a window color matching 
+        some flags.
+      - The "Load Names" feature is now faster and does not verbose any
+        data to the message box while loading all files.
+      - Made file browser window bigger by default.
+      - Removed the auto-generated MEKA.VFN file, which was crap anyway.
+        Instead, added a new auto-generated MEKA.FDB file, which store 
+        association between user ROM file names and MEKA DataBase entries.
+  - Emulation:
+      - Emulated VDP 315-5124 behavior of using register 5 bit 0 and 
+        register 6 bits 0-1 as masks on sprite x/tile attributes address 
+        and tile index. No known game relies on this feature, but it is 
+        good for the sake of accuracy and for developpers to check against
+        this particularity in their code (it is often a coding mistake). 
+        VDP 315-5124 must be selected for that.
+  - Updated TECH.TXT with SMS controller pinouts, simple SMS/DB-9 controller 
+    adapter instructions from Gary Pierce, and GNU/Linux notes.
+  - Various other fixes and code tweaking.
+
+  - Added and modified entries in the checksum and compatibility lists.
+      - Naming and database field usage convention has been changed, 
+        based on the new format. 
+        - "Title (The)" now becomes "Title, The".
+        - Unless specified by the game title, "Name: Subtitle" now 
+          becomes formatted "Name - Subtitle".
+        - A few other things related to versionning/country.
+      - Replaced all instances of "Tectoy" by "Tec Toy".
+      - Added some missing accents.
+      - Added many missing subtitles.
+      - Added many new product numbers.

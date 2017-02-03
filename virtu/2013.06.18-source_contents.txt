@@ -1,0 +1,119 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2013-06-18 05:56:46 ....A         3650       103508  Virtu\Silverlight\AppIcon128.png
+2013-06-18 05:56:46 ....A          555               Virtu\Silverlight\AppIcon16.png
+2013-06-18 05:56:46 ....A          921               Virtu\Silverlight\AppIcon32.png
+2013-06-18 05:56:46 ....A         1386               Virtu\Silverlight\AppIcon48.png
+2013-06-18 05:56:46 ....A        22824               Virtu\Wpf\AppIcon.ico
+2013-06-18 05:56:46 ....A       143360               Virtu\Disks\Default.dsk
+2013-06-18 05:56:46 ....A         1982               Library\Wpf\ApplicationBase.cs
+2013-06-18 05:56:46 ....A         3196               Library\Silverlight\ApplicationBase.cs
+2013-06-18 05:56:46 ....A          794               Library\Wpf\Properties\AssemblyInfo.cs
+2013-06-18 05:56:46 ....A          802               Library\Silverlight\Properties\AssemblyInfo.cs
+2013-06-18 05:56:46 ....A          861               Virtu\Silverlight\Properties\AssemblyInfo.cs
+2013-06-18 05:56:46 ....A          977               Virtu\Wpf\Properties\AssemblyInfo.cs
+2013-06-18 05:56:46 ....A          466               Library\AssemblyMetadataAttribute.cs
+2013-06-18 05:56:46 ....A         2133               Virtu\Services\AudioService.cs
+2013-06-18 05:56:46 ....A          546               Virtu\Cassette.cs
+2013-06-18 05:56:46 ....A        89443               Virtu\Cpu.cs
+2013-06-18 05:56:46 ....A         5374               Virtu\CpuData.cs
+2013-06-18 05:56:46 ....A         1946               Virtu\Services\DebugService.cs
+2013-06-18 05:56:46 ....A         5689               Library\DirectSound.cs
+2013-06-18 05:56:46 ....A         5147               Library\DirectSoundInterop.cs
+2013-06-18 05:56:46 ....A         3518               Virtu\Disk525.cs
+2013-06-18 05:56:46 ....A        11795               Virtu\DiskDsk.cs
+2013-06-18 05:56:46 ....A         8593               Virtu\DiskIIController.cs
+2013-06-18 05:56:46 ....A         5473               Virtu\DiskIIDrive.cs
+2013-06-18 05:56:46 ....A         1020               Virtu\DiskNib.cs
+2013-06-18 05:56:46 ....A         1044               Library\DispatcherExtensions.cs
+2013-06-18 05:56:46 ....A          466               Library\DisposableBase.cs
+2013-06-18 05:56:46 ....A         1205               Library\FrameRateCounter.xaml.cs
+2013-06-18 05:56:46 ....A        16634               Virtu\GamePort.cs
+2013-06-18 05:56:46 ....A         7195               Virtu\Services\GamePortService.cs
+2013-06-18 05:56:46 ....A          806               Library\GCHandleHelpers.cs
+2013-06-18 05:56:46 ....A          141               Virtu\GlobalSuppressions.cs
+2013-06-18 05:56:46 ....A          313               Library\GlobalSuppressions.cs
+2013-06-18 05:56:46 ....A          607               Library\IEnumerableExtensions.cs
+2013-06-18 05:56:46 ....A         1554               Virtu\Services\IsolatedStorageService.cs
+2013-06-18 05:56:46 ....A         4460               Virtu\Keyboard.cs
+2013-06-18 05:56:46 ....A         1297               Virtu\Services\KeyboardService.cs
+2013-06-18 05:56:46 ....A        10734               Virtu\Machine.cs
+2013-06-18 05:56:46 ....A          978               Virtu\MachineComponent.cs
+2013-06-18 05:56:46 ....A         3003               Virtu\MachineEvents.cs
+2013-06-18 05:56:46 ....A          569               Virtu\Services\MachineService.cs
+2013-06-18 05:56:46 ....A         1916               Virtu\Services\MachineServices.cs
+2013-06-18 05:56:46 ....A          266               Virtu\Wpf\MainApp.xaml.cs
+2013-06-18 05:56:46 ....A          295               Virtu\Silverlight\MainApp.xaml.cs
+2013-06-18 05:56:46 ....A         3516               Virtu\Wpf\MainPage.xaml.cs
+2013-06-18 05:56:46 ....A         3517               Virtu\Silverlight\MainPage.xaml.cs
+2013-06-18 05:56:46 ....A          215               Virtu\Wpf\MainWindow.xaml.cs
+2013-06-18 05:56:46 ....A         1261               Library\MarshalHelpers.cs
+2013-06-18 05:56:46 ....A          380               Library\MathHelpers.cs
+2013-06-18 05:56:46 ....A        70647               Virtu\Memory.cs
+2013-06-18 05:56:46 ....A         6605               Virtu\MemoryData.cs
+2013-06-18 05:56:46 ....A         6908               Virtu\NoSlotClock.cs
+2013-06-18 05:56:46 ....A         1344               Virtu\PeripheralCard.cs
+2013-06-18 05:56:46 ....A         1775               Virtu\Silverlight\Services\SilverlightAudioService.cs
+2013-06-18 05:56:46 ....A          632               Virtu\Silverlight\Services\SilverlightDebugService.cs
+2013-06-18 05:56:46 ....A        12656               Virtu\Silverlight\Services\SilverlightKeyboardService.cs
+2013-06-18 05:56:46 ....A         3456               Virtu\Silverlight\Services\SilverlightVideoService.cs
+2013-06-18 05:56:46 ....A         2507               Virtu\Speaker.cs
+2013-06-18 05:56:46 ....A         6697               Virtu\Services\StorageService.cs
+2013-06-18 05:56:46 ....A         2940               Library\StreamExtensions.cs
+2013-06-18 05:56:46 ....A         1716               Library\StringBuilderExtensions.cs
+2013-06-18 05:56:46 ....A         4593               Virtu\Properties\Strings.Designer.cs
+2013-06-18 05:56:46 ....A        50854               Virtu\Video.cs
+2013-06-18 05:56:46 ....A       117054               Virtu\VideoData.cs
+2013-06-18 05:56:46 ....A          426               Virtu\Services\VideoService.cs
+2013-06-18 05:56:46 ....A         1691               Library\WaveFormat.cs
+2013-06-18 05:56:46 ....A         3002               Library\Silverlight\WaveMediaStreamSource.cs
+2013-06-18 05:56:46 ....A          307               Library\Wpf\WindowExtensions.cs
+2013-06-18 05:56:46 ....A         1696               Virtu\Wpf\Services\WpfAudioService.cs
+2013-06-18 05:56:46 ....A          616               Virtu\Wpf\Services\WpfDebugService.cs
+2013-06-18 05:56:46 ....A         8947               Virtu\Wpf\Services\WpfKeyboardService.cs
+2013-06-18 05:56:46 ....A          577               Virtu\Wpf\Services\WpfStorageService.cs
+2013-06-18 05:56:46 ....A         3881               Virtu\Wpf\Services\WpfVideoService.cs
+2013-06-18 05:56:46 ....A         5677               Library\Silverlight\Jellyfish.Library.Silverlight.csproj
+2013-06-18 05:56:46 ....A         4791               Library\Wpf\Jellyfish.Library.Wpf.csproj
+2013-06-18 05:56:46 ....A        10870               Virtu\Silverlight\Jellyfish.Virtu.Silverlight.csproj
+2013-06-18 05:56:46 ....A         9565               Virtu\Wpf\Jellyfish.Virtu.Wpf.csproj
+2013-06-18 05:56:46 ....A          947               Library\Silverlight\Jellyfish.Library.Silverlight.sln
+2013-06-18 05:56:46 ....A         1458               Library\Jellyfish.Library.sln
+2013-06-18 05:56:46 ....A          931               Library\Wpf\Jellyfish.Library.Wpf.sln
+2013-06-18 05:56:46 ....A         1480               Virtu\Silverlight\Jellyfish.Virtu.Silverlight.sln
+2013-06-18 05:56:46 ....A         2494               Virtu\Jellyfish.Virtu.sln
+2013-06-18 05:56:46 ....A         1440               Virtu\Wpf\Jellyfish.Virtu.Wpf.sln
+2013-06-18 05:56:46 ....A          201               Virtu\Silverlight\Properties\AppManifest.xml
+2013-06-18 05:56:46 ....A          200               Library\CustomDictionary.xml
+2013-06-18 05:56:46 ....A          768               Virtu\CustomDictionary.xml
+2013-06-18 05:56:46 ....A          717               Virtu\Silverlight\Properties\OutOfBrowserSettings.xml
+2013-06-18 05:56:46 ....A        15447               License.txt
+2013-06-18 05:56:46 ....A          232               .gitattributes
+2013-06-18 05:56:46 ....A           55               .gitignore
+2013-06-18 05:56:46 ....A         6457               Virtu\Properties\Strings.resx
+2013-06-18 05:56:46 ....A        16384               Virtu\Roms\AppleIIe.rom
+2013-06-18 05:56:46 ....A          256               Virtu\Roms\DiskII.rom
+2013-06-18 05:56:46 ....A          478               Library\FrameRateCounter.xaml
+2013-06-18 05:56:46 ....A          381               Virtu\Wpf\MainApp.xaml
+2013-06-18 05:56:46 ....A          504               Virtu\Silverlight\MainApp.xaml
+2013-06-18 05:56:46 ....A         1348               Virtu\Silverlight\MainPage.xaml
+2013-06-18 05:56:46 ....A         1428               Virtu\Wpf\MainPage.xaml
+2013-06-18 05:56:46 ....A          396               Virtu\Wpf\MainWindow.xaml
+2017-02-03 09:26:20 D....            0            0  Virtu\Wpf\Services
+2017-02-03 09:26:20 D....            0            0  Virtu\Wpf\Properties
+2017-02-03 09:26:20 D....            0            0  Virtu\Wpf
+2017-02-03 09:26:20 D....            0            0  Virtu\Silverlight\Services
+2017-02-03 09:26:20 D....            0            0  Virtu\Silverlight\Properties
+2017-02-03 09:26:20 D....            0            0  Virtu\Silverlight
+2017-02-03 09:26:20 D....            0            0  Virtu\Services
+2017-02-03 09:26:20 D....            0            0  Virtu\Roms
+2017-02-03 09:26:20 D....            0            0  Virtu\Properties
+2017-02-03 09:26:20 D....            0            0  Virtu\Disks
+2017-02-03 09:26:20 D....            0            0  Virtu
+2017-02-03 09:26:20 D....            0            0  Library\Wpf\Properties
+2017-02-03 09:26:20 D....            0            0  Library\Wpf
+2017-02-03 09:26:20 D....            0            0  Library\Silverlight\Properties
+2017-02-03 09:26:20 D....            0            0  Library\Silverlight
+2017-02-03 09:26:20 D....            0            0  Library
+------------------- ----- ------------ ------------  ------------------------
+2017-02-03 09:26:20             781255       103508  99 files, 16 folders

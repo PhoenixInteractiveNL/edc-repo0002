@@ -1,0 +1,29 @@
+ MEKA 0.68b
+ ----------
+ As an experiment, I have enabled vsync in all default blitters and enabled
+ it by default in the GUI. Blitters are still a bit complicated to configure
+ so few people seems to actually tweak them or even enable the "smooth" 
+ blitter. Does it works better for you?
+ I'll be working on synchronisation and blitter improvement (stretching...)
+ in the future.
+
+  - Removed the 2-byte tolerance in overdump detection. Overdumps with two
+    slighty different half will be added in the database and marked as bad.
+  - Emulation:
+     - Fixed a major bug in the driver system, which resulted in corrupted
+       savestates in F-16 Fighter / F-16 Fighting Falcon (the savestate
+       system recognized them as SG-1000 games and so saved only part of RAM).
+       Previous ingame states for the game are unrecoverable :(
+     - Removed immediate palette update when CRAM is written in a legacy
+       video mode (the palette isn't updated on a SMS). It only affected
+       F-16 Fighter / F-16 Fighting Falcon, but in a non game-visible way.
+     - Tweaked heuristical SMS/GG mapper detection.
+     - Fixed SMS/GG scanline counter emulation which was ignoring TV type 
+       (NTSC or PAL/SECAM) override directive from the database.
+       (eg: one game would be forced to PAL/SECAM mode, but scanline counter 
+        emulation still mimic an NTSC system if it is the user selection).
+  - Fixed mouse button mapping in the Input Configuration applet.
+  - Fixed file browser showing Japanese names after loading SMS Woody Pop
+    or GG Pop Breaker (why those games only? because they both have a default 
+    country information in the DB, as they only works on Japanese systems).
+  - Added and modified entries in the checksum and compatibility lists.

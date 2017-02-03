@@ -1,0 +1,5 @@
+(This really is 1.0.7 -- I typed the wrong heading last time!)
+
+6845 support for R12 and R13 : Display Start Address.
+Missing menu shortcuts added -- no existing ones changed!
+Bug fix to sound: LYNX INVADERS can play sound while the SPEAKER ENABLE bit of the Lynx's device port says that the speaker is disabled??!!!

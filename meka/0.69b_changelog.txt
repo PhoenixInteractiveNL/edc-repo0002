@@ -1,0 +1,29 @@
+ MEKA 0.69b
+ ----------
+  - [DOS/UN*X] Fixed ZIP file support which was accidently disabled 
+    in version 0.69.
+  - Improved auto frame-skipper precision by a minor amount.
+    (on another hand, it still manage to skip frames badly).
+  - Disabled keys 0 to 9 to set a save state slot directly. 
+    Those conflicted with some existing and future features.
+    Hope that noone will be annoyed!
+  - Added ALT-ENTER hotkey to switch between fullscreen and windowed drivers.
+    It works in both GUI and Game mode, although the setting is not saved in 
+    Game mode (due to the way the MEKA.BLT file works now). 
+  - Added an option to allows pressing opposite directions on the joypad.
+    Although standard SG/SMS/GG controllers do not allow that, certain
+    type of controllers (or a modified or broken one) may allow it. 
+    This serve the purpose of demonstrating a bug in "Wonder Boy in Monster 
+    Land", where pressing Left and Right on the same time confuses the game.
+    It is also useful in the case some creative genius SMS programmer would
+    want to take advantage of that weird feature to do unusual things for a
+    soon-to-be released SMS software.
+  - Fixed priority of Sega Keyboard (SK-1100) emulation, so that not colliding
+    hotkeys are still available while SK-1100 is enabled.
+  - Memory Editor now share inputs focus with game. It makes hacking easier.
+    Of course you can always pause (F12) or remap controls if needed.
+  - Fixed state of debugger window (bug introduced in 0.69).
+  - Updated translations:
+    - Dutch translation (by Mark van Tilburg).
+    - Swedish translation (by Henrik Sankala).
+    - Redneck translation (by some redneck in UK).

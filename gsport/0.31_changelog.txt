@@ -1,13 +1,19 @@
-Changes - 21st June 2014
-------------------------
+Version 0.31 - 6/22/2014
 
 New functionality:
-Added AppleTalk networking emulation with bridging to EtherTalk
-Added clipboard text paste capability (OSX, Windows)
-Emulated serial ports are individually configurable as either IP or passthrough to real hardware ports
-Added Imagewriter LQ printer emulation
+
+*   Added AppleTalk networking emulation with bridging to 
+    EtherTalk
+*   Added clipboard text paste capability (OSX, Windows)
+*   Emulated serial ports are individually configurable as 
+    either IP or passthrough to real hardware ports
+*   Added Imagewriter LQ printer emulation
 
 Bug fixes:
-IN#1 and IN#2 now trigger the incoming IP port to listen when using IP simulated serial ports; previously, only PR#1 or PR#2 did 
-Fixed crash when parallel.rom is missing
-Fix for real joysticks: unless the joystick is moving, gsport sets the values to zero
+
+*   IN#1 and IN#2 now trigger the incoming IP port to listen 
+    when using IP simulated serial ports; previously, only 
+    PR#1 or PR#2 did
+*   Fixed crash when parallel.rom is missing
+*   Fix for real joysticks: unless the joystick is moving, 
+    gsport sets the values to zero. 

@@ -1,0 +1,3 @@
+New screen stretching option for cinematic experience!
+Bug fix to clear the recorded tape from memory after saving it as a TAP
+New multithreading model, with division of labour change for better sound reliability.

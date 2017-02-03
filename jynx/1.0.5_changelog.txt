@@ -1,0 +1,9 @@
+Menu re-arrange.
+
+3 new options on the (new) Speed menu to give the emulator super speed (or "Super Lynx") performance, when loading tapes, running the BASIC console, or even all the time (which is mostly silly, but heck).
+
+New "Run TAP" option to make it easy to load tapes.
+
+New option to list the TAP directory on the lynx console. Bear in mind I allow multi-file TAP files, with my extended format.
+
+New command line option "--run" to run a tap file on startup.

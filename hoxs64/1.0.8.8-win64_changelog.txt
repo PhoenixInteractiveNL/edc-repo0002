@@ -1,0 +1,7 @@
+10 May 2015 v1.0.8.8
+====================
+1) Disk drive VIA fixes to pass the VICE testprogs\drive\viavarious test programs.
+
+2) Sound improvement fix for the last part of Comaland 2014.
+
+3) Windows GUI fixes.

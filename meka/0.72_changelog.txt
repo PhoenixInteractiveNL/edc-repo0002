@@ -1,0 +1,169 @@
+ MEKA 0.72
+ ---------
+  - Updated k.
+  - Ports:
+    - Preliminary MacOSX port. [Proppy]
+      Compile and run under a x86-based MacOSX system. Missing sound (due 
+      to Seal) and debugger (unknown problem to resolve).
+      Looking for someone who wish to improve and maintain this port.
+  - Video/Blitters:
+    - Upgraded everything to hi-color video modes and got rid of old, 
+      8-bit indexed video modes. This is a major change in MEKA core.
+      Some of the benefits are:
+      - No more snow and/or color flickering on video card drivers 
+        which disliked palette changes.
+      - Better integration with desktop (usually run faster).
+      - Getting possible to use various kind of graphics filters.
+      - No more hassle with color limitation for the programmer
+        (meaning more features implemented for the end-user).
+      - Finally possible to show all Game Gear colors at once, 
+        and to implement LCD screen persistence (not yet done).
+      Some of the features above goes hand to hand with the blitter
+      system, which will be improved soon. [Omar]
+    - Fixed HQ2X stretched blitter when target output was not 16-bits. [Omar]
+    - Stretching works on all blitters. [Omar]
+    - Video depth, Vsync, Triple Buffering and Page flipping are now global 
+      video settings, removed from each specific blitter. Greatly simplify 
+      configuration and tweaking. [Omar]
+    - Triple buffering doesn't interfere with the refresh is not supported
+      by the current settings (eg: windowed mode), making it safe and more
+      simple to always leave it enabled. [Omar]
+    - Changed default fullscreen blitter configuration in the hope of getting 
+      something more compatible (640x480 by default), as so many people have 
+      problems with fullscreen modes.
+    - Removed obsolete "scanlines" blitter, in favor of "tvmode". [Omar]
+    - Removed "parallel" blitter that displayed both odd and even frame
+      next to each other. Seems useless now. Could be brought back if some
+      four-eyed person request it. [Omar]
+  - Sound:
+    - Added support for VGM 1.10 header type. [Omar]
+  - Emulation:
+    - Fixed data corruption/overflow in VDP emulation when seeking and
+      writing to an invalid palette address. Thanks Maxim. [Omar]
+    - VDP palette write do not mask out current VDP address, so performing
+      the (unprobable) set address/access palette/access VRAM sequence will
+      keep address in the full 16KB range. [Omar]
+    - Fixed VDP line interrupts not properly running in overscan area in 
+      224 lines mode. Fixes bottom of the screen in Charles Mac Donald's 
+      BB2K6 demo. [Omar]
+    - CPU:
+      - Z80: Fixed cases were address arithmetic would not wrap in the 
+        16-bit address space, effectively crashing the emulator (those cases
+        were mostly happening on corrupted data, but it also legit Z80 code, 
+        and in any case we don't want the emulator to crash). [Omar]
+      - Z80: Fixed RETI behavior (same as RETN, copying IFF2 to IFF1). 
+        Fixes pausing in SMS Robocop 3 during legal screens/introduction, 
+        probably other infrequent cases. [FluBBa, Omar]
+      - Z80: Accepting NMI doesn't copy IFF1 over IFF2, as suggested
+        by Sean Young's "The Undocumented Z80 Documented". [Omar]
+    - ColecoVision:
+      - Fixed emulation of pending NMI, pending flag is cleared when
+        reading VDP status. Fixes "Rock 'N Bolt" among other. 
+        Thanks to the anonymous poster on SMS Power! forums. [Omar]
+      - Note that the compatibility list for ColecoVision titles is
+        severly outdated. At some point, James Carter worked on a new,
+        more accurate list, but I lost all contact with him.
+      - Removed detection of supposed 128-bytes headers and 512-bytes footers
+        (from some old soft/copiers?), due to many false detections, 
+        particularly on homebrew ROM images (the code was introduced in 2001 
+        when Dig Dug and Pac-Man prototypes were released with such header, 
+        but ROM images now circulating are without the header). [Omar]
+  - GUI:
+    - Sorted default themes, removed non Sega 8-bit related themes.
+      Now embedding background pictures in regular binary distribution. 
+      CALL FOR NEW OR IMPROVED THEMES SUBMISSION! Please contribute.
+    - KeyPad Enter key now works on input boxes. [Omar]
+    - Added shortcut CTRL-F4: closes current window. [Omar]
+    - Added shortcut CTRL-TAB: cycles thru windows taking inputs. [Omar]
+    - Reworked theme (skin) system from stratch: [Omar]
+      - Changed MEKA.THM file format.
+      - Using explicit names for variables.
+      - Added more variables, making the skin system a little more 
+        complicated but also more configurable.
+      - Using de-facto standard of specifying colors in #RRGGBB format.
+      - Rewrote most code since it was all legacy from old MEKA 0.10. 
+    - Added link to debugger documentation in HELP menu. [Omar]
+    - Removed closing fadeout since the current hi-color implementation 
+      is way inefficient and cannot garantee proper speed. [Omar]
+  - Development:
+    - Debugger:
+      - Fixed various command-line parsing bugs. [Omar]
+      - Added line history. Navigate history by pressing Up/Down. 
+        List or search in history using HISTORY (HI) command. [Omar]
+      - Added conditionnal breakpoints. [Omar]
+        eg:
+          BREAK r C000.. =01,02,03,04   ; break on read of 01020304 in RAM
+          BREAK x =C9                   ; break on CPU execution of RET
+          BREAK x =0,0                  ; break on CPU execution of NOP NOP
+          BREAK w pram 0 =03            ; break on PRAM write of color 0 as red
+      - Added display line event breakpoints/watchpoints. [Omar]
+        Useful for debugging line interrupts.
+        eg: 
+          BREAK line #13                ; break on display line 13
+      - Added "B nopnop" shortcut to break on two successives NOP instructions.
+        This is basically equivalent to "B x =0,0". [Omar]
+      - REGS (R) command in debugger now display shadow registers as well. [Omar]
+      - Added cursor before current instruction in disassembly. [Omar]
+      - Added access to shadow registers in expression evaluator. [Omar]
+        eg: 
+          PRINT AF',BC',DE',HL'
+      - Added SET command to modify Z80 registers. [Omar]
+        eg:
+          SET BC=$1234    ; set BC register to $1234
+          SET DE=HL,HL=0  ; set DE=HL, then zero HL
+      - Added MEMEDIT command to spawn a new memory editor. [Omar]
+      - Added CLOCK command, to display/reset a Z80 cycle counter.
+        Very simple but can be helpful to time Z80 routines. [Omar]
+      - (Win32) Forward debugging log to Windows debugging stream via
+        OutputDebugString(), so running MEKA from Microsoft Visual studio 
+        will display log in the 'Output' window. [Omar]
+    - Memory Editor:
+      - Added viewing and editing of VDP registers (VREG). [Omar]
+      - Added configuration file directive for resizing window. [Omar]
+      - Fixed cursor position when inputing an address on last page. [Omar]
+      - Added NES PRAM support. [Omar]
+    - Tiles viewer:
+      - Added NES palette switching (8 palettes). [Omar]
+    - Tilemap viewer:
+      - Added tilemap viewer. [Omar]
+        Shows tilemap, hovering or clicking a tile shows specific info 
+        about it, allows filtering BG/FG, disabling tile flipping, display 
+        of scrolling box, with or without raster effects, manual selection 
+        of tilemap address, etc.
+    - Made '$' default prefix for hexadecimal values in various places. [Omar]
+    - Datadump: [Ambil, Omar]
+      - Fixed "palette" dumping. Blue and green components were inverted. 
+        Replaced dumping of target host RGB values by actual SMS/GG components. 
+      - Added sprite pattern base address in "sprites" dumping.
+    - Cleaned Technical Information Viewer content, renamed a few fields
+      to their official names, removed redundant information. It's not
+      yet all clean. [Omar]
+  - Miscellaenous:
+    - Various fixes.
+    - Increased max length of directory/filenames. [Musuruan]
+    - Added "Automatically crop and align screen captures" option.
+      This option aligns screen captures on the nearest visible tile, 
+      helping to simplify the process of creating game maps by pasting 
+      captures next to each other. [Omar]
+      Note: May not work properly on game using scanline based effects.
+    - Updated various tidbits in the configuration file. [Omar]
+    - (Win32) Removed flickering from initialization message console. [Maxim]
+    - (UN*X) Renamed main executable to 'meka' (instead of 'meka.exe').
+  - Sources/Project
+    - (Win32) Added new targets supporting shared standard libraries. [Omar]
+    - (Win32) Updated Allegro library from WIP 4.1.18 to 4.2.0, including
+       various fixes/improvements:
+         http://www.talula.demon.co.uk/allegro/onlinedocs/en/changes.html
+    - (Win32) Now linking to zlib.lib instead of zlibs.lib (name for standard
+       static build of ZLIB). [Omar]
+    - Removed password encryption from MEKA datafile (became useless). [Omar]
+    - Fixed a bunch of warnings on higher warning levels. [Omar]
+    - Hacked a lot of old GUI code (box, widgets, menus among others), cleaned
+      and renamed various structures, replaced several usage of indexes by 
+      pointers, added const qualifiers, rewrote parts of various applets, 
+      got rid of some old obsolete code, etc. Hopefully broke nothing. [Omar]
+    - (Win32) Fixed MSVC project to reference LIBPNGDIR.
+    - (Win32) Including statically compiled libpng.lib in package. [Omar]
+    - (UN*X) No more need to manually edit .ASM files to compile. [Omar]
+    - Updated SOURCES.TXT documentation. [Omar]
+  - Added and modified entries in the checksum and compatibility lists. [Omar]

@@ -1,117 +1,14 @@
    Date      Time    Attr         Size   Compressed  Name
 ------------------- ----- ------------ ------------  ------------------------
-2004-12-07 02:55:24 ....A       389536       586636  KEGSMAC.app\Contents\MacOS\KEGSMAC
-2004-12-07 02:55:04 ....A            9               KEGSMAC.app\Contents\PkgInfo
-2006-08-06 07:40:54 ....A          758               src\wintoolbar.bmp
-2006-08-06 07:30:42 ....A        40704               src\adb.c
-2004-12-07 02:42:48 ....A         8111               src\clock.c
-2004-12-07 02:42:48 ....A          174               src\compile_time.c
-2006-08-06 03:23:58 ....A        70375               src\config.c
-2004-12-07 02:42:48 ....A        24789               src\dis.c
-2004-12-07 02:42:48 ....A        23742               src\engine_c.c
-2004-12-07 02:42:48 ....A        49043               src\iwm.c
-2006-08-06 02:39:48 ....A         5933               src\joystick_driver.c
-2004-12-07 02:42:48 ....A        26012               src\macdriver.c
-2004-12-07 02:42:48 ....A         3663               src\macsnd_driver.c
-2004-12-07 02:42:48 ....A        54626               src\moremem.c
-2004-12-07 02:42:48 ....A         4325               src\paddles.c
-2004-12-07 02:42:48 ....A         2947               src\partls.c
-2004-12-07 02:42:48 ....A        26664               src\scc.c
-2004-12-07 02:42:48 ....A         4354               src\scc_macdriver.c
-2004-12-07 02:42:48 ....A        26443               src\scc_socket_driver.c
-2004-12-07 02:42:48 ....A         5587               src\scc_windriver.c
-2006-08-06 02:36:04 ....A        54005               src\sim65816.c
-2004-12-07 02:42:48 ....A        18607               src\smartport.c
-2004-12-07 02:42:48 ....A        43542               src\sound.c
-2004-12-07 02:42:48 ....A         8852               src\sound_driver.c
-2004-12-07 02:42:48 ....A        19581               src\to_pro.c
-2004-12-07 02:42:48 ....A        86769               src\video.c
-2004-12-07 02:42:48 ....A         4603               src\win32snd_driver.c
-2006-08-06 09:44:20 ....A        32407               src\windriver.c
-2004-12-07 02:42:48 ....A        29599               src\xdriver.c
-2006-08-06 09:44:22 ....A       223387               kegs32.exe
-2006-08-05 14:06:58 ....A        49171               src\16inst_c.h
-2006-08-05 14:13:14 ....A        49093               src\8inst_c.h
-2004-12-07 02:42:48 ....A         5103               src\adb.h
-2004-12-07 02:42:48 ....A          993               src\config.h
-2004-12-07 02:42:48 ....A         7145               src\defc.h
-2004-12-07 02:42:48 ....A         5123               src\defcomm.h
-2004-12-07 02:42:48 ....A         1326               src\defs.h
-2004-12-07 02:42:48 ....A        34551               src\defs_instr.h
-2004-12-07 02:42:48 ....A         8299               src\disas.h
-2004-12-07 02:42:48 ....A        43996               src\instable.h
-2004-12-07 02:42:48 ....A         2212               src\iwm.h
-2004-12-07 02:42:48 ....A         7371               src\iwm_35_525.h
-2004-12-07 02:42:48 ....A        20806               src\kegsfont.h
-2004-12-07 02:42:48 ....A         9998               src\op_routs.h
-2004-12-07 02:42:48 ....A         2158               src\prodos.h
-2004-12-07 02:42:48 ....A         2121               src\prodos_protos.h
-2004-12-07 02:42:48 ....A        21114               src\protos.h
-2004-12-07 02:42:48 ....A         1946               src\protos_engine_c.h
-2004-12-07 02:42:48 ....A         1957               src\protos_macdriver.h
-2004-12-07 02:42:48 ....A          765               src\protos_macsnd_driver.h
-2006-08-05 14:00:22 ....A         1440               src\protos_windriver.h
-2004-12-07 02:42:48 ....A         1940               src\protos_xdriver.h
-2004-12-07 02:42:48 ....A         2239               src\scc.h
-2006-08-05 14:06:58 ....A         8685               src\size_c.h
-2004-12-07 02:42:48 ....A         9447               src\size_tab.h
-2004-12-07 02:42:48 ....A         1495               src\sound.h
-2004-12-07 02:42:48 ....A         4533               src\superhires.h
-2006-08-06 07:53:00 ....A         2322               src\winresource.h
-2004-12-07 02:55:04 ....A        74738               KEGSMAC.app\Contents\Resources\2mg.icns
-2004-12-07 02:42:48 ....A        74738               src\2mg.icns
-2004-12-07 02:55:04 ....A        76671               KEGSMAC.app\Contents\Resources\525.icns
-2004-12-07 02:42:48 ....A        76671               src\525.icns
-2004-12-07 02:42:48 ....A        70755               src\kegsicon.icns
-2004-12-07 02:55:04 ....A        70755               KEGSMAC.app\Contents\Resources\kegsicon.icns
-2000-12-31 14:31:30 ....A         8478               src\win32.ico
-2004-12-07 02:42:48 ....A        11214               src\INTERNALS.iwm
-2006-08-06 10:31:36 ....A         2051               config.kegs
-2006-08-05 17:46:30 ....A          209               src\vars.kegs32
-2001-10-08 14:14:18 ....A          649               src\kegs.manifest
-2004-12-07 02:42:48 ....A           35               src\classes.nib
-2004-12-07 02:55:04 ....A           35               KEGSMAC.app\Contents\Resources\English.lproj\main.nib\classes.nib
-2004-12-07 02:42:48 ....A          557               src\info.nib
-2004-12-07 02:55:04 ....A          557               KEGSMAC.app\Contents\Resources\English.lproj\main.nib\info.nib
-2006-08-05 14:25:42 ....A        53789               src\adb.obj
-2006-08-05 14:25:44 ....A        13084               src\clock.obj
-2004-12-07 02:42:48 ....A         4192               src\INTERNALS.overview
-2004-12-07 02:42:48 ....A         1779               src\Info.plist
-2004-12-07 02:55:04 ....A         1779               KEGSMAC.app\Contents\Info.plist
-2006-08-06 07:54:10 ....A         6666               src\win32.rc
-2004-12-07 02:42:48 ....A        51879               src\engine_s.s
-2004-12-07 03:14:22 ....A        23441               CHANGES.txt
-2004-12-07 02:42:48 ....A        15145               COPYING.txt
-2004-12-07 02:42:48 ....A         5666               README.a2.compatibility.txt
-2004-12-07 02:42:48 ....A         3599               README.compile.txt
-2006-08-05 18:03:48 ....A        46088               README.kegs.txt
-2004-12-07 02:42:48 ....A        13324               README.linux.partitions.txt
-2004-12-07 02:42:48 ....A         1386               README.mac.txt
-2004-12-07 02:42:48 ....A         1840               README.win32.txt
-2006-08-05 14:29:08 ....A         4504               src\Makefile.win32
-2004-12-07 02:42:48 ....A         7563               src\INTERNALS.xdriver
-2004-12-07 02:42:48 ....A         6877               src\objects.xib
-2004-12-07 02:55:04 ....A         6877               KEGSMAC.app\Contents\Resources\English.lproj\main.nib\objects.xib
-2004-12-07 02:42:48 ....A          560               src\make_inst
-2004-12-07 02:42:48 ....A          608               src\make_size
-2004-12-07 02:42:48 ....A           49               src\make_win
-2006-08-06 08:47:38 ....A         4709               src\Makefile
-2006-08-05 17:46:30 ....A          209               src\vars
-2004-12-07 02:42:48 ....A          305               src\vars_c
-2004-12-07 02:42:48 ....A          378               src\vars_hp
-2004-12-07 02:42:48 ....A          262               src\vars_linuxppc
-2004-12-07 02:42:48 ....A          179               src\vars_mac
-2004-12-07 02:42:48 ....A          274               src\vars_solaris
-2004-12-07 02:42:48 ....A          199               src\vars_win32
-2004-12-07 02:42:48 ....A          280               src\vars_x86linux
-2004-12-07 02:42:48 ....A          311               src\vars_x86solaris
-2016-10-25 07:14:30 ....A            0            0  KEGSMAC.app\Icon_
-2016-10-25 07:14:30 D....            0            0  KEGSMAC.app\Contents\MacOS
-2016-10-25 07:14:30 D....            0            0  KEGSMAC.app\Contents\Resources\English.lproj
-2016-10-25 07:14:30 D....            0            0  src
-2016-10-25 07:14:30 D....            0            0  KEGSMAC.app\Contents\Resources\English.lproj\main.nib
-2016-10-25 07:14:30 D....            0            0  KEGSMAC.app\Contents
-2016-10-25 07:14:30 D....            0            0  KEGSMAC.app\Contents\Resources
-2016-10-25 07:14:30 D....            0            0  KEGSMAC.app
+2004-12-07 02:14:22 ....A        23441        38247  CHANGES.txt
+2004-12-07 01:42:47 ....A        15145               COPYING.txt
+2004-12-07 01:42:47 ....A         5666               README.a2.compatibility.txt
+2004-12-07 01:42:47 ....A         3599               README.compile.txt
+2004-12-07 01:54:34 ....A        46088               README.kegs.txt
+2004-12-07 01:42:47 ....A        13324               README.linux.partitions.txt
+2004-12-07 01:42:47 ....A         1386               README.mac.txt
+2004-12-07 01:42:47 ....A         1840               README.win32.txt
+2004-12-07 01:42:47 ....A          111               config.kegs
+2004-12-07 01:45:38 ....A       413192       123594  kegswin.exe
 ------------------- ----- ------------ ------------  ------------------------
-2016-10-25 07:14:30            2342410       586636  106 files, 7 folders
+2004-12-07 02:14:22             523792       161841  10 files

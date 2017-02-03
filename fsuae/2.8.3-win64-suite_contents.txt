@@ -1,0 +1,208 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-01-08 21:36:42 ....A      6149650     13696838  Programs\Python\arcade.zip
+2017-01-08 21:36:44 ....A        26544               Programs\Python\fsbc.zip
+2017-01-08 21:36:44 ....A       355411               Programs\Python\fsgs.zip
+2017-01-08 21:36:44 ....A       219769               Programs\Python\fstd.zip
+2017-01-08 21:36:44 ....A        47179               Programs\Python\fsui.zip
+2017-01-08 21:36:44 ....A       409983               Programs\Python\launcher.zip
+2017-01-08 21:36:12 ....A      1347237               Programs\Windows\x86-64\library.zip
+2017-01-08 21:36:46 ....A      2160069               Programs\Python\OpenGL.zip
+2017-01-08 21:36:46 ....A        12716               Programs\Python\oyoyo.zip
+2017-01-08 21:36:46 ....A         8006               Programs\Python\six.zip
+2017-01-08 21:36:46 ....A       524299               Programs\Python\workspace.zip
+2014-12-12 14:47:50 ....A        18092               Programs\Windows\x86-64\COPYING.txt
+2015-09-21 20:29:42 ....A        10899               Programs\Windows\x86-64\README.txt
+2017-01-08 21:37:56 ....A           44               Portable.ini
+2017-01-08 21:34:36 ....A      1270005               Programs\Data\fs-uae.dat
+2017-01-08 21:35:28 ....A          548               Programs\Data\Locale\hu\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:28 ....A        15288               Programs\Data\Locale\pt\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:28 ....A        16813               Programs\Data\Locale\eo\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:28 ....A        22536               Programs\Data\Locale\nl\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:28 ....A        31191               Programs\Data\Locale\cs\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:28 ....A        36008               Programs\Data\Locale\nb\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:28 ....A        36251               Programs\Data\Locale\da\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:28 ....A        37233               Programs\Data\Locale\es\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:28 ....A        38162               Programs\Data\Locale\pl\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:28 ....A        38685               Programs\Data\Locale\de\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:28 ....A        39038               Programs\Data\Locale\fi\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:28 ....A        39223               Programs\Data\Locale\it\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:28 ....A        40835               Programs\Data\Locale\fr\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:28 ....A        50766               Programs\Data\Locale\el\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:30 ....A          549               Programs\Data\Locale\sv\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:30 ....A         9816               Programs\Data\Locale\pt_BR\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:30 ....A        22182               Programs\Data\Locale\sr\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:35:30 ....A        38744               Programs\Data\Locale\tr\LC_MESSAGES\fs-uae-launcher.mo
+2017-01-08 21:34:34 ....A          539               Programs\Data\Locale\hu\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         2664               Programs\Data\Locale\pt_BR\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         3660               Programs\Data\Locale\sv\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         4035               Programs\Data\Locale\sr\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         4284               Programs\Data\Locale\eo\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         4723               Programs\Data\Locale\nb\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         4757               Programs\Data\Locale\cs\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         4787               Programs\Data\Locale\tr\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         4789               Programs\Data\Locale\es\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         4809               Programs\Data\Locale\fr\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         4812               Programs\Data\Locale\nl\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         4814               Programs\Data\Locale\da\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         4818               Programs\Data\Locale\pl\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         4884               Programs\Data\Locale\pt\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         4913               Programs\Data\Locale\de\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         4926               Programs\Data\Locale\it\LC_MESSAGES\fs-uae.mo
+2017-01-08 21:34:34 ....A         5038               Programs\Data\Locale\fi\LC_MESSAGES\fs-uae.mo
+2015-07-08 11:36:16 ....A      2590208               Programs\Windows\x86-64\PyQt5.QtCore.pyd
+2015-07-08 11:36:16 ....A      2695680               Programs\Windows\x86-64\PyQt5.QtGui.pyd
+2015-07-08 11:36:16 ....A       721408               Programs\Windows\x86-64\PyQt5.QtNetwork.pyd
+2015-07-08 11:36:18 ....A       140800               Programs\Windows\x86-64\PyQt5.QtOpenGL.pyd
+2015-07-08 11:36:18 ....A       543232               Programs\Windows\x86-64\PyQt5.QtQml.pyd
+2015-07-08 11:36:18 ....A       725504               Programs\Windows\x86-64\PyQt5.QtQuick.pyd
+2015-07-08 11:36:18 ....A       311296               Programs\Windows\x86-64\PyQt5.QtWebKitWidgets.pyd
+2015-07-08 11:36:20 ....A      6543872               Programs\Windows\x86-64\PyQt5.QtWidgets.pyd
+2015-07-08 11:17:16 ....A       126976               Programs\Windows\x86-64\sip.pyd
+2017-01-08 21:38:00 ....A       173016     31098179  Arcade.exe
+2017-01-08 21:34:40 ....A       236544               Programs\Windows\x86-64\fs-uae-device-helper.exe
+2017-01-08 21:36:52 ....A      1329832               Programs\Windows\x86-64\fs-uae-launcher.exe
+2017-01-08 21:34:44 ....A     11330216               Programs\Windows\x86-64\fs-uae.exe
+2017-01-08 21:37:58 ....A       173016               Launcher.exe
+2015-06-30 11:23:06 ....A        50688               Programs\Windows\x86-64\array-cpython-34m.dll
+2015-06-30 11:23:06 ....A        31744               Programs\Windows\x86-64\binascii-cpython-34m.dll
+2017-01-08 21:34:40 ....A       329216               Programs\Windows\x86-64\GLEW32.dll
+2015-06-29 12:37:06 ....A        73376               Programs\Windows\x86-64\libbz2-1.dll
+2015-07-10 08:25:52 ....A      2267136               Programs\Windows\x86-64\LIBEAY32.dll
+2015-06-29 14:24:44 ....A       158510               Programs\Windows\x86-64\libexpat-1.dll
+2015-06-30 08:37:16 ....A        34176               Programs\Windows\x86-64\libffi-6.dll
+2015-07-01 10:41:02 ....A       624352               Programs\Windows\x86-64\libfreetype-6.dll
+2015-07-24 21:33:44 ....A        83230               Programs\Windows\x86-64\libgcc_s_seh-1.dll
+2015-07-22 09:49:24 ....A      1271133               Programs\Windows\x86-64\libglib-2.0-0.dll
+2017-01-08 21:34:40 ....A        17408               Programs\Windows\x86-64\libgthread-2.0-0.dll
+2015-09-02 07:50:00 ....A       383918               Programs\Windows\x86-64\libharfbuzz-0.dll
+2015-06-29 13:25:22 ....A      1050543               Programs\Windows\x86-64\libiconv-2.dll
+2015-07-29 13:57:22 ....A     25926929               Programs\Windows\x86-64\libicudt55.dll
+2015-07-29 13:57:22 ....A      2152067               Programs\Windows\x86-64\libicuin55.dll
+2015-07-29 13:57:24 ....A      1416242               Programs\Windows\x86-64\libicuuc55.dll
+2015-07-19 10:17:26 ....A       131693               Programs\Windows\x86-64\libintl-8.dll
+2017-01-08 21:36:06 ....A       399007               Programs\Windows\x86-64\libjpeg-8.dll
+2015-06-30 07:54:40 ....A       153325               Programs\Windows\x86-64\liblzma-5.dll
+2017-01-08 21:34:40 ....A       110592               Programs\Windows\x86-64\libmpeg2-0.dll
+2017-01-08 21:34:40 ....A        36352               Programs\Windows\x86-64\libmpeg2convert-0.dll
+2015-07-01 14:37:54 ....A       254192               Programs\Windows\x86-64\libpcre16-0.dll
+2017-01-08 21:34:40 ....A       696832               Programs\Windows\x86-64\libpixman-1-0.dll
+2015-08-01 13:13:24 ....A       227983               Programs\Windows\x86-64\libpng16-16.dll
+2015-06-30 11:23:04 ....A      2156544               Programs\Windows\x86-64\libpython3.4m.dll
+2015-07-29 15:03:26 ....A       224301               Programs\Windows\x86-64\libreadline6.dll
+2015-08-02 10:19:56 ....A      1130818               Programs\Windows\x86-64\libsqlite3-0.dll
+2015-07-24 21:33:44 ....A      1427114               Programs\Windows\x86-64\libstdc++-6.dll
+2015-06-30 08:51:34 ....A        24187               Programs\Windows\x86-64\libtermcap-0.dll
+2015-06-30 14:43:46 ....A       363152               Programs\Windows\x86-64\libwebp-5.dll
+2015-07-28 10:34:32 ....A        58566               Programs\Windows\x86-64\libwinpthread-1.dll
+2015-06-30 12:12:06 ....A      1296411               Programs\Windows\x86-64\libxml2-2.dll
+2015-06-30 12:17:38 ....A       294456               Programs\Windows\x86-64\libxslt-1.dll
+2015-07-21 18:59:14 ....A        33280               Programs\Windows\x86-64\lzhlib-cpython-34m.dll
+2015-06-30 11:23:06 ....A        54272               Programs\Windows\x86-64\math-cpython-34m.dll
+2015-06-30 11:23:06 ....A        30208               Programs\Windows\x86-64\mmap-cpython-34m.dll
+2017-01-08 21:34:40 ....A       413184               Programs\Windows\x86-64\OpenAL32.dll
+2015-06-30 11:23:06 ....A        51200               Programs\Windows\x86-64\parser-cpython-34m.dll
+2015-06-30 11:23:06 ....A        56832               Programs\Windows\x86-64\pyexpat-cpython-34m.dll
+2015-07-02 16:19:14 ....A        34304               Programs\Windows\x86-64\imageformats\qgif.dll
+2015-07-02 16:19:14 ....A        34816               Programs\Windows\x86-64\imageformats\qico.dll
+2015-07-02 16:19:12 ....A        47616               Programs\Windows\x86-64\imageformats\qjpeg.dll
+2015-09-22 00:10:08 ....A      4283392               Programs\Windows\x86-64\Qt5Core.dll
+2015-07-02 16:19:00 ....A      4278272               Programs\Windows\x86-64\Qt5Gui.dll
+2015-07-02 16:20:06 ....A       722944               Programs\Windows\x86-64\Qt5Multimedia.dll
+2015-07-02 16:20:14 ....A       103936               Programs\Windows\x86-64\Qt5MultimediaWidgets.dll
+2015-07-02 16:18:58 ....A      1338880               Programs\Windows\x86-64\Qt5Network.dll
+2015-07-02 16:19:12 ....A       304128               Programs\Windows\x86-64\Qt5OpenGL.dll
+2015-07-02 16:20:02 ....A       233984               Programs\Windows\x86-64\Qt5Positioning.dll
+2015-07-02 16:19:12 ....A       337408               Programs\Windows\x86-64\Qt5PrintSupport.dll
+2015-07-02 16:19:42 ....A      3773952               Programs\Windows\x86-64\Qt5Qml.dll
+2015-07-02 16:19:46 ....A      3270144               Programs\Windows\x86-64\Qt5Quick.dll
+2015-07-02 16:20:04 ....A       188928               Programs\Windows\x86-64\Qt5Sensors.dll
+2015-07-02 16:18:58 ....A       235008               Programs\Windows\x86-64\Qt5Sql.dll
+2015-07-02 16:20:22 ....A       113152               Programs\Windows\x86-64\Qt5WebChannel.dll
+2015-07-02 16:20:32 ....A     29903360               Programs\Windows\x86-64\Qt5WebKit.dll
+2015-07-02 16:20:34 ....A       260096               Programs\Windows\x86-64\Qt5WebKitWidgets.dll
+2015-07-02 16:19:06 ....A      5751296               Programs\Windows\x86-64\Qt5Widgets.dll
+2015-07-02 16:19:14 ....A       730624               Programs\Windows\x86-64\platforms\qwindows.dll
+2015-06-30 11:23:06 ....A        31232               Programs\Windows\x86-64\readline-cpython-34m.dll
+2017-01-08 21:34:40 ....A      1056256               Programs\Windows\x86-64\SDL2.dll
+2015-06-30 11:23:06 ....A        19968               Programs\Windows\x86-64\select-cpython-34m.dll
+2015-07-10 08:25:52 ....A       425472               Programs\Windows\x86-64\SSLEAY32.dll
+2015-06-30 11:23:06 ....A       794112               Programs\Windows\x86-64\unicodedata-cpython-34m.dll
+2015-06-30 11:23:06 ....A        34816               Programs\Windows\x86-64\zlib-cpython-34m.dll
+2015-08-17 18:19:48 ....A        90250               Programs\Windows\x86-64\zlib1.dll
+2015-06-30 11:23:06 ....A        20480               Programs\Windows\x86-64\_bisect-cpython-34m.dll
+2015-06-30 11:23:08 ....A        25088               Programs\Windows\x86-64\_bz2-cpython-34m.dll
+2015-06-30 11:23:08 ....A       148480               Programs\Windows\x86-64\_codecs_cn-cpython-34m.dll
+2015-06-30 11:23:08 ....A       158208               Programs\Windows\x86-64\_codecs_hk-cpython-34m.dll
+2015-06-30 11:23:08 ....A        27648               Programs\Windows\x86-64\_codecs_iso2022-cpython-34m.dll
+2015-06-30 11:23:08 ....A       257024               Programs\Windows\x86-64\_codecs_jp-cpython-34m.dll
+2015-06-30 11:23:08 ....A       137216               Programs\Windows\x86-64\_codecs_kr-cpython-34m.dll
+2015-06-30 11:23:08 ....A       114688               Programs\Windows\x86-64\_codecs_tw-cpython-34m.dll
+2015-06-30 11:23:08 ....A       138240               Programs\Windows\x86-64\_ctypes-cpython-34m.dll
+2015-06-30 11:23:08 ....A        96256               Programs\Windows\x86-64\_datetime-cpython-34m.dll
+2015-06-30 11:23:08 ....A        52736               Programs\Windows\x86-64\_elementtree-cpython-34m.dll
+2015-06-30 11:23:08 ....A        29184               Programs\Windows\x86-64\_hashlib-cpython-34m.dll
+2015-06-30 11:23:08 ....A        28672               Programs\Windows\x86-64\_heapq-cpython-34m.dll
+2015-06-30 11:23:08 ....A        41472               Programs\Windows\x86-64\_json-cpython-34m.dll
+2015-06-30 11:23:10 ....A        35328               Programs\Windows\x86-64\_lzma-cpython-34m.dll
+2015-06-30 11:23:10 ....A        23040               Programs\Windows\x86-64\_md5-cpython-34m.dll
+2015-06-30 11:23:10 ....A        36864               Programs\Windows\x86-64\_multibytecodec-cpython-34m.dll
+2015-06-30 11:23:10 ....A        24064               Programs\Windows\x86-64\_multiprocessing-cpython-34m.dll
+2015-06-30 11:23:10 ....A        17408               Programs\Windows\x86-64\_opcode-cpython-34m.dll
+2015-06-30 11:23:10 ....A        87552               Programs\Windows\x86-64\_pickle-cpython-34m.dll
+2015-06-30 11:23:10 ....A        20992               Programs\Windows\x86-64\_random-cpython-34m.dll
+2015-06-30 11:23:10 ....A        22016               Programs\Windows\x86-64\_sha1-cpython-34m.dll
+2015-06-30 11:23:10 ....A        29696               Programs\Windows\x86-64\_sha256-cpython-34m.dll
+2015-06-30 11:23:10 ....A        33792               Programs\Windows\x86-64\_sha512-cpython-34m.dll
+2015-06-30 11:23:10 ....A        61952               Programs\Windows\x86-64\_socket-cpython-34m.dll
+2015-06-30 11:23:10 ....A        68608               Programs\Windows\x86-64\_sqlite3-cpython-34m.dll
+2015-06-30 11:23:10 ....A        82944               Programs\Windows\x86-64\_ssl-cpython-34m.dll
+2015-06-30 11:23:10 ....A        42496               Programs\Windows\x86-64\_struct-cpython-34m.dll
+2017-02-03 08:24:00 D....            0            0  Programs\Windows\x86-64\platforms
+2017-02-03 08:23:58 D....            0            0  Programs\Windows\x86-64\imageformats
+2017-02-03 08:24:03 D....            0            0  Programs\Windows\x86-64
+2017-02-03 08:23:58 D....            0            0  Programs\Windows
+2017-02-03 08:23:58 D....            0            0  Programs\Python
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\tr\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\tr
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\sv\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\sv
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\sr\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\sr
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\pt_BR\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\pt_BR
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\pt\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\pt
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\pl\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\pl
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\nl\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\nl
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\nb\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\nb
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\it\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\it
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\hu\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\hu
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\fr\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\fr
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\fi\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\fi
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\es\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\es
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\eo\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\eo
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\el\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\el
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\de\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\de
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\da\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\da
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\cs\LC_MESSAGES
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale\cs
+2017-02-03 08:23:57 D....            0            0  Programs\Data\Locale
+2017-02-03 08:23:57 D....            0            0  Programs\Data
+2017-02-03 08:23:58 D....            0            0  Programs
+2017-02-03 08:23:57 D....            0            0  Plugins
+2017-02-03 08:23:57 D....            0            0  Data
+------------------- ----- ------------ ------------  ------------------------
+2017-02-03 08:24:03          146544282     44795017  158 files, 46 folders
