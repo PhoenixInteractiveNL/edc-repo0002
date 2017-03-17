@@ -1,0 +1,15 @@
+CHANGES IN 1.1.0 FROM 1.0.11
+----------------------------
+released on Jan 1, 2017
+
+- [NEW] added OpenGL video mode
+- [NEW] external fragment shader support in OpenGL mode (see included sample)
+- [NEW] adjustable font size in the monitor
+- [NEW] line breaks in the monitor
+- [NEW] set any sound sampling rate between 8000 and 192000 Hz
+- [NEW] optionally audible tape signal
+- [NEW] added $FF as powerup pattern
+- [FIX] cleaned the ACIA 6551 emulation from non-functioning legacy code
+- [FIX] minor fine tuning in the measured palette hues and lumas
+- [FIX] breakpoint purge deadlock
+- [FIX] more monitor cleanup

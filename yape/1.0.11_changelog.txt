@@ -1,0 +1,15 @@
+CHANGES IN 1.0.11 FROM 1.0.10
+----------------------------
+released on Nov 23, 2016
+
+- [NEW] memorize window size when not in GDI mode
+- [NEW] new selectable tape signal detection method (edge triggered) for WAV samples
+- [NEW] loading MTAP's with non-native frequency such as ones recorded with NTSC bit set (report courtesy of Luca)
+- [NEW] load C64/VIC20 tapes recorded in MTAP format with the KERNAL loader
+- [NEW] even line hue phase offset in CRT emulation mode
+- [FIX] tape code cleanup
+- [FIX] sound related improvements
+- [FIX] speedometer improved
+- [FIX] preset screen size bug
+- [FIX] monitor cleanup
+- [FIX] TAP save overwrite warning (bug report courtesy of Luca)

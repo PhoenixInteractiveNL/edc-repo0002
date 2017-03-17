@@ -1,0 +1,21 @@
+24.51  [OS3.5+][Windows XP+][MOS?   ][OS4.0+]: Wed  7 Dec 2016.
+    Summary:
+        * BINBUG: support for alternative BIOSes.
+        * Miscellaneous improvements and bug fixes.
+    Details:
+ incorporated Stefan's latest German translation.
+ aa: fixed: fuel gauges were showing incorrect levels.
+ wa: memory editor: "view as coverage report": executed areas are now
+  shown in cyan rather than orange.
+ wa: memory editor: added separator bar.
+ pipbug, binbug: knowledge about additional games/utilities.
+ fixed: some comments were not prepended with semicolons.
+ more detailed disassembly/tracing of LODI and COMI instructions.
+ debugger: improved "=" command.
+ binbug: added support for binbug 3.5, mikebug 3, mybug.
+ binbug: fixed: CHIN tracing did not emit anything.
+ "jump to bios" menu item was ghosted.
+ binbug: fixed bad "&" glyph.
+ incorporated Samir's latest Italian translation.
+ aa: os4.1fe: fixed incorrect localization of some menu items.
+ binbug: fixed: "jump to bios" menu item was ghosted. 

@@ -1,0 +1,12 @@
+2 January 2017 v1.0.9.0
+=======================
+1) Added Benjamin 'BeRo' Rosseaux's P64 1541 file format. Hoxs64 incorporates the P64 source code 
+written by Benjamin 'BeRo' Rosseaux author of Mirco64 http://micro64.de 
+The P64 disk representation with its linked list management is now used as the internal real time 
+representation of the disk.
+
+2) Fixed numerous bugs with the CIA Time Of Day clocks so as to pass the VICE test programs under 
+testprogs\CIA\tod
+
+3) Improved CIA emulation to handle instructions that perform multiple accesses to address $DD0D 
+so as to pass the VICE test testprogs\CIA\dd0dtest\dd0dtest.prg

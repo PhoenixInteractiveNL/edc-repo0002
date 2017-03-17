@@ -1,0 +1,131 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-02-27 19:48:09 ....A         9547     25420502  lib\linux\x86\mozembed-linux-gtk2
+2017-02-27 19:48:19 ....A         6880               lib\sunos\x86\mozembed-solaris-gtk2
+2017-02-27 19:48:29 ....A        26600               lib\sunos\sparc\mozembed-solaris-gtk2
+2017-02-27 19:47:25 ....A        35889               JavaCPC_Easteregg.zip
+2017-02-27 19:47:27 ....A         2851               lib\AbsoluteLayout.jar
+2017-02-27 19:47:28 ....A       338393               lib\Filters.jar
+2017-02-27 19:47:30 ....A      1889485               lib\itextpdf-5.4.0.jar
+2017-02-27 19:47:33 ....A      2959771               lib\j3dcore.jar
+2017-02-27 19:47:35 ....A      1703580               lib\j3dutils.jar
+2017-03-03 11:14:33 ....A     10456008               JavaCPC.jar
+2017-02-27 19:47:36 ....A        54091               lib\jdic.jar
+2017-02-27 19:47:59 ....A        47401               lib\linux\jdic_stub.jar
+2017-02-27 19:48:10 ....A        47401               lib\sunos\jdic_stub.jar
+2017-02-27 19:48:31 ....A        31649               lib\windows\jdic_stub.jar
+2017-02-27 19:47:38 ....A       217140               lib\jinput.jar
+2017-02-27 19:47:40 ....A      2082557               lib\jmf.jar
+2017-02-27 19:47:42 ....A      1205099               lib\JTattoo-1.6.11.jar
+2017-02-27 19:47:44 ....A      1029948               lib\kunststoff.jar
+2017-02-27 19:47:47 ....A       462098               lib\mail.jar
+2017-02-27 19:47:49 ....A       211139               lib\nimrodlf-1.1a.jar
+2017-02-27 19:47:50 ....A       157906               lib\PgsLookAndFeel.jar
+2017-02-27 19:47:54 ....A      5058346               lib\resources.jar
+2017-02-27 19:47:56 ....A         9735               lib\toplink-essentials-agent.jar
+2017-02-27 19:50:46 ....A       125192               Update.jar
+2017-02-27 19:47:57 ....A       325572               lib\vecmath.jar
+2017-02-27 19:50:05 ....A       262877               wallpaper\fantasy.jpg
+2017-02-27 19:50:07 ....A       295971               wallpaper\fantasy2.jpg
+2017-02-27 19:50:09 ....A       816768               wallpaper\fantasy3.jpg
+2017-02-27 19:50:03 ....A       111425               wallpaper\wallpaper.png
+2017-02-27 19:50:10 ....A       194816               alpha1.dsk
+2017-02-27 19:46:54 ....A         2918               RasterScreen.asm
+2017-02-27 19:50:12 ....A          131               alphaville.bat
+2017-03-03 11:17:38 ....A         5746               README.TXT
+2017-02-27 19:48:00 ....A        21447               lib\linux\x86\libjdic.so
+2017-02-27 19:48:12 ....A        37644               lib\sunos\x86\libjdic.so
+2017-02-27 19:48:21 ....A        40616               lib\sunos\sparc\libjdic.so
+2017-02-27 19:47:18 ....A        13656               libjinput-linux.so
+2017-02-27 19:47:20 ....A        14376               libjinput-linux64.so
+2017-02-27 19:48:02 ....A       468140               lib\linux\x86\libmozembed-linux-gtk1.2.so
+2017-02-27 19:48:04 ....A       249499               lib\linux\x86\libmozembed-linux-gtk2.so
+2017-02-27 19:48:22 ....A       251000               lib\sunos\sparc\libmozembed-solaris-gtk1.2.so
+2017-02-27 19:48:13 ....A       135364               lib\sunos\x86\libmozembed-solaris-gtk2.so
+2017-02-27 19:48:25 ....A       248400               lib\sunos\sparc\libmozembed-solaris-gtk2.so
+2017-02-27 19:48:05 ....A        18501               lib\linux\x86\libtray.so
+2017-02-27 19:48:17 ....A        19052               lib\sunos\x86\libtray.so
+2017-02-27 19:48:26 ....A        23484               lib\sunos\sparc\libtray.so
+2017-02-27 19:48:07 ....A         9511               lib\linux\x86\mozembed-linux-gtk1.2
+2017-02-27 19:48:28 ....A        26632               lib\sunos\sparc\mozembed-solaris-gtk1.2
+2017-02-27 19:47:22 ....A        65944               libjinput-osx.jnilib
+2017-02-27 19:48:39 ....A        16384               system\cpc\rom\AMSDOS.ROM
+2017-02-27 19:48:41 ....A        16384               system\cpc\rom\ART0.ROM
+2017-02-27 19:48:43 ....A        16384               system\cpc\rom\ART1.ROM
+2017-02-27 19:48:44 ....A        13305               system\cpc\rom\ART2.ROM
+2017-02-27 19:48:46 ....A        16384               system\cpc\rom\BASIC-C64.ROM
+2017-02-27 19:48:49 ....A        16384               system\cpc\rom\BASIC1-0.ROM
+2017-02-27 19:48:51 ....A        16384               system\cpc\rom\BASIC1-1.ROM
+2017-02-27 19:48:52 ....A        16384               system\cpc\rom\BASIC664.ROM
+2017-02-27 19:48:54 ....A        16384               system\cpc\rom\BASICES.ROM
+2017-02-27 19:48:56 ....A        16384               system\cpc\rom\BASICFR.ROM
+2017-02-27 19:48:57 ....A        16384               system\cpc\rom\DEPROMA.ROM
+2017-02-27 19:48:59 ....A        16384               system\cpc\rom\DKSPEECH.ROM
+2017-02-27 19:49:44 ....A        16384               system\cpc\rom\FOSC-E-A.ROM
+2017-02-27 19:49:46 ....A        16384               system\cpc\rom\FOSC-E-B.ROM
+2017-02-27 19:49:47 ....A        16384               system\cpc\rom\FOSC-E-C.ROM
+2017-02-27 19:49:49 ....A        16384               system\cpc\rom\FOSC-E-D.ROM
+2017-02-27 19:49:00 ....A         3655               system\cpc\rom\JAVACPC.ROM
+2017-02-27 19:49:02 ....A        16384               system\cpc\rom\KCCBAS.ROM
+2017-02-27 19:49:04 ....A        16384               system\cpc\rom\KCCOS.ROM
+2017-02-27 19:49:05 ....A        16384               system\cpc\rom\LOCKSMIT.ROM
+2017-02-27 19:49:07 ....A        16384               system\cpc\rom\MAXAM.ROM
+2017-02-27 19:49:08 ....A         8192               system\cpc\rom\MULTFACE.ROM
+2017-02-27 19:49:10 ....A        16384               system\cpc\rom\OS-C64.ROM
+2017-02-27 19:49:12 ....A        16384               system\cpc\rom\OS464.ROM
+2017-02-27 19:49:13 ....A        16384               system\cpc\rom\OS6128.ROM
+2017-02-27 19:49:15 ....A        16384               system\cpc\rom\OS664.ROM
+2017-02-27 19:49:16 ....A        16384               system\cpc\rom\OSES.ROM
+2017-02-27 19:49:18 ....A        16384               system\cpc\rom\OSFR.ROM
+2017-02-27 19:49:20 ....A        16512               system\cpc\rom\PARADOS.ROM
+2017-02-27 19:49:22 ....A        16384               system\cpc\rom\PARADOS1.ROM
+2017-02-27 19:50:02 ....A        16384               system\cpc\rom\RDOS-EXT.ROM
+2017-02-27 19:49:51 ....A        16384               system\cpc\rom\ROManager.ROM
+2017-02-27 19:49:24 ....A        16384               system\cpc\rom\ROMPKP1.ROM
+2017-02-27 19:49:25 ....A        16384               system\cpc\rom\ROMPKP2.ROM
+2017-02-27 19:49:27 ....A        16384               system\cpc\rom\STK1.ROM
+2017-02-27 19:49:29 ....A        16032               system\cpc\rom\Stk12-1.ROM
+2017-02-27 19:49:30 ....A         8586               system\cpc\rom\Stk12-2.ROM
+2017-02-27 19:49:32 ....A        11154               system\cpc\rom\Stk12Gen.ROM
+2017-02-27 19:49:33 ....A        16384               system\cpc\rom\STK2.ROM
+2017-02-27 19:49:35 ....A        16384               system\cpc\rom\sym-romA.ROM
+2017-02-27 19:49:37 ....A        16384               system\cpc\rom\sym-romAboot.ROM
+2017-02-27 19:49:39 ....A        16384               system\cpc\rom\sym-romB.ROM
+2017-02-27 19:49:40 ....A        16384               system\cpc\rom\sym-romC.ROM
+2017-02-27 19:49:42 ....A        10496               system\cpc\rom\sym-romD.ROM
+2017-02-27 19:49:53 ....A        16384               system\cpc\rom\TOOL-ROM-ENG.ROM
+2017-02-27 19:49:57 ....A        16384               system\cpc\rom\VaraDOS.ROM
+2017-02-27 19:49:55 ....A         8192               system\cpc\rom\VORTEX10.ROM
+2017-02-27 19:49:58 ....A        16384               system\cpc\rom\VORTEX20.ROM
+2017-02-27 19:50:00 ....A        16384               system\cpc\rom\XDDOS210.ROM
+2017-02-27 19:48:33 ....A        61441      1001294  lib\windows\x86\IeEmbed.exe
+2017-02-27 19:46:51 ....A       291840               JavaCPC.exe
+2017-02-27 19:46:53 ....A       325120               JavaCPC64.exe
+2017-02-27 19:48:36 ....A        61441               lib\windows\x86\MozEmbed.exe
+2017-02-27 19:46:58 ....A       823296               j3dcore-d3d.dll
+2017-02-27 19:47:00 ....A        40960               j3dcore-ogl-cg.dll
+2017-02-27 19:47:03 ....A        49152               j3dcore-ogl-chk.dll
+2017-02-27 19:47:06 ....A       163840               j3dcore-ogl.dll
+2017-02-27 19:48:34 ....A       110608               lib\windows\x86\jdic.dll
+2017-02-27 19:47:07 ....A        61952               jinput-dx8.dll
+2017-02-27 19:47:09 ....A        65024               jinput-dx8_64.dll
+2017-02-27 19:47:11 ....A        59392               jinput-raw.dll
+2017-02-27 19:47:14 ....A        62464               jinput-raw_64.dll
+2017-02-27 19:47:16 ....A        56832               jinput-wintab.dll
+2017-02-27 19:47:24 ....A      1890988               libwine.dll
+2017-02-27 19:48:37 ....A        45072               lib\windows\x86\tray.dll
+2017-03-17 11:37:01 D....            0            0  wallpaper
+2017-03-17 11:37:01 D....            0            0  tiled_plugins
+2017-03-17 11:37:01 D....            0            0  system\cpc\rom
+2017-03-17 11:37:01 D....            0            0  system\cpc
+2017-03-17 11:37:01 D....            0            0  system
+2017-03-17 11:37:01 D....            0            0  lib\windows\x86
+2017-03-17 11:37:00 D....            0            0  lib\windows
+2017-03-17 11:37:00 D....            0            0  lib\sunos\x86
+2017-03-17 11:37:00 D....            0            0  lib\sunos\sparc
+2017-03-17 11:37:00 D....            0            0  lib\sunos
+2017-03-17 11:37:00 D....            0            0  lib\linux\x86
+2017-03-17 11:37:00 D....            0            0  lib\linux
+2017-03-17 11:37:00 D....            0            0  lib
+------------------- ----- ------------ ------------  ------------------------
+2017-03-17 11:37:01           36749102     26421796  114 files, 13 folders

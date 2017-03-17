@@ -1,0 +1,29 @@
+Version 4.3. 22 February 2017 - xxx edition
+
+Added experimental emulation of Sinclair QL. Keyboard is not working yet
+Added remote command protocol
+Added Easter Egg ;)
+Added menu item to reload IDE and MMC contents from file. You can now modify a used file outside the emulator and reload its contents
+Added setting to change DivIDE/DivMMC eprom firmware file
+Added setting to allow writing to DivIDE/DivMMC eprom firmware
+Added setting to write configuration file
+Added setting to disable autoframeskip
+Added setting to set breakpoints from command line
+Added setting to deny changing turbo mode when booting ZX-Uno and on bios
+Added setting to autosave snapshot at fixed interval
+Added hardware debug port to output ascii characters or numbers directly on host console
+Added support for drag&drop on Mac OS X, SDL2
+Added support for OpenGL rendering on Mac OS X Cocoa driver
+Added Man Software GUI Style
+Improved Debug CPU Window: now you can switch between different views: 
+1) 1 opcode, cpu registers, other internal registers
+2) 9 opcodes, other internal registers
+3) 15 opcodes
+4) 9 hexdump lines,  other internal registers
+5) 15 hexdump lines
+Fixed text to speech routine when sending non-ascii character
+Fixed bug reading ULAplus register 64
+Fixed bugs paging DivIDE/DivMMC
+Fixed starting display row on ZX80/81, with border disabled and realvideo mode (was broken since 4.0)
+Updated Z88 OZ V4.7
+Some other minor bugfixes and improvements

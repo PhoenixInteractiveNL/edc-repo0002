@@ -1,0 +1,8 @@
+  New in v2.2.11:
+
+• Fixed a problem in the install process that required LyX to be 
+  installed.
+
+• Added an option to use a single DPB for all drives provided by 
+  JOYCEDRV.FID; this allows all 13 extra drives to be present in 
+  CP/M.

@@ -1,0 +1,19 @@
+This release contains the following bug fixes and changes:
+
+  * Fixed: Xbox360 style controllers cause Auto-Detect exit in GUI
+  * Fixed: GUI Stick Left not set on first try
+  * Fixed: Controls can get fixed up when setting up multiple players
+  * Fixed: Keyboard setup for keys with Up/Down/Left/Right in name
+  * Fixed: Screen colors in video config preview window
+  * Update: Mouse Wheel in GUI lists works
+  * Fixed: Check for SDL2 version 2.0.5 and disable function if older (SDL_SetWindowResize)
+  * Fixed: multiple controllers control player 1 on startup
+  * Fixed: Player 3/4 keypad not working
+  * Fixed: Player 3/4 axis weirdness (Simulate Analog forced on)
+  * Fixed: Bounty Bob works again (and works for 8-bits)
+  * Fixed: Unified Win32 release (XP and above works with one build)
+
+Notes:
+  * Special thanks to Paul Rataczak for controller and multiple
+    player testing for this release!
+  * Check version 0.7.0 for other notes

@@ -1,0 +1,20 @@
+24.5   [OS3.5+][Windows XP+][MOS?   ][OS4.0+]: Thu 27 Oct 2016.
+    Summary:
+        * QWERTY-based machines: "Settings|Input|Host keyboard layout"
+          option.
+        * Memory editor: "View as coverage report" option (WinArcadia only).
+        * Miscellaneous improvements and bug fixes.
+    Details:
+ incorporated Stefan's latest German translation.
+ wa: memory editor: added "view memory as coverage report" option.
+ aa: cpu monitor: fixed: "instructions" field was too narrow.
+ sprite editor: fixed: colours weren't updated after toggling
+  greyscale.
+ aa: cpu monitor: fixed: incorrect title.
+ interton: improved flappy birds instructions.
+ pipbug: controls subwindow: moved "J1", etc. inside their respective
+  boxes.
+ qwerty-based machines: added "host keyboard layout" option.
+ arcadia: memory editor and debugger "=" command now show coordinates of
+  display memory.
+ tr: added a troubleshooter re. Caps Lock key. 

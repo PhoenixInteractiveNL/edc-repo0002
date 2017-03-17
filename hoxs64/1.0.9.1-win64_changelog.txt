@@ -1,0 +1,11 @@
+21 February 2017 v1.0.9.1
+=========================
+1) Fixed CPU opcodes SHS SHA SHY SHX ARR (decimal mode) to pass the VICE tests.
+2) Added SID noise write back behaviour.
+3) Corrected the SID master volume position to be after the SID filters. Was broken since v1.0.8.8.
+5) SID ring modulation fix.
+6) Corrected sector gaps when reading a D64.
+7) Adjusted 1541 drive motor spin down timing as required for Wonderland XIII by Censor Design.
+8) Fixed fault with save state / load state.
+9) Fixed fault with FDI save.
+10) Fixed Ultimax open address fetch.

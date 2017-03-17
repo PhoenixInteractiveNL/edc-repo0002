@@ -1,0 +1,10 @@
+CHANGES IN 1.1.1 FROM 1.1.0
+----------------------------
+released on Feb 27, 2017
+
+- [NEW] improved 48-bit mode for the T6721A speech LSI emulation
+- [NEW] somewhat improved vblanking
+- [NEW] save window content to 32-bit BMP
+- [FIX] awkward TED bitmap DMA bank switching bug corrected
+- [FIX] occasional tape dialog crash fixed
+- [FIX] built-in assembler (BRK)

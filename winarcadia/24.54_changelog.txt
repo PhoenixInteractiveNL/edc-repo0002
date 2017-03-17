@@ -1,0 +1,6 @@
+24.54          [Windows XP+]                 : Sun 19 Feb 2017. 405th release.
+    Summary:
+        * Bug fixes (WinArcadia only).
+    Details:
+ wa: fixed: memory editor: "view as memory map" was broken.
+ improved user manual.

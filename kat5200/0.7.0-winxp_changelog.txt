@@ -1,0 +1,31 @@
+This release contains the following bug fixes and changes:
+
+  * Update to SDL2
+  * Mac 0S X support
+  * Fixed: Remapped PC keypad keys don't work
+  * Fixed: Joystick D-pad/Axis to Atari keypad / 
+  * keyboard doesn't work
+  * Fixed: No keypad/keyboard after Load State
+  * Fixed: Windows version AppData directory issue
+  * Video: Passively use current display mode
+  * Video: Auto fit to mode (no zoom needed)
+  * Video: Allow window resize (no zoom needed)
+  * Video: Don't stretch video, letterbox
+  * Added: Config file location to GUI
+  * Updated: Various 8-bit cart settings
+
+Notes:
+  * The database is updated after install if found.
+   This may take several seconds depending on how
+   big the database is. Trying to go backwards to 0.6.2 with
+   an updated database may result in crash. If you have spent
+   considerable effort creating your config, I suggest backing 
+   up the kat5200.db3 file just in case. 
+
+  * Sound under Linux with ALSA is not good with SDL.
+   Install PulseAudio and set the appropiate SDL 
+   environment variable (SDL_AUDIODRIVER=pulseaudio).
+
+  * Windows users need to install the Visual C++ 2015
+   redistributable (x86 version). Get here:
+   https://www.microsoft.com/en-us/download/details.aspx?id=48145
