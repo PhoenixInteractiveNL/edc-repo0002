@@ -1,0 +1,10 @@
+New in This Version
+  * Added MegaCart support for 64kB+ homebrew games. 
+  * Fixed SCREEN 0/3 VDP mode selection (Bankrupcy Builder, etc). 
+  * Added "Nearest Neighbor" option to disable linear interpolation. 
+  * Added "Force 4:3 Screen" option to ColEm-Windows. 
+  * Fixed "Hit MIDI Drums" option in ColEm-Windows. 
+  * Fixed 44kHz sound hiccups when 50Hz sync selected in ColEm-Windows. 
+  * Computing effective waveform power when simulating samples via MIDI. 
+  * ColEm-Windows will not overwrite last ROM file name with other names. 
+  * Added -4x3 command line option to ColEm-Unix.
